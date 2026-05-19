@@ -35,15 +35,14 @@
 
 ## Saturday, Sep 19 — Yellowstone + LSU/Ole Miss 🏈
 
-- **Morning/Afternoon:** Yellowstone National Park (South Entrance, ~1 hr from Jackson)
-  - Old Faithful — plan to be there early; erupts every ~90 min
-  - Grand Prismatic Spring overlook
-  - Drive back to Jackson with plenty of time before kickoff
+- **Leave the house by 7:00 AM** — Teton Village to Old Faithful is ~2 hrs; Old Faithful + Grand Prismatic + drive back = ~6 hrs total; leaving at 7 AM puts you home by 1:00–1:30 PM with plenty of time to grill
+- **Morning/Afternoon:** Yellowstone National Park
+  - Old Faithful — arrive ~9 AM; erupts every ~90 min, walk the Upper Geyser Basin boardwalk
+  - Grand Prismatic Spring overlook hike (~5 miles from Old Faithful)
+  - Head back no later than **noon** to be home comfortably before kickoff
 - **5:30 PM MT — LSU vs. Ole Miss kickoff**
   - Back at the VRBO for the game
   - **Grill: 24 oz bone-in ribeyes**
-- **Leave the house by 7:30 AM** — Old Faithful + Grand Prismatic + 1-hr drive each way = 4–4.5 hrs minimum; leaving at 7:30 puts you back well before 3 PM with no stress
-- Leave Yellowstone by **3:00 PM** at the latest for the 5:30 kickoff
 
 ---
 
@@ -69,5 +68,5 @@
 | Event | Time | Notes |
 |---|---|---|
 | Rafting check-in | TBD | Arrive 30 min early; coffee/breakfast before |
-| LSU/Ole Miss kickoff | 5:30 PM MT | Leave Yellowstone by ~3:00 PM |
+| LSU/Ole Miss kickoff | 5:30 PM MT | Leave Yellowstone by noon; house → Old Faithful is ~2 hrs |
 | JAC flight check-in | 90 min before departure | Small airport, don't cut it close |

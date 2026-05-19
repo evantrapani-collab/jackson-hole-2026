@@ -68,11 +68,12 @@ Contract is signed. Key details:
 
 | Route | Time |
 |---|---|
-| JAC → VRBO (Jackson) | ~10 min |
-| Jackson → Grand Teton South Entrance | ~20 min |
-| Jackson → Yellowstone South Entrance | ~1 hr |
-| Yellowstone South → Old Faithful | ~30 min |
-| Old Faithful → Jackson | ~1.5 hrs |
+| JAC → Teton Village (house) | ~25 min |
+| Teton Village → Grand Teton South Entrance | ~15 min |
+| Teton Village → Yellowstone South Entrance | ~1.5 hrs |
+| Yellowstone South → Old Faithful | ~30–40 min |
+| **Teton Village → Old Faithful (total)** | **~2 hrs** |
+| Old Faithful → Teton Village (return) | ~2 hrs |
 
 ---
 
