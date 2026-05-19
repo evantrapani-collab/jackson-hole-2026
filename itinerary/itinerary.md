@@ -42,7 +42,8 @@
 - **5:30 PM MT — LSU vs. Ole Miss kickoff**
   - Back at the VRBO for the game
   - **Grill: 24 oz bone-in ribeyes**
-- Keep an eye on drive time — Old Faithful to Jackson is ~1.5 hrs; aim to leave Yellowstone by 3:00 PM to be comfortable
+- **Leave the house by 7:30 AM** — Old Faithful + Grand Prismatic + 1-hr drive each way = 4–4.5 hrs minimum; leaving at 7:30 puts you back well before 3 PM with no stress
+- Leave Yellowstone by **3:00 PM** at the latest for the 5:30 kickoff
 
 ---
 
@@ -50,8 +51,7 @@
 
 - Full day to explore, revisit favorites, decompress
 - Go back to hot spots — Tetons, Teton Village, downtown Jackson
-- **LSU game** — find a good spot (The Bird or Eleanor's) to watch Shough take us to 3-0 to open the season
-- Who Dat
+- **Saints game** — find a good spot (The Bird or Eleanor's) to watch Shough take the Saints to 3-0 to open the season. Who Dat.
 - Monday 11:47 AM departure means a reasonable Sunday night
 
 ---

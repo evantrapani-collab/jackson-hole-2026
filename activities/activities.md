@@ -76,7 +76,7 @@
 
 ## Booking Notes
 
-- [ ] Snake River float — book 2–3 months ahead; pick scenic vs. whitewater
+- [x] Snake River whitewater rafting — booked ✅ (private van + boat)
 - [ ] Teton Village tram — no reservation needed, just show up
-- [ ] Fishing guide — book early for September; prime season
-- [ ] Yellowstone wolf/wildlife safari guide — optional but helpful in Lamar Valley
+- [ ] Fishing guide — book early for September if anyone's interested; prime season
+- [ ] Yellowstone wildlife safari guide — optional; helpful in Lamar Valley but not needed for Old Faithful/Grand Prismatic day
