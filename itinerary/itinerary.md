@@ -17,19 +17,22 @@
 
 ---
 
-## Friday, Sep 18 — Grand Tetons + Whitewater Rafting ✅ BOOKED
+## Friday, Sep 18 — Sunrise Van Tour + Snake River Rafting ✅ BOOKED
 
-- **Morning:** Grand Teton National Park
-  - Jenny Lake area, scenic drives, wildlife stops
-  - Grab coffee and breakfast near the rafting put-in before arrival — they recommend doing this
-  - **Arrive 30 minutes before departure time**
-- **Rafting:** Snake River Whitewater — private van and boat for the group
-  - Shoes that attach to your feet required (no sandals or flip flops)
-  - Wetsuit rental available on-site: $5/person (3-piece suit)
-  - **Lunch options:**
-    - Deli-style lunch supplied by the outfitter, OR
-    - **Cutty's Beer and Cheesesteaks** — nearby spot between the van tour and the rafting portion
-- **Evening:** Back to Jackson; dinner TBD
+- Drive rental cars to the outfitter in town
+- Grab coffee and breakfast nearby before departing — they recommend this
+- **8:00 AM — Sunrise Wilderness Van Tour**
+  - 2 private vans for the group
+  - Sunrise is prime time — moose and elk most active at dawn
+  - Stops throughout to get out and take it in
+  - Returns to the outfitter
+- **~Noon — Lunch + beers** at a walkable spot near the outfitter (Cutty's Beer and Cheesesteaks is nearby)
+- **1:00 PM — "8 Miles of Smiles" Snake River Rafting**
+  - Class 2–3 rapids — exciting but no experience required
+  - Multiple spots to get out and swim along the way (water will be cold — Snake River runs 50s°F in September)
+  - Private boat for the group
+- **4:30 PM — Return to outfitter**
+- **Evening:** Back to the house; dinner TBD (need a plan — see dining notes)
 
 ---
 

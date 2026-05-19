@@ -12,7 +12,7 @@
 | Airbnb deposit | $500 | Paid ✅ |
 | Flights | $480 | Paid ✅ |
 | Airbnb balance | TBD | Due 8/1 |
-| Rafting balance | TBD | Due 8/15 |
+| Rafting / Van balance | TBD | Due 8/15 |
 
 ---
 
@@ -21,9 +21,9 @@
 | | |
 |---|---|
 | **Total price** | $7,229.82 |
-| **Drewes paid to reserve** | $4,000 |
-| **Your deposit (due now)** | $500 to @drewespt on Venmo |
-| **Airbnb balance due** | **8/1** — total minus your deposit |
+| **Drewes deposit to reserve** | $4,000 |
+| **Your deposit paid** | $500 (refundable up to 7 days before) |
+| **Your Airbnb balance due** | **8/1** |
 
 ### Cost Per Person by Attendance
 
@@ -35,11 +35,16 @@
 
 ---
 
-## Rafting / Van ✅ BOOKED
+## Rafting / Van Tour — BOOKED ✅
 
-- Contract signed; private van + boat
-- Full refund if cancelled 7+ days out
-- **Balance due:** 30 days before the trip (~Aug 18)
+| | |
+|---|---|
+| **Total cost** | $2,964 |
+| **Per person (13)** | $228 |
+| **Savings** | $741 off regular price |
+| **Deposit** | $500 (refundable up to 7 days before) |
+| **Balance due** | 8/15 |
+| **Contract** | Coming later this week — do not send money yet |
 
 ---
 
@@ -59,12 +64,12 @@
 
 ## Booking Tracker
 
-| Item | Provider | Confirmation # | Amount | Status |
-|---|---|---|---|---|
-| Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ |
-| Rafting / Van | — | — | TBD | Booked ✅ |
-| Flights | American Airlines | MRWVJK | $480 | Booked ✅ |
-| Groceries / Ribeyes | Smith's or Albertsons, Jackson | — | TBD | |
+| Item | Provider | Amount | Status |
+|---|---|---|---|
+| Airbnb | Airbnb | $7,229.82 total | Booked ✅ |
+| Rafting / Van Tour | — | $2,964 total / $228pp | Booked ✅ |
+| Flights | American Airlines (MRWVJK) | $480 | Booked ✅ |
+| Groceries / Ribeyes | Smith's or Albertsons, Jackson | TBD | |
 
 ---
 
@@ -72,6 +77,6 @@
 
 | Date | Action |
 |---|---|
-| **Now** | **$500 deposit → @drewespt on Venmo** |
+| Now | Do NOT send rafting money yet — contract coming this week |
 | **8/1** | Airbnb balance due (total minus $500 deposit) |
-| **8/15** | Rafting balance paid in full |
+| **8/15** | Rafting / van balance due |

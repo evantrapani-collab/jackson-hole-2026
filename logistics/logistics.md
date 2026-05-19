@@ -23,37 +23,39 @@
 ## Lodging
 
 - **Airbnb (Montreux House)** — booked ✅
-- $500 deposit to @drewespt on Venmo **now**
+- $500 deposit paid (refundable up to 7 days before reservation)
 - Balance due **8/1**
 
 ---
 
-## Rafting / Van — BOOKED ✅
+## Rafting / Van Tour — BOOKED ✅
 
-Contract is signed. Key details:
+Contract coming later this week. **Do not send money yet.**
 
 | Detail | Info |
 |---|---|
-| What's included | Private van + private boat for the group |
-| Payment | Pay in full 30 days before the trip |
-| Cancellation | Full refund if cancelled 7+ days out |
-| Balance due | 8/15 (send payment to organizer by **8/10**) |
+| **Van tour** | 8:00 AM Sunrise Wilderness Van Tour — 2 private vans |
+| **Rafting** | "8 Miles of Smiles" — 1:00 PM start, returns 4:30 PM |
+| **Rapids** | Class 2–3; no experience required |
+| **Total cost** | $2,964 ($228/person; saved $741 off regular price) |
+| **Deposit** | $500 (refundable up to 7 days before) |
+| **Balance due** | 8/15 |
+| **Cancellation** | Full refund if cancelled 7+ days out |
 
 ### Day-of Details (Friday)
 
+- Drive rental cars to the outfitter in town
+- Grab coffee and breakfast at a nearby spot before 8 AM — they recommend this
 - **Shoes:** Must attach to your feet — no sandals or flip flops
-- **Wetsuits:** Available to rent on-site — $5/person (3-piece suit); decide closer to the trip based on weather
-- **Arrival:** Get to the put-in **30 minutes early**
-- **Before you go:** Grab coffees and breakfast at a nearby spot on the way — they recommend this
-- **Lunch:**
-  - Option A: Deli-style lunch supplied by the outfitter
-  - Option B: **Cutty's Beer and Cheesesteaks** — between the van tour and the rafting portion
+- **Wetsuits:** Available to rent on-site — $5/person (3-piece suit); Snake River runs ~50s°F in September
+- **Lunch:** Walk to **Cutty's Beer and Cheesesteaks** between the van tour and 1 PM rafting
+- **Swimming:** Multiple stops along the river to get out and swim — water will be cold
 
-### Reminders (don't need to decide now)
+### Reminders
 
-- [ ] Wetsuit rentals — decide closer to the trip ($5/person)
-- [ ] Lunch preference — outfitter deli or Cutty's?
-- [ ] Confirm exact departure time with outfitter
+- [ ] Sign contract when it arrives this week
+- [ ] Wetsuit rentals — decide closer to the trip based on weather ($5/person)
+- [ ] Tip the guides — standard is 15–20% for a full-day guided trip
 
 ---
 
