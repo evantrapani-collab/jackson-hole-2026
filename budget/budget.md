@@ -5,10 +5,14 @@
 
 ---
 
-## ⚠️ Action Required Now
+## Your Payment Status (Trapani)
 
-**Send $500 deposit to @drewespt on Venmo immediately.**
-Note: Drewes already paid his own $500 deposit — everyone else owes theirs now.
+| Item | Amount | Status |
+|---|---|---|
+| Airbnb deposit | $500 | Paid ✅ |
+| Flights | $480 | Paid ✅ |
+| Airbnb balance | TBD | Due 8/1 |
+| Rafting balance | TBD | Due 8/15 |
 
 ---
 

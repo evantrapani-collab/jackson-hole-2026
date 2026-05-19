@@ -90,7 +90,7 @@ Contract is signed. Key details:
 - [x] Airbnb booked
 - [x] Rafting / van booked
 - [x] Book flights (MRWVJK)
-- [ ] **Send $500 deposit to @drewespt on Venmo**
+- [x] Send $500 deposit to @drewespt on Venmo
 
 ### 8/1
 - [ ] Airbnb balance due (total minus $500 deposit)
