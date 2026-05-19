@@ -11,6 +11,7 @@
 |---|---|---|
 | Airbnb deposit | $500 | Paid ✅ |
 | Flights | $480 | Paid ✅ |
+| Airbnb balance | TBD | Due 8/1 |
 | Rafting balance | TBD | Due 8/15 |
 
 ---
