@@ -10,9 +10,9 @@
 - Fly into Jackson Hole Airport (JAC) — arrive **10:13 AM**
 - Check in to the VRBO
 - **Night out:**
-  1. **Snake River Brewing** — local craft brewery, great food, casual start
-  2. **Mangy Moose** — classic Jackson bar/restaurant, live music most nights
-  3. **Million Dollar Cowboy Bar** — sawdust floors, saddle bar stools, live country music; the quintessential Jackson stop
+  1. **Snake River Brewing** — local craft brewery, great food, casual start (Jackson, 20 min from house)
+  2. **Million Dollar Cowboy Bar** — sawdust floors, saddle bar stools, live country music; the quintessential Jackson stop (Jackson town square)
+  3. **Mangy Moose** — classic bar/restaurant, live music; right in Teton Village near the house — natural last stop on the way home
 
 ---
 
