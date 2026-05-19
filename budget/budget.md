@@ -73,6 +73,47 @@
 
 ---
 
+## Trapani Total Trip Cost
+
+### Already Paid
+| Item | Amount |
+|---|---|
+| Flights | $480 |
+| Airbnb deposit | $500 |
+| **Subtotal paid** | **$980** |
+
+### Still Owed (Booked)
+| Item | Amount | Due |
+|---|---|---|
+| Airbnb balance | ~$56–100 | 8/1 |
+| Rafting / Van | $228 | 8/15 |
+| **Subtotal owed** | **~$284–328** | |
+
+### Spending Money (Estimates)
+| Item | Estimate |
+|---|---|
+| Thursday bar crawl (4 stops) | $80–120 |
+| Friday lunch at Cutty's | $20–30 |
+| Friday dinner | $40–60 |
+| Saturday groceries (ribeyes, sides, drinks) | $50–80 |
+| Sunday Saints game at The Bird/Eleanor's | $50–80 |
+| Gas / carpool contribution | $30–50 |
+| Wetsuit rental (optional) | $5 |
+| Tips / incidentals / souvenirs | $75–100 |
+| **Subtotal spending** | **~$350–525** |
+
+### All-In Total
+| | Low | High |
+|---|---|---|
+| Already paid | $980 | $980 |
+| Still owed | $284 | $328 |
+| Spending money | $350 | $525 |
+| **Total** | **~$1,614** | **~$1,833** |
+
+> Call it **$1,600–1,800 all in**. Airbnb balance on 8/1 depends on final headcount — at 13 guys it's ~$56 more on top of the $500 deposit already paid.
+
+---
+
 ## Payment Timeline
 
 | Date | Action |
