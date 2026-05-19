@@ -9,10 +9,11 @@
 
 - Fly into Jackson Hole Airport (JAC) — arrive **10:13 AM**
 - Check in to the VRBO
-- **Night out:**
-  1. **Snake River Brewing** — local craft brewery, great food, casual start (Jackson, 20 min from house)
-  2. **Million Dollar Cowboy Bar** — sawdust floors, saddle bar stools, live country music; the quintessential Jackson stop (Jackson town square)
-  3. **Mangy Moose** — classic bar/restaurant, live music; right in Teton Village near the house — natural last stop on the way home
+- **Night out (Jackson → Teton Village):**
+  1. **Snake River Brewing** — craft brewery, great food; casual start
+  2. **Silver Dollar Bar and Grill** — classic western bar, inlaid silver dollar bar top
+  3. **Million Dollar Cowboy Bar** — saddle bar stools, sawdust floors, live country music; the move
+  4. **Mangy Moose** — right at Teton Village; natural last stop on the way back to the house
 
 ---
 
@@ -45,12 +46,13 @@
 
 ---
 
-## Sunday, Sep 20 — Football Day or Travel
+## Sunday, Sep 20 — Full Day: Explore + LSU Game 🏈
 
-- **Option A:** Watch Sunday games at **The Bird** or **Eleanor's** before heading to the airport
-- **Option B:** Head home — fly out of JAC
-
-*No decision needed yet — decide closer to the trip based on flight options and energy levels.*
+- Full day to explore, revisit favorites, decompress
+- Go back to hot spots — Tetons, Teton Village, downtown Jackson
+- **LSU game** — find a good spot (The Bird or Eleanor's) to watch Shough take us to 3-0 to open the season
+- Who Dat
+- Monday 11:47 AM departure means a reasonable Sunday night
 
 ---
 

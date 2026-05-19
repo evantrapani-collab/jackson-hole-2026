@@ -22,8 +22,9 @@
 
 ## Lodging
 
-- **VRBO** — booked ✅
-- Balance due **8/15** (included in the $784/person payment)
+- **Airbnb (Montreux House)** — booked ✅
+- $500 deposit to @drewespt on Venmo **now**
+- Balance due **8/1**
 
 ---
 
@@ -85,16 +86,17 @@ Contract is signed. Key details:
 
 ## Pre-Trip Checklist
 
-### Now
-- [x] VRBO booked
+### Now — Urgent
+- [x] Airbnb booked
 - [x] Rafting / van booked
 - [x] Book flights (MRWVJK)
+- [ ] **Send $500 deposit to @drewespt on Venmo**
 
-### By 8/10
-- [ ] Send $784 (minus any deposit paid) to organizer
+### 8/1
+- [ ] Airbnb balance due (total minus $500 deposit)
 
 ### 8/15
-- [ ] VRBO + rafting balances due
+- [ ] Rafting balance due
 
 ### 1–2 Months Before
 - [ ] Decide on wetsuit rentals (weather-dependent)

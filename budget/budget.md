@@ -1,41 +1,55 @@
 # Budget
 
-**Group size:** 13
+**Group size:** 13 (cost varies — see table below)
 **All amounts in USD**
 
 ---
 
-## What's Already Settled
+## ⚠️ Action Required Now
 
-| Item | Per Person | Total (13) | Due Date | Status |
-|---|---|---|---|---|
-| VRBO | (included in $784) | — | 8/15 | Booked ✅ |
-| Rafting / Van | (included in $784) | — | 8/15 | Booked ✅ |
-| **VRBO + Rafting combined** | **$784** | **$10,192** | **8/15** | Booked ✅ |
-
-> **Payment instructions:** Send your $784 (minus any deposit you already paid) to the organizer by **8/10**. Do not send money yet unless asked.
+**Send $500 deposit to @drewespt on Venmo immediately.**
+Note: Drewes already paid his own $500 deposit — everyone else owes theirs now.
 
 ---
 
-## Rafting Contract Terms
+## Airbnb — Montreux House
 
-- **Payment in full:** due 30 days before the trip
-- **Cancellation / refund:** full refund if cancelled 7 days or more before the trip
-- Wetsuit rental (if needed): $5/person on-site
+| | |
+|---|---|
+| **Total price** | $7,229.82 |
+| **Drewes paid to reserve** | $4,000 |
+| **Your deposit (due now)** | $500 to @drewespt on Venmo |
+| **Airbnb balance due** | **8/1** — total minus your deposit |
+
+### Cost Per Person by Attendance
+
+| Attendees | Airbnb Per Person |
+|---|---|
+| 13 (current) | ~$556 (~$600) |
+| 12 | ~$600 |
+| 8 | ~$900 |
 
 ---
 
-## Remaining Per-Person Estimates
+## Rafting / Van ✅ BOOKED
+
+- Contract signed; private van + boat
+- Full refund if cancelled 7+ days out
+- **Balance due:** 30 days before the trip (~Aug 18)
+
+---
+
+## Per-Person Estimates (on top of Airbnb + rafting)
 
 | Category | Estimate | Notes |
 |---|---|---|
-| Flights | $400–900 | Round-trip to JAC; varies widely by origin city |
-| Food & Drink | $150–250 total | Mix of bars Thu night, meals Fri–Sun, groceries for ribeye night |
-| Ribeyes (Sat grill) | $50–80 | 24 oz bone-in ribeyes + sides; split among group |
-| Rafting wetsuit rental | $5 | Optional; 3-piece suit; pay on-site |
-| Park entry | $0–$35 | Free if anyone has America the Beautiful pass; $35/vehicle otherwise |
+| Flights | $480 | Confirmed MSY round-trip |
+| Food & Drink | $150–250 total | Bars Thu night, meals, drinks |
+| Ribeyes (Sat grill) | $50–80 | 24 oz bone-in + sides; split the grocery run |
+| Rafting wetsuit rental | $5 | Optional; decide closer to the trip |
+| Park entry | $0–35/vehicle | Free with America the Beautiful pass |
 | Gas / transport | $30–60 | Split across vehicles |
-| Incidentals | $50–100 | Souvenirs, extra drinks, tips |
+| Incidentals | $50–100 | Tips, souvenirs, extra drinks |
 
 ---
 
@@ -43,10 +57,10 @@
 
 | Item | Provider | Confirmation # | Amount | Status |
 |---|---|---|---|---|
-| VRBO | | | (in $784/person) | Booked ✅ |
-| Rafting / Van | | | (in $784/person) | Booked ✅ |
-| Flights | American Airlines | MRWVJK | TBD | Booked ✅ |
-| Groceries / Ribeyes run | Smith's or Albertsons, Jackson | — | TBD | |
+| Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ |
+| Rafting / Van | — | — | TBD | Booked ✅ |
+| Flights | American Airlines | MRWVJK | $480 | Booked ✅ |
+| Groceries / Ribeyes | Smith's or Albertsons, Jackson | — | TBD | |
 
 ---
 
@@ -54,7 +68,6 @@
 
 | Date | Action |
 |---|---|
-| Now | Nothing — do not send money yet |
-| **8/10** | Send $784 (minus deposits paid) to organizer |
-| **8/15** | All balances (VRBO + rafting/van) due |
-| 30 days before trip | Rafting paid in full (handled by organizer via above) |
+| **Now** | **$500 deposit → @drewespt on Venmo** |
+| **8/1** | Airbnb balance due (total minus $500 deposit) |
+| **8/15** | Rafting balance paid in full |
