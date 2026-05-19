@@ -1,65 +1,77 @@
 # Dining
 
-## Jackson, WY
+## On the Plan
 
-### Dinner
-
-| Restaurant | Cuisine | Price | Notes |
+| Meal | Spot | Day | Notes |
 |---|---|---|---|
-| **The Kitchen** | New American | $$$ | Best in town; farm-to-table, reservation essential |
-| **Local Restaurant & Bar** | American / Craft cocktails | $$$ | Great bar program, excellent food |
-| **Pica's Mexican Taqueria** | Mexican | $ | Cash only, tiny, legendary. Get there early or wait. |
-| **Snake River Grill** | Upscale American | $$$$ | On the square; wild game, fresh fish |
-| **Persephone Bakery** | Café / Bakery | $ | Breakfast and lunch; get the croissants |
-| **Gather** | Wine bar / small plates | $$$ | Good for a late first-night arrival |
-| **Thai Me Up** | Thai | $$ | Beloved locals' spot; great value |
-| **Bin 22** | Wine shop / tapas | $$ | Casual, great wine selection |
-
-### Breakfast & Coffee
-
-- **Persephone Bakery** — the go-to; excellent coffee and pastries
-- **Cowboy Coffee** — casual, good espresso
-- **Nora's Fish Creek Inn** — classic Wyoming diner breakfast; cash only; iconic
-
-### Après / Bars
-
-- **Million Dollar Cowboy Bar** — sawdust floors, saddle bar stools, live country music; classic western experience
-- **Silver Dollar Bar** (Wort Hotel) — inlaid silver dollar bar top, mellow vibe
-- **Bodega** — cocktail bar, local crowd, no tourists
-- **The Rose** — speakeasy vibe, craft cocktails
+| Thursday bars | Snake River Brewing | Thu night | First stop; craft brewery, great food |
+| Thursday bars | Mangy Moose | Thu night | Jackson staple; live music most nights |
+| Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
+| Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
+| Saturday dinner | VRBO grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
+| Saturday game | VRBO | Saturday | LSU/Ole Miss, 5:30 MT kickoff |
+| Sunday | The Bird or Eleanor's | Sunday | Watch NFL; or head to the airport |
 
 ---
 
-## Inside Yellowstone
+## Snake River Brewing (Thursday)
 
-Manage expectations — park food is functional, not exceptional. It's fine for lunch; plan around it for dinner.
+- Jackson's best known craft brewery
+- Full menu — burgers, pub food, solid everything
+- Good first stop; sets the tone without being too much
 
-| Spot | Notes |
-|---|---|
-| **Old Faithful Inn Dining Room** | Surprisingly decent; get a reservation; iconic setting |
-| **Lake Yellowstone Hotel Dining Room** | Best sit-down option in the park |
-| **Canyon Lodge Eatery** | Cafeteria-style; convenient |
-| **Mammoth Hotel Dining Room** | Fine for a meal; nothing special |
+## Mangy Moose (Thursday)
 
-**Pro tip:** Pack a cooler and make sandwiches for park lunches. Saves $20+ per person and you can eat at the viewpoints.
+- Iconic Jackson bar and restaurant at Teton Village
+- Live music most nights; big, fun, loud
+- Classic aprés/night-out spot
+
+## Million Dollar Cowboy Bar (Thursday)
+
+- On the town square
+- Saddle bar stools, sawdust floor, live country music
+- Has to be done at least once
+
+## Cutty's Beer and Cheesesteaks (Friday)
+
+- Located between the van tour and the rafting put-in
+- Casual, quick, the right kind of food before getting on the water
+- Alternative to the outfitter's deli lunch — decide closer to the trip
+
+## The Bird / Eleanor's (Sunday)
+
+- Both are Jackson bars for watching games
+- Good option if flying out Sunday evening or Monday
+- Decide based on Sunday flight situation and energy levels
 
 ---
 
-## Grocery / Supplies
+## Saturday Ribeye Night
 
-- **Smith's (Kroger)** — Jackson; full grocery store, best prices in the area
-- **Albertsons** — Jackson; also full grocery
-- **Dornan's Grocery** (Moose, Grand Teton) — convenience prices but inside the park
-- Stock up in Jackson before heading into the parks
+- **Steaks:** 24 oz bone-in ribeyes — buy at **Smith's** or **Albertsons** in Jackson (best prices)
+- Buy groceries **Thursday on arrival** so you're not scrambling Saturday after Yellowstone
+- Assign someone as the grill captain
+- **Sides:** Grab whatever at the grocery store — keep it simple
 
 ---
 
-## Reservation Strategy
+## Other Jackson Options (if needed)
 
-- Book Jackson restaurants **2–4 weeks ahead** for September (less busy than July/August but still popular)
-- **The Kitchen** and **Snake River Grill** book out further — aim for 4–6 weeks
-- Yellowstone dining rooms: book through Xanterra when you book lodging
+| Spot | Vibe | Notes |
+|---|---|---|
+| **Pica's Mexican Taqueria** | Cheap, legendary | Cash only; tiny; worth the wait |
+| **Snake River Grill** | Upscale | On the square; good for a nicer dinner |
+| **Persephone Bakery** | Breakfast/coffee | Best coffee in town; croissants |
+| **Nora's Fish Creek Inn** | Diner breakfast | Cash only; iconic Wyoming diner |
+| **Thai Me Up** | Thai | Beloved locals' spot |
 
-## Dietary Notes
+---
 
-- [ ] Any dietary restrictions or preferences to note here?
+## Grocery Run (Thursday arrival)
+
+Hit **Smith's (Kroger)** or **Albertsons** Thursday when you land. Get:
+- [ ] 13 ribeyes (24 oz bone-in — call ahead if the store is small)
+- [ ] Grill sides (potatoes, corn, salad, whatever)
+- [ ] Breakfast food for Friday pre-rafting (coffee, pastries, easy stuff)
+- [ ] Drinks / cooler supplies for the parks
+- [ ] Snacks for Yellowstone on Saturday

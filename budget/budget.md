@@ -1,43 +1,60 @@
 # Budget
 
-> Update the "Actual" column as you book things. All estimates in USD.
+**Group size:** 13
+**All amounts in USD**
 
-## Summary
+---
 
-| Category | Estimated | Actual | Notes |
-|---|---|---|---|
-| Flights | $600–900/person | | Round-trip to JAC or fly into SLC and drive 5 hrs |
-| Lodging | $200–400/night | | 7 nights; see /lodging for options |
-| Car Rental | $80–150/day | | 4WD strongly recommended; book early |
-| National Park Pass | $35/vehicle | | "America the Beautiful" annual pass covers both parks — worth it at $80 if doing multiple parks |
-| Activities | $100–300/person | | Floats, guides, rentals |
-| Food & Drink | $80–120/person/day | | Mix of groceries + restaurants |
-| Gas | $150–250 total | | Jackson → Yellowstone + driving within parks |
-| Gear / Misc | $50–200 | | Layers, bear spray rental, etc. |
+## What's Already Settled
 
-## Per-Person Estimate (7 nights)
+| Item | Per Person | Total (13) | Due Date | Status |
+|---|---|---|---|---|
+| VRBO | (included in $784) | — | 8/15 | Booked ✅ |
+| Rafting / Van | (included in $784) | — | 8/15 | Booked ✅ |
+| **VRBO + Rafting combined** | **$784** | **$10,192** | **8/15** | Booked ✅ |
 
-| Scenario | Low | High |
+> **Payment instructions:** Send your $784 (minus any deposit you already paid) to the organizer by **8/10**. Do not send money yet unless asked.
+
+---
+
+## Rafting Contract Terms
+
+- **Payment in full:** due 30 days before the trip
+- **Cancellation / refund:** full refund if cancelled 7 days or more before the trip
+- Wetsuit rental (if needed): $5/person on-site
+
+---
+
+## Remaining Per-Person Estimates
+
+| Category | Estimate | Notes |
 |---|---|---|
-| Budget-conscious | ~$1,800 | ~$2,200 |
-| Mid-range | ~$2,500 | ~$3,200 |
-| Splurge (lodge, guides) | ~$4,000 | ~$6,000+ |
+| Flights | $400–900 | Round-trip to JAC; varies widely by origin city |
+| Food & Drink | $150–250 total | Mix of bars Thu night, meals Fri–Sun, groceries for ribeye night |
+| Ribeyes (Sat grill) | $50–80 | 24 oz bone-in ribeyes + sides; split among group |
+| Rafting wetsuit rental | $5 | Optional; 3-piece suit; pay on-site |
+| Park entry | $0–$35 | Free if anyone has America the Beautiful pass; $35/vehicle otherwise |
+| Gas / transport | $30–60 | Split across vehicles |
+| Incidentals | $50–100 | Souvenirs, extra drinks, tips |
 
-## Cost-Saving Tips
-
-- **America the Beautiful Pass ($80)** — covers entry to both Grand Teton and Yellowstone; pays for itself immediately vs. per-vehicle fees
-- **Fly into SLC** — often $200–400 cheaper than flying direct to JAC; road trip through the Tetons is beautiful
-- **Self-cater some meals** — Jackson grocery stores (Smith's, Albertsons) stock up before entering the parks; food inside parks is expensive
-- **Book lodging early** — September is popular; Yellowstone lodges often sell out 6–12 months ahead
-- **Avoid guided everything** — the parks are very self-navigable; save guide fees for one standout experience (float trip, wildlife safari)
+---
 
 ## Booking Tracker
 
-| Item | Provider | Confirmation # | Amount | Booked? |
+| Item | Provider | Confirmation # | Amount | Status |
 |---|---|---|---|---|
-| Flights | | | | No |
-| Lodging — Jackson | | | | No |
-| Lodging — Yellowstone | | | | No |
-| Car Rental | | | | No |
-| Snake River Float | | | | No |
-| Dinner reservations | | | | No |
+| VRBO | | | (in $784/person) | Booked ✅ |
+| Rafting / Van | | | (in $784/person) | Booked ✅ |
+| Flights | | | | |
+| Groceries / Ribeyes run | Smith's or Albertsons, Jackson | — | TBD | |
+
+---
+
+## Payment Timeline
+
+| Date | Action |
+|---|---|
+| Now | Nothing — do not send money yet |
+| **8/10** | Send $784 (minus deposits paid) to organizer |
+| **8/15** | All balances (VRBO + rafting/van) due |
+| 30 days before trip | Rafting paid in full (handled by organizer via above) |

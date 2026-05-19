@@ -1,65 +1,70 @@
 # Itinerary
 
-> Placeholder — fill in exact dates once travel is booked. Template below assumes 7 nights / 8 days, arriving Saturday, departing Sunday.
-
-## Day 1 — Arrival / Jackson
-
-- Fly into Jackson Hole Airport (JAC) — closest airport, ~10 min to town
-- Pick up rental car (4WD recommended)
-- Check in, walk downtown Jackson, grab dinner on the square
-- Early night — long days ahead
-
-## Day 2 — Grand Teton National Park
-
-- **Morning:** Jenny Lake — hike to Hidden Falls & Inspiration Point (7 mi RT, moderate)
-- **Afternoon:** Drive the Teton Park Road, stop at Snake River Overlook (Ansel Adams' famous shot)
-- **Evening:** Oxbow Bend at sunset — moose and waterfowl hotspot
-- Dinner in Jackson
-
-## Day 3 — Grand Teton: Backcountry or Scenic Float
-
-- **Option A (active):** Cascade Canyon to Lake Solitude (14.5 mi RT, strenuous) — stunning fall colors
-- **Option B (relaxed):** Snake River float trip — wildlife viewing from the water, guides available
-- Stop at the National Museum of Wildlife Art if time allows
-
-## Day 4 — Drive to Yellowstone (South Entrance)
-
-- Enter via the South Entrance — closest from Jackson (~1 hr to Old Faithful)
-- **Old Faithful area:** See the geyser, walk the Upper Geyser Basin boardwalk
-- **Afternoon:** Grand Prismatic Spring overlook hike — best aerial view of the hot spring
-- Check in to Yellowstone lodging
-
-## Day 5 — Yellowstone: Lamar Valley (Wildlife Day)
-
-- **Crack of dawn (5–7am):** Lamar Valley — this is the #1 wildlife corridor in the lower 48
-  - September = bison rut winding down, wolves active, bears feeding heavily before hibernation
-  - Bring binoculars or a spotting scope
-- **Midday:** Grand Canyon of the Yellowstone — Upper and Lower Falls
-- **Afternoon:** Norris Geyser Basin — most active thermal area in the park
-- **Evening:** Back to Lamar for golden hour wildlife
-
-## Day 6 — Yellowstone: Thermal Features + Mammoth
-
-- **Morning:** Mammoth Hot Springs terraces — otherworldly travertine formations
-- **Afternoon:** Boiling River (seasonal — check if open in September) — soak in natural hot spring
-- Explore the northern range, keep eyes out for wolf packs
-
-## Day 7 — Return to Jackson / Adventure Day
-
-- Drive back to Jackson
-- **Options:** Whitewater rafting, paragliding over the valley, horseback riding, mountain biking
-- Last big dinner in Jackson — make a reservation
-
-## Day 8 — Departure
-
-- JAC flights often depart mid-morning; airport is small, arrive 90 min early
-- Last coffee on the square if time allows
+**5 days / 4 nights — Thursday arrival through Monday departure**
+**Group:** 13 guys (see `/logistics/roster.md`)
 
 ---
 
-## Things to Confirm Before Finalizing
+## Thursday — Arrival + Hit the Town
 
-- [ ] Exact travel dates
-- [ ] Number of people and any fitness/mobility considerations
-- [ ] Any must-dos or must-avoids
-- [ ] Timed-entry permit requirements for Yellowstone (check NPS.gov ~spring 2026)
+- Fly into Jackson Hole Airport (JAC)
+- Check in to the VRBO
+- **Night out:**
+  1. **Snake River Brewing** — local craft brewery, great food, casual start
+  2. **Mangy Moose** — classic Jackson bar/restaurant, live music most nights
+  3. **Million Dollar Cowboy Bar** — sawdust floors, saddle bar stools, live country music; the quintessential Jackson stop
+
+---
+
+## Friday — Grand Tetons + Whitewater Rafting ✅ BOOKED
+
+- **Morning:** Grand Teton National Park
+  - Jenny Lake area, scenic drives, wildlife stops
+  - Grab coffee and breakfast near the rafting put-in before arrival — they recommend doing this
+  - **Arrive 30 minutes before departure time**
+- **Rafting:** Snake River Whitewater — private van and boat for the group
+  - Shoes that attach to your feet required (no sandals or flip flops)
+  - Wetsuit rental available on-site: $5/person (3-piece suit)
+  - **Lunch options:**
+    - Deli-style lunch supplied by the outfitter, OR
+    - **Cutty's Beer and Cheesesteaks** — nearby spot between the van tour and the rafting portion
+- **Evening:** Back to Jackson; dinner TBD
+
+---
+
+## Saturday — Yellowstone + LSU/Ole Miss 🏈
+
+- **Morning/Afternoon:** Yellowstone National Park (South Entrance, ~1 hr from Jackson)
+  - Old Faithful — plan to be there early; erupts every ~90 min
+  - Grand Prismatic Spring overlook
+  - Drive back to Jackson with plenty of time before kickoff
+- **5:30 PM MT — LSU vs. Ole Miss kickoff**
+  - Back at the VRBO for the game
+  - **Grill: 24 oz bone-in ribeyes**
+- Keep an eye on drive time — Old Faithful to Jackson is ~1.5 hrs; aim to leave Yellowstone by 3:00 PM to be comfortable
+
+---
+
+## Sunday — Football Day or Travel
+
+- **Option A:** Watch Sunday games at **The Bird** or **Eleanor's** before heading to the airport
+- **Option B:** Head home — fly out of JAC
+
+*No decision needed yet — decide closer to the trip based on flight options and energy levels.*
+
+---
+
+## Monday — Travel Home
+
+- Fly out of JAC
+- JAC is a small airport; arrive 90 minutes before departure
+
+---
+
+## Key Times to Keep in Mind
+
+| Event | Time | Notes |
+|---|---|---|
+| Rafting check-in | TBD | Arrive 30 min early; coffee/breakfast before |
+| LSU/Ole Miss kickoff | 5:30 PM MT | Leave Yellowstone by ~3:00 PM |
+| JAC flight check-in | 90 min before departure | Small airport, don't cut it close |
