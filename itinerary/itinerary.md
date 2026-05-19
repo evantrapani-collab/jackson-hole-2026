@@ -1,13 +1,13 @@
 # Itinerary
 
-**5 days / 4 nights — Thursday arrival through Monday departure**
+**September 17–21, 2026 — 5 days / 4 nights**
 **Group:** 13 guys (see `/logistics/roster.md`)
 
 ---
 
-## Thursday — Arrival + Hit the Town
+## Thursday, Sep 17 — Arrival + Hit the Town
 
-- Fly into Jackson Hole Airport (JAC)
+- Fly into Jackson Hole Airport (JAC) — arrive **10:13 AM**
 - Check in to the VRBO
 - **Night out:**
   1. **Snake River Brewing** — local craft brewery, great food, casual start
@@ -16,7 +16,7 @@
 
 ---
 
-## Friday — Grand Tetons + Whitewater Rafting ✅ BOOKED
+## Friday, Sep 18 — Grand Tetons + Whitewater Rafting ✅ BOOKED
 
 - **Morning:** Grand Teton National Park
   - Jenny Lake area, scenic drives, wildlife stops
@@ -32,7 +32,7 @@
 
 ---
 
-## Saturday — Yellowstone + LSU/Ole Miss 🏈
+## Saturday, Sep 19 — Yellowstone + LSU/Ole Miss 🏈
 
 - **Morning/Afternoon:** Yellowstone National Park (South Entrance, ~1 hr from Jackson)
   - Old Faithful — plan to be there early; erupts every ~90 min
@@ -45,7 +45,7 @@
 
 ---
 
-## Sunday — Football Day or Travel
+## Sunday, Sep 20 — Football Day or Travel
 
 - **Option A:** Watch Sunday games at **The Bird** or **Eleanor's** before heading to the airport
 - **Option B:** Head home — fly out of JAC
@@ -54,10 +54,11 @@
 
 ---
 
-## Monday — Travel Home
+## Monday, Sep 21 — Travel Home
 
-- Fly out of JAC
-- JAC is a small airport; arrive 90 minutes before departure
+- **Depart JAC 11:47 AM** → DFW 3:38 PM → MSY 6:41 PM
+- Be at JAC by **10:15 AM** — it's a small airport but don't cut it close
+- Sunday night should wrap up at a reasonable hour
 
 ---
 

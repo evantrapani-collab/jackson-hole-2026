@@ -1,10 +1,22 @@
 # Logistics
 
-## Flights
+## Flights ✅ BOOKED
 
-- Fly into **Jackson Hole Airport (JAC)** — inside Grand Teton NP, ~10 min to the VRBO
-- JAC is a small airport; arrive **90 minutes before departure**
-- United and American have the best JAC coverage; Delta connects through SLC
+**Confirmation: MRWVJK — American Airlines**
+
+### Outbound — Thursday, Sep 17
+| Leg | Flight | Departs | Arrives |
+|---|---|---|---|
+| MSY → DFW | AA468 | 5:49 AM | 7:37 AM |
+| DFW → JAC | — | 8:20 AM | **10:13 AM** |
+
+### Return — Monday, Sep 21
+| Leg | Flight | Departs | Arrives |
+|---|---|---|---|
+| JAC → DFW | — | 11:47 AM | 3:38 PM |
+| DFW → MSY | — | 5:05 PM | 6:41 PM |
+
+> **Monday morning:** Be at JAC by **10:15 AM**. Small airport but don't sleep in.
 
 ---
 
@@ -76,7 +88,7 @@ Contract is signed. Key details:
 ### Now
 - [x] VRBO booked
 - [x] Rafting / van booked
-- [ ] Book flights
+- [x] Book flights (MRWVJK)
 
 ### By 8/10
 - [ ] Send $784 (minus any deposit paid) to organizer

@@ -45,7 +45,7 @@
 |---|---|---|---|---|
 | VRBO | | | (in $784/person) | Booked ✅ |
 | Rafting / Van | | | (in $784/person) | Booked ✅ |
-| Flights | | | | |
+| Flights | American Airlines | MRWVJK | TBD | Booked ✅ |
 | Groceries / Ribeyes run | Smith's or Albertsons, Jackson | — | TBD | |
 
 ---
