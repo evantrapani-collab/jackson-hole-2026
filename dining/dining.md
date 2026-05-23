@@ -9,8 +9,8 @@
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
 | Saturday dinner | VRBO grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
-| Saturday game | VRBO | Saturday | LSU/Ole Miss, 5:30 MT kickoff |
-| Sunday | The Bird or Eleanor's | Sunday | Saints game; confirm kickoff time closer to the trip |
+| Saturday game | VRBO | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
+| Sunday game | Cutty's / The Bird / Eleanor's / house | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)** |
 
 ---
 
@@ -38,10 +38,10 @@
 - Casual, quick, the right kind of food before getting on the water
 - Alternative to the outfitter's deli lunch — decide closer to the trip
 
-## The Bird / Eleanor's (Sunday)
+## Sunday Saints Game — Cutty's / The Bird / Eleanor's
 
-- Both are Jackson bars for watching games
-- Saints game Sunday — confirm kickoff time (noon CT = 11 AM MT; afternoon game = more time to explore first)
+- **Saints @ Baltimore, 11 AM MT kickoff (noon CT, CBS)** — it's a road game and a **late-morning** start, so watch first, then explore after
+- Options: Cutty's Bar & Grill (Hwy 22, ~10 min), The Bird, Eleanor's, or just watch at the house
 - Monday 11:47 AM departure means Sunday night should stay reasonable
 
 ---

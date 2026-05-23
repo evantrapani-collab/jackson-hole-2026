@@ -1,6 +1,6 @@
 # Group Roster
 
-**13 guys**
+**13 guys — headcount locked ✅** (Dan Fulham confirmed)
 
 1. Drewes
 2. Psilos

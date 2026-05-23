@@ -23,8 +23,8 @@
 ## Lodging
 
 - **Airbnb (Montreux House)** — booked ✅
-- $500 deposit to @drewespt on Venmo **now**
-- Balance due **8/1**
+- $500 deposit to @drewespt on Venmo — paid ✅
+- Balance due **8/1** (total minus deposit)
 
 ---
 
@@ -35,9 +35,8 @@ Contract is signed. Key details:
 | Detail | Info |
 |---|---|
 | What's included | Private van + private boat for the group |
-| Payment | Pay in full 30 days before the trip |
+| Payment | **Chris Drewes collects from the crew closer to the trip**; final per-person amount depends on final headcount (13). No individual action needed now. |
 | Cancellation | Full refund if cancelled 7+ days out |
-| Balance due | 8/15 (send payment to organizer by **8/10**) |
 
 ### Day-of Details (Friday)
 
@@ -53,13 +52,17 @@ Contract is signed. Key details:
 
 - [ ] Wetsuit rentals — decide closer to the trip ($5/person)
 - [ ] Lunch preference — outfitter deli or Cutty's?
-- [ ] Confirm exact departure time with outfitter
+- [ ] Confirm exact departure / check-in time with outfitter (Jeff @ JHWW)
 
 ---
 
 ## Getting Around
 
-- **2 SUVs rented ✅** — confirm seat count; full-size (Suburban/Yukon XL) seats 7–8 and fits 13; mid-size only seats 5–6 and will be short. May need a 3rd vehicle or cargo carrier for luggage.
+- **2 SUVs rented ✅** (Hardie + Schick). Headcount locked at **13**.
+- **Still confirm:**
+  1. **Seat count of each SUV** — two full-size (Suburban / Yukon XL / Expedition, 7–8 each) covers 13; if either is a mid-size (5–6) or a 6-seat Explorer, you're short or at zero margin.
+  2. **Pickup airport for each** — JAC vs **SLC**. Anyone routing through Salt Lake needs a vehicle for the **~5.5 hr drive** to Jackson; make sure a rental is positioned there.
+- A **3rd vehicle or cargo carrier** may help with luggage on airport-transfer days (13 guys + bags in two SUVs is tight). Yellowstone day is daypacks only, so two SUVs are fine for that.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
 - **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline)
 - Saturday: Leave Yellowstone by **~3:00 PM MT** to be comfortably back for the 5:30 kickoff
@@ -73,6 +76,7 @@ Contract is signed. Key details:
 | Jackson → Yellowstone South Entrance | ~1 hr |
 | Yellowstone South → Old Faithful | ~30 min |
 | Old Faithful → Jackson | ~1.5 hrs |
+| SLC → Jackson (if routing through Salt Lake) | ~5.5 hrs |
 
 ---
 
@@ -91,12 +95,15 @@ Contract is signed. Key details:
 - [x] Rafting / van booked
 - [x] Book flights (MRWVJK)
 - [x] Send $500 deposit to @drewespt on Venmo
+- [x] Headcount locked at 13 (Dan Fulham confirmed)
+- [x] 2 SUVs booked (Hardie + Schick)
+- [ ] Confirm SUV seat counts + which airport each is at (JAC/SLC); decide if a 3rd vehicle is needed
 
 ### 8/1
 - [ ] Airbnb balance due (total minus $500 deposit)
 
-### 8/15
-- [ ] Rafting balance due
+### Closer to the trip
+- [ ] Rafting balance — Drewes collects from the crew (depends on final headcount; no individual action now)
 
 ### 1–2 Months Before
 - [ ] Decide on wetsuit rentals (weather-dependent)
@@ -105,9 +112,10 @@ Contract is signed. Key details:
 
 ### 1–2 Weeks Before
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
-- [ ] Coordinate vehicle/carpool plan from JAC
+- [ ] Finalize vehicle/carpool plan from the airports
 - [ ] Assign who's buying groceries for Saturday ribeye night
 - [ ] Print all confirmations (no cell service at the parks)
+- [ ] Sort room/bed assignments (5 BR / 6 beds for 13)
 
 ### On Arrival (Thursday)
 - [ ] Grocery run — Smith's or Albertsons in Jackson (ribeyes, sides, drinks)

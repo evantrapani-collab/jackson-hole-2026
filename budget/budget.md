@@ -1,6 +1,6 @@
 # Budget
 
-**Group size:** 13 (cost varies — see table below)
+**Group size:** 13 (headcount locked)
 **All amounts in USD**
 
 ---
@@ -11,8 +11,8 @@
 |---|---|---|
 | Airbnb deposit | $500 | Paid ✅ |
 | Flights | $480 | Paid ✅ |
-| Airbnb balance | TBD | Due 8/1 |
-| Rafting balance | TBD | Due 8/15 |
+| Airbnb balance | ~$100 (≈$600 total − $500 deposit) | Due 8/1 |
+| Rafting balance | TBD | Drewes collects from crew closer to trip |
 
 ---
 
@@ -22,14 +22,14 @@
 |---|---|
 | **Total price** | $7,229.82 |
 | **Drewes paid to reserve** | $4,000 |
-| **Your deposit (due now)** | $500 to @drewespt on Venmo |
+| **Your deposit (paid)** | $500 to @drewespt on Venmo |
 | **Airbnb balance due** | **8/1** — total minus your deposit |
 
 ### Cost Per Person by Attendance
 
 | Attendees | Airbnb Per Person |
 |---|---|
-| 13 (current) | ~$556 (~$600) |
+| **13 (locked)** | **~$556 (Drewes quoted ~$600)** |
 | 12 | ~$600 |
 | 8 | ~$900 |
 
@@ -39,7 +39,8 @@
 
 - Contract signed; private van + boat
 - Full refund if cancelled 7+ days out
-- **Balance due:** 30 days before the trip (~Aug 18)
+- **Payment:** Chris Drewes collects from the crew closer to the trip; final per-person amount depends on final headcount (13). No individual action needed now.
+- Earlier ballpark from the chat: ~$165 rafting + ~$165 Teton tour, ~$300/day with group discount — final number TBD by Drewes.
 
 ---
 
@@ -62,8 +63,10 @@
 | Item | Provider | Confirmation # | Amount | Status |
 |---|---|---|---|---|
 | Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ |
-| Rafting / Van | — | — | TBD | Booked ✅ |
+| Rafting / Van | JHWW | — | TBD (Drewes collects) | Booked ✅ |
 | Flights | American Airlines | MRWVJK | $480 | Booked ✅ |
+| Rental SUV #1 | Hardie | — | — | Booked ✅ |
+| Rental SUV #2 | Schick | — | — | Booked ✅ |
 | Groceries / Ribeyes | Smith's or Albertsons, Jackson | — | TBD | |
 
 ---
@@ -72,6 +75,6 @@
 
 | Date | Action |
 |---|---|
-| **Now** | **$500 deposit → @drewespt on Venmo** |
+| **Now** | $500 deposit → @drewespt on Venmo (paid ✅) |
 | **8/1** | Airbnb balance due (total minus $500 deposit) |
-| **8/15** | Rafting balance paid in full |
+| **Closer to trip** | Rafting balance — Drewes collects from the crew |

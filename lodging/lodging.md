@@ -12,7 +12,8 @@
 | **Beds** | 6 |
 | **Bathrooms** | 5 private |
 | **Airbnb listing** | airbnb.com/rooms/52569336 |
-| **Balance due** | 8/15 (included in $784/person) |
+| **Total** | $7,229.82 (≈$600/person at 13 — see /budget) |
+| **Balance due** | **8/1** — total minus $500 deposit |
 
 ### Location Notes
 
