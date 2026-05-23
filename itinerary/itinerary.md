@@ -39,7 +39,7 @@
   - Old Faithful — plan to be there early; erupts every ~90 min
   - Grand Prismatic Spring overlook
   - Drive back to Jackson with plenty of time before kickoff
-- **5:30 PM MT — LSU vs. Ole Miss kickoff**
+- **5:30 PM MT — LSU vs. Ole Miss kickoff** (6:30 PM CT, **ABC**) — Lane Kiffin's return to Oxford
   - Back at the VRBO for the game
   - **Grill: 24 oz bone-in ribeyes**
 - Keep an eye on drive time — Old Faithful to Jackson is ~1.5 hrs; aim to leave Yellowstone by 3:00 PM to be comfortable
@@ -48,9 +48,10 @@
 
 ## Sunday, Sep 20 — Full Day: Explore + Saints Game 🏈
 
-- Full day to explore, revisit favorites, decompress
+- **Saints @ Baltimore Ravens — 11:00 AM MT kickoff** (noon CT, **CBS**) — road game, so it's a late-morning watch
+  - Plan the morning around it; find a spot (Cutty's on Hwy 22, The Bird, or Eleanor's) or watch at the house, then explore after
+- Rest of day to explore, revisit favorites, decompress
 - Go back to hot spots — Tetons, Teton Village, downtown Jackson
-- **Saints game** — find a good spot (The Bird or Eleanor's) to watch; confirm kickoff time closer to the trip
 - Who Dat
 - Monday 11:47 AM departure means a reasonable Sunday night
 
@@ -69,5 +70,6 @@
 | Event | Time | Notes |
 |---|---|---|
 | Rafting check-in | TBD | Arrive 30 min early; coffee/breakfast before |
-| LSU/Ole Miss kickoff | 5:30 PM MT | Leave Yellowstone by ~3:00 PM |
+| LSU/Ole Miss kickoff | 5:30 PM MT | 6:30 CT on ABC; leave Yellowstone by ~3:00 PM |
+| Saints @ Baltimore | 11:00 AM MT | Noon CT on CBS; morning watch, then explore |
 | JAC flight check-in | 90 min before departure | Small airport, don't cut it close |
