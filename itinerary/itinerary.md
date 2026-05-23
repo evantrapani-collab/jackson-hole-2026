@@ -46,11 +46,11 @@
 
 ---
 
-## Sunday, Sep 20 — Full Day: Explore + LSU Game 🏈
+## Sunday, Sep 20 — Full Day: Explore + Saints Game 🏈
 
 - Full day to explore, revisit favorites, decompress
 - Go back to hot spots — Tetons, Teton Village, downtown Jackson
-- **LSU game** — find a good spot (The Bird or Eleanor's) to watch Shough take us to 3-0 to open the season
+- **Saints game** — find a good spot (The Bird or Eleanor's) to watch; confirm kickoff time closer to the trip
 - Who Dat
 - Monday 11:47 AM departure means a reasonable Sunday night
 

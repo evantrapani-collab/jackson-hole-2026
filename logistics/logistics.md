@@ -59,7 +59,7 @@ Contract is signed. Key details:
 
 ## Getting Around
 
-- 13 guys will need multiple vehicles — coordinate carpools from JAC
+- **2 SUVs rented ✅** — confirm seat count; full-size (Suburban/Yukon XL) seats 7–8 and fits 13; mid-size only seats 5–6 and will be short. May need a 3rd vehicle or cargo carrier for luggage.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
 - **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline)
 - Saturday: Leave Yellowstone by **~3:00 PM MT** to be comfortably back for the 5:30 kickoff
