@@ -10,7 +10,7 @@
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
 | Saturday dinner | VRBO grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
 | Saturday game | VRBO | Saturday | LSU/Ole Miss, 5:30 MT kickoff |
-| Sunday | The Bird or Eleanor's | Sunday | Watch NFL; or head to the airport |
+| Sunday | The Bird or Eleanor's | Sunday | Saints game; confirm kickoff time closer to the trip |
 
 ---
 
@@ -41,8 +41,8 @@
 ## The Bird / Eleanor's (Sunday)
 
 - Both are Jackson bars for watching games
-- Good option if flying out Sunday evening or Monday
-- Decide based on Sunday flight situation and energy levels
+- Saints game Sunday — confirm kickoff time (noon CT = 11 AM MT; afternoon game = more time to explore first)
+- Monday 11:47 AM departure means Sunday night should stay reasonable
 
 ---
 
