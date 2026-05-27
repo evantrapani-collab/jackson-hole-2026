@@ -18,7 +18,7 @@ Trip planning hub for everything related to the trip.
 - ✅ Flights booked (AA, conf. MRWVJK)
 - ✅ Rafting + van booked (Drewes collects balance from crew closer to trip)
 - ✅ Headcount locked at 13 (Dan Fulham confirmed)
-- ✅ 2 rental SUVs booked (Hardie + Schick) — seat count / airport positioning still to confirm
+- ✅ 2 rental SUVs booked — Jason (Explorer, JAC) + Joe (Expedition, JAC), both on same inbound flight
 - ⛔️ Via Ferrata — dropped, not doing it
 
 ## Open Items
@@ -28,9 +28,7 @@ Trip planning hub for everything related to the trip.
 - [ ] Rafting balance — Drewes collects from the crew closer to the trip (no individual action now)
 
 **Cars**
-- [ ] Confirm seat count of each SUV (two full-size = 7–8 each covers 13; a 6-seat Explorer / mid-size leaves no margin)
-- [ ] Confirm pickup airport for each SUV — JAC vs SLC (SLC routes need a vehicle for the ~5.5 hr drive)
-- [ ] Decide if a 3rd vehicle or cargo carrier is needed for luggage on transfer days
+- [ ] Confirm Explorer seat count (Jason's rental — 5, 6, or 7 seats depending on trim) — determines whether a 3rd vehicle or cargo carrier is needed
 
 **Rafting (Friday)**
 - [ ] Confirm exact departure / check-in time with Jeff @ JHWW
