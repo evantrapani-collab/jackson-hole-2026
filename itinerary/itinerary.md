@@ -7,7 +7,7 @@
 
 ## Thursday, Sep 17 — Arrival + Hit the Town
 
-- Fly into Jackson Hole Airport (JAC) — arrive **10:13 AM**
+- Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
 - Check in to the VRBO
 - **Night out (Jackson → Teton Village):**
   1. **Snake River Brewing** — craft brewery, great food; casual start
