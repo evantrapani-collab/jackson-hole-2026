@@ -7,8 +7,10 @@
 ### Outbound — Thursday, Sep 17
 | Leg | Flight | Departs | Arrives |
 |---|---|---|---|
-| MSY → DFW | AA468 | 5:49 AM | 7:37 AM |
-| DFW → JAC | — | 8:20 AM | **10:13 AM** |
+| MSY → DFW | AA 468 | 5:49 AM | 7:40 AM |
+| DFW → JAC | AA 1923 | 8:23 AM | **10:19 AM** |
+
+> ⚠️ **Short connection at DFW — only 43 minutes.** If AA 468 is delayed, you may miss AA 1923. Keep an eye on it day-of.
 
 ### Return — Monday, Sep 21
 | Leg | Flight | Departs | Arrives |
