@@ -61,10 +61,15 @@ Contract is signed. Key details:
 ## Getting Around
 
 - **2 SUVs rented ✅** (Hardie + Schick). Headcount locked at **13**.
-- **Still confirm:**
-  1. **Seat count of each SUV** — two full-size (Suburban / Yukon XL / Expedition, 7–8 each) covers 13; if either is a mid-size (5–6) or a 6-seat Explorer, you're short or at zero margin.
-  2. **Pickup airport for each** — JAC vs **SLC**. Anyone routing through Salt Lake needs a vehicle for the **~5.5 hr drive** to Jackson; make sure a rental is positioned there.
-- A **3rd vehicle or cargo carrier** may help with luggage on airport-transfer days (13 guys + bags in two SUVs is tight). Yellowstone day is daypacks only, so two SUVs are fine for that.
+- Both rentals pickup at **JAC** — no SLC vehicle needed ✅
+
+| Driver | Vehicle | Pickup | Arrives |
+|---|---|---|---|
+| Jason | Ford Explorer | JAC | ~10:15 AM, Sep 17 (same inbound flight) |
+| Joe | Expedition (or similar full-size) | JAC | ~10:15 AM, Sep 17 (same inbound flight) |
+
+- ⚠️ **Still confirm: Explorer seat count** — Explorers range from 5–7 seats depending on trim (standard 2-row = 5; 3rd row = 6 or 7). An Expedition seats 7–8. If the Explorer is a 5-seater, that's 13 total — zero margin and no room for bags. Need to know the exact trim/config.
+- A **3rd vehicle or cargo carrier** may still help with luggage on airport-transfer days (13 guys + bags in two SUVs is tight regardless). Yellowstone day is daypacks only, so two SUVs are fine for that.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
 - **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline)
 - Saturday: Leave Yellowstone by **~3:00 PM MT** to be comfortably back for the 5:30 kickoff
@@ -99,7 +104,7 @@ Contract is signed. Key details:
 - [x] Send $500 deposit to @drewespt on Venmo
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
 - [x] 2 SUVs booked (Hardie + Schick)
-- [ ] Confirm SUV seat counts + which airport each is at (JAC/SLC); decide if a 3rd vehicle is needed
+- [ ] Confirm Explorer trim/seat count (Jason's rental — 5, 6, or 7 seats?); decide if a 3rd vehicle or cargo carrier is needed
 
 ### 8/1
 - [ ] Airbnb balance due (total minus $500 deposit)
