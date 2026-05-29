@@ -5,14 +5,15 @@
 
 ---
 
-## Your Payment Status (Trapani)
+## What Everyone Owes
 
-| Item | Amount | Status |
-|---|---|---|
-| Airbnb deposit | $500 | Paid ✅ |
-| Flights | $480 | Paid ✅ |
-| Airbnb balance | ~$100 (≈$600 total − $500 deposit) | Due 8/1 |
-| Rafting balance | TBD | Drewes collects from crew closer to trip |
+| Item | Per Person | Due | Pay To |
+|---|---|---|---|
+| Airbnb — Montreux House | ~$556 | **8/1** | @drewespt Venmo |
+| Rafting + van tour | ~$300 TBD | Closer to trip | Drewes collects |
+| Flights | $480 | Booked | Own booking |
+
+> Drewes is the money hub. Airbnb balance is due 8/1 — send to **@drewespt on Venmo**. He'll collect rafting closer to the trip once headcount is final.
 
 ---
 
@@ -22,8 +23,8 @@
 |---|---|
 | **Total price** | $7,229.82 |
 | **Drewes paid to reserve** | $4,000 |
-| **Your deposit (paid)** | $500 to @drewespt on Venmo |
-| **Airbnb balance due** | **8/1** — total minus your deposit |
+| **Per-person deposit** | $500 to @drewespt on Venmo |
+| **Airbnb balance due** | **8/1** — total minus deposit |
 
 ### Cost Per Person by Attendance
 
@@ -75,6 +76,5 @@
 
 | Date | Action |
 |---|---|
-| **Now** | $500 deposit → @drewespt on Venmo (paid ✅) |
-| **8/1** | Airbnb balance due (total minus $500 deposit) |
+| **8/1** | Airbnb balance due → @drewespt on Venmo |
 | **Closer to trip** | Rafting balance — Drewes collects from the crew |

@@ -74,14 +74,20 @@
     flex:0 0 auto; border:0; background:transparent; color:var(--muted);
     font-size:14px; font-weight:600; padding:8px 13px; border-radius:999px;
     cursor:pointer; white-space:nowrap; transition:.15s;
+    text-decoration:none; display:inline-block; -webkit-user-select:none; user-select:none;
   }
-  .tab:hover { color:var(--ink); }
+  .tab:hover { color:var(--ink); text-decoration:none; }
   .tab.active { background:linear-gradient(135deg,var(--amber),var(--gold)); color:#1a1206; }
 
-  /* ---------- Panels ---------- */
+  /* ---------- Panels ----------
+     Visibility is driven by the URL fragment via :target, so tab
+     navigation works with NO JavaScript at all (iOS content blockers,
+     etc.). JS only adds the active-tab highlight + scroll-to-top. */
   main { padding:22px 0 60px; }
   .panel { display:none; animation:fade .3s ease; }
-  .panel.active { display:block; }
+  .panel:target, .panel.active { display:block; }
+  /* Default to Overview when there's no fragment in the URL. */
+  body:not(:has(.panel:target)) #overview { display:block; }
   @keyframes fade { from{opacity:0; transform:translateY(6px);} to{opacity:1; transform:none;} }
   .section-h { font-size:13px; letter-spacing:.16em; text-transform:uppercase; color:var(--gold); margin:26px 0 12px; font-weight:700; }
   .section-h:first-child { margin-top:0; }
@@ -214,15 +220,15 @@
 <nav class="tabs">
   <div class="wrap">
     <div class="tabs-row" id="tabs">
-      <button class="tab active" data-p="overview">Overview</button>
-      <button class="tab" data-p="itinerary">Itinerary</button>
-      <button class="tab" data-p="gameday">Game Day</button>
-      <button class="tab" data-p="crew">Crew</button>
-      <button class="tab" data-p="money">Money</button>
-      <button class="tab" data-p="packing">Packing</button>
-      <button class="tab" data-p="eat">Eat &amp; Drink</button>
-      <button class="tab" data-p="logistics">Logistics</button>
-      <button class="tab" data-p="todo">To-Do</button>
+      <a class="tab active" href="#overview" data-p="overview">Overview</a>
+      <a class="tab" href="#itinerary" data-p="itinerary">Itinerary</a>
+      <a class="tab" href="#gameday" data-p="gameday">Game Day</a>
+      <a class="tab" href="#crew" data-p="crew">Crew</a>
+      <a class="tab" href="#money" data-p="money">Money</a>
+      <a class="tab" href="#packing" data-p="packing">Packing</a>
+      <a class="tab" href="#eat" data-p="eat">Eat &amp; Drink</a>
+      <a class="tab" href="#logistics" data-p="logistics">Logistics</a>
+      <a class="tab" href="#todo" data-p="todo">To-Do</a>
     </div>
   </div>
 </nav>
@@ -346,30 +352,27 @@
 
   <!-- ============ MONEY ============ -->
   <section class="panel" id="money">
-    <div class="section-h">Your Status (Trapani)</div>
+    <div class="section-h">What Everyone Owes</div>
     <div class="card scroll-x">
       <table class="tbl">
-        <thead><tr><th>Item</th><th class="num">Amount</th><th>Status</th></tr></thead>
+        <thead><tr><th>Item</th><th class="num">Per Person</th><th>Due</th><th>Pay To</th></tr></thead>
         <tbody>
-          <tr><td>Airbnb deposit</td><td class="num">$500</td><td><span class="pill ok">Paid</span></td></tr>
-          <tr><td>Flights</td><td class="num">$480</td><td><span class="pill ok">Paid</span></td></tr>
-          <tr><td>Airbnb balance</td><td class="num">~$100</td><td><span class="pill warn">Due 8/1</span></td></tr>
-          <tr><td>Rafting balance</td><td class="num">TBD</td><td><span class="pill info">Drewes collects</span></td></tr>
+          <tr><td>Airbnb — Montreux House</td><td class="num">~$556</td><td><span class="pill warn">8/1</span></td><td><b>@drewespt</b> Venmo</td></tr>
+          <tr><td>Rafting + van tour</td><td class="num">~$300 TBD</td><td><span class="pill info">Closer to trip</span></td><td>Drewes collects</td></tr>
+          <tr><td>Flights (own booking)</td><td class="num">$480</td><td><span class="pill ok">Booked</span></td><td>—</td></tr>
         </tbody>
       </table>
+      <div class="note">Drewes is the money hub — <b>Airbnb balance due 8/1 to @drewespt on Venmo</b>. He'll collect rafting closer to the trip once the final per-person number is set.</div>
     </div>
 
-    <div class="section-h">Airbnb — Montreux House</div>
+    <div class="section-h">Shared Costs</div>
     <div class="card grid">
-      <div class="stat"><div class="v">$7,230</div><div class="l">Total price</div></div>
-      <div class="stat"><div class="v">~$556</div><div class="l">Per person @ 13</div></div>
-      <div class="stat"><div class="v">$500</div><div class="l">Your deposit (paid)</div></div>
-    </div>
-    <div class="card">
-      <div class="note"><b>8/1:</b> Airbnb balance due — total minus your $500 deposit. Deposit went to <b>@drewespt</b> on Venmo. Drewes paid $4,000 to reserve.</div>
+      <div class="stat"><div class="v">$7,230</div><div class="l">Airbnb total</div></div>
+      <div class="stat"><div class="v">~$556</div><div class="l">Lodging per person</div></div>
+      <div class="stat"><div class="v">~$300</div><div class="l">Rafting est. per person</div></div>
     </div>
 
-    <div class="section-h">Per-Person Estimates <span class="faint">(on top of Airbnb + rafting)</span></div>
+    <div class="section-h">Per-Person Budget Estimates <span class="faint">(beyond lodging &amp; rafting)</span></div>
     <div class="card scroll-x">
       <table class="tbl">
         <thead><tr><th>Category</th><th class="num">Estimate</th><th>Notes</th></tr></thead>
@@ -404,7 +407,7 @@
   <!-- ============ PACKING ============ -->
   <section class="panel" id="packing">
     <div class="section-h">Packing — Check It Off</div>
-    <div class="note">September = wide swings: warm afternoons (60s–70s), cold mornings (30s–40s), maybe snow at elevation. <b>Layer everything. Cotton kills.</b> Your check marks save automatically on this device.</div>
+    <div class="note">September = wide swings: warm afternoons (60s–70s), cold mornings (30s–40s), maybe snow at elevation. <b>Layer everything. Cotton kills.</b> Check marks save on this device — each person tracks their own.</div>
     <div class="progress-lab"><span id="packProgLab">0 of 0 packed</span><button class="reset-btn" data-reset="pack">Reset</button></div>
     <div class="progress"><span id="packProg"></span></div>
     <div id="packList"></div>
@@ -576,7 +579,7 @@ const PACKING = [
 ];
 
 const TODO = [
-  ["Airbnb balance (≈$100, total − $500 deposit)","8/1"],
+  ["Airbnb balance due 8/1 — pay Drewes (@drewespt Venmo)","8/1"],
   ["Confirm Explorer seat count (5/6/7) → 3rd vehicle?","cars"],
   ["Confirm rafting check-in time w/ Jeff @ JHWW","rafting"],
   ["Decide wetsuit rentals ($5/person)","rafting"],
@@ -590,17 +593,20 @@ const TODO = [
   ["Print all confirmations","1–2 wk"],
 ];
 
-/* ---------- Tabs ---------- */
-const tabs = document.getElementById('tabs');
-tabs.addEventListener('click', e => {
-  const btn = e.target.closest('.tab'); if(!btn) return;
-  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active', t===btn));
-  const id = btn.dataset.p;
-  document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active', p.id===id));
-  window.scrollTo({top:0, behavior:'smooth'});
-  location.hash = id;
-});
-if(location.hash){ const b=document.querySelector(`.tab[data-p="${location.hash.slice(1)}"]`); if(b) b.click(); }
+/* ---------- Tabs ----------
+   The anchor links + CSS :target already switch panels with zero JS.
+   This just mirrors the current fragment onto the active highlight and
+   pulls the view back to the top on each switch. */
+const tabEls = [...document.querySelectorAll('.tab')];
+function syncTabs(scroll){
+  let id = (location.hash || '#overview').slice(1);
+  if(!document.getElementById(id)) id = 'overview';
+  tabEls.forEach(t => t.classList.toggle('active', t.dataset.p === id));
+  document.querySelectorAll('.panel').forEach(p => p.classList.toggle('active', p.id === id));
+  if(scroll) window.scrollTo({top:0, behavior:'smooth'});
+}
+window.addEventListener('hashchange', () => syncTabs(true));
+syncTabs(false);
 
 /* ---------- Countdown ---------- */
 function tick(){
