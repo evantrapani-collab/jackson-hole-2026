@@ -74,14 +74,20 @@
     flex:0 0 auto; border:0; background:transparent; color:var(--muted);
     font-size:14px; font-weight:600; padding:8px 13px; border-radius:999px;
     cursor:pointer; white-space:nowrap; transition:.15s;
+    text-decoration:none; display:inline-block; -webkit-user-select:none; user-select:none;
   }
-  .tab:hover { color:var(--ink); }
+  .tab:hover { color:var(--ink); text-decoration:none; }
   .tab.active { background:linear-gradient(135deg,var(--amber),var(--gold)); color:#1a1206; }
 
-  /* ---------- Panels ---------- */
+  /* ---------- Panels ----------
+     Visibility is driven by the URL fragment via :target, so tab
+     navigation works with NO JavaScript at all (iOS content blockers,
+     etc.). JS only adds the active-tab highlight + scroll-to-top. */
   main { padding:22px 0 60px; }
   .panel { display:none; animation:fade .3s ease; }
-  .panel.active { display:block; }
+  .panel:target, .panel.active { display:block; }
+  /* Default to Overview when there's no fragment in the URL. */
+  body:not(:has(.panel:target)) #overview { display:block; }
   @keyframes fade { from{opacity:0; transform:translateY(6px);} to{opacity:1; transform:none;} }
   .section-h { font-size:13px; letter-spacing:.16em; text-transform:uppercase; color:var(--gold); margin:26px 0 12px; font-weight:700; }
   .section-h:first-child { margin-top:0; }
@@ -214,15 +220,15 @@
 <nav class="tabs">
   <div class="wrap">
     <div class="tabs-row" id="tabs">
-      <button class="tab active" data-p="overview">Overview</button>
-      <button class="tab" data-p="itinerary">Itinerary</button>
-      <button class="tab" data-p="gameday">Game Day</button>
-      <button class="tab" data-p="crew">Crew</button>
-      <button class="tab" data-p="money">Money</button>
-      <button class="tab" data-p="packing">Packing</button>
-      <button class="tab" data-p="eat">Eat &amp; Drink</button>
-      <button class="tab" data-p="logistics">Logistics</button>
-      <button class="tab" data-p="todo">To-Do</button>
+      <a class="tab active" href="#overview" data-p="overview">Overview</a>
+      <a class="tab" href="#itinerary" data-p="itinerary">Itinerary</a>
+      <a class="tab" href="#gameday" data-p="gameday">Game Day</a>
+      <a class="tab" href="#crew" data-p="crew">Crew</a>
+      <a class="tab" href="#money" data-p="money">Money</a>
+      <a class="tab" href="#packing" data-p="packing">Packing</a>
+      <a class="tab" href="#eat" data-p="eat">Eat &amp; Drink</a>
+      <a class="tab" href="#logistics" data-p="logistics">Logistics</a>
+      <a class="tab" href="#todo" data-p="todo">To-Do</a>
     </div>
   </div>
 </nav>
@@ -590,17 +596,20 @@ const TODO = [
   ["Print all confirmations","1–2 wk"],
 ];
 
-/* ---------- Tabs ---------- */
-const tabs = document.getElementById('tabs');
-tabs.addEventListener('click', e => {
-  const btn = e.target.closest('.tab'); if(!btn) return;
-  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active', t===btn));
-  const id = btn.dataset.p;
-  document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active', p.id===id));
-  window.scrollTo({top:0, behavior:'smooth'});
-  location.hash = id;
-});
-if(location.hash){ const b=document.querySelector(`.tab[data-p="${location.hash.slice(1)}"]`); if(b) b.click(); }
+/* ---------- Tabs ----------
+   The anchor links + CSS :target already switch panels with zero JS.
+   This just mirrors the current fragment onto the active highlight and
+   pulls the view back to the top on each switch. */
+const tabEls = [...document.querySelectorAll('.tab')];
+function syncTabs(scroll){
+  let id = (location.hash || '#overview').slice(1);
+  if(!document.getElementById(id)) id = 'overview';
+  tabEls.forEach(t => t.classList.toggle('active', t.dataset.p === id));
+  document.querySelectorAll('.panel').forEach(p => p.classList.toggle('active', p.id === id));
+  if(scroll) window.scrollTo({top:0, behavior:'smooth'});
+}
+window.addEventListener('hashchange', () => syncTabs(true));
+syncTabs(false);
 
 /* ---------- Countdown ---------- */
 function tick(){
