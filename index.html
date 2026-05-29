@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0e1726">
+<meta name="description" content="Jackson Hole / Yellowstone — September 2026 trip dashboard. Works offline.">
+<title>Jackson Hole 2026 — Trip HQ</title>
+<style>
+  /* ============================================================
+     Jackson Hole 2026 — single-file, offline trip dashboard.
+     No external dependencies on purpose: Yellowstone has no cell
+     service, so save this to your phone and it just works.
+     ============================================================ */
+  :root {
+    --sky-0:#0a0f1a; --sky-1:#0e1726; --sky-2:#16233b;
+    --card:#172339; --card-2:#1d2c47; --line:#2a3a59;
+    --ink:#eaf0fb; --muted:#9fb0cc; --faint:#6d7e9c;
+    --gold:#f5b942; --amber:#e88a3c; --sunset:#e2604a;
+    --pine:#4fa67e; --ice:#6fb7e0; --rose:#d96a8a;
+    --ok:#4fb477; --warn:#f5b942; --stop:#e2604a;
+    --radius:16px; --maxw:980px;
+    --shadow:0 10px 30px rgba(0,0,0,.35);
+  }
+  * { box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+  html { scroll-behavior:smooth; }
+  body {
+    margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:var(--ink); background:var(--sky-1);
+    line-height:1.5; -webkit-font-smoothing:antialiased;
+    padding-bottom:env(safe-area-inset-bottom);
+  }
+  a { color:var(--ice); text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  h1,h2,h3 { line-height:1.2; margin:0; }
+  .wrap { max-width:var(--maxw); margin:0 auto; padding:0 16px; }
+
+  /* ---------- Hero ---------- */
+  header.hero {
+    position:relative; overflow:hidden;
+    background:linear-gradient(180deg,#0a0f1a 0%,#142036 45%,#22324f 100%);
+    padding:calc(28px + env(safe-area-inset-top)) 0 0;
+  }
+  .stars { position:absolute; inset:0; pointer-events:none; opacity:.7; }
+  .mountains { display:block; width:100%; height:auto; margin-top:18px; }
+  .hero-inner { position:relative; z-index:2; text-align:center; }
+  .eyebrow {
+    letter-spacing:.28em; text-transform:uppercase; font-size:12px;
+    color:var(--gold); font-weight:700; margin-bottom:10px;
+  }
+  .hero h1 { font-size:clamp(30px,7vw,56px); font-weight:800; letter-spacing:-.5px; }
+  .hero h1 .amp { color:var(--amber); }
+  .hero .sub { color:var(--muted); margin-top:10px; font-size:clamp(14px,3.6vw,18px); }
+
+  /* ---------- Countdown ---------- */
+  .countdown { display:flex; justify-content:center; gap:10px; margin:22px 0 6px; flex-wrap:wrap; }
+  .cd-box {
+    background:rgba(255,255,255,.06); border:1px solid var(--line);
+    border-radius:14px; padding:12px 14px; min-width:72px; backdrop-filter:blur(4px);
+  }
+  .cd-num { font-size:clamp(22px,6vw,34px); font-weight:800; color:var(--gold); font-variant-numeric:tabular-nums; }
+  .cd-lab { font-size:10px; letter-spacing:.18em; text-transform:uppercase; color:var(--faint); margin-top:2px; }
+  .cd-msg { text-align:center; color:var(--pine); font-weight:700; margin-top:8px; min-height:20px; }
+
+  /* ---------- Nav ---------- */
+  nav.tabs {
+    position:sticky; top:0; z-index:50;
+    background:rgba(14,23,38,.92); backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);
+  }
+  .tabs-row { display:flex; gap:4px; overflow-x:auto; padding:8px 12px; scrollbar-width:none; }
+  .tabs-row::-webkit-scrollbar { display:none; }
+  .tab {
+    flex:0 0 auto; border:0; background:transparent; color:var(--muted);
+    font-size:14px; font-weight:600; padding:8px 13px; border-radius:999px;
+    cursor:pointer; white-space:nowrap; transition:.15s;
+  }
+  .tab:hover { color:var(--ink); }
+  .tab.active { background:linear-gradient(135deg,var(--amber),var(--gold)); color:#1a1206; }
+
+  /* ---------- Panels ---------- */
+  main { padding:22px 0 60px; }
+  .panel { display:none; animation:fade .3s ease; }
+  .panel.active { display:block; }
+  @keyframes fade { from{opacity:0; transform:translateY(6px);} to{opacity:1; transform:none;} }
+  .section-h { font-size:13px; letter-spacing:.16em; text-transform:uppercase; color:var(--gold); margin:26px 0 12px; font-weight:700; }
+  .section-h:first-child { margin-top:0; }
+
+  /* ---------- Cards ---------- */
+  .card {
+    background:var(--card); border:1px solid var(--line);
+    border-radius:var(--radius); padding:16px 18px; margin-bottom:14px; box-shadow:var(--shadow);
+  }
+  .card h3 { font-size:17px; margin-bottom:6px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px; }
+  .stat { text-align:center; padding:16px 10px; }
+  .stat .v { font-size:26px; font-weight:800; color:var(--gold); }
+  .stat .l { color:var(--muted); font-size:13px; margin-top:3px; }
+
+  .pill { display:inline-flex; align-items:center; gap:6px; font-size:12px; font-weight:700; padding:3px 10px; border-radius:999px; }
+  .pill.ok { background:rgba(79,180,119,.16); color:#74d59b; }
+  .pill.warn { background:rgba(245,185,66,.16); color:var(--gold); }
+  .pill.stop { background:rgba(226,96,74,.16); color:#f0917f; }
+  .pill.info { background:rgba(111,183,224,.16); color:var(--ice); }
+
+  ul.clean { list-style:none; padding:0; margin:0; }
+  ul.clean li { padding:7px 0; border-bottom:1px solid var(--line); }
+  ul.clean li:last-child { border-bottom:0; }
+  .muted { color:var(--muted); }
+  .faint { color:var(--faint); font-size:13px; }
+
+  /* ---------- Timeline (itinerary) ---------- */
+  .day { margin-bottom:14px; }
+  .day-head {
+    width:100%; text-align:left; cursor:pointer; border:1px solid var(--line);
+    background:var(--card); color:var(--ink); border-radius:var(--radius);
+    padding:14px 16px; display:flex; align-items:center; gap:12px; font:inherit;
+  }
+  .day-head:hover { background:var(--card-2); }
+  .day-date { font-size:12px; color:var(--faint); letter-spacing:.06em; text-transform:uppercase; }
+  .day-title { font-size:17px; font-weight:800; }
+  .day-emoji { font-size:22px; }
+  .chev { margin-left:auto; transition:.2s; color:var(--muted); }
+  .day.open .chev { transform:rotate(90deg); }
+  .day-body { display:none; padding:6px 4px 4px; }
+  .day.open .day-body { display:block; animation:fade .25s ease; }
+  .tl { list-style:none; margin:8px 0 0; padding:0 0 0 22px; border-left:2px solid var(--line); }
+  .tl li { position:relative; padding:0 0 16px 16px; }
+  .tl li::before { content:""; position:absolute; left:-29px; top:4px; width:12px; height:12px; border-radius:50%; background:var(--amber); border:2px solid var(--sky-1); }
+  .tl .t { font-weight:800; color:var(--gold); font-variant-numeric:tabular-nums; }
+  .tl .d { color:var(--muted); font-size:14px; }
+
+  /* ---------- Checklists ---------- */
+  .check {
+    display:flex; align-items:flex-start; gap:11px; padding:10px 4px;
+    border-bottom:1px solid var(--line); cursor:pointer; user-select:none;
+  }
+  .check:last-child { border-bottom:0; }
+  .check input { display:none; }
+  .box {
+    flex:0 0 auto; width:22px; height:22px; border-radius:7px; border:2px solid var(--faint);
+    margin-top:1px; position:relative; transition:.15s;
+  }
+  .check input:checked + .box { background:var(--pine); border-color:var(--pine); }
+  .box::after { content:""; position:absolute; left:6px; top:2px; width:6px; height:11px; border:solid #07120c; border-width:0 2.5px 2.5px 0; transform:rotate(45deg) scale(0); transition:.15s; }
+  .check input:checked + .box::after { transform:rotate(45deg) scale(1); }
+  .check .lab { flex:1; }
+  .check input:checked ~ .lab { color:var(--faint); text-decoration:line-through; }
+  .check .tag { font-size:11px; font-weight:700; padding:2px 8px; border-radius:999px; background:rgba(245,185,66,.16); color:var(--gold); white-space:nowrap; }
+  .progress { height:8px; background:var(--sky-2); border-radius:999px; overflow:hidden; margin:4px 0 14px; }
+  .progress > span { display:block; height:100%; width:0; background:linear-gradient(90deg,var(--pine),var(--ice)); transition:width .4s ease; }
+  .progress-lab { display:flex; justify-content:space-between; font-size:13px; color:var(--muted); margin-bottom:6px; }
+  .reset-btn { background:none; border:1px solid var(--line); color:var(--muted); font-size:12px; padding:5px 12px; border-radius:999px; cursor:pointer; }
+  .reset-btn:hover { color:var(--ink); border-color:var(--faint); }
+
+  /* ---------- Tables ---------- */
+  .tbl { width:100%; border-collapse:collapse; font-size:14px; }
+  .tbl th, .tbl td { text-align:left; padding:9px 10px; border-bottom:1px solid var(--line); }
+  .tbl th { color:var(--gold); font-size:11px; letter-spacing:.1em; text-transform:uppercase; }
+  .tbl tr:last-child td { border-bottom:0; }
+  .tbl .num { text-align:right; font-variant-numeric:tabular-nums; }
+  .scroll-x { overflow-x:auto; -webkit-overflow-scrolling:touch; }
+
+  /* ---------- Game cards ---------- */
+  .game { display:flex; align-items:center; gap:14px; }
+  .game .when { text-align:center; min-width:78px; }
+  .game .when .mt { font-size:22px; font-weight:800; color:var(--gold); }
+  .game .when .ct { font-size:12px; color:var(--faint); }
+  .game .who { flex:1; }
+  .game .who .t { font-weight:800; font-size:16px; }
+  .game .net { font-size:12px; font-weight:800; padding:4px 9px; border-radius:8px; background:var(--sky-2); color:var(--ice); }
+
+  /* ---------- Roster chips ---------- */
+  .roster { display:flex; flex-wrap:wrap; gap:9px; }
+  .guy { display:flex; align-items:center; gap:9px; background:var(--card-2); border:1px solid var(--line); border-radius:999px; padding:5px 14px 5px 5px; font-weight:600; }
+  .avatar { width:30px; height:30px; border-radius:50%; display:grid; place-items:center; font-size:12px; font-weight:800; color:#10182a; }
+
+  footer { text-align:center; color:var(--faint); font-size:13px; padding:28px 16px 40px; border-top:1px solid var(--line); }
+  footer .save { color:var(--muted); margin-top:6px; }
+  .kbd { font-family:ui-monospace,monospace; background:var(--sky-2); border:1px solid var(--line); border-radius:6px; padding:1px 6px; font-size:12px; }
+
+  .note { border-left:3px solid var(--amber); background:rgba(232,138,60,.08); padding:10px 14px; border-radius:0 10px 10px 0; margin:10px 0; color:var(--muted); font-size:14px; }
+  .note b { color:var(--ink); }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <svg class="stars" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+    <g fill="#fff">
+      <circle cx="8" cy="12" r=".3"/><circle cx="20" cy="6" r=".25"/><circle cx="33" cy="14" r=".35"/>
+      <circle cx="47" cy="5" r=".25"/><circle cx="61" cy="11" r=".3"/><circle cx="74" cy="7" r=".25"/>
+      <circle cx="88" cy="13" r=".35"/><circle cx="95" cy="5" r=".25"/><circle cx="15" cy="22" r=".25"/>
+      <circle cx="40" cy="20" r=".3"/><circle cx="68" cy="19" r=".25"/><circle cx="82" cy="24" r=".3"/>
+      <circle cx="55" cy="26" r=".25"/><circle cx="27" cy="30" r=".25"/>
+    </g>
+  </svg>
+  <div class="wrap hero-inner">
+    <div class="eyebrow">Sep 17–21, 2026 · 13 Guys · Teton Village</div>
+    <h1>Jackson Hole <span class="amp">&amp;</span> Yellowstone</h1>
+    <p class="sub">Trip HQ — itinerary, crew, money, packing &amp; game day. Save it to your phone; it works offline.</p>
+    <div class="countdown" id="countdown" aria-live="polite"></div>
+    <div class="cd-msg" id="cdMsg"></div>
+  </div>
+  <svg class="mountains" viewBox="0 0 1440 220" preserveAspectRatio="none" aria-hidden="true">
+    <polygon points="0,220 0,150 120,70 210,120 330,30 470,140 560,80 700,170 820,60 980,150 1120,50 1260,140 1380,90 1440,130 1440,220" fill="#2a3a59"/>
+    <polygon points="0,220 0,180 150,120 300,170 430,110 560,165 690,120 840,175 980,120 1140,170 1280,115 1440,165 1440,220" fill="#1d2c47"/>
+    <polygon points="330,30 300,52 360,52" fill="#eaf0fb"/>
+    <polygon points="1120,50 1095,70 1148,70" fill="#eaf0fb"/>
+    <polygon points="0,220 0,200 220,165 460,195 720,160 980,195 1240,160 1440,190 1440,220" fill="#172339"/>
+  </svg>
+</header>
+
+<nav class="tabs">
+  <div class="wrap">
+    <div class="tabs-row" id="tabs">
+      <button class="tab active" data-p="overview">Overview</button>
+      <button class="tab" data-p="itinerary">Itinerary</button>
+      <button class="tab" data-p="gameday">Game Day</button>
+      <button class="tab" data-p="crew">Crew</button>
+      <button class="tab" data-p="money">Money</button>
+      <button class="tab" data-p="packing">Packing</button>
+      <button class="tab" data-p="eat">Eat &amp; Drink</button>
+      <button class="tab" data-p="logistics">Logistics</button>
+      <button class="tab" data-p="todo">To-Do</button>
+    </div>
+  </div>
+</nav>
+
+<main class="wrap">
+
+  <!-- ============ OVERVIEW ============ -->
+  <section class="panel active" id="overview">
+    <div class="section-h">Trip at a Glance</div>
+    <div class="card grid">
+      <div class="stat"><div class="v">5</div><div class="l">Days / 4 nights</div></div>
+      <div class="stat"><div class="v">13</div><div class="l">Guys (locked)</div></div>
+      <div class="stat"><div class="v">2</div><div class="l">National parks</div></div>
+      <div class="stat"><div class="v">2</div><div class="l">Football games</div></div>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <h3>🏔️ The Basics</h3>
+        <ul class="clean">
+          <li><span class="muted">Destination</span><br>Jackson Hole, WY + Yellowstone &amp; Grand Teton</li>
+          <li><span class="muted">Dates</span><br>Sep 17–21, 2026 (Thu–Mon)</li>
+          <li><span class="muted">Home base</span><br>Montreux House, Teton Village <span class="pill ok">★ 5.0</span></li>
+          <li><span class="muted">Why September</span><br>Elk rut, fall foliage, crowds drop, wildlife active</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>✅ Locked In</h3>
+        <ul class="clean">
+          <li><span class="pill ok">Booked</span> Airbnb — Montreux House <span class="faint">(balance due 8/1)</span></li>
+          <li><span class="pill ok">Booked</span> Flights — AA, conf. <b>MRWVJK</b></li>
+          <li><span class="pill ok">Booked</span> Rafting + van — JHWW</li>
+          <li><span class="pill ok">Booked</span> 2 rental SUVs — Explorer + Expedition (JAC)</li>
+          <li><span class="pill stop">Dropped</span> Via Ferrata — not doing it</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section-h">The 5 Days</div>
+    <div class="card">
+      <ul class="clean">
+        <li>🍺 <b>Thu</b> — Arrive 10:19 AM · grocery run · night out (Cowboy Bar → Mangy Moose)</li>
+        <li>🚐 <b>Fri</b> — 8 AM Teton wildlife van tour → 1 PM Snake River rafting</li>
+        <li>🌋 <b>Sat</b> — Yellowstone (Old Faithful, Grand Prismatic) → LSU/Ole Miss + ribeyes</li>
+        <li>🦌 <b>Sun</b> — Sunrise wildlife drive → Saints @ Ravens (11 AM MT)</li>
+        <li>✈️ <b>Mon</b> — Depart JAC 11:47 AM</li>
+      </ul>
+      <div class="note" style="margin-top:14px;">Tap <b>Itinerary</b> for the full day-by-day, or <b>Game Day</b> for kickoff times and where to watch.</div>
+    </div>
+  </section>
+
+  <!-- ============ ITINERARY ============ -->
+  <section class="panel" id="itinerary">
+    <div class="section-h">Day by Day</div>
+    <div id="days"></div>
+
+    <div class="section-h">Key Times to Keep in Mind</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Event</th><th>Time</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Friday van tour</td><td><b>8:00 AM</b></td><td class="muted">Dawn-to-dusk; coffee on the way</td></tr>
+          <tr><td>Rafting</td><td><b>1:00 PM</b></td><td class="muted">Ends ~4:30; arrive 30 min early; no alcohol</td></tr>
+          <tr><td>Sat — leave for Yellowstone</td><td><b>7:00 AM</b></td><td class="muted">2–3 stops; back by ~3 PM</td></tr>
+          <tr><td>LSU / Ole Miss</td><td><b>5:30 PM MT</b></td><td class="muted">6:30 CT · ABC</td></tr>
+          <tr><td>Sun — sunrise drive</td><td><b>6:30 AM</b></td><td class="muted">Oxbow, Mormon Row, Moose-Wilson</td></tr>
+          <tr><td>Saints @ Baltimore</td><td><b>11:00 AM MT</b></td><td class="muted">Noon CT · CBS</td></tr>
+          <tr><td>JAC check-in (Mon)</td><td><b>10:15 AM</b></td><td class="muted">Small airport, don't cut it close</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ GAME DAY ============ -->
+  <section class="panel" id="gameday">
+    <div class="section-h">🏈 The Slate</div>
+    <div class="card">
+      <div class="game">
+        <div class="when"><div class="mt">5:30</div><div class="ct">PM MT · Sat</div></div>
+        <div class="who"><div class="t">LSU vs. Ole Miss</div><div class="muted">Lane Kiffin's return to Oxford · 6:30 CT</div></div>
+        <div class="net">ABC</div>
+      </div>
+      <div class="note">Back at the house by ~3 PM from Yellowstone. <b>Grill 24 oz bone-in ribeyes</b> during the game.</div>
+    </div>
+    <div class="card">
+      <div class="game">
+        <div class="when"><div class="mt">11:00</div><div class="ct">AM MT · Sun</div></div>
+        <div class="who"><div class="t">Saints @ Baltimore Ravens</div><div class="muted">Road game, late-morning watch · noon CT</div></div>
+        <div class="net">CBS</div>
+      </div>
+      <div class="note">Watch at the house or a spot — <b>Cutty's</b> (Hwy 22), <b>The Bird</b>, or <b>Eleanor's</b>. <span class="pill warn">Open</span> Pick the Sunday venue.</div>
+    </div>
+    <div class="card">
+      <h3>📺 Watch Plan</h3>
+      <ul class="clean">
+        <li><b>Sat:</b> House — ribeye night, kickoff 5:30 MT on ABC</li>
+        <li><b>Sun:</b> 11 AM MT kickoff frees the dawn window — do the sunrise wildlife drive first, watch the Saints after</li>
+        <li class="faint">Who Dat — Monday 11:47 AM departure means Sunday night stays reasonable</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ CREW ============ -->
+  <section class="panel" id="crew">
+    <div class="section-h">The Crew — 13 Locked</div>
+    <div class="card">
+      <div class="roster" id="roster"></div>
+    </div>
+    <div class="section-h">Driver Leads</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Driver</th><th>Vehicle</th><th>Pickup</th><th>Arrives</th></tr></thead>
+        <tbody>
+          <tr><td>Jason</td><td>Ford Explorer</td><td>JAC</td><td class="muted">~10:15 AM, Sep 17</td></tr>
+          <tr><td>Joe</td><td>Expedition (full-size)</td><td>JAC</td><td class="muted">~10:15 AM, Sep 17</td></tr>
+        </tbody>
+      </table>
+      <div class="note"><b>Name a departure-time owner per SUV.</b> Herding 13 guys is the #1 thing that blows up the schedule. <span class="pill warn">Open</span> Confirm Explorer seat count (5/6/7) — determines if a 3rd vehicle or cargo carrier is needed.</div>
+    </div>
+  </section>
+
+  <!-- ============ MONEY ============ -->
+  <section class="panel" id="money">
+    <div class="section-h">Your Status (Trapani)</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Item</th><th class="num">Amount</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td>Airbnb deposit</td><td class="num">$500</td><td><span class="pill ok">Paid</span></td></tr>
+          <tr><td>Flights</td><td class="num">$480</td><td><span class="pill ok">Paid</span></td></tr>
+          <tr><td>Airbnb balance</td><td class="num">~$100</td><td><span class="pill warn">Due 8/1</span></td></tr>
+          <tr><td>Rafting balance</td><td class="num">TBD</td><td><span class="pill info">Drewes collects</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section-h">Airbnb — Montreux House</div>
+    <div class="card grid">
+      <div class="stat"><div class="v">$7,230</div><div class="l">Total price</div></div>
+      <div class="stat"><div class="v">~$556</div><div class="l">Per person @ 13</div></div>
+      <div class="stat"><div class="v">$500</div><div class="l">Your deposit (paid)</div></div>
+    </div>
+    <div class="card">
+      <div class="note"><b>8/1:</b> Airbnb balance due — total minus your $500 deposit. Deposit went to <b>@drewespt</b> on Venmo. Drewes paid $4,000 to reserve.</div>
+    </div>
+
+    <div class="section-h">Per-Person Estimates <span class="faint">(on top of Airbnb + rafting)</span></div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Category</th><th class="num">Estimate</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Flights</td><td class="num">$480</td><td class="muted">Confirmed MSY round-trip</td></tr>
+          <tr><td>Food &amp; drink</td><td class="num">$150–250</td><td class="muted">Bars, meals, drinks</td></tr>
+          <tr><td>Ribeyes (Sat)</td><td class="num">$50–80</td><td class="muted">24 oz bone-in + sides</td></tr>
+          <tr><td>Wetsuit rental</td><td class="num">$5</td><td class="muted">Optional, weather-dependent</td></tr>
+          <tr><td>Park entry</td><td class="num">$0–35</td><td class="muted">Per vehicle; free w/ ATB pass</td></tr>
+          <tr><td>Gas / transport</td><td class="num">$30–60</td><td class="muted">Split across vehicles</td></tr>
+          <tr><td>Incidentals</td><td class="num">$50–100</td><td class="muted">Tips, souvenirs, drinks</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section-h">Booking Tracker</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Item</th><th>Conf #</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td>Airbnb</td><td class="muted">—</td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>Rafting / Van (JHWW)</td><td class="muted">—</td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>Flights (AA)</td><td><b>MRWVJK</b></td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>Rental SUV #1 (Hardie)</td><td class="muted">—</td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>Rental SUV #2 (Schick)</td><td class="muted">—</td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>Groceries / Ribeyes</td><td class="muted">—</td><td><span class="pill warn">TBD</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ PACKING ============ -->
+  <section class="panel" id="packing">
+    <div class="section-h">Packing — Check It Off</div>
+    <div class="note">September = wide swings: warm afternoons (60s–70s), cold mornings (30s–40s), maybe snow at elevation. <b>Layer everything. Cotton kills.</b> Your check marks save automatically on this device.</div>
+    <div class="progress-lab"><span id="packProgLab">0 of 0 packed</span><button class="reset-btn" data-reset="pack">Reset</button></div>
+    <div class="progress"><span id="packProg"></span></div>
+    <div id="packList"></div>
+  </section>
+
+  <!-- ============ EAT & DRINK ============ -->
+  <section class="panel" id="eat">
+    <div class="section-h">On the Plan</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>When</th><th>Spot</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Thu night</td><td>Snake River Brewing</td><td class="muted">First stop; craft brewery, great food</td></tr>
+          <tr><td>Thu night</td><td>Silver Dollar Bar</td><td class="muted">Classic western bar</td></tr>
+          <tr><td>Thu night</td><td>Million Dollar Cowboy Bar</td><td class="muted">Saddle stools, live country — the move</td></tr>
+          <tr><td>Thu night</td><td>Mangy Moose</td><td class="muted">Walkable from the house; last stop</td></tr>
+          <tr><td>Fri lunch</td><td>Cutty's Cheesesteaks</td><td class="muted">Or the outfitter deli — decide later</td></tr>
+          <tr><td>Sat dinner</td><td>House grill</td><td class="muted">24 oz bone-in ribeyes</td></tr>
+          <tr><td>Sun game</td><td>Cutty's / The Bird / house</td><td class="muted">Saints, 11 AM MT on CBS</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section-h">🥩 Saturday Ribeye Night</div>
+    <div class="card">
+      <ul class="clean">
+        <li>13 × 24 oz bone-in ribeyes — <b>Smith's (Kroger)</b> or <b>Albertsons</b> in Jackson</li>
+        <li>Buy groceries <b>Thursday on arrival</b> — don't scramble after Yellowstone</li>
+        <li>Assign a grill captain &amp; keep sides simple</li>
+      </ul>
+      <div class="note"><span class="pill warn">Open</span> Assign Saturday grocery run + grill captain.</div>
+    </div>
+
+    <div class="section-h">If Needed — Other Jackson Spots</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Spot</th><th>Vibe</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Pica's Taqueria</td><td>Cheap, legendary</td><td class="muted">Cash only; tiny; worth the wait</td></tr>
+          <tr><td>Snake River Grill</td><td>Upscale</td><td class="muted">On the square; nicer dinner</td></tr>
+          <tr><td>Persephone Bakery</td><td>Breakfast/coffee</td><td class="muted">Best coffee in town</td></tr>
+          <tr><td>Nora's Fish Creek Inn</td><td>Diner breakfast</td><td class="muted">Cash only; iconic</td></tr>
+          <tr><td>Thai Me Up</td><td>Thai</td><td class="muted">Beloved locals' spot</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ LOGISTICS ============ -->
+  <section class="panel" id="logistics">
+    <div class="section-h">✈️ Flights — Conf. MRWVJK</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Leg</th><th>Flight</th><th>Departs</th><th>Arrives</th></tr></thead>
+        <tbody>
+          <tr><td>MSY → DFW</td><td>AA 468</td><td>5:49 AM</td><td>7:40 AM</td></tr>
+          <tr><td>DFW → JAC</td><td>AA 1923</td><td>8:23 AM</td><td><b>10:19 AM</b></td></tr>
+          <tr><td>JAC → DFW</td><td>—</td><td>11:47 AM</td><td>3:38 PM</td></tr>
+          <tr><td>DFW → MSY</td><td>—</td><td>5:05 PM</td><td>6:41 PM</td></tr>
+        </tbody>
+      </table>
+      <div class="note"><b>⚠️ Short connection at DFW — 43 min outbound.</b> If AA 468 slips, you may miss AA 1923. Watch it day-of. Monday: be at JAC by <b>10:15 AM</b>.</div>
+    </div>
+
+    <div class="section-h">🚗 Key Drive Times</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Route</th><th>Time</th></tr></thead>
+        <tbody>
+          <tr><td>JAC → House (Teton Village)</td><td>~10 min</td></tr>
+          <tr><td>Jackson → Grand Teton S. Entrance</td><td>~20 min</td></tr>
+          <tr><td>Jackson → Yellowstone S. Entrance</td><td>~1 hr</td></tr>
+          <tr><td>Yellowstone S. → Old Faithful</td><td>~30 min</td></tr>
+          <tr><td>Old Faithful → Jackson</td><td>~1.5 hrs</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section-h">🚐 Rafting Day (Friday)</div>
+    <div class="card">
+      <ul class="clean">
+        <li><b>Shoes:</b> must attach to feet — no sandals/flip flops</li>
+        <li><b>Wetsuits:</b> $5/person on-site (3-piece) — decide on weather</li>
+        <li><b>Arrive:</b> 30 min early to the put-in</li>
+        <li><b>No alcohol</b> on the van or boat — lunch break is the window</li>
+        <li class="faint">Confirm exact check-in time with Jeff @ JHWW</li>
+      </ul>
+    </div>
+
+    <div class="section-h">🏞️ Park Entry &amp; Field Notes</div>
+    <div class="card">
+      <ul class="clean">
+        <li><b>No reservations needed</b> for either park in 2026 — pay ~$35/vehicle at the gate</li>
+        <li><b>America the Beautiful</b> pass ($80) covers both — buy on Recreation.gov to skip the line</li>
+        <li><b>Bear spray:</b> one per vehicle; can't fly with it — buy/rent in Jackson</li>
+        <li><b>No cell service in Yellowstone</b> — download offline maps before you go</li>
+        <li><b>Weather backup:</b> early snow can close roads — town fallback (brewery/Cowboy Bar) saves a scrubbed park day</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ TO-DO ============ -->
+  <section class="panel" id="todo">
+    <div class="section-h">Open Items — Check It Off</div>
+    <div class="note">Shared the same way as packing: marks save to <b>this device</b>. Good for tracking what's actually done before the trip.</div>
+    <div class="progress-lab"><span id="todoProgLab">0 of 0 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
+    <div class="progress"><span id="todoProg"></span></div>
+    <div id="todoList"></div>
+  </section>
+
+</main>
+
+<footer>
+  <div>🏔️ Jackson Hole 2026 · built for the crew · works fully offline</div>
+  <div class="save">Add to your home screen so you've got it when the cell bars vanish in Yellowstone.</div>
+</footer>
+
+<script>
+/* =========================================================
+   Data — kept in JS so the single file stays the source of
+   truth. Mirrors the markdown docs in this repo.
+   ========================================================= */
+const TRIP_START = new Date('2026-09-17T10:19:00-06:00'); // JAC arrival (MDT)
+const TRIP_END   = new Date('2026-09-21T11:47:00-06:00'); // JAC departure
+
+const ROSTER = ["Drewes","Psilos","Hardie","Schick","Trapani","Levy","Shrub",
+  "Mitternight","Solak","Comeaux","Hasney","Fulham","Ciolino"];
+const AV_COLORS = ["#f5b942","#e88a3c","#e2604a","#4fa67e","#6fb7e0","#d96a8a","#b58cf0"];
+
+const DAYS = [
+  { date:"Thursday · Sep 17", emoji:"🍺", title:"Arrival + Hit the Town", open:true, items:[
+    ["10:19 AM","Fly into Jackson Hole (JAC) — both SUVs on this flight"],
+    ["Midday","Check in to the house · grocery run (Smith's / Albertsons) for ribeyes + breakfast"],
+    ["Evening","Snake River Brewing → Silver Dollar → Million Dollar Cowboy Bar → Mangy Moose (back at the Village)"],
+  ]},
+  { date:"Friday · Sep 18", emoji:"🚐", title:"Tetons Van Tour + Rafting", open:false, items:[
+    ["8:00 AM","JHWW Sunrise Wildlife Van Tour (2 vans, Grand Teton NP). Coffee/breakfast on the way."],
+    ["~11:30 AM","Lunch — outfitter deli or Cutty's Cheesesteaks"],
+    ["1:00 PM","Snake River Whitewater — \"8 Miles of Smiles,\" Class 2–3. Ends ~4:30. No alcohol; shoes must attach."],
+    ["Evening","Back to Jackson; dinner TBD"],
+  ]},
+  { date:"Saturday · Sep 19", emoji:"🌋", title:"Yellowstone + LSU/Ole Miss", open:false, items:[
+    ["7:00 AM","Leave for Yellowstone — S. Entrance ~1 hr. Keep it to 2–3 stops."],
+    ["Stops","Old Faithful (check eruption time) · Grand Prismatic overlook · West Thumb on the way back"],
+    ["~3:00 PM","Back at the house, comfortable before kickoff"],
+    ["5:30 PM MT","LSU vs. Ole Miss (ABC) — grill 24 oz bone-in ribeyes"],
+  ]},
+  { date:"Sunday · Sep 20", emoji:"🦌", title:"Sunrise Wildlife + Saints", open:false, items:[
+    ["6:30–9:30 AM","Sunrise wildlife drive — Oxbow Bend, Mormon Row, Moose-Wilson Rd. Peak elk rut."],
+    ["11:00 AM MT","Saints @ Baltimore (CBS) — watch at the house or a spot"],
+    ["Afternoon","Explore favorites — Teton Village, downtown Jackson"],
+  ]},
+  { date:"Monday · Sep 21", emoji:"✈️", title:"Travel Home", open:false, items:[
+    ["10:15 AM","Be at JAC — small airport, don't cut it close"],
+    ["11:47 AM","Depart JAC → DFW 3:38 PM → MSY 6:41 PM"],
+  ]},
+];
+
+const PACKING = [
+  ["Puffy / insulated jacket","essential"], ["Waterproof rain jacket","essential"],
+  ["Merino/synthetic base layers"], ["Fleece or mid-layer"], ["Hiking pants"],
+  ["Wool hiking socks (4–5)"], ["Hiking boots (broken in)"], ["Warm hat + gloves"],
+  ["Sunglasses + sunscreen SPF 50"], ["1–2 nicer outfits for town"],
+  ["Daypack (20–30L)"], ["Headlamp + batteries"], ["Reusable water bottle"],
+  ["Binoculars (8x42 / 10x42)","bring"], ["Battery pack / car charger"],
+  ["First aid + blister kit"], ["Lip balm w/ SPF"], ["Personal meds + extra"],
+  ["Driver's license"], ["Printed confirmations"],
+  ["Offline maps downloaded","do first"], ["NPS apps for both parks"],
+];
+
+const TODO = [
+  ["Airbnb balance (≈$100, total − $500 deposit)","8/1"],
+  ["Confirm Explorer seat count (5/6/7) → 3rd vehicle?","cars"],
+  ["Confirm rafting check-in time w/ Jeff @ JHWW","rafting"],
+  ["Decide wetsuit rentals ($5/person)","rafting"],
+  ["Pick rafting lunch — deli vs. Cutty's","rafting"],
+  ["Sort room/bed assignments (5 BR / 6 beds)","lodging"],
+  ["Pick Sunday Saints venue","game"],
+  ["Assign grocery run + grill captain","game"],
+  ["Download offline Yellowstone maps","1–2 wk"],
+  ["Check road/trail conditions at NPS.gov","1–2 wk"],
+  ["Buy/plan bear spray (one per vehicle)","1–2 wk"],
+  ["Print all confirmations","1–2 wk"],
+];
+
+/* ---------- Tabs ---------- */
+const tabs = document.getElementById('tabs');
+tabs.addEventListener('click', e => {
+  const btn = e.target.closest('.tab'); if(!btn) return;
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active', t===btn));
+  const id = btn.dataset.p;
+  document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active', p.id===id));
+  window.scrollTo({top:0, behavior:'smooth'});
+  location.hash = id;
+});
+if(location.hash){ const b=document.querySelector(`.tab[data-p="${location.hash.slice(1)}"]`); if(b) b.click(); }
+
+/* ---------- Countdown ---------- */
+function tick(){
+  const now = new Date();
+  const cd = document.getElementById('countdown');
+  const msg = document.getElementById('cdMsg');
+  let diff = TRIP_START - now;
+  if(now >= TRIP_START && now <= TRIP_END){
+    cd.style.display='none';
+    msg.textContent = "🏔️ We're in Jackson Hole. Go.";
+    return;
+  }
+  if(now > TRIP_END){
+    cd.style.display='none';
+    msg.textContent = "That was a hell of a trip. 🍺";
+    return;
+  }
+  const d = Math.floor(diff/864e5);
+  const h = Math.floor(diff%864e5/36e5);
+  const m = Math.floor(diff%36e5/6e4);
+  const s = Math.floor(diff%6e4/1e3);
+  cd.innerHTML = [["Days",d],["Hrs",h],["Min",m],["Sec",s]].map(([l,v])=>
+    `<div class="cd-box"><div class="cd-num">${String(v).padStart(2,'0')}</div><div class="cd-lab">${l}</div></div>`).join('');
+  msg.textContent = d > 30 ? "Plenty of time — but the to-do list won't clear itself." :
+                    d > 7  ? "Final stretch. Knock out the open items." :
+                             "Almost wheels-up. 🛫";
+}
+tick(); setInterval(tick,1000);
+
+/* ---------- Itinerary ---------- */
+document.getElementById('days').innerHTML = DAYS.map((day,i)=>`
+  <div class="day ${day.open?'open':''}" data-i="${i}">
+    <button class="day-head" aria-expanded="${day.open}">
+      <span class="day-emoji">${day.emoji}</span>
+      <span><span class="day-date">${day.date}</span><br><span class="day-title">${day.title}</span></span>
+      <span class="chev">▶</span>
+    </button>
+    <div class="day-body">
+      <ul class="tl">${day.items.map(([t,d])=>`<li><span class="t">${t}</span> — <span class="d">${d}</span></li>`).join('')}</ul>
+    </div>
+  </div>`).join('');
+document.getElementById('days').addEventListener('click', e=>{
+  const head = e.target.closest('.day-head'); if(!head) return;
+  const day = head.parentElement; const open = day.classList.toggle('open');
+  head.setAttribute('aria-expanded', open);
+});
+
+/* ---------- Roster ---------- */
+document.getElementById('roster').innerHTML = ROSTER.map((name,i)=>{
+  const c = AV_COLORS[i % AV_COLORS.length];
+  const initials = name.slice(0,2).toUpperCase();
+  return `<span class="guy"><span class="avatar" style="background:${c}">${initials}</span>${name}</span>`;
+}).join('');
+
+/* ---------- Persistent checklists ---------- */
+function buildChecklist(containerId, items, storeKey, progId, progLabId, unitWord){
+  const saved = JSON.parse(localStorage.getItem(storeKey) || '{}');
+  const cont = document.getElementById(containerId);
+  cont.innerHTML = `<div class="card">${items.map((it,i)=>{
+    const [label,tag] = it; const on = !!saved[i];
+    return `<label class="check">
+      <input type="checkbox" data-i="${i}" ${on?'checked':''}>
+      <span class="box"></span>
+      <span class="lab">${label}</span>
+      ${tag?`<span class="tag">${tag}</span>`:''}
+    </label>`;
+  }).join('')}</div>`;
+  const prog = document.getElementById(progId);
+  const lab  = document.getElementById(progLabId);
+  function refresh(){
+    const done = Object.values(saved).filter(Boolean).length;
+    const pct = items.length ? Math.round(done/items.length*100) : 0;
+    prog.style.width = pct + '%';
+    lab.textContent = `${done} of ${items.length} ${unitWord}`;
+  }
+  cont.addEventListener('change', e=>{
+    const cb = e.target.closest('input'); if(!cb) return;
+    saved[cb.dataset.i] = cb.checked;
+    localStorage.setItem(storeKey, JSON.stringify(saved));
+    refresh();
+  });
+  refresh();
+  return {saved, refresh, storeKey, items, containerId, progId, progLabId, unitWord};
+}
+const packState = buildChecklist('packList', PACKING, 'jh26_pack', 'packProg', 'packProgLab', 'packed');
+const todoState = buildChecklist('todoList', TODO,   'jh26_todo', 'todoProg', 'todoProgLab', 'done');
+
+document.querySelectorAll('.reset-btn').forEach(btn=>{
+  btn.addEventListener('click', ()=>{
+    const which = btn.dataset.reset;
+    const st = which==='pack' ? packState : todoState;
+    if(!confirm('Clear all checkmarks here?')) return;
+    localStorage.removeItem(st.storeKey);
+    Object.keys(st.saved).forEach(k=>delete st.saved[k]);
+    document.querySelectorAll(`#${st.containerId} input`).forEach(cb=>cb.checked=false);
+    st.refresh();
+  });
+});
+</script>
+</body>
+</html>
