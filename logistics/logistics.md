@@ -2,7 +2,7 @@
 
 ## Flights ✅ BOOKED
 
-**Confirmation: MRWVJK — American Airlines**
+**American Airlines**
 
 ### Outbound — Thursday, Sep 17
 | Leg | Flight | Departs | Arrives |
@@ -100,7 +100,7 @@ Contract is signed. Key details:
 ### Now — Urgent
 - [x] Airbnb booked
 - [x] Rafting / van booked
-- [x] Book flights (MRWVJK)
+- [x] Book flights
 - [x] Send $500 deposit to @drewespt on Venmo
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
 - [x] 2 SUVs booked (Hardie + Schick)

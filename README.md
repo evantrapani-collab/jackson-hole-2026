@@ -17,7 +17,7 @@ Trip planning hub for everything related to the trip.
 ## Current Status
 
 - ✅ Airbnb booked (balance due 8/1)
-- ✅ Flights booked (AA, conf. MRWVJK)
+- ✅ Flights booked (American Airlines)
 - ✅ Rafting + van booked (Drewes collects balance from crew closer to trip)
 - ✅ Headcount locked at 13 (Dan Fulham confirmed)
 - ✅ 2 rental SUVs booked — Jason (Explorer, JAC) + Joe (Expedition, JAC), both on same inbound flight
