@@ -352,30 +352,27 @@
 
   <!-- ============ MONEY ============ -->
   <section class="panel" id="money">
-    <div class="section-h">Your Status (Trapani)</div>
+    <div class="section-h">What Everyone Owes</div>
     <div class="card scroll-x">
       <table class="tbl">
-        <thead><tr><th>Item</th><th class="num">Amount</th><th>Status</th></tr></thead>
+        <thead><tr><th>Item</th><th class="num">Per Person</th><th>Due</th><th>Pay To</th></tr></thead>
         <tbody>
-          <tr><td>Airbnb deposit</td><td class="num">$500</td><td><span class="pill ok">Paid</span></td></tr>
-          <tr><td>Flights</td><td class="num">$480</td><td><span class="pill ok">Paid</span></td></tr>
-          <tr><td>Airbnb balance</td><td class="num">~$100</td><td><span class="pill warn">Due 8/1</span></td></tr>
-          <tr><td>Rafting balance</td><td class="num">TBD</td><td><span class="pill info">Drewes collects</span></td></tr>
+          <tr><td>Airbnb — Montreux House</td><td class="num">~$556</td><td><span class="pill warn">8/1</span></td><td><b>@drewespt</b> Venmo</td></tr>
+          <tr><td>Rafting + van tour</td><td class="num">~$300 TBD</td><td><span class="pill info">Closer to trip</span></td><td>Drewes collects</td></tr>
+          <tr><td>Flights (own booking)</td><td class="num">$480</td><td><span class="pill ok">Booked</span></td><td>—</td></tr>
         </tbody>
       </table>
+      <div class="note">Drewes is the money hub — <b>Airbnb balance due 8/1 to @drewespt on Venmo</b>. He'll collect rafting closer to the trip once the final per-person number is set.</div>
     </div>
 
-    <div class="section-h">Airbnb — Montreux House</div>
+    <div class="section-h">Shared Costs</div>
     <div class="card grid">
-      <div class="stat"><div class="v">$7,230</div><div class="l">Total price</div></div>
-      <div class="stat"><div class="v">~$556</div><div class="l">Per person @ 13</div></div>
-      <div class="stat"><div class="v">$500</div><div class="l">Your deposit (paid)</div></div>
-    </div>
-    <div class="card">
-      <div class="note"><b>8/1:</b> Airbnb balance due — total minus your $500 deposit. Deposit went to <b>@drewespt</b> on Venmo. Drewes paid $4,000 to reserve.</div>
+      <div class="stat"><div class="v">$7,230</div><div class="l">Airbnb total</div></div>
+      <div class="stat"><div class="v">~$556</div><div class="l">Lodging per person</div></div>
+      <div class="stat"><div class="v">~$300</div><div class="l">Rafting est. per person</div></div>
     </div>
 
-    <div class="section-h">Per-Person Estimates <span class="faint">(on top of Airbnb + rafting)</span></div>
+    <div class="section-h">Per-Person Budget Estimates <span class="faint">(beyond lodging &amp; rafting)</span></div>
     <div class="card scroll-x">
       <table class="tbl">
         <thead><tr><th>Category</th><th class="num">Estimate</th><th>Notes</th></tr></thead>
@@ -410,7 +407,7 @@
   <!-- ============ PACKING ============ -->
   <section class="panel" id="packing">
     <div class="section-h">Packing — Check It Off</div>
-    <div class="note">September = wide swings: warm afternoons (60s–70s), cold mornings (30s–40s), maybe snow at elevation. <b>Layer everything. Cotton kills.</b> Your check marks save automatically on this device.</div>
+    <div class="note">September = wide swings: warm afternoons (60s–70s), cold mornings (30s–40s), maybe snow at elevation. <b>Layer everything. Cotton kills.</b> Check marks save on this device — each person tracks their own.</div>
     <div class="progress-lab"><span id="packProgLab">0 of 0 packed</span><button class="reset-btn" data-reset="pack">Reset</button></div>
     <div class="progress"><span id="packProg"></span></div>
     <div id="packList"></div>
@@ -582,7 +579,7 @@ const PACKING = [
 ];
 
 const TODO = [
-  ["Airbnb balance (≈$100, total − $500 deposit)","8/1"],
+  ["Airbnb balance due 8/1 — pay Drewes (@drewespt Venmo)","8/1"],
   ["Confirm Explorer seat count (5/6/7) → 3rd vehicle?","cars"],
   ["Confirm rafting check-in time w/ Jeff @ JHWW","rafting"],
   ["Decide wetsuit rentals ($5/person)","rafting"],
