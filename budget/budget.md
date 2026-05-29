@@ -11,7 +11,7 @@
 |---|---|---|---|
 | Airbnb — Montreux House | ~$556 | **8/1** | @drewespt Venmo |
 | Rafting + van tour | ~$300 TBD | Closer to trip | Drewes collects |
-| Flights | $480 | Booked | Own booking |
+| Flights | varies | Booked | Own booking |
 
 > Drewes is the money hub. Airbnb balance is due 8/1 — send to **@drewespt on Venmo**. He'll collect rafting closer to the trip once headcount is final.
 
@@ -49,7 +49,7 @@
 
 | Category | Estimate | Notes |
 |---|---|---|
-| Flights | $480 | Confirmed MSY round-trip |
+| Flights | varies | Each person's own booking |
 | Food & Drink | $150–250 total | Bars Thu night, meals, drinks |
 | Ribeyes (Sat grill) | $50–80 | 24 oz bone-in + sides; split the grocery run |
 | Rafting wetsuit rental | $5 | Optional; decide closer to the trip |
@@ -65,7 +65,7 @@
 |---|---|---|---|---|
 | Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ |
 | Rafting / Van | JHWW | — | TBD (Drewes collects) | Booked ✅ |
-| Flights | American Airlines | MRWVJK | $480 | Booked ✅ |
+| Flights | American Airlines | — | varies | Booked ✅ |
 | Rental SUV #1 | Hardie | — | — | Booked ✅ |
 | Rental SUV #2 | Schick | — | — | Booked ✅ |
 | Groceries / Ribeyes | Smith's or Albertsons, Jackson | — | TBD | |
