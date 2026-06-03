@@ -8,6 +8,7 @@
 | Thursday bars | Mangy Moose | Thu night | Jackson staple; live music most nights |
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
+| Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
 | Saturday dinner | VRBO grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
 | Saturday game | VRBO | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
 | Sunday game | Cutty's / The Bird / Eleanor's / house | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)** |
@@ -38,6 +39,14 @@
 - Casual, quick, the right kind of food before getting on the water
 - Alternative to the outfitter's deli lunch — decide closer to the trip
 
+## Dornan's Pizza Pasta Co. (Moose) — the pizza + view spot
+
+- In **Moose, WY**, right at the Grand Teton park boundary on the Snake River — **~25 min from Teton Village**, basically next to Schwabacher Landing
+- The draw is the **upstairs deck**: pizza, pasta, and beer with an unobstructed, straight-on view of the Tetons — one of the best casual views in the valley
+- Genuinely casual — boots, no reservations, big-group friendly; pair it with the adjacent **Dornan's Wine Shoppe** (deep list, surprisingly good)
+- **Best fit:** Sunday lunch/early dinner after the morning wildlife drive, since you're already on that side of the park — or any time a low-key meal with a view beats fighting for a table in town
+- Confirm fall hours before you go (Moose runs on shorter shoulder-season schedules)
+
 ## Sunday Saints Game — Cutty's / The Bird / Eleanor's
 
 - **Saints @ Baltimore, 11 AM MT kickoff (noon CT, CBS)** — it's a road game and a **late-morning** start, so watch first, then explore after
@@ -59,6 +68,7 @@
 
 | Spot | Vibe | Notes |
 |---|---|---|
+| **Dornan's Pizza Pasta Co.** | Casual, killer view | Moose, WY; deck pizza with full Teton views; near Schwabacher |
 | **Pica's Mexican Taqueria** | Cheap, legendary | Cash only; tiny; worth the wait |
 | **Snake River Grill** | Upscale | On the square; good for a nicer dinner |
 | **Persephone Bakery** | Breakfast/coffee | Best coffee in town; croissants |

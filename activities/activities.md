@@ -6,7 +6,7 @@
 
 | Trail | Distance | Difficulty | Highlights |
 |---|---|---|---|
-| Jenny Lake Loop | 7.1 mi | Easy | Lake views, ferry option |
+| Jenny Lake Loop | 7.1 mi | Easy | Lake views, ferry option — **get there before 8 AM** to beat the crowds + parking |
 | Hidden Falls & Inspiration Point | 9.7 mi RT | Moderate | Waterfall, panoramic views |
 | Cascade Canyon to Lake Solitude | 14.5 mi RT | Strenuous | Best fall colors, high alpine lake |
 | Taggart & Bradley Lakes Loop | 5.9 mi | Easy–Moderate | Quiet, great wildlife |
@@ -22,12 +22,13 @@
 ### Wildlife Viewing
 
 - **Oxbow Bend** — moose, herons, otters, ducks at dawn/dusk
+- **Schwabacher Landing** — the valley's signature sunrise: glassy beaver ponds mirroring the Tetons. Short dirt access road off 89; **don't skip it** — go at first light
 - **Willow Flats** — moose hotspot near Jackson Lake Lodge
 - **Antelope Flats Road** — pronghorn, bison, coyotes
 
 ### Other
 
-- **Teton Village Aerial Tram** — rides to the summit of Rendezvous Mountain (10,450 ft); no hiking required
+- **Teton Village Aerial Tram** — rides to the summit of Rendezvous Mountain (10,450 ft); no hiking required. At the top, **Corbet's Cabin** serves the famous waffles (try the brown sugar & butter) — earn the view, then eat. Walkable from the house, so an easy slot on the Sunday afternoon "explore" window
 - **Horseback riding** — several outfitters offer half-day and full-day rides
 - **Mountain biking** — extensive trail network around Jackson and Teton Village
 - **Paragliding** — tandem flights off Teton Village; bucket-list experience
@@ -77,6 +78,6 @@
 ## Booking Notes
 
 - [ ] Snake River float — book 2–3 months ahead; pick scenic vs. whitewater
-- [ ] Teton Village tram — no reservation needed, just show up
+- [ ] Teton Village tram — no reservation needed to ride, but **buy tickets in advance online** (months out for peak days); check fall operating hours/dates since late-Sept is shoulder season
 - [ ] Fishing guide — book early for September; prime season
 - [ ] Yellowstone wolf/wildlife safari guide — optional but helpful in Lamar Valley
