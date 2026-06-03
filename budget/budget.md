@@ -66,8 +66,8 @@
 | Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ |
 | Rafting / Van | JHWW | — | TBD (Drewes collects) | Booked ✅ |
 | Flights | American Airlines | — | varies | Booked ✅ |
-| Rental SUV #1 | Hardie | — | — | Booked ✅ |
-| Rental SUV #2 | Schick | — | — | Booked ✅ |
+| Rental SUV #1 (Explorer) | Jason Hardie | — | — | Booked ✅ |
+| Rental SUV #2 (Expedition) | Joe Schick | — | — | Booked ✅ |
 | Groceries / Ribeyes | Smith's or Albertsons, Jackson | — | TBD | |
 
 ---
