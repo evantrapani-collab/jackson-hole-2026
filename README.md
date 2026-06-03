@@ -25,12 +25,16 @@ Trip planning hub for everything related to the trip.
 
 ## Open Items
 
+> **Owners + deadlines added for the load-bearing items.** Most of this is routine; the two that actually gate the trip are flagged ⭐.
+
 **Money**
-- [ ] **8/1** — Airbnb balance due (≈$600 total minus $500 deposit)
+- [ ] **8/1** — Airbnb balance due (≈$600 total minus $500 deposit) → @drewespt Venmo
+- [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: lock the final per-person number AND a rule for who covers a late cancellation, so the crew isn't split-eating a no-show once the refund window closes
 - [ ] Rafting balance — Drewes collects from the crew closer to the trip (no individual action now)
 
 **Cars**
-- [ ] Confirm Explorer seat count (Jason's rental — 5, 6, or 7 seats depending on trim) — determines whether a 3rd vehicle or cargo carrier is needed
+- [ ] ⭐ **Confirm Explorer trim/seat count** *(Owner: Jason — by 6/9)*: 5, 6, or 7 seats? A 5-seat Explorer + 7-seat Expedition = only 12 seats for 13 guys. If it's a 5-seater, book a 3rd vehicle or cargo carrier now — this is the only problem that can't be solved at the airport
+- [ ] Reconcile driver names across docs — README says Jason/Joe, logistics says Hardie/Schick (same two people?)
 
 **Rafting (Friday)**
 - [ ] Confirm exact departure / check-in time with Jeff @ JHWW
@@ -38,11 +42,12 @@ Trip planning hub for everything related to the trip.
 - [ ] Pick lunch — outfitter deli vs. Cutty's
 
 **Lodging**
-- [ ] Sort room/bed assignments (5 BR / 6 beds for 13)
+- [ ] **By 8/1** — confirm what Montreux House actually sleeps (5 BR / 6 beds for 13 → air mattresses/couches?) before sorting assignments
+- [ ] Sort room/bed assignments
 
 **Dining / Game day**
-- [ ] Pick Sunday Saints venue — Cutty's / The Bird / Eleanor's / house (11 AM MT kickoff)
-- [ ] Assign Saturday grocery run + grill captain (13 ribeyes)
+- [ ] Pick Sunday Saints venue — Cutty's / The Bird / Eleanor's / house (Saints @ Ravens, 11 AM MT / noon CT, CBS — confirmed)
+- [ ] Assign Saturday grocery run + grill captain (13 ribeyes) — back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed)
 
 **1–2 weeks out**
 - [ ] Download offline maps for Yellowstone (no cell service)
