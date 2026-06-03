@@ -8,7 +8,7 @@
 ## Thursday, Sep 17 — Arrival + Hit the Town
 
 - Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
-- Check in to the VRBO
+- Check in to the house (Montreux House, Teton Village)
 - **Night out (Jackson → Teton Village):**
   1. **Snake River Brewing** — craft brewery, great food; casual start
   2. **Silver Dollar Bar and Grill** — classic western bar, inlaid silver dollar bar top
@@ -45,7 +45,7 @@
   - **West Thumb Geyser Basin** — right on the way back, quick and worth it
 - **Back by ~3:00 PM** to be comfortable before kickoff
 - **5:30 PM MT — LSU vs. Ole Miss** (6:30 CT, **ABC**) — Lane Kiffin's return to Oxford
-  - Back at the VRBO; **grill 24 oz bone-in ribeyes**
+  - Back at the house; **grill 24 oz bone-in ribeyes**
 
 ---
 
@@ -54,6 +54,7 @@
 > **The 11 AM kickoff frees the dawn window — use it.** September is peak elk rut; this is the can't-miss Wyoming morning.
 
 - **6:30–9:30 AM — Sunrise wildlife drive** (best light + animal activity of the trip)
+  - *Sunrise is ~7:05 AM; leaving the house at 6:30 puts you at Schwabacher right at first light (~6:40)*
   - **Schwabacher Landing** — the can't-miss sunrise: beaver ponds mirroring the Tetons. Hit it at first light
   - **Oxbow Bend** — moose, elk, often a bull elk bugling; classic Teton reflection
   - **Mormon Row** — bison against the Tetons at sunrise
@@ -67,8 +68,9 @@
 
 ## Monday, Sep 21 — Travel Home
 
-- **Depart JAC 11:47 AM** → DFW 3:38 PM → MSY 6:41 PM
+- **Fuel both SUVs** the night before or en route (gas in town, not at the tiny airport lot) and **return the rentals at JAC** — build in ~20 min for the return + shuttle to the terminal
 - Be at JAC by **10:15 AM** — it's a small airport but don't cut it close
+- **Depart JAC 11:47 AM** → DFW 3:38 PM → MSY 6:41 PM
 
 ---
 
