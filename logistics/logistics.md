@@ -62,6 +62,7 @@ Contract is signed. Key details:
 
 - **2 SUVs rented ✅** (Hardie + Schick). Headcount locked at **13**.
 - Both rentals pickup at **JAC** — no SLC vehicle needed ✅
+- **Get to the rental counter first, then grab bags** — at a small airport like JAC the counter line builds fast off a full flight; one driver can claim the SUVs while the rest pull luggage, instead of all 13 waiting twice
 
 | Driver | Vehicle | Pickup | Arrives |
 |---|---|---|---|

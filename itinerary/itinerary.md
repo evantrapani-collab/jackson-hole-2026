@@ -54,12 +54,13 @@
 > **The 11 AM kickoff frees the dawn window — use it.** September is peak elk rut; this is the can't-miss Wyoming morning.
 
 - **6:30–9:30 AM — Sunrise wildlife drive** (best light + animal activity of the trip)
+  - **Schwabacher Landing** — the can't-miss sunrise: beaver ponds mirroring the Tetons. Hit it at first light
   - **Oxbow Bend** — moose, elk, often a bull elk bugling; classic Teton reflection
   - **Mormon Row** — bison against the Tetons at sunrise
   - **Moose-Wilson Road** — moose and bears; drive slow
 - **11:00 AM MT — Saints @ Baltimore Ravens** (noon CT, **CBS**) — road game, late-morning watch
   - Watch at the house or a spot (Cutty's on Hwy 22, The Bird, or Eleanor's)
-- **Afternoon:** Explore favorites — Teton Village, downtown Jackson, revisit hot spots
+- **Afternoon:** Explore favorites — ride the **Teton Village tram** for waffles at **Corbet's Cabin** (walkable from the house), grab pizza + the view at **Dornan's** in Moose, or hit downtown Jackson
 - Who Dat — Monday 11:47 AM departure means a reasonable Sunday night
 
 ---
