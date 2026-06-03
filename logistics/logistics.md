@@ -79,7 +79,7 @@ Contract is signed. Key details:
 
 | Route | Time |
 |---|---|
-| JAC → VRBO (Jackson) | ~10 min |
+| JAC → House (Teton Village) | ~10 min |
 | Jackson → Grand Teton South Entrance | ~20 min |
 | Jackson → Yellowstone South Entrance | ~1 hr |
 | Yellowstone South → Old Faithful | ~30 min |
@@ -90,9 +90,11 @@ Contract is signed. Key details:
 
 ## National Park Entry
 
+- ✅ **Confirmed (2026): neither park requires a timed-entry/vehicle reservation** — just drive up and pay at the gate. No advance permit to book.
 - **America the Beautiful Pass** ($80/vehicle/year) — covers both parks; worth it if anyone already has one
 - **Per-vehicle fee** — $35 each for Grand Teton and Yellowstone if no pass
 - With 13 guys in multiple vehicles, having a pass per vehicle saves money
+- **2026 note:** Yellowstone has bridge-construction delays at the **North and Northeast entrances** — not on our route. We use the **South Entrance**, which is unaffected.
 
 ---
 
@@ -122,9 +124,14 @@ Contract is signed. Key details:
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
 - [ ] Finalize vehicle/carpool plan from the airports
 - [ ] Assign who's buying groceries for Saturday ribeye night
+- [ ] Confirm the Teton Village tram is running late-Sept (shoulder season) + buy tram tickets online — Sunday afternoon plan depends on it
 - [ ] Print all confirmations (no cell service at the parks)
 - [ ] Sort room/bed assignments (5 BR / 6 beds for 13)
 
 ### On Arrival (Thursday)
 - [ ] Grocery run — Smith's or Albertsons in Jackson (ribeyes, sides, drinks)
 - [ ] Confirm Saturday game plan for Yellowstone timing
+
+### Departure Day (Monday)
+- [ ] Fuel both SUVs the night before or en route (not at the airport lot)
+- [ ] Return both rentals at JAC — build in ~20 min before the 11:47 AM flight

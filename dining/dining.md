@@ -9,8 +9,8 @@
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
-| Saturday dinner | VRBO grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
-| Saturday game | VRBO | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
+| Saturday dinner | House grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
+| Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
 | Sunday game | Cutty's / The Bird / Eleanor's / house | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)** |
 
 ---
