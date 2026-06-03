@@ -20,7 +20,7 @@ Trip planning hub for everything related to the trip.
 - ✅ Flights booked (American Airlines)
 - ✅ Rafting + van booked (Drewes collects balance from crew closer to trip)
 - ✅ Headcount locked at 13 (Dan Fulham confirmed)
-- ✅ 2 rental SUVs booked — Jason (Explorer, JAC) + Joe (Expedition, JAC), both on same inbound flight
+- ✅ 2 rental SUVs booked — Jason Hardie (Explorer, JAC) + Joe Schick (Expedition, JAC), both on same inbound flight
 - ⛔️ Via Ferrata — dropped, not doing it
 
 ## Open Items
@@ -33,8 +33,7 @@ Trip planning hub for everything related to the trip.
 - [ ] Rafting balance — Drewes collects from the crew closer to the trip (no individual action now)
 
 **Cars**
-- [ ] ⭐ **Confirm Explorer trim/seat count** *(Owner: Jason — by 6/9)*: 5, 6, or 7 seats? A 5-seat Explorer + 7-seat Expedition = only 12 seats for 13 guys. If it's a 5-seater, book a 3rd vehicle or cargo carrier now — this is the only problem that can't be solved at the airport
-- [ ] Reconcile driver names across docs — README says Jason/Joe, logistics says Hardie/Schick (same two people?)
+- [ ] ⭐ **Confirm Explorer trim/seat count** *(Owner: Jason Hardie — by 6/9)*: 5, 6, or 7 seats? A 5-seat Explorer + 7-seat Expedition = only 12 seats for 13 guys. If it's a 5-seater, book a 3rd vehicle or cargo carrier now — this is the only problem that can't be solved at the airport
 
 **Rafting (Friday)**
 - [ ] Confirm exact departure / check-in time with Jeff @ JHWW
@@ -68,7 +67,7 @@ Trip planning hub for everything related to the trip.
 
 ## Key Dates to Watch
 
-- **Yellowstone timed-entry permits** — check NPS.gov in spring 2026; some entrances may require them
+- **Park entry** — ✅ confirmed: neither Yellowstone nor Grand Teton requires a timed-entry reservation in 2026; just pay ~$35/vehicle (or use an $80 America the Beautiful pass) at the gate
 - **Elk rut** — peaks mid-September through early October
 - **Fall foliage** — aspens turn gold late September in the Tetons
 - **Grand Teton road closures** — some roads close mid-October; we're well ahead of that

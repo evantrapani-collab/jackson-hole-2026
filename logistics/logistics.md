@@ -60,14 +60,14 @@ Contract is signed. Key details:
 
 ## Getting Around
 
-- **2 SUVs rented ✅** (Hardie + Schick). Headcount locked at **13**.
+- **2 SUVs rented ✅** (Jason Hardie + Joe Schick). Headcount locked at **13**.
 - Both rentals pickup at **JAC** — no SLC vehicle needed ✅
 - **Get to the rental counter first, then grab bags** — at a small airport like JAC the counter line builds fast off a full flight; one driver can claim the SUVs while the rest pull luggage, instead of all 13 waiting twice
 
 | Driver | Vehicle | Pickup | Arrives |
 |---|---|---|---|
-| Jason | Ford Explorer | JAC | ~10:15 AM, Sep 17 (same inbound flight) |
-| Joe | Expedition (or similar full-size) | JAC | ~10:15 AM, Sep 17 (same inbound flight) |
+| Jason Hardie | Ford Explorer | JAC | ~10:15 AM, Sep 17 (same inbound flight) |
+| Joe Schick | Expedition (or similar full-size) | JAC | ~10:15 AM, Sep 17 (same inbound flight) |
 
 - ⚠️ **Still confirm: Explorer seat count** — Explorers range from 5–7 seats depending on trim (standard 2-row = 5; 3rd row = 6 or 7). An Expedition seats 7–8. If the Explorer is a 5-seater, that's 13 total — zero margin and no room for bags. Need to know the exact trim/config.
 - A **3rd vehicle or cargo carrier** may still help with luggage on airport-transfer days (13 guys + bags in two SUVs is tight regardless). Yellowstone day is daypacks only, so two SUVs are fine for that.
@@ -106,8 +106,8 @@ Contract is signed. Key details:
 - [x] Book flights
 - [x] Send $500 deposit to @drewespt on Venmo
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
-- [x] 2 SUVs booked (Hardie + Schick)
-- [ ] Confirm Explorer trim/seat count (Jason's rental — 5, 6, or 7 seats?); decide if a 3rd vehicle or cargo carrier is needed
+- [x] 2 SUVs booked (Jason Hardie + Joe Schick)
+- [ ] Confirm Explorer trim/seat count (Jason Hardie's rental — 5, 6, or 7 seats?); decide if a 3rd vehicle or cargo carrier is needed
 
 ### 8/1
 - [ ] Airbnb balance due (total minus $500 deposit)
