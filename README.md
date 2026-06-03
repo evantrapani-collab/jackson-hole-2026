@@ -28,7 +28,7 @@ Trip planning hub for everything related to the trip.
 > **Owners + deadlines added for the load-bearing items.** Most of this is routine; the two that actually gate the trip are flagged ⭐.
 
 **Money**
-- [ ] **8/1** — Airbnb balance due (≈$600 total minus $500 deposit) → @drewespt Venmo
+- [ ] **8/1** — Airbnb balance due: the rest of your per-person share (≈$556, Drewes quoted ~$600) minus the $500 deposit already paid → @drewespt Venmo
 - [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: lock the final per-person number AND a rule for who covers a late cancellation, so the crew isn't split-eating a no-show once the refund window closes
 - [ ] Rafting balance — Drewes collects from the crew closer to the trip (no individual action now)
 

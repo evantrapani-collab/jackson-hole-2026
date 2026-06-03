@@ -66,10 +66,10 @@ Contract is signed. Key details:
 
 | Driver | Vehicle | Pickup | Arrives |
 |---|---|---|---|
-| Jason Hardie | Ford Explorer | JAC | ~10:15 AM, Sep 17 (same inbound flight) |
-| Joe Schick | Expedition (or similar full-size) | JAC | ~10:15 AM, Sep 17 (same inbound flight) |
+| Jason Hardie | Ford Explorer | JAC | ~10:19 AM, Sep 17 (same inbound flight) |
+| Joe Schick | Expedition (or similar full-size) | JAC | ~10:19 AM, Sep 17 (same inbound flight) |
 
-- ⚠️ **Still confirm: Explorer seat count** — Explorers range from 5–7 seats depending on trim (standard 2-row = 5; 3rd row = 6 or 7). An Expedition seats 7–8. If the Explorer is a 5-seater, that's 13 total — zero margin and no room for bags. Need to know the exact trim/config.
+- ⚠️ **Still confirm: Explorer seat count** — Explorers range from 5–7 seats depending on trim (standard 2-row = 5; 3rd row = 6 or 7). Plan the Expedition as a **7-seater** (8 only with the front-bench option — don't bank on it). If the Explorer is a 5-seater, that's only **12 seats for 13** — one short, before you even count bags. Need to know the exact trim/config.
 - A **3rd vehicle or cargo carrier** may still help with luggage on airport-transfer days (13 guys + bags in two SUVs is tight regardless). Yellowstone day is daypacks only, so two SUVs are fine for that.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
 - **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline)

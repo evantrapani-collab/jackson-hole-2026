@@ -5,8 +5,9 @@
 | Meal | Spot | Day | Notes |
 |---|---|---|---|
 | Thursday bars | Snake River Brewing | Thu night | First stop; craft brewery, great food |
-| Thursday bars | Mangy Moose | Thu night | Jackson staple; live music most nights |
+| Thursday bars | Silver Dollar Bar & Grill | Thu night | Classic western bar; inlaid silver dollar bar top |
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
+| Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
 | Saturday dinner | House grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
@@ -21,11 +22,17 @@
 - Full menu — burgers, pub food, solid everything
 - Good first stop; sets the tone without being too much
 
+## Silver Dollar Bar & Grill (Thursday)
+
+- Inside the historic Wort Hotel, right on the town square
+- Named for the **2,000+ uncirculated silver dollars inlaid in the bar top** — a Jackson classic
+- Easy second stop on the walk toward the Cowboy Bar
+
 ## Mangy Moose (Thursday)
 
 - Iconic Jackson bar and restaurant at Teton Village
 - Live music most nights; big, fun, loud
-- Classic aprés/night-out spot
+- Classic après/night-out spot
 
 ## Million Dollar Cowboy Bar (Thursday)
 
