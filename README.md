@@ -35,7 +35,7 @@ Trip planning hub for everything related to the trip.
 
 **Thursday (arrival → night out)**
 - [ ] **Fill the midday gap** — flight lands 10:19 AM but Airbnb check-in is likely mid-afternoon (confirm exact check-in time with the host). Plan the window: grocery run (Smith's/Albertsons), buy **bear spray**, lunch + Jackson Drug shake downtown, then drift to Teton Village. Don't strand 13 guys + bags in a parking lot
-- [ ] **Plan the ride back from the bar crawl** — downtown Jackson → Teton Village is a ~20-min drive after a night of drinking. Name designated drivers per SUV, or sort a ride plan ahead of time (rideshare is thin/expensive late in Jackson)
+- [ ] **Plan the drive back from downtown Jackson** — the downtown bars → Teton Village leg is a ~20-min drive after drinking (Mangy Moose, the last stop, is in the Village and walkable from the house). Name designated drivers per SUV for that hop, or sort a ride plan ahead of time (rideshare is thin/expensive late in Jackson)
 
 **Cars**
 - [ ] ⭐ **Confirm Explorer trim/seat count** *(Owner: Jason Hardie — by 6/9)*: 5, 6, or 7 seats? A 5-seat Explorer + 7-seat Expedition = only 12 seats for 13 guys. If it's a 5-seater, book a 3rd vehicle or cargo carrier now — this is the only problem that can't be solved at the airport

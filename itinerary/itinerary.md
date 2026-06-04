@@ -18,7 +18,7 @@
   2. **Silver Dollar Bar and Grill** — classic western bar, inlaid silver dollar bar top
   3. **Million Dollar Cowboy Bar** — saddle bar stools, sawdust floors, live country music; the move
   4. **Mangy Moose** — right at Teton Village; natural last stop on the way back to the house
-- **Getting back:** the crawl is downtown Jackson, ~20 min from the house. Name **designated drivers per SUV** or sort a ride plan before you go out — rideshare in Jackson is thin and pricey late at night
+- **Getting back:** Mangy Moose is in Teton Village — **walkable from the house**, so the night ends on foot. The leg that needs a sober driver is the **downtown Jackson → Teton Village drive (~20 min)** earlier in the night, after the Cowboy Bar. Name **designated drivers per SUV** for that hop or sort a ride plan before you go out — rideshare in Jackson is thin and pricey late
 
 ---
 

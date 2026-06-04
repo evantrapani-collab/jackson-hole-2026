@@ -105,7 +105,7 @@ Contract is signed. Key details:
 - **Nearest hospital:** **St. John's Health**, 625 E Broadway, Jackson — 24-hr ER, ~25 min from the house. Write it down; there's no cell service in the parks. Relevant with rafting + hiking on the slate.
 - **Bear spray:** need **2+ canisters (~$50 each)**, one per vehicle — buy in Jackson (can't fly with it). Assign an owner; fits the Thursday arrival window.
 - **Travel insurance:** decide yes/no before the trip (on the packing checklist, not yet settled).
-- **Thursday night ride plan:** the bar crawl is ~20 min from the house — name designated drivers per SUV or arrange rides in advance (late-night rideshare in Jackson is thin).
+- **Thursday night ride plan:** Mangy Moose (last stop) is in Teton Village, walkable from the house. The sober-driver leg is the **downtown Jackson → Teton Village drive (~20 min)** after the Cowboy Bar — name designated drivers per SUV for that hop or arrange rides in advance (late-night rideshare in Jackson is thin).
 - **Wyoming non-emergency / dispatch:** 911 for emergencies; rangers reachable at park visitor centers.
 
 ---
