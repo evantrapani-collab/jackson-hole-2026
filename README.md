@@ -75,6 +75,7 @@ Trip planning hub for everything related to the trip.
 | [`/dining`](./dining/) | Restaurants and must-eat spots |
 | [`/packing`](./packing/) | Gear and clothing lists |
 | [`/logistics`](./logistics/) | Flights, car rental, permits, reservations |
+| [`/maps`](./maps/) | Get every trip location onto Google Maps (My Maps import + Saved-list links) |
 
 ## Key Dates to Watch
 
