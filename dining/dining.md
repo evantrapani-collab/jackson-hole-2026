@@ -4,6 +4,8 @@
 
 | Meal | Spot | Day | Notes |
 |---|---|---|---|
+| Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square — quick downtown hit |
+| Friday breakfast | The Bunnery | Fri AM | Pastries/coffee grab-and-go on the way to the 8 AM van tour |
 | Thursday bars | Snake River Brewing | Thu night | First stop; craft brewery, great food |
 | Thursday bars | Silver Dollar Bar & Grill | Thu night | Classic western bar; inlaid silver dollar bar top |
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
@@ -68,6 +70,34 @@
 - Buy groceries **Thursday on arrival** so you're not scrambling Saturday after Yellowstone
 - Assign someone as the grill captain
 - **Sides:** Grab whatever at the grocery store — keep it simple
+
+---
+
+## "10 Must-Eat Spots" — saved list, triaged against our schedule
+
+> Pulled from a saved Jackson Hole must-eat list. Our days are tight (Fri booked dawn-to-dusk, Sat is Yellowstone + the LSU game, Sun is the sunrise drive + Saints game), so here's the honest fit on each.
+
+**Already on our plan**
+- ✅ **Corbet's Cabin** — waffles at the top of the tram, 10,000+ ft, unreal views. Already slotted for **Sunday afternoon** after the Saints game (walkable from the house at Teton Village).
+- ✅ **Dornan's Pizza & Pasta Co.** — deck pizza with full Teton views in Moose. Already our **Sunday lunch/early-dinner** idea (see above).
+- ◻️ **Million Dollar Cowboy** — we've got the **Cowboy Bar** Thursday night. The downstairs *Steakhouse* is a sit-down option if anyone wants a western dinner instead of the house ribeyes.
+
+**Easy adds (low effort, fit the existing days)**
+- **Jackson Drug** — famous huckleberry shake, on the town square. Perfect quick hit **Thursday** while bar-hopping, or any time we're downtown. No reservation, no commitment.
+- **The Bunnery** — fresh pastries/breakfast on the square. Good grab-and-go **Friday morning** coffee/breakfast *on the way to the 8 AM van tour* (they tell you to eat on the way), or a relaxed Monday pre-flight bite.
+- **Leek's Pizzeria** — casual pizza at Leek's Marina on Jackson Lake, up near Colter Bay (~40 min north, in Grand Teton). Only makes sense if we end up that far north — otherwise Dornan's covers the pizza craving much closer.
+
+**Western steak dinner (alt to Saturday house grill)**
+- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse (elk, bison, trout). A real sit-down western dinner. Note: our **Saturday** is already the 24 oz ribeye grill at the house during the LSU game, so Gun Barrel would be a **Thursday** dinner swap, not an add-on.
+
+**Scenic park dining — aspirational, hard to fit**
+- **Mural Room** (Jackson Lake Lodge) — big windows on Willow Flats + the Tetons; great but it's ~45–60 min north and usually wants a reservation. Tough to wedge in given the booked Fri/Sat/Sun.
+- **Jenny Lake Dining Room** (Jenny Lake Lodge, Grand Teton) — the upscale, jacket-optional special-occasion meal; pricey, reservations required, runs a short fall season. Realistically a "next trip" unless we want one nice dinner and book early.
+
+**Night out with a twist**
+- **Jackson Hole Playhouse** — dinner + a live Western musical/melodrama. Fun for a group, but it eats a whole evening and needs reservations. Our nights are mostly spoken for (Thu bars, Sat/Sun games) — flag it only if we want to trade a bar night for it.
+
+> **Action:** confirm fall/shoulder-season hours for any of these before counting on them — Moose and the in-park spots (Dornan's, Mural Room, Jenny Lake, Leek's) run shortened schedules in late September.
 
 ---
 
