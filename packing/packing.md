@@ -85,8 +85,9 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 - [ ] National Park pass (America the Beautiful) or plan to buy at entrance
 - [ ] Printed hotel/lodging confirmations (cell service is unreliable)
 - [ ] Activity booking confirmations
-- [ ] Travel insurance info
-- [ ] Emergency contacts written down
+- [ ] Travel insurance info (decide if you're getting it)
+- [ ] Emergency contacts written down — incl. **St. John's Health, Jackson** (nearest ER)
+- [ ] Cash — Friday guide tips + a couple cash-only spots (Pica's, Nora's)
 
 ---
 

@@ -31,6 +31,11 @@ Trip planning hub for everything related to the trip.
 - [ ] **8/1** — Airbnb balance due: the rest of your per-person share (≈$556, Drewes quoted ~$600) minus the $500 deposit already paid → @drewespt Venmo
 - [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: lock the final per-person number AND a rule for who covers a late cancellation, so the crew isn't split-eating a no-show once the refund window closes
 - [ ] Rafting balance — Drewes collects from the crew closer to the trip (no individual action now)
+- [ ] **Guide gratuities** — Friday is a full-day van tour **+** private rafting trip; budget ~$20–40/person in tips across both guides. Expected, and easy to forget on the river. Bring **cash** (a few spots in town are cash-only too)
+
+**Thursday (arrival → night out)**
+- [ ] **Fill the midday gap** — flight lands 10:19 AM but Airbnb check-in is likely mid-afternoon (confirm exact check-in time with the host). Plan the window: grocery run (Smith's/Albertsons), buy **bear spray**, lunch + Jackson Drug shake downtown, then drift to Teton Village. Don't strand 13 guys + bags in a parking lot
+- [ ] **Plan the ride back from the bar crawl** — downtown Jackson → Teton Village is a ~20-min drive after a night of drinking. Name designated drivers per SUV, or sort a ride plan ahead of time (rideshare is thin/expensive late in Jackson)
 
 **Cars**
 - [ ] ⭐ **Confirm Explorer trim/seat count** *(Owner: Jason Hardie — by 6/9)*: 5, 6, or 7 seats? A 5-seat Explorer + 7-seat Expedition = only 12 seats for 13 guys. If it's a 5-seater, book a 3rd vehicle or cargo carrier now — this is the only problem that can't be solved at the airport
@@ -47,11 +52,17 @@ Trip planning hub for everything related to the trip.
 **Dining / Game day**
 - [ ] Pick Sunday Saints venue — Cutty's / The Bird / Eleanor's / house (Saints @ Ravens, 11 AM MT / noon CT, CBS — confirmed)
 - [ ] Assign Saturday grocery run + grill captain (13 ribeyes) — back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed)
+- [ ] **Friday dinner** — currently TBD. A 13-top in a small town in peak fall isn't a walk-in; book it now or commit to the house if you'd rather keep it loose after a dawn-to-dusk day
+- [ ] **Sunday dinner** — not planned (Dornan's is the *lunch* idea). Decide: early Dornan's, downtown, or house — Monday's 11:47 AM flight wants a reasonable night
 
 **1–2 weeks out**
 - [ ] Download offline maps for Yellowstone (no cell service)
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
 - [ ] Print all confirmations
+- [ ] **Bear spray** — assign an owner; need **2+ canisters (~$50 each)**, one per vehicle, bought in Jackson (can't fly with it). Folds into the Thursday window above
+- [ ] **Park pass owner** — decide America the Beautiful pass vs. paying $35/vehicle at the gate; if buying, grab it on Recreation.gov in advance to skip the line
+- [ ] **Travel insurance** — decide yes/no (it's on the packing checklist but never settled)
+- [ ] **Emergency info** — write down the nearest hospital: **St. John's Health, 625 E Broadway, Jackson** (~25 min from the house). It's a rafting + hiking trip; have it on paper since there's no cell service in the parks
 
 ## Repo Structure
 

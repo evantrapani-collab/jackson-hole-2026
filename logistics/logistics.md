@@ -27,6 +27,7 @@
 - **Airbnb (Montreux House)** — booked ✅
 - $500 deposit to @drewespt on Venmo — paid ✅
 - Balance due **8/1** (total minus deposit)
+- [ ] **Confirm check-in time** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon. Knowing the exact time sizes the Thursday midday gap (grocery + bear spray + downtown lunch fills it)
 
 ---
 
@@ -95,6 +96,17 @@ Contract is signed. Key details:
 - **Per-vehicle fee** — $35 each for Grand Teton and Yellowstone if no pass
 - With 13 guys in multiple vehicles, having a pass per vehicle saves money
 - **2026 note:** Yellowstone has bridge-construction delays at the **North and Northeast entrances** — not on our route. We use the **South Entrance**, which is unaffected.
+- [ ] **Assign a pass owner** — decide ATB pass vs. paying at the gate; if buying, grab it on Recreation.gov in advance to skip the line
+
+---
+
+## Safety & Emergency
+
+- **Nearest hospital:** **St. John's Health**, 625 E Broadway, Jackson — 24-hr ER, ~25 min from the house. Write it down; there's no cell service in the parks. Relevant with rafting + hiking on the slate.
+- **Bear spray:** need **2+ canisters (~$50 each)**, one per vehicle — buy in Jackson (can't fly with it). Assign an owner; fits the Thursday arrival window.
+- **Travel insurance:** decide yes/no before the trip (on the packing checklist, not yet settled).
+- **Thursday night ride plan:** the bar crawl is ~20 min from the house — name designated drivers per SUV or arrange rides in advance (late-night rideshare in Jackson is thin).
+- **Wyoming non-emergency / dispatch:** 911 for emergencies; rangers reachable at park visitor centers.
 
 ---
 
@@ -127,6 +139,11 @@ Contract is signed. Key details:
 - [ ] Confirm the Teton Village tram is running late-Sept (shoulder season) + buy tram tickets online — Sunday afternoon plan depends on it
 - [ ] Print all confirmations (no cell service at the parks)
 - [ ] Sort room/bed assignments (5 BR / 6 beds for 13)
+- [ ] Assign a bear-spray owner (2+ canisters, buy in Jackson)
+- [ ] Decide travel insurance (yes/no)
+- [ ] Book Friday dinner (13-top) if doing a reservation; pick the Sunday dinner plan
+- [ ] Confirm Airbnb check-in time with the host
+- [ ] Write down emergency info (St. John's Health, Jackson)
 
 ### On Arrival (Thursday)
 - [ ] Grocery run — Smith's or Albertsons in Jackson (ribeyes, sides, drinks)
