@@ -52,10 +52,14 @@
 | Flights | varies | Each person's own booking |
 | Food & Drink | $150–250 total | Bars Thu night, meals, drinks |
 | Ribeyes (Sat grill) | $50–80 | 24 oz bone-in + sides; split the grocery run |
+| Guide tips (Fri) | $20–40 | Van tour **+** rafting guides; bring cash |
+| Bear spray | ~$50/canister | Need 2+ (one per vehicle); split across the SUV. Buy in Jackson |
 | Rafting wetsuit rental | $5 | Optional; decide closer to the trip |
 | Park entry | $0–35/vehicle | Free with America the Beautiful pass |
 | Gas / transport | $30–60 | Split across vehicles |
 | Incidentals | $50–100 | Tips, souvenirs, extra drinks |
+
+> **Bring some cash.** Friday's guide tips want it, and a couple of town spots (Pica's, Nora's) are cash-only.
 
 ---
 

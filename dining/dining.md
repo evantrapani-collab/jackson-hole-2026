@@ -11,7 +11,9 @@
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
+| Friday dinner | **TBD** | Friday | Book a 13-top now, or keep it loose at the house after the dawn-to-dusk day |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
+| Sunday dinner | **TBD** | Sunday | Not planned — early Dornan's after the wildlife drive, downtown, or house |
 | Saturday dinner | House grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
 | Sunday game | Cutty's / The Bird / Eleanor's / house | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)** |
@@ -113,6 +115,13 @@
 | **Thai Me Up** | Thai | Beloved locals' spot |
 
 ---
+
+## Open dinners — still to lock
+
+- **Friday dinner** — TBD. After a dawn-to-dusk van tour + rafting day, either book a 13-top now (peak fall, small town — not a walk-in) or commit to a low-key house dinner.
+- **Sunday dinner** — not planned. Dornan's is the *lunch* idea; an early Dornan's after the wildlife drive works since you're already on that side of the park, or keep it in town / at the house. Monday's 11:47 AM flight wants a reasonable night.
+
+> **Cash:** a couple of these (Pica's, Nora's) are cash-only, and Friday's guide tips want cash too — hit an ATM.
 
 ## Grocery Run (Thursday arrival)
 

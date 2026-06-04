@@ -8,12 +8,17 @@
 ## Thursday, Sep 17 — Arrival + Hit the Town
 
 - Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
-- Check in to the house (Montreux House, Teton Village)
+- **Midday gap — fill it on purpose.** Check-in at the house is likely mid-afternoon (confirm exact time with the host), so there's ~4–5 hours between landing and the door opening. Don't strand 13 guys + bags in a lot:
+  - **Grocery run** — Smith's or Albertsons in Jackson (ribeyes, sides, breakfast for Friday, cooler drinks)
+  - **Buy bear spray** — 2+ canisters, one per vehicle (can't fly with it; this is the window)
+  - **Lunch downtown** + a Jackson Drug huckleberry shake on the square
+  - Drift to Teton Village; check in to the house (Montreux House)
 - **Night out (Jackson → Teton Village):**
   1. **Snake River Brewing** — craft brewery, great food; casual start
   2. **Silver Dollar Bar and Grill** — classic western bar, inlaid silver dollar bar top
   3. **Million Dollar Cowboy Bar** — saddle bar stools, sawdust floors, live country music; the move
   4. **Mangy Moose** — right at Teton Village; natural last stop on the way back to the house
+- **Getting back:** the crawl is downtown Jackson, ~20 min from the house. Name **designated drivers per SUV** or sort a ride plan before you go out — rideshare in Jackson is thin and pricey late at night
 
 ---
 
@@ -30,7 +35,8 @@
   - Shoes that attach to your feet required (no sandals or flip flops)
   - Wetsuit rental on-site: $5/person (3-piece) — decide closer to the trip based on weather
   - **No alcohol on the van or boat** — the lunch break is the window
-- **Evening:** Back to Jackson; dinner TBD (book a 13-top now if you want one — see open items)
+- **Evening:** Back to Jackson; dinner TBD. A 13-top in peak fall isn't a walk-in — **book it now** or commit to a low-key house dinner after the dawn-to-dusk day (see open items)
+- **Tip the guides:** both the van-tour and rafting guides — bring cash (~$20–40/person across both)
 
 ---
 
@@ -62,6 +68,7 @@
 - **11:00 AM MT — Saints @ Baltimore Ravens** (noon CT, **CBS**) — road game, late-morning watch
   - Watch at the house or a spot (Cutty's on Hwy 22, The Bird, or Eleanor's)
 - **Afternoon:** Explore favorites — ride the **Teton Village tram** for waffles at **Corbet's Cabin** (walkable from the house), grab pizza + the view at **Dornan's** in Moose, or hit downtown Jackson
+- **Dinner:** not yet locked — an early Dornan's after the wildlife drive works since you're on that side of the park, or keep it in town / at the house
 - Who Dat — Monday 11:47 AM departure means a reasonable Sunday night
 
 ---
@@ -81,6 +88,7 @@
 - **Bear spray:** one per vehicle (you'll split up); can't fly with it — buy/rent in Jackson
 - **Weather backup:** mid-September can bring early snow + road closures at Yellowstone elevation. Town fallback (brewery / Cowboy Bar) keeps a scrubbed park day from being a scramble
 - **No cell service in Yellowstone** — download offline maps before you go
+- **If something goes wrong:** nearest hospital is **St. John's Health, 625 E Broadway, Jackson** (~25 min from the house, 24-hr ER). Write it down — no cell service in the parks. It's a rafting + hiking trip
 
 ---
 
