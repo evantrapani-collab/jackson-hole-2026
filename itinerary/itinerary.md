@@ -28,7 +28,7 @@
 
 - **8:00 AM — JHWW Sunrise Wildlife Van Tour** (two vans, wildlife focus through Grand Teton NP)
   - This covers the Tetons — there's no separate self-drive time built in
-  - Grab coffee and breakfast on the way; they recommend it
+  - Grab coffee and breakfast on the way; they recommend it. **Cowboy Coffee Co.** on the town square is the must-do stop (also Bunnery pastries) — order to-go and don't let it push the 8 AM departure
 - **~11:30 AM — Lunch break** at the rafting rental spot
   - Deli-style lunch from the outfitter, OR **Cutty's Beer and Cheesesteaks** nearby
 - **1:00 PM — Snake River Whitewater Rafting** ("8 Miles of Smiles," Class 2–3) — private van + boat, ends ~4:30 PM
@@ -45,6 +45,7 @@
 > **Don't try to "do" Yellowstone.** It's ~1.5 hrs each way to Old Faithful. Pick a few stops and enjoy them rather than racing a loop.
 
 - **Leave by 7:00 AM** — South Entrance is ~1 hr from Jackson
+  - *Grab-and-go breakfast:* reheat the **breakfast-burrito stash** from the fridge (picked up Friday) — no time to cook before a 7 AM roll-out
 - **Keep it to 2–3 stops:**
   - **Old Faithful** — check the predicted eruption time (NPS app or visitor center, ~90-min cycle) so 13 guys aren't standing around
   - **Grand Prismatic Spring** overlook (Fairy Falls trail) — the iconic shot
@@ -61,6 +62,7 @@
 
 - **6:30–9:30 AM — Sunrise wildlife drive** (best light + animal activity of the trip)
   - *Sunrise is ~7:05 AM; leaving the house at 6:30 puts you at Schwabacher right at first light (~6:40)*
+  - *Grab-and-go breakfast:* hit the **breakfast-burrito stash** on the way out — nothing's open at 6:30 AM
   - **Schwabacher Landing** — the can't-miss sunrise: beaver ponds mirroring the Tetons. Hit it at first light
   - **Oxbow Bend** — moose, elk, often a bull elk bugling; classic Teton reflection
   - **Mormon Row** — bison against the Tetons at sunrise

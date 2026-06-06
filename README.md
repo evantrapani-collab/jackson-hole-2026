@@ -55,6 +55,7 @@ Trip planning hub for everything related to the trip.
 - [ ] **Groceries: pick a method + owner (unassigned)** — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. See [`/dining`](./dining/dining.md#grocery-delivery-options)
 - [ ] **Friday dinner** — currently TBD. A 13-top in a small town in peak fall isn't a walk-in; book it now or commit to the house if you'd rather keep it loose after a dawn-to-dusk day
 - [ ] **Sunday dinner** — not planned (Dornan's is the *lunch* idea). Decide: early Dornan's, downtown, or house — Monday's 11:47 AM flight wants a reasonable night
+- [ ] **Early-start breakfast** — order a batch of breakfast burritos (~18–20) to stash at the house for the Sat 7 AM Yellowstone + Sun 6:30 AM wildlife-drive starts; **pick up Friday after rafting** (Teton Village delivery is thin). See [`/dining`](./dining/dining.md#breakfast-burritos-for-the-early-starts--house-stash)
 
 **1–2 weeks out**
 - [ ] Download offline maps for Yellowstone (no cell service)
