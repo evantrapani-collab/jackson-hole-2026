@@ -34,7 +34,7 @@ Trip planning hub for everything related to the trip.
 - [ ] **Guide gratuities** — Friday is a full-day van tour **+** private rafting trip; budget ~$20–40/person in tips across both guides. Expected, and easy to forget on the river. Bring **cash** (a few spots in town are cash-only too)
 
 **Thursday (arrival → night out)**
-- [ ] **Fill the midday gap** — flight lands 10:19 AM but Airbnb check-in is likely mid-afternoon (confirm exact check-in time with the host). Plan the window: grocery run (Smith's/Albertsons), buy **bear spray**, lunch + Jackson Drug shake downtown, then drift to Teton Village. Don't strand 13 guys + bags in a parking lot
+- [ ] **Fill the midday gap** — flight lands 10:19 AM but Airbnb check-in is likely mid-afternoon (confirm exact check-in time with the host). Plan the window: grocery run (Smith's/Albertsons), buy **bear spray**, lunch + Jackson Drug shake downtown, then drift to Teton Village. Don't strand 13 guys + bags in a parking lot. *(Or skip the run entirely — see grocery **delivery/pre-stock** options in [`/dining`](./dining/dining.md#grocery-delivery-options): pre-stock the house before arrival + Instacart for restocks)*
 - [ ] **Plan the drive back from downtown Jackson** — the downtown bars → Teton Village leg is a ~20-min drive after drinking (Mangy Moose, the last stop, is in the Village and walkable from the house). Name designated drivers per SUV for that hop, or sort a ride plan ahead of time (rideshare is thin/expensive late in Jackson)
 
 **Cars**
@@ -51,7 +51,7 @@ Trip planning hub for everything related to the trip.
 
 **Dining / Game day**
 - [ ] Pick Sunday Saints venue — Cutty's / The Bird / Eleanor's / house (Saints @ Ravens, 11 AM MT / noon CT, CBS — confirmed)
-- [ ] Assign Saturday grocery run + grill captain (13 ribeyes) — back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed)
+- [ ] Assign Saturday grocery run + grill captain (13 ribeyes) — back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed). Buy/pre-stock the ribeyes Thursday (call the **Smith's butcher** ahead — 13 × 24 oz bone-in is too much to leave to delivery shelf stock)
 - [ ] **Friday dinner** — currently TBD. A 13-top in a small town in peak fall isn't a walk-in; book it now or commit to the house if you'd rather keep it loose after a dawn-to-dusk day
 - [ ] **Sunday dinner** — not planned (Dornan's is the *lunch* idea). Decide: early Dornan's, downtown, or house — Monday's 11:47 AM flight wants a reasonable night
 

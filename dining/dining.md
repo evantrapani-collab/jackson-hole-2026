@@ -131,3 +131,23 @@ Hit **Smith's (Kroger)** or **Albertsons** Thursday when you land. Get:
 - [ ] Breakfast food for Friday pre-rafting (coffee, pastries, easy stuff)
 - [ ] Drinks / cooler supplies for the parks
 - [ ] Snacks for Yellowstone on Saturday
+
+---
+
+## Grocery Delivery Options
+
+There's no full-size grocery in Teton Village, so the alternative to driving into Jackson is delivery. For **13 guys**, the smart play is a **hybrid**: pre-stock the bulk so the house is loaded on arrival, call the butcher to lock the ribeyes, and keep an app on standby for mid-trip restocks.
+
+**Tier 1 — Pre-arrival stocking (recommended for the group)**
+Shoppers fill the fridge *before you walk in* — ideal since Thursday lands 10:19 AM with a packed midday window before mid-afternoon check-in.
+- **Jackson Hole Grocery Delivery (Snap Pea)** — built for vacation rentals; works with local property managers to stock before arrival; curated "vacation-ready" packages to speed up the list.
+- **Mountains of Groceries** — full personal-shopper service. Pricing: **$45/delivery + 30% of the food bill + 8% processing fee + sales tax** (the 30% adds up on a 13-person haul — price it first).
+- **RMR concierge** — our property manager (Rendezvous Mountain Rentals). No published grocery service, but they handle pre-arrival coordination and paid add-ons; a manager letting a shopper in early is exactly how pre-stock works. Ask directly: **(307) 739-9050 / lodging@rmrentals.com**.
+
+**Tier 2 — Same-day app delivery (flexibility / restocks)**
+- **Instacart** delivers to Teton Village from **Smith's** and **Albertsons** — as fast as ~1 hr, windows ~9 AM–midnight, fees from $3.99 on $35+. Great for drinks, sides, snacks, and a Saturday/Sunday restock without anyone leaving the house.
+
+**Tier 3 — In-person (still the move for the steaks)**
+- ⚠️ Delivery apps pull from shelf stock, so **13 × 24 oz bone-in ribeyes is risky to order via Instacart** — you can't guarantee a butcher cuts that volume. **Call the Smith's butcher counter ahead**, pick the steaks up in person (or have them set aside), and let delivery handle the bulky, low-risk stuff.
+
+> **Bottom line:** pre-order a pre-stock (Snap Pea or Mountains of Groceries) for bulk + drinks, call the Smith's butcher to lock the ribeyes, keep Instacart as the mid-trip restock button. Frees up the tight Thursday window (bear spray + downtown lunch + Jackson Drug shake).
