@@ -52,6 +52,7 @@ Trip planning hub for everything related to the trip.
 **Dining / Game day**
 - [ ] Pick Sunday Saints venue — Cutty's / The Bird / Eleanor's / house (Saints @ Ravens, 11 AM MT / noon CT, CBS — confirmed)
 - [ ] Assign Saturday grocery run + grill captain (13 ribeyes) — back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed). Buy/pre-stock the ribeyes Thursday (call the **Smith's butcher** ahead — 13 × 24 oz bone-in is too much to leave to delivery shelf stock)
+- [ ] **Groceries: pick a method + owner (unassigned)** — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. See [`/dining`](./dining/dining.md#grocery-delivery-options)
 - [ ] **Friday dinner** — currently TBD. A 13-top in a small town in peak fall isn't a walk-in; book it now or commit to the house if you'd rather keep it loose after a dawn-to-dusk day
 - [ ] **Sunday dinner** — not planned (Dornan's is the *lunch* idea). Decide: early Dornan's, downtown, or house — Monday's 11:47 AM flight wants a reasonable night
 
