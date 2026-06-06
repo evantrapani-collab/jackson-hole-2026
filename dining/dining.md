@@ -6,6 +6,8 @@
 |---|---|---|---|
 | Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square — quick downtown hit |
 | Friday breakfast | The Bunnery | Fri AM | Pastries/coffee grab-and-go on the way to the 8 AM van tour |
+| Friday coffee | Cowboy Coffee Co. | Fri AM | Downtown Jackson (town square) — grab on the way out to the van tour/rafting; **a must** |
+| Early-start breakfast | Breakfast burritos (house stash) | Sat/Sun AM | Order a batch to keep at the house; reheat for the 7 AM Yellowstone + 6:30 AM wildlife-drive starts |
 | Thursday bars | Snake River Brewing | Thu night | First stop; craft brewery, great food |
 | Thursday bars | Silver Dollar Bar & Grill | Thu night | Classic western bar; inlaid silver dollar bar top |
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
@@ -43,6 +45,23 @@
 - On the town square
 - Saddle bar stools, sawdust floor, live country music
 - Has to be done at least once
+
+## Cowboy Coffee Co. (Friday AM) — the must-do coffee stop
+
+- Local Jackson coffee roaster **right on the town square** (N Cache St), so it's an easy grab on the way out of town toward the van tour/rafting put-in
+- Order coffee for the vans **to go**; they also do breakfast sandwiches/burritos if anyone wants food in hand
+- Pairs with — or replaces — the Bunnery stop Friday morning; pick whichever is the cleaner stop on the way out
+- Opens early — confirm exact hours before the 8 AM tour so the stop doesn't push the departure
+
+## Breakfast Burritos for the Early Starts — house stash
+
+The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:30 AM** sunrise wildlife drive) don't leave time to cook or sit down. Plan: **have a batch of breakfast burritos already in the fridge** so guys can grab-heat-and-go in the dark.
+
+- **Where:** Cowboy Coffee, Pearl Street Bagels, Picnic, or Hand Fire all do solid breakfast burritos in/near Jackson — order a bulk batch (**plan ~1.5 per guy ≈ 18–20** for 13)
+- **When to get them:** easiest is a **pickup Friday afternoon/evening** (after rafting) so they're in the fridge before Saturday's alarm; or buy Thursday on the grocery run and freeze
+- **Delivery caveat:** restaurant delivery (DoorDash/Uber Eats) into **Teton Village** is thin — **call ahead and pick up** rather than counting on same-day delivery to the house
+- **Reheat:** wrap in foil → oven, or microwave; stash hot sauce/salsa at the house. Keep a few frozen as backup for Sunday
+- Cheap insurance against 13 hungry guys and a 6:30 AM departure with nothing open
 
 ## Cutty's Beer and Cheesesteaks (Friday)
 
@@ -111,6 +130,7 @@
 | **Pica's Mexican Taqueria** | Cheap, legendary | Cash only; tiny; worth the wait |
 | **Snake River Grill** | Upscale | On the square; good for a nicer dinner |
 | **Persephone Bakery** | Breakfast/coffee | Best coffee in town; croissants |
+| **Cowboy Coffee Co.** | Coffee/breakfast | On the town square; early hours; burritos + sandwiches to go |
 | **Nora's Fish Creek Inn** | Diner breakfast | Cash only; iconic Wyoming diner |
 | **Thai Me Up** | Thai | Beloved locals' spot |
 
@@ -129,6 +149,7 @@ Hit **Smith's (Kroger)** or **Albertsons** Thursday when you land. Get:
 - [ ] 13 ribeyes (24 oz bone-in — call ahead if the store is small)
 - [ ] Grill sides (potatoes, corn, salad, whatever)
 - [ ] Breakfast food for Friday pre-rafting (coffee, pastries, easy stuff)
+- [ ] Breakfast burritos to stash for the Sat/Sun early starts (or pick up a batch Friday — see below)
 - [ ] Drinks / cooler supplies for the parks
 - [ ] Snacks for Yellowstone on Saturday
 
