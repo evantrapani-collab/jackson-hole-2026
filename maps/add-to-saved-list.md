@@ -7,7 +7,7 @@ Tap a link → it opens the place in Google Maps → **Save** → pick
 Boxes marked _(already in your list)_ are the ones visible in your
 current 19 pins — skip those.
 
-**59 places total.**
+**74 places total.**
 
 ## Lodging & Logistics
 
@@ -40,6 +40,20 @@ current 19 pins — skip those.
 - [ ] [Thai Me Up](https://www.google.com/maps/search/?api=1&query=Thai+Me+Up%2C+Jackson%2C+WY) — Beloved locals' Thai spot.
 - [ ] [The Bird](https://www.google.com/maps/search/?api=1&query=The+Bird%2C+Jackson%2C+WY) — Saints-game watch option; verify pin (S Hwy 89).
 - [ ] [Eleanor's](https://www.google.com/maps/search/?api=1&query=Eleanor%27s%2C+Jackson%2C+WY) — Saints-game watch option; verify pin.
+- [ ] [Local Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Local+Restaurant+and+Bar%2C+Jackson%2C+WY) — Friend rec; great happy hour. Top Friday 13-top candidate.
+- [ ] [Gather](https://www.google.com/maps/search/?api=1&query=Gather%2C+Jackson%2C+WY) — Friend rec; group-friendly. Top Friday 13-top candidate.
+- [ ] [The Bistro](https://www.google.com/maps/search/?api=1&query=The+Bistro%2C+Jackson%2C+WY) — Friend rec for breakfast and dinner; Friday candidate.
+- [ ] [Figs](https://www.google.com/maps/search/?api=1&query=Figs%2C+Hotel+Jackson%2C+Jackson%2C+WY) — Lebanese at Hotel Jackson; Friday candidate.
+- [ ] [Kampai](https://www.google.com/maps/search/?api=1&query=Kampai%2C+Jackson%2C+WY) — Sushi; too small for 13 — splinter or pre-dinner.
+- [ ] [Bin22](https://www.google.com/maps/search/?api=1&query=Bin22%2C+Jackson%2C+WY) — Wine bar + tapas; too small for 13 — pre-dinner stop.
+- [ ] [Coe Tavern](https://www.google.com/maps/search/?api=1&query=Coe+Tavern%2C+Jackson%2C+WY) — Rooftop drinks + snacks; pre-dinner stop.
+- [ ] [Roadhouse Brewing Co.](https://www.google.com/maps/search/?api=1&query=Roadhouse+Brewing+Co%2C+Jackson%2C+WY) — Great happy hour; Thursday-crawl alternate.
+- [ ] [D.O.G.](https://www.google.com/maps/search/?api=1&query=D.O.G.%2C+Jackson%2C+WY) — Friend's burrito pick; bulk-order option for the early-start stash.
+- [ ] [Creekside Market & Deli](https://www.google.com/maps/search/?api=1&query=Creekside+Market+and+Deli%2C+Jackson%2C+WY) — Sandwiches before heading into the parks.
+- [ ] [Pearl Street Market (sloshies)](https://www.google.com/maps/search/?api=1&query=Pearl+Street+Market%2C+Jackson%2C+WY) — Friend's sloshie favorite; downtown quick hit.
+- [ ] [Merry Piglets](https://www.google.com/maps/search/?api=1&query=Merry+Piglets%2C+Jackson%2C+WY) — Tex-Mex near the square; casual backup.
+- [ ] [Hand Fire Pizza](https://www.google.com/maps/search/?api=1&query=Hand+Fire+Pizza%2C+Jackson%2C+WY) — Pizza in the old theater; casual backup + burrito vendor.
+- [ ] [Healthy Being Juicery](https://www.google.com/maps/search/?api=1&query=Healthy+Being+Juicery%2C+Jackson%2C+WY) — Smoothies/juices if anyone needs a reset.
 
 ## Grand Teton NP
 
@@ -82,3 +96,4 @@ current 19 pins — skip those.
 - [ ] [Jackson Town Square (antler arches)](https://www.google.com/maps/search/?api=1&query=Jackson+Town+Square%2C+Jackson%2C+WY) — Antler arches, western shops, bars.
 - [ ] [National Elk Refuge](https://www.google.com/maps/search/?api=1&query=National+Elk+Refuge%2C+Jackson%2C+WY) — Early for winter herds but worth a look.
 - [ ] [National Museum of Wildlife Art](https://www.google.com/maps/search/?api=1&query=National+Museum+of+Wildlife+Art%2C+Jackson%2C+WY) — World-class collection; elk refuge views.
+- [ ] [Spirits & Spice](https://www.google.com/maps/search/?api=1&query=Spirits+and+Spice%2C+Jackson%2C+WY) — Friend's favorite shop; Thu midday gap or Sun afternoon.
