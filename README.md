@@ -63,7 +63,8 @@ Trip planning hub for everything related to the trip.
 - [ ] Print all confirmations
 - [ ] **Bear spray** — assign an owner; need **2+ canisters (~$50 each)**, one per vehicle, bought in Jackson (can't fly with it). Folds into the Thursday window above
 - [ ] **Park pass owner** — decide America the Beautiful pass vs. paying $35/vehicle at the gate; if buying, grab it on Recreation.gov in advance to skip the line
-- [ ] **Travel insurance** — decide yes/no (it's on the packing checklist but never settled)
+- [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) runs Thu Sep 17** — Tier 1 of the [DFW misconnect playbook](./logistics/logistics.md#if-the-dfw-connection-blows-up--misconnect-playbook) (43-min connection); if it's not in the schedule, the fallback is fly-to-SLC-and-drive (~5 hrs)
+- [ ] **Travel insurance** — decide yes/no (it's on the packing checklist but never settled). Trip-delay coverage is exactly the DFW 43-min-connection scenario — see the misconnect playbook
 - [ ] **Emergency info** — write down the nearest hospital: **St. John's Health, 625 E Broadway, Jackson** (~25 min from the house). It's a rafting + hiking trip; have it on paper since there's no cell service in the parks
 
 ## Repo Structure
