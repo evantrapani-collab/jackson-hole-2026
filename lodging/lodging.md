@@ -12,7 +12,7 @@
 | **Beds** | 6 |
 | **Bathrooms** | 5 private |
 | **Airbnb listing** | airbnb.com/rooms/52569336 |
-| **Total** | $7,229.82 (≈$600/person at 13 — see /budget) |
+| **Total** | $7,229.82 (≈$556/person at 13; Drewes quoted ~$600 — see /budget) |
 | **Balance due** | **8/1** — total minus $500 deposit |
 
 ### Location Notes
