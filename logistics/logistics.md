@@ -137,38 +137,39 @@ Contract is signed. Key details:
 
 ## Pre-Trip Checklist
 
-### Now — Urgent
+> In chronological order — work top to bottom.
+
+### Now — Urgent (June)
 - [x] Airbnb booked
 - [x] Rafting / van booked
 - [x] Book flights
 - [x] Send $500 deposit to @drewespt on Venmo
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
 - [x] 2 SUVs booked (Jason Hardie + Joe Schick)
-- [ ] Confirm Explorer trim/seat count (Jason Hardie's rental — 5, 6, or 7 seats?); decide if a 3rd vehicle or cargo carrier is needed
+- [ ] Confirm Explorer trim/seat count (Jason Hardie's rental — 5, 6, or 7 seats?); decide if a 3rd vehicle or cargo carrier is needed — **by 6/9**
+- [ ] Book Friday dinner (13-top) if doing a reservation — a 13-top in peak fall books out; reserve now or commit to the house
+- [ ] Confirm Airbnb check-in time with the host — sizes the Thursday midday gap
 
 ### 8/1
 - [ ] Airbnb balance due (total minus $500 deposit)
 
-### Closer to the trip
-- [ ] Rafting balance — Drewes collects from the crew (depends on final headcount; no individual action now)
-
-### 1–2 Months Before
-- [ ] Decide on wetsuit rentals (weather-dependent)
-- [ ] Decide on rafting lunch (outfitter vs. Cutty's)
-- [ ] Download offline maps for Yellowstone
+### August → Sep 10
+- [ ] Sort room/bed assignments (5 BR / 6 beds for 13) — after confirming what the house actually sleeps
+- [ ] Rafting balance — Drewes collects from the crew (depends on final headcount; no individual action now); per-person number + late-cancel rule locked **by 9/10** (7-day refund cutoff)
+- [ ] Assign who's buying groceries for Saturday ribeye night
+- [ ] Pick the Sunday dinner plan
 
 ### 1–2 Weeks Before
 - [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) is running Thu Sep 17** — it's Tier 1 of the misconnect playbook above; if it's not in the schedule, the fallback is fly-to-SLC-and-drive
-- [ ] Check Yellowstone road/trail conditions at NPS.gov
-- [ ] Finalize vehicle/carpool plan from the airports
-- [ ] Assign who's buying groceries for Saturday ribeye night
-- [ ] Confirm the Teton Village tram is running late-Sept (shoulder season) + buy tram tickets online — Sunday afternoon plan depends on it
-- [ ] Print all confirmations (no cell service at the parks)
-- [ ] Sort room/bed assignments (5 BR / 6 beds for 13)
-- [ ] Assign a bear-spray owner (2+ canisters, buy in Jackson)
 - [ ] Decide travel insurance (yes/no)
-- [ ] Book Friday dinner (13-top) if doing a reservation; pick the Sunday dinner plan
-- [ ] Confirm Airbnb check-in time with the host
+- [ ] Confirm the Teton Village tram is running late-Sept (shoulder season) + buy tram tickets online — Sunday afternoon plan depends on it
+- [ ] Assign a bear-spray owner (2+ canisters, buy in Jackson)
+- [ ] Decide on wetsuit rentals (weather-dependent)
+- [ ] Decide on rafting lunch (outfitter vs. Cutty's)
+- [ ] Finalize vehicle/carpool plan from the airports
+- [ ] Download offline maps for Yellowstone
+- [ ] Check Yellowstone road/trail conditions at NPS.gov
+- [ ] Print all confirmations (no cell service at the parks)
 - [ ] Write down emergency info (St. John's Health, Jackson)
 
 ### On Arrival (Thursday)
