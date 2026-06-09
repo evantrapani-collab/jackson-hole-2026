@@ -37,31 +37,32 @@
 
 ## Yellowstone National Park
 
+> **Reality check for our Saturday:** we enter via the **South Entrance** and need to be back by **~3 PM** for the LSU game. That makes the lower-left corner of the park (Old Faithful / Grand Prismatic / West Thumb) the realistic range — they're the itinerary's 2–3 stops. Everything flagged 🚫 below is solid reference for a future trip, but it's 2.5–4 hrs **one-way** from the South Entrance and doesn't fit this one.
+
 ### Must-See Thermal Features
 
-| Feature | Location | Notes |
-|---|---|---|
-| Old Faithful | Upper Geyser Basin | Erupts every ~90 min; boardwalk loop around the basin is excellent |
-| Grand Prismatic Spring | Midway Geyser Basin | Most photographed in the park; hike the overlook trail for the aerial view |
-| Norris Geyser Basin | Central | Most active and hottest; Steamboat Geyser is world's tallest active geyser |
-| Mammoth Hot Springs | North | Colorful travertine terraces; constantly changing formations |
-| Artists' Paintpots | Central | Fun, accessible, less crowded |
+| Feature | Location | Fits Saturday? | Notes |
+|---|---|---|---|
+| Old Faithful | Upper Geyser Basin | ✅ on the plan | Erupts every ~90 min; boardwalk loop around the basin is excellent |
+| Grand Prismatic Spring | Midway Geyser Basin | ✅ on the plan | Most photographed in the park; hike the overlook trail for the aerial view |
+| West Thumb Geyser Basin | South, on Yellowstone Lake | ✅ on the plan | Right on the way back; quick and worth it |
+| Norris Geyser Basin | Central | 🚫 too far | Most active and hottest; Steamboat Geyser is world's tallest active geyser |
+| Mammoth Hot Springs | North | 🚫 too far | Colorful travertine terraces; constantly changing formations |
+| Artists' Paintpots | Central | 🚫 too far | Fun, accessible, less crowded |
 
 ### Wildlife
 
-- **Lamar Valley** — "America's Serengeti." Best wildlife viewing in the lower 48.
-  - **September highlights:** Bison herds, wolves (Wapiti Lake and Junction Butte packs active), grizzlies hyperphagia (eating everything before hibernation), elk rut begins
-  - Go at dawn. Bring a spotting scope or rent binoculars in Gardiner.
-- **Hayden Valley** — bison herds, grizzlies, wolves; closer to Canyon
-- **Yellowstone Lake** — osprey, eagles, cutthroat trout
-- **Boiling River** — where hot springs meet the Gardner River; legal swimming; seasonal
+- **Yellowstone Lake** — osprey, eagles, cutthroat trout; you drive its shore between West Thumb and the South Entrance ✅
+- 🚫 **Lamar Valley** — "America's Serengeti," best wildlife viewing in the lower 48 — but it's the far **northeast** corner, 3+ hrs one-way from our entrance. Not this trip; our wildlife dawn is **Sunday in Grand Teton** (Schwabacher, Oxbow Bend), which is the same show 20 minutes from the house
+- 🚫 **Hayden Valley** — bison herds, grizzlies, wolves; closer to Canyon, still well past our turnaround
+- ~~**Boiling River**~~ — **closed**: the June 2022 flood rerouted the river and destroyed the soaking area; NPS has no plans to reopen it
 
 ### Scenic Drives & Overlooks
 
-- **Grand Loop Road** — the figure-eight that connects all major areas; plan your route to avoid backtracking
-- **Grand Canyon of the Yellowstone** — Upper and Lower Falls; Artist Point is the iconic view
-- **Mount Washburn** — 6.4 mi RT hike or drive to the lookout tower; stunning 360° views; grizzlies often spotted
-- **Beartooth Highway** (if time allows, exiting via Cooke City) — one of the most scenic roads in America
+- **Grand Loop Road** — the figure-eight that connects all major areas; we only touch the lower-left segment (South Entrance → West Thumb → Old Faithful)
+- 🚫 **Grand Canyon of the Yellowstone** — Upper and Lower Falls; Artist Point is the iconic view — adding it blows the 3 PM return
+- 🚫 **Mount Washburn** — 6.4 mi RT hike or drive to the lookout tower; stunning 360° views — central park, too far
+- 🚫 **Beartooth Highway** — one of the most scenic roads in America, but it exits the **opposite** side of the park via Cooke City. Next trip
 
 ---
 
@@ -77,7 +78,7 @@
 
 ## Booking Notes
 
-- [ ] Snake River float — book 2–3 months ahead; pick scenic vs. whitewater
+- [x] Snake River **whitewater** rafting — booked ✅ (JHWW, Friday 1 PM; see `/logistics`). The *scenic* float is a separate product and there's no open window for it this trip
+- [x] Wildlife guide — covered ✅ by the booked Friday 8 AM JHWW van tour through Grand Teton
 - [ ] Teton Village tram — no reservation needed to ride, but **buy tickets in advance online** (months out for peak days); check fall operating hours/dates since late-Sept is shoulder season
-- [ ] Fishing guide — book early for September; prime season
-- [ ] Yellowstone wolf/wildlife safari guide — optional but helpful in Lamar Valley
+- [ ] Fishing guide — only if someone wants to trade away a slotted block (the schedule is full); September is prime season, so book early if so

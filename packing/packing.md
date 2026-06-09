@@ -16,7 +16,7 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 
 ### Mid Layers
 - [ ] Fleece or mid-weight insulating jacket
-- [ ] Down or synthetic puffy jacket — essential; cold mornings in Lamar Valley at 5am
+- [ ] Down or synthetic puffy jacket — essential; the Sunday 6:30 AM wildlife drive and Saturday 7 AM Yellowstone start will be in the 30s
 
 ### Outer Layer
 - [ ] Waterproof rain jacket (hardshell or softshell) — must-have; afternoon thunderstorms are common
@@ -52,11 +52,11 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 
 ### Wildlife Viewing
 - [ ] Binoculars — **bring them**; you will use them every day (8x42 or 10x42 ideal)
-- [ ] Spotting scope (optional; serious wildlife watchers will love it in Lamar Valley)
+- [ ] Spotting scope (optional; earns its keep at Oxbow Bend / Willow Flats on the Sunday drive)
 - [ ] Camera + telephoto lens if serious about wildlife photography
 
 ### Safety & Health
-- [ ] **Bear spray** — mandatory in both parks; can rent in Gardiner or Jackson if you don't want to fly with it
+- [ ] **Bear spray** — handled at the group level: buying **2+ canisters in Jackson on Thursday** (one per vehicle, ~$50 each); can't fly with it. See `/logistics`
 - [ ] First aid kit
 - [ ] Moleskin / blister treatment
 - [ ] Sunscreen (SPF 50+) — altitude sun is intense
@@ -93,7 +93,7 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 
 ## Notes
 
-- **Bear spray:** Do not pack in carry-on or checked luggage (FAA prohibited). Buy or rent on arrival in Jackson or Gardiner.
+- **Bear spray:** Do not pack in carry-on or checked luggage (FAA prohibited). The group buys canisters in Jackson on arrival Thursday — don't bring your own.
 - **Layers > warm clothes:** A puffy + rain jacket beats a single heavy coat for flexibility.
 - **Skip the umbrella:** Useless in mountain wind; a hood is always better.
 - **Cotton kills:** Avoid cotton base layers and socks entirely. When wet, cotton loses all insulating ability.
