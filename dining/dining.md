@@ -57,7 +57,7 @@
 
 The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:30 AM** sunrise wildlife drive) don't leave time to cook or sit down. Plan: **have a batch of breakfast burritos already in the fridge** so guys can grab-heat-and-go in the dark.
 
-- **Where:** Cowboy Coffee, Pearl Street Bagels, Picnic, or Hand Fire all do solid breakfast burritos in/near Jackson — order a bulk batch (**plan ~1.5 per guy ≈ 18–20** for 13)
+- **Where:** Cowboy Coffee, Pearl Street Bagels, Picnic, D.O.G. ("miss these burritos" — a friend's rec), or Hand Fire all do solid breakfast burritos in/near Jackson — order a bulk batch (**plan ~1.5 per guy ≈ 18–20** for 13)
 - **When to get them:** easiest is a **pickup Friday afternoon/evening** (after rafting) so they're in the fridge before Saturday's alarm; or buy Thursday on the grocery run and freeze
 - **Delivery caveat:** restaurant delivery (DoorDash/Uber Eats) into **Teton Village** is thin — **call ahead and pick up** rather than counting on same-day delivery to the house
 - **Reheat:** wrap in foil → oven, or microwave; stash hot sauce/salsa at the house. Keep a few frozen as backup for Sunday
@@ -122,6 +122,44 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 
 ---
 
+## Friend's Recs (photo list) — triaged against our schedule
+
+> A friend's Jackson Hole list (breakfast/lunch/dinner spots + activities), run through the same honest filter: Friday is booked dawn-to-dusk, Saturday is Yellowstone + the LSU game, Sunday is the sunrise drive + Saints game.
+
+**Already on our plan**
+- ✅ **Jackson Drug** — the Thursday huckleberry-shake stop
+- ✅ **Silver Dollar** (live music) + **Million Dollar Cowboy Bar** (sit on the saddles) — both Thursday bar-crawl stops
+- ✅ **Whitewater rafting the Snake** — booked (JHWW, Friday 1 PM); the less-intense scenic float was already triaged out — no open window
+- ✅ **Tram to the top of the mountain** — Sunday afternoon, with Corbet's waffles at the summit
+- ✅ **Persephone Bakery** / **Snake River Grill** — already in the backup table below (friend confirms Snake River Grill books **months out** — not a spontaneous 13-top)
+- ◻️ **Horseback riding** — already an option in `/activities`; friend loved **Spring Creek Ranch** and says book in advance. Only fits if we trade away a slotted block
+
+**Easy adds (fit the existing days)**
+- **D.O.G.** — friend's burrito pick; added to the breakfast-burrito stash vendor list above
+- **Creekside Market** — "perfect to grab a sandwich before going into Grand Teton" — fits Sunday on the way to/from the wildlife drive, or stock the Saturday Yellowstone cooler if their hours beat the 7 AM roll-out
+- **Pearl Street sloshie** — friend's favorite; quick downtown hit Thursday alongside the Jackson Drug shake
+- **Roadhouse Brewery** — "great happy hour"; Thursday-crawl alternate or extra stop
+- **Merry Piglets / Hand Fire Pizza** — casual downtown lunch/dinner backups (Hand Fire is already on the burrito-vendor list)
+- **Healthy Being** — smoothies/juices; there if anyone needs a green reset, not a group stop
+- **Shop the square / Spirits & Spice** — see `/activities`; fits the Thursday midday gap or Sunday afternoon
+
+**Friday-dinner candidates (our open 13-top)**
+Friend's dinner list, sized against 13 guys — all want advance reservations:
+- **Local** — on the square, "great happy hour"; big enough to book → **top candidate**
+- **Gather** — group-friendly Jackson standby → **top candidate**
+- **The Bistro** — on both the breakfast and dinner lists; candidate
+- **Figs** — Lebanese at Hotel Jackson; candidate
+- **Kampai** (sushi) / **Bin 22** (wine + tapas) — great but small; splinter-group or pre-dinner, not a 13-top
+- **Coe Tavern** — rooftop drinks and snacks; pre-dinner stop, not the dinner
+- **Snake River Grill** — books months out; book *now* if the crew wants it, otherwise let it go
+
+**Doesn't fit this trip**
+- 🚫 **Jackson Hole Rodeo** — friend's right that it sells out, but the season runs Memorial Day–Labor Day (2026: May 23 – Sep 7). We land Sep 17 — it's not running
+- 🚫 **Saturday Farmers Market** (Town Square, 8 AM–noon) — runs into late September, but our Saturday is Yellowstone 7 AM → ~3 PM, then the LSU game. No window
+- 🚫 **Snow King concert series** — summer series (June–August); over before we arrive
+
+---
+
 ## Other Jackson Options (if needed)
 
 | Spot | Vibe | Notes |
@@ -138,7 +176,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 
 ## Open dinners — still to lock
 
-- **Friday dinner** — TBD. After a dawn-to-dusk van tour + rafting day, either book a 13-top now (peak fall, small town — not a walk-in) or commit to a low-key house dinner.
+- **Friday dinner** — TBD. After a dawn-to-dusk van tour + rafting day, either book a 13-top now (peak fall, small town — not a walk-in) or commit to a low-key house dinner. Top candidates from the friend's rec list: **Local**, **Gather**, **The Bistro**, **Figs** (Snake River Grill books months out — now or never).
 - **Sunday dinner** — not planned. Dornan's is the *lunch* idea; an early Dornan's after the wildlife drive works since you're already on that side of the park, or keep it in town / at the house. Monday's 11:47 AM flight wants a reasonable night.
 
 > **Cash:** a couple of these (Pica's, Nora's) are cash-only, and Friday's guide tips want cash too — hit an ATM.

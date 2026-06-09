@@ -52,6 +52,20 @@ PLACES = [
     ("Thai Me Up", "Food & Drink", "Backup", "Thai Me Up, Jackson, WY", False, "Beloved locals' Thai spot."),
     ("The Bird", "Food & Drink", "Sun", "The Bird, Jackson, WY", False, "Saints-game watch option; verify pin (S Hwy 89)."),
     ("Eleanor's", "Food & Drink", "Sun", "Eleanor's, Jackson, WY", False, "Saints-game watch option; verify pin."),
+    ("Local Restaurant & Bar", "Food & Drink", "Fri dinner cand.", "Local Restaurant and Bar, Jackson, WY", False, "Friend rec; great happy hour. Top Friday 13-top candidate."),
+    ("Gather", "Food & Drink", "Fri dinner cand.", "Gather, Jackson, WY", False, "Friend rec; group-friendly. Top Friday 13-top candidate."),
+    ("The Bistro", "Food & Drink", "Fri dinner cand.", "The Bistro, Jackson, WY", False, "Friend rec for breakfast and dinner; Friday candidate."),
+    ("Figs", "Food & Drink", "Fri dinner cand.", "Figs, Hotel Jackson, Jackson, WY", False, "Lebanese at Hotel Jackson; Friday candidate."),
+    ("Kampai", "Food & Drink", "Splinter group", "Kampai, Jackson, WY", False, "Sushi; too small for 13 — splinter or pre-dinner."),
+    ("Bin22", "Food & Drink", "Splinter group", "Bin22, Jackson, WY", False, "Wine bar + tapas; too small for 13 — pre-dinner stop."),
+    ("Coe Tavern", "Food & Drink", "Drinks", "Coe Tavern, Jackson, WY", False, "Rooftop drinks + snacks; pre-dinner stop."),
+    ("Roadhouse Brewing Co.", "Food & Drink", "Thu night alt", "Roadhouse Brewing Co, Jackson, WY", False, "Great happy hour; Thursday-crawl alternate."),
+    ("D.O.G.", "Food & Drink", "Burrito stash", "D.O.G., Jackson, WY", False, "Friend's burrito pick; bulk-order option for the early-start stash."),
+    ("Creekside Market & Deli", "Food & Drink", "Sun / cooler", "Creekside Market and Deli, Jackson, WY", False, "Sandwiches before heading into the parks."),
+    ("Pearl Street Market (sloshies)", "Food & Drink", "Thu", "Pearl Street Market, Jackson, WY", False, "Friend's sloshie favorite; downtown quick hit."),
+    ("Merry Piglets", "Food & Drink", "Backup", "Merry Piglets, Jackson, WY", False, "Tex-Mex near the square; casual backup."),
+    ("Hand Fire Pizza", "Food & Drink", "Backup", "Hand Fire Pizza, Jackson, WY", False, "Pizza in the old theater; casual backup + burrito vendor."),
+    ("Healthy Being Juicery", "Food & Drink", "Optional", "Healthy Being Juicery, Jackson, WY", False, "Smoothies/juices if anyone needs a reset."),
 
     # --- Grand Teton National Park ---
     ("Grand Teton — Moose / Visitor Center", "Grand Teton NP", "Fri/Sun", "Craig Thomas Discovery and Visitor Center, Moose, WY", False, "South park gateway; near Dornan's & Schwabacher."),
@@ -91,6 +105,7 @@ PLACES = [
     ("Jackson Town Square (antler arches)", "Jackson Town", "Thu", "Jackson Town Square, Jackson, WY", False, "Antler arches, western shops, bars."),
     ("National Elk Refuge", "Jackson Town", "Optional", "National Elk Refuge, Jackson, WY", False, "Early for winter herds but worth a look."),
     ("National Museum of Wildlife Art", "Jackson Town", "Optional", "National Museum of Wildlife Art, Jackson, WY", False, "World-class collection; elk refuge views."),
+    ("Spirits & Spice", "Jackson Town", "Shopping", "Spirits and Spice, Jackson, WY", False, "Friend's favorite shop; Thu midday gap or Sun afternoon."),
 ]
 
 HERE = os.path.dirname(os.path.abspath(__file__))

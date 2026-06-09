@@ -20,6 +20,31 @@
 
 > **Monday morning:** Be at JAC by **10:15 AM**. Small airport but don't sleep in.
 
+### If the DFW connection blows up — misconnect playbook
+
+> Everyone's on one ticket, so a missed connection means **AA rebooks us free and automatically** — the problem isn't cost, it's finding **13 seats** to a small mountain airport on short notice. The thing to protect is **Friday's 8 AM van tour** (private van + boat, refund window closed by then), not Thursday — nothing on Thursday is booked that the grocery pre-stock fallback can't absorb.
+
+**Tier 0 — prevention (costs nothing)**
+- All 13 load the trip in the **AA app** with push alerts on; check the inbound aircraft Wednesday night
+- **Carry-on only** for anyone who can manage it — checked bags chain you to AA's rebooking; carry-ons can take any reroute, including the SLC drive
+- Sit toward the front of AA 468 — the 43 minutes is a Skylink sprint, not a coffee stop
+
+**Tier 1 — missed it; catch the same-day evening nonstop**
+- DFW→JAC typically has a **second nonstop ~5:50 PM (lands ~7:45 PM)** — but post-Labor-Day schedules thin out, so **verify it's running Thu Sep 17** (on the 1–2-weeks-out list)
+- The race is seats, not rebooking: all 13 rebook **simultaneously in the AA app** while one guy calls AA and another hits the gate desk. Take whatever's there; split across flights if needed
+- **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations. An advance party grabs the SUVs, checks into the house, and triggers the grocery **delivery** fallback (see `/dining`)
+- Cost of this outcome: the Thursday midday window and most of the bar crawl. Friday untouched. Bear spray moves to Friday evening
+
+**Tier 2 — no JAC seats left same day: fly to SLC and drive**
+- AA runs many daily DFW→SLC flights; Jackson is **~280 mi / ~5 hrs** from SLC (see drive-time table below)
+- One-way rentals SLC→Jackson are routine (Hertz, Enterprise, Avis, etc.; drop fees ~$12–140 — noise split 13 ways)
+- Whole group reroutes → rent **two one-way SUVs at SLC** and cancel the JAC reservations. Group splits → keep at least one rental driver on whatever still lands at JAC
+- Even a 3 PM SLC landing puts everyone at the house by dinner with Friday fully intact
+
+**Tier 3 — the outcome to refuse: overnighting at DFW**
+- The first Friday flight lands 10:19 AM — **two hours after the van tour leaves**, with the refund window closed
+- Rule of thumb: **if it's before ~6 PM and there's no confirmed JAC seat, take the SLC routing. Drive before you sleep.**
+
 ---
 
 ## Lodging
@@ -133,6 +158,7 @@ Contract is signed. Key details:
 - [ ] Download offline maps for Yellowstone
 
 ### 1–2 Weeks Before
+- [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) is running Thu Sep 17** — it's Tier 1 of the misconnect playbook above; if it's not in the schedule, the fallback is fly-to-SLC-and-drive
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
 - [ ] Finalize vehicle/carpool plan from the airports
 - [ ] Assign who's buying groceries for Saturday ribeye night
