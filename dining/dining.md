@@ -13,9 +13,9 @@
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
-| Friday dinner | **TBD** | Friday | Book a 13-top now, or keep it loose at the house after the dawn-to-dusk day |
+| Friday dinner | **House (default)** | Friday | Low-key house dinner after the dawn-to-dusk day; upgrade to Local/Gather only if booked **by 6/30** |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
-| Sunday dinner | **TBD** | Sunday | Not planned — early Dornan's after the wildlife drive, downtown, or house |
+| Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose (confirm fall hours); backup is the house — reasonable night before the 11:47 AM flight |
 | Saturday dinner | House grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
 | Sunday game | Cutty's / The Bird / Eleanor's / house | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)** |
@@ -174,10 +174,10 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 
 ---
 
-## Open dinners — still to lock
+## Dinner defaults — decided
 
-- **Friday dinner** — TBD. After a dawn-to-dusk van tour + rafting day, either book a 13-top now (peak fall, small town — not a walk-in) or commit to a low-key house dinner. Top candidates from the friend's rec list: **Local**, **Gather**, **The Bistro**, **Figs** (Snake River Grill books months out — now or never).
-- **Sunday dinner** — not planned. Dornan's is the *lunch* idea; an early Dornan's after the wildlife drive works since you're already on that side of the park, or keep it in town / at the house. Monday's 11:47 AM flight wants a reasonable night.
+- **Friday — the house (default).** After a dawn-to-dusk van tour + rafting day, the default is a low-key house dinner off the grocery stock. Upgrade path: if the crew wants the 13-top, book **Local** or **Gather** by **6/30** (alternates: **The Bistro**, **Figs**; Snake River Grill books months out — already now-or-never). No booking by 6/30 → the house *is* the plan, and nobody scrambles for a peak-fall table.
+- **Sunday — early Dornan's (default), ~5 PM.** Pizza + the Teton view to close the last full day; **backup: the house.** Confirm Dornan's fall hours the week before (Moose runs shorter shoulder-season schedules). Monday's 11:47 AM flight wants a reasonable night.
 
 > **Cash:** a couple of these (Pica's, Nora's) are cash-only, and Friday's guide tips want cash too — hit an ATM.
 

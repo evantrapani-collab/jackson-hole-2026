@@ -52,7 +52,7 @@
 - **Airbnb (Montreux House)** — booked ✅
 - $500 deposit to @drewespt on Venmo — paid ✅
 - Balance due **8/1** (total minus deposit)
-- [ ] **Confirm check-in time** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon. Knowing the exact time sizes the Thursday midday gap (grocery + bear spray + downtown lunch fills it)
+- [ ] **Confirm check-in + checkout times** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight
 
 ---
 
@@ -125,6 +125,22 @@ Contract is signed. Key details:
 
 ---
 
+## Key Contacts — print this (no cell service in the parks)
+
+| Who | Why | Contact |
+|---|---|---|
+| **Montreux House** (the Airbnb) | Home base | 3720 Morley Drive, Teton Village, WY 83025 |
+| **RMR** (property manager) | House issues, pre-arrival coordination | (307) 739-9050 · lodging@rmrentals.com |
+| **JHWW — Jeff** | Friday van tour + rafting | Number is on the signed contract — copy it here when printing confirmations |
+| **American Airlines** | Flight changes / misconnect | (800) 433-7300 + the AA app |
+| **St. John's Health** | Nearest 24-hr ER | 625 E Broadway, Jackson — ~25 min from the house |
+| **Drewes** | Money hub | @drewespt on Venmo |
+| **Hardie / Schick** | The two rental SUVs | Confirmations on their bookings |
+
+> One guy prints this table with the confirmations; a photo of it on every phone is the offline backup.
+
+---
+
 ## Safety & Emergency
 
 - **Nearest hospital:** **St. John's Health**, 625 E Broadway, Jackson — 24-hr ER, ~25 min from the house. Write it down; there's no cell service in the parks. Relevant with rafting + hiking on the slate.
@@ -169,7 +185,7 @@ Contract is signed. Key details:
 - [ ] Finalize vehicle/carpool plan from the airports
 - [ ] Download offline maps for Yellowstone
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
-- [ ] Print all confirmations (no cell service at the parks)
+- [ ] Print all confirmations + the Key Contacts table above (no cell service at the parks)
 - [ ] Write down emergency info (St. John's Health, Jackson)
 
 ### On Arrival (Thursday)

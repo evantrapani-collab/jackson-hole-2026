@@ -35,7 +35,7 @@
   - Shoes that attach to your feet required (no sandals or flip flops)
   - Wetsuit rental on-site: $5/person (3-piece) — decide closer to the trip based on weather
   - **No alcohol on the van or boat** — the lunch break is the window
-- **Evening:** Back to Jackson; dinner TBD. A 13-top in peak fall isn't a walk-in — **book it now** or commit to a low-key house dinner after the dawn-to-dusk day (see open items)
+- **Evening — dinner default: the house.** After a dawn-to-dusk day, the default is a low-key house dinner off the grocery stock (the burrito pickup is already on the way home). If the crew wants the 13-top instead, book **Local or Gather by 6/30** — a peak-fall 13-top isn't a walk-in, so past 6/30 the house *is* the plan, no scramble
 - **Tip the guides:** both the van-tour and rafting guides — bring cash (~$20–40/person across both)
 
 ---
@@ -70,13 +70,14 @@
 - **11:00 AM MT — Saints @ Baltimore Ravens** (noon CT, **CBS**) — road game, late-morning watch
   - Watch at the house or a spot (Cutty's on Hwy 22, The Bird, or Eleanor's)
 - **Afternoon:** Explore favorites — ride the **Teton Village tram** for waffles at **Corbet's Cabin** (walkable from the house), grab pizza + the view at **Dornan's** in Moose, or hit downtown Jackson
-- **Dinner:** not yet locked — an early Dornan's after the wildlife drive works since you're on that side of the park, or keep it in town / at the house
+- **Dinner — default: early Dornan's (~5 PM)** in Moose — pizza + the Teton view to close the last full day (confirm fall hours the week before; Moose runs shoulder-season schedules). **Backup: the house**
 - Who Dat — Monday 11:47 AM departure means a reasonable Sunday night
 
 ---
 
 ## Monday, Sep 21 — Travel Home
 
+- **Out of the house by ~9:45 AM** — confirm the exact checkout time with the host (same ask as check-in); 13 guys packing out takes longer than you think
 - **Fuel both SUVs** the night before or en route (gas in town, not at the tiny airport lot) and **return the rentals at JAC** — build in ~20 min for the return + shuttle to the terminal
 - Be at JAC by **10:15 AM** — it's a small airport but don't cut it close
 - **Depart JAC 11:47 AM** → DFW 3:38 PM → MSY 6:41 PM
@@ -88,7 +89,7 @@
 - **Driver-lead per vehicle:** name someone in each SUV who owns departure times — herding 13 guys is the main thing that blows up a schedule
 - **Park entry:** no reservations needed for either park in 2026; pay ~$35/vehicle at the gate (or $80 America the Beautiful pass covers both). Buy in advance on Recreation.gov to skip the line
 - **Bear spray:** one per vehicle (you'll split up); can't fly with it — buy/rent in Jackson
-- **Weather backup:** mid-September can bring early snow + road closures at Yellowstone elevation. Town fallback (brewery / Cowboy Bar) keeps a scrubbed park day from being a scramble
+- **Weather backup:** mid-September can bring early snow + road closures at Yellowstone elevation. Town fallback (brewery / Cowboy Bar) keeps a scrubbed park day from being a scramble — and the **National Museum of Wildlife Art** (world-class, overlooks the elk refuge) is the named indoor daytime move
 - **No cell service in Yellowstone** — download offline maps before you go
 - **If something goes wrong:** nearest hospital is **St. John's Health, 625 E Broadway, Jackson** (~25 min from the house, 24-hr ER). Write it down — no cell service in the parks. It's a rafting + hiking trip
 
