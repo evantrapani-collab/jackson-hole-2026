@@ -9,7 +9,7 @@
 
 - Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
 - **Midday gap — fill it on purpose.** Check-in at the house is likely mid-afternoon (confirm exact time with the host), so there's ~4–5 hours between landing and the door opening. Don't strand 13 guys + bags in a lot:
-  - **Grocery run** — Smith's or Albertsons in Jackson (ribeyes, sides, breakfast for Friday, cooler drinks)
+  - **Grocery run** — Smith's or Albertsons in Jackson (ribeyes, sides, breakfast for Friday, cooler drinks) — **Psilos owns the grocery plan**
   - **Buy bear spray** — 2+ canisters, one per vehicle (can't fly with it; this is the window)
   - **Lunch downtown** + a Jackson Drug huckleberry shake on the square
   - Drift to Teton Village; check in to the house (Montreux House)

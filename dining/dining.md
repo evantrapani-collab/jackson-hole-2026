@@ -88,8 +88,9 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 ## Saturday Ribeye Night
 
 - **Steaks:** 24 oz bone-in ribeyes — buy at **Smith's** or **Albertsons** in Jackson (best prices)
+- **Owner: Chris Psilos** — locks the butcher order and the buy vs. pre-stock method
 - Buy groceries **Thursday on arrival** so you're not scrambling Saturday after Yellowstone
-- Assign someone as the grill captain
+- Assign someone as the grill captain (still open)
 - **Sides:** Grab whatever at the grocery store — keep it simple
 
 ---
@@ -183,7 +184,7 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 
 ## Grocery Run (Thursday arrival)
 
-Hit **Smith's (Kroger)** or **Albertsons** Thursday when you land. Get:
+**Owner: Chris Psilos.** Hit **Smith's (Kroger)** or **Albertsons** Thursday when you land. Get:
 - [ ] 13 ribeyes (24 oz bone-in — call ahead if the store is small)
 - [ ] Grill sides (potatoes, corn, salad, whatever)
 - [ ] Breakfast food for Friday pre-rafting (coffee, pastries, easy stuff)
@@ -209,4 +210,4 @@ Shoppers fill the fridge *before you walk in* — ideal since Thursday lands 10:
 **Tier 3 — In-person (still the move for the steaks)**
 - ⚠️ Delivery apps pull from shelf stock, so **13 × 24 oz bone-in ribeyes is risky to order via Instacart** — you can't guarantee a butcher cuts that volume. **Call the Smith's butcher counter ahead**, pick the steaks up in person (or have them set aside), and let delivery handle the bulky, low-risk stuff.
 
-> **Bottom line:** pre-order a pre-stock (Snap Pea or Mountains of Groceries) for bulk + drinks, call the Smith's butcher to lock the ribeyes, keep Instacart as the mid-trip restock button. Frees up the tight Thursday window (bear spray + downtown lunch + Jackson Drug shake).
+> **Bottom line — Psilos owns the call:** pre-order a pre-stock (Snap Pea or Mountains of Groceries) for bulk + drinks, call the Smith's butcher to lock the ribeyes, keep Instacart as the mid-trip restock button. Frees up the tight Thursday window (bear spray + downtown lunch + Jackson Drug shake).

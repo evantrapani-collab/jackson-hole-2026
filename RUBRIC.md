@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 98/100** *(re-graded 2026-06-12, after the refinements listed at the bottom)*
+**Current grade: 99/100** *(re-graded 2026-06-12, after the refinements and crew decisions listed at the bottom)*
 
 ---
 
@@ -82,17 +82,17 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 ## Scorecard
 
-| Category | Before (6/12 baseline) | After refinements |
-|---|---|---|
-| 1. Bookings & critical path | 18 | 19 |
-| 2. Schedule feasibility | 14 | 15 |
-| 3. Risk, safety & contingency | 14 | 15 |
-| 4. Meals | 10 | 12 |
-| 5. Money | 11 | 12 |
-| 6. Group coordination | 9 | 9 |
-| 7. Three layers in sync | 9 | 10 |
-| 8. Dashboard usability | 6 | 6 |
-| **Total** | **91** | **98** |
+| Category | Before (6/12 baseline) | After refinements | After 6/12 crew decisions |
+|---|---|---|---|
+| 1. Bookings & critical path | 18 | 19 | 20 |
+| 2. Schedule feasibility | 14 | 15 | 15 |
+| 3. Risk, safety & contingency | 14 | 15 | 15 |
+| 4. Meals | 10 | 12 | 12 |
+| 5. Money | 11 | 12 | 12 |
+| 6. Group coordination | 9 | 9 | 9 |
+| 7. Three layers in sync | 9 | 10 | 10 |
+| 8. Dashboard usability | 6 | 6 | 6 |
+| **Total** | **91** | **98** | **99** |
 
 ### What the baseline lost points for → what changed
 
@@ -103,9 +103,13 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 - **Money (−1):** no all-in number. → ≈ **$1,150–1,400 + flights** roll-up added to `/budget` + dashboard.
 - **Sync (−1):** dashboard Friday timeline listed the PM burrito pickup before the 11:30 AM lunch. → Reordered.
 
-### The remaining 2 points (honest, not fixable by documents)
+### 6/12 crew decisions (post-refinement re-grade)
 
-- **−1 Bookings:** the Friday 13-top is still unbooked and the grocery method/owner is still unassigned — both now have deadlines and defaults, but they're real-world actions a doc can't perform.
-- **−1 Group coordination:** seat math (Explorer trim) and bed math (what the house actually sleeps) are pending external answers; assignments can't be finished until they land.
+- **Groceries have an owner: Chris Psilos** — the last ownerless load-bearing task. Bookings → 20/20 (the Friday 13-top stays unbooked, but per the scoring rules an owner + deadline + a default that holds with zero action scores full marks).
+- **Explorer planned as a 7-seater → 14 seats for 13** — the seat math now works on the planning estimate. Hardie's item shifts from "confirm the trim" to "verify the 3rd row is on the reservation," and it no longer gates the trip (only the rafting refund item keeps the ⭐).
 
-Close those two in the real world and this is a 100.
+### The remaining point (honest, not fixable by documents)
+
+- **−1 Group coordination:** bed math (what the house actually sleeps) is pending the host's answer, and the Explorer's 7 seats is an estimate until the reservation is verified; room/seat assignments can't be finished until both land.
+
+Close those in the real world and this is a 100.
