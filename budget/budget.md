@@ -61,6 +61,17 @@
 
 > **Bring some cash.** Friday's guide tips want it, and a couple of town spots (Pica's, Nora's) are cash-only.
 
+### All-in per person — the planning number
+
+| | |
+|---|---|
+| Airbnb | ~$556 |
+| Rafting + van tour | ~$300 (TBD by Drewes) |
+| Food, drink & ribeyes | ~$200–330 |
+| Tips, bear spray, gas, park entry, incidentals | ~$110–215 |
+| **Total on the ground** | **≈ $1,150–1,400** |
+| Flights | + each person's own booking |
+
 ---
 
 ## Booking Tracker
@@ -72,7 +83,7 @@
 | Flights | American Airlines | — | varies | Booked ✅ |
 | Rental SUV #1 (Explorer) | Jason Hardie | — | — | Booked ✅ |
 | Rental SUV #2 (Expedition) | Joe Schick | — | — | Booked ✅ |
-| Groceries / Ribeyes | Smith's or Albertsons, Jackson | — | TBD | |
+| Groceries / Ribeyes | Smith's or Albertsons, Jackson (Owner: Psilos) | — | TBD | |
 
 ---
 

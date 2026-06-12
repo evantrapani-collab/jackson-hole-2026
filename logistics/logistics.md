@@ -52,7 +52,7 @@
 - **Airbnb (Montreux House)** — booked ✅
 - $500 deposit to @drewespt on Venmo — paid ✅
 - Balance due **8/1** (total minus deposit)
-- [ ] **Confirm check-in time** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon. Knowing the exact time sizes the Thursday midday gap (grocery + bear spray + downtown lunch fills it)
+- [ ] **Confirm check-in + checkout times** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight
 
 ---
 
@@ -95,7 +95,7 @@ Contract is signed. Key details:
 | Jason Hardie | Ford Explorer | JAC | ~10:19 AM, Sep 17 (same inbound flight) |
 | Joe Schick | Expedition (or similar full-size) | JAC | ~10:19 AM, Sep 17 (same inbound flight) |
 
-- ⚠️ **Still confirm: Explorer seat count** — Explorers range from 5–7 seats depending on trim (standard 2-row = 5; 3rd row = 6 or 7). Plan the Expedition as a **7-seater** (8 only with the front-bench option — don't bank on it). If the Explorer is a 5-seater, that's only **12 seats for 13** — one short, before you even count bags. Need to know the exact trim/config.
+- **Explorer — planning estimate: 7 seats.** With the Expedition as a 7-seater that's **14 seats for 13** — the math works. Explorers range 5–7 by trim, so Hardie verifies the 3rd row is actually on the reservation with one call; if it somehow isn't, swap the booking or add a cargo carrier now — don't discover it at the JAC counter.
 - A **3rd vehicle or cargo carrier** may still help with luggage on airport-transfer days (13 guys + bags in two SUVs is tight regardless). Yellowstone day is daypacks only, so two SUVs are fine for that.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
 - **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline)
@@ -125,6 +125,22 @@ Contract is signed. Key details:
 
 ---
 
+## Key Contacts — print this (no cell service in the parks)
+
+| Who | Why | Contact |
+|---|---|---|
+| **Montreux House** (the Airbnb) | Home base | 3720 Morley Drive, Teton Village, WY 83025 |
+| **RMR** (property manager) | House issues, pre-arrival coordination | (307) 739-9050 · lodging@rmrentals.com |
+| **JHWW — Jeff** | Friday van tour + rafting | Number is on the signed contract — copy it here when printing confirmations |
+| **American Airlines** | Flight changes / misconnect | (800) 433-7300 + the AA app |
+| **St. John's Health** | Nearest 24-hr ER | 625 E Broadway, Jackson — ~25 min from the house |
+| **Drewes** | Money hub | @drewespt on Venmo |
+| **Hardie / Schick** | The two rental SUVs | Confirmations on their bookings |
+
+> One guy prints this table with the confirmations; a photo of it on every phone is the offline backup.
+
+---
+
 ## Safety & Emergency
 
 - **Nearest hospital:** **St. John's Health**, 625 E Broadway, Jackson — 24-hr ER, ~25 min from the house. Write it down; there's no cell service in the parks. Relevant with rafting + hiking on the slate.
@@ -146,7 +162,7 @@ Contract is signed. Key details:
 - [x] Send $500 deposit to @drewespt on Venmo
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
 - [x] 2 SUVs booked (Jason Hardie + Joe Schick)
-- [ ] Confirm Explorer trim/seat count (Jason Hardie's rental — 5, 6, or 7 seats?); decide if a 3rd vehicle or cargo carrier is needed — **by 6/9**
+- [ ] Verify the Explorer's 7-seat config is on the reservation (Jason Hardie) — planning estimate is **7 seats = 14 for 13**; if the 3rd row isn't there, swap the booking or add a cargo carrier
 - [ ] Book Friday dinner (13-top) if doing a reservation — a 13-top in peak fall books out; reserve now or commit to the house
 - [ ] Confirm Airbnb check-in time with the host — sizes the Thursday midday gap
 
@@ -156,7 +172,7 @@ Contract is signed. Key details:
 ### August → Sep 10
 - [ ] Sort room/bed assignments (5 BR / 6 beds for 13) — after confirming what the house actually sleeps
 - [ ] Rafting balance — Drewes collects from the crew (depends on final headcount; no individual action now); per-person number + late-cancel rule locked **by 9/10** (7-day refund cutoff)
-- [ ] Assign who's buying groceries for Saturday ribeye night
+- [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes
 - [ ] Pick the Sunday dinner plan
 
 ### 1–2 Weeks Before
@@ -169,7 +185,7 @@ Contract is signed. Key details:
 - [ ] Finalize vehicle/carpool plan from the airports
 - [ ] Download offline maps for Yellowstone
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
-- [ ] Print all confirmations (no cell service at the parks)
+- [ ] Print all confirmations + the Key Contacts table above (no cell service at the parks)
 - [ ] Write down emergency info (St. John's Health, Jackson)
 
 ### On Arrival (Thursday)
