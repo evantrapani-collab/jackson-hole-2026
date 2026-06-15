@@ -1,0 +1,48 @@
+name: Deploy site to GitHub Pages
+
+# Rebuild and publish the dashboard on every push to main (plus a manual
+# trigger). This makes deployment explicit and version-controlled instead of
+# depending on the repo's Pages "source" setting, which can silently change
+# and stop auto-deploys.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let an in-progress deploy finish rather than cancelling it.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # enablement: true switches the repo's Pages source to "GitHub Actions"
+      # automatically, so this workflow becomes the source of truth.
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      # The site is a static repo (markdown + index.html), no build step —
+      # publish the repo root as-is.
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
