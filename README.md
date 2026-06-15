@@ -23,7 +23,8 @@ Trip planning hub for everything related to the trip.
 - ✅ 2 rental SUVs booked — Jason Hardie (Explorer, JAC) + Joe Schick (Expedition, JAC), both on same inbound flight; Explorer planned as a **7-seater → 14 seats for 13**
 - ✅ Groceries have an owner — **Chris Psilos**
 - ⛔️ Via Ferrata — dropped, not doing it
-- 📊 Plan graded **99/100** against [the trip rubric](./RUBRIC.md) — the last point is pending verification (bed count, Explorer 3rd row), not a doc gap
+- ✅ Bed count confirmed — Montreux House is **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (see [`/lodging`](./lodging/lodging.md#sleeping-13)); 6 beds max 12 even fully shared, so plan on air mattresses for 13
+- 📊 Plan graded **99/100** against [the trip rubric](./RUBRIC.md) — the last point is pending verification (Explorer 3rd row), not a doc gap
 
 ## Open Items
 
@@ -36,10 +37,10 @@ Trip planning hub for everything related to the trip.
 
 **By Aug 1**
 - [ ] **8/1** — Airbnb balance due: the rest of your per-person share (≈$556, Drewes quoted ~$600) minus the $500 deposit already paid → @drewespt Venmo
-- [ ] **By 8/1** — confirm what Montreux House actually sleeps (5 BR / 6 beds for 13 → air mattresses/couches?) before sorting assignments
+- [x] **By 8/1** — ✅ confirmed what Montreux House sleeps: **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (full layout in [`/lodging`](./lodging/lodging.md#sleeping-13)). 6 beds max 12 even fully shared → **bring 2 air mattresses** for 13
 
 **August → Sep 10**
-- [ ] Sort room/bed assignments (once the bed count above is confirmed)
+- [ ] Sort room/bed assignments — bed count confirmed (5 kings + 1 queen, 4 beds/8 people on the Lower Level); bring/confirm 2 air mattresses, then map names to the split in [`/lodging`](./lodging/lodging.md#sleeping-13)
 - [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: lock the final per-person number AND a rule for who covers a late cancellation, so the crew isn't split-eating a no-show once the refund window closes
 - [ ] **Groceries: pick the method** *(Owner: Chris Psilos)* — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. See [`/dining`](./dining/dining.md#grocery-delivery-options)
 - [ ] Assign the Saturday **grill captain** (13 ribeyes) — Psilos owns the groceries; back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed). Buy/pre-stock the ribeyes Thursday (Psilos calls the **Smith's butcher** ahead — 13 × 24 oz bone-in is too much to leave to delivery shelf stock)
