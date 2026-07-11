@@ -53,6 +53,13 @@ Edit the `PLACES` list in
 re-run. Everything here is pulled from the trip markdown — dining, activities,
 lodging, logistics, itinerary.
 
+To verify the outputs are in sync without rewriting them (CI runs this on
+every push/PR via `.github/workflows/maps-check.yml`):
+
+```bash
+python3 maps/generate_places.py --check
+```
+
 ## Files
 
 | File | What it's for |

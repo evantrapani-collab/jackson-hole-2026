@@ -130,7 +130,8 @@ Dashboard + maps-layer work; no plan facts changed, so the grade holds at 99.
 - **Dashboard grew two tabs:** **Activities** (Sunday-afternoon choices, the Yellowstone fits-Saturday triage table, the hike reference shelf, wildlife cheat sheet, booking notes) and **Maps** (one-tap Google Maps links for every on-plan spot, grouped by day, using the same queries as the generated maps layer).
 - **Full mirrors, not excerpts:** the packing checklist now carries all 47 items from `/packing` (grouped), and the To-Do tab carries all 25 open README items with owner/deadline tags — previously both were partial.
 - **New surfaced-from-docs content:** who-owns-what board on Crew (named vs. open roles), on-the-ground estimates + booking tracker on Money, grocery-delivery tiers and backup-spots table on Eat & Drink, a Saturday route strip with drive times on Itinerary, getting-around + safety cards on Logistics.
-- **JS enhancements (still zero-JS functional):** deadline-aware countdown messages, a hero milestone strip (8/1 → 9/10 → 9/17), computed days-left chips, a TODAY badge on the itinerary during the trip, and last-tab memory. Checklist storage keys versioned to `_v2` so grown lists don't mis-map old saved checkmarks.
+- **JS enhancements (still zero-JS functional):** deadline-aware countdown messages, a hero milestone strip (8/1 → 9/10 → 9/17), computed days-left chips, a TODAY badge on the itinerary during the trip, and last-tab memory (with the restored tab scrolled into view in the nav). Checklist storage keys versioned to `_v2` so grown lists don't mis-map old saved checkmarks.
+- **Sync now enforced, not just graded:** `generate_places.py --check` verifies the generated maps files match the `PLACES` list without rewriting them, and a new CI workflow (`maps-check.yml`) runs it on every push/PR — hand-edits to generated files or an unregenerated `PLACES` edit now fail loudly.
 
 ### The remaining point (honest, not fixable by documents)
 

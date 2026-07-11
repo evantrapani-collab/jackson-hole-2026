@@ -18,7 +18,9 @@ an explicit address.
 """
 
 import csv
+import io
 import os
+import sys
 import urllib.parse
 
 # (name, category, when, query, already_in_list, note)
@@ -113,14 +115,13 @@ PLACES = [
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 
-def write_csv():
-    path = os.path.join(HERE, "jackson-hole-places.csv")
-    with open(path, "w", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(["Name", "Category", "When", "Search Query", "Notes"])
-        for name, cat, when, query, _in_list, note in PLACES:
-            w.writerow([name, cat, when, query, note])
-    return path, len(PLACES)
+def render_csv():
+    buf = io.StringIO()
+    w = csv.writer(buf)
+    w.writerow(["Name", "Category", "When", "Search Query", "Notes"])
+    for name, cat, when, query, _in_list, note in PLACES:
+        w.writerow([name, cat, when, query, note])
+    return buf.getvalue()
 
 
 def maps_link(query):
@@ -128,8 +129,7 @@ def maps_link(query):
     return f"https://www.google.com/maps/search/?api=1&query={q}"
 
 
-def write_links_md():
-    path = os.path.join(HERE, "add-to-saved-list.md")
+def render_links_md():
     cats = []
     for p in PLACES:
         if p[1] not in cats:
@@ -157,14 +157,46 @@ def write_links_md():
             tag = " _(already in your list)_" if in_list else ""
             lines.append(f"- [ ] [{name}]({maps_link(query)}){tag} — {note}")
         lines.append("")
-    with open(path, "w") as f:
-        f.write("\n".join(lines))
-    return path
+    return "\n".join(lines)
+
+
+OUTPUTS = {
+    "jackson-hole-places.csv": render_csv,
+    "add-to-saved-list.md": render_links_md,
+}
+
+
+def check():
+    """Exit nonzero if the files on disk don't match the PLACES list —
+    catches both hand-edits to generated files and a PLACES edit that
+    was never regenerated."""
+    stale = []
+    for fname, render in OUTPUTS.items():
+        path = os.path.join(HERE, fname)
+        try:
+            with open(path, newline="") as f:
+                on_disk = f.read()
+        except FileNotFoundError:
+            on_disk = None
+        if on_disk != render():
+            stale.append(fname)
+    if stale:
+        print("STALE — generated maps files don't match the PLACES list:")
+        for fname in stale:
+            print(f"  maps/{fname}")
+        print("Fix: edit PLACES in maps/generate_places.py (never the files) "
+              "and re-run: python3 maps/generate_places.py")
+        return 1
+    print(f"OK — maps/ outputs match the PLACES list ({len(PLACES)} places).")
+    return 0
 
 
 if __name__ == "__main__":
-    csv_path, n = write_csv()
-    md_path = write_links_md()
-    print(f"Wrote {n} places to:")
-    print(f"  {csv_path}")
-    print(f"  {md_path}")
+    if "--check" in sys.argv[1:]:
+        sys.exit(check())
+    for fname, render in OUTPUTS.items():
+        with open(os.path.join(HERE, fname), "w", newline="") as f:
+            f.write(render())
+    print(f"Wrote {len(PLACES)} places to:")
+    for fname in OUTPUTS:
+        print(f"  {os.path.join(HERE, fname)}")

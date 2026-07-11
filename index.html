@@ -1287,6 +1287,13 @@
         if(r.checked){ try { localStorage.setItem('jh26_tab', r.id); } catch(_){} }
       });
     });
+    /* The tab row scrolls horizontally — make sure the active tab's label
+       isn't parked off-screen after a restore. */
+    var active = document.querySelector('.tab-state:checked');
+    if(active){
+      var lab = document.querySelector('nav label[for="'+active.id+'"]');
+      if(lab && lab.scrollIntoView) lab.scrollIntoView({inline:'center', block:'nearest'});
+    }
   })();
 
   /* ---------- Scroll to top when a tab is tapped ---------- */
