@@ -7,7 +7,7 @@ Tap a link → it opens the place in Google Maps → **Save** → pick
 Boxes marked _(already in your list)_ are the ones visible in your
 current 19 pins — skip those.
 
-**74 places total.**
+**73 places total.**
 
 ## Lodging & Logistics
 
@@ -81,15 +81,14 @@ current 19 pins — skip those.
 - [ ] [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring%2C+Yellowstone%2C+WY) _(already in your list)_ — Most photographed; hike the overlook.
 - [ ] [Fairy Falls Trailhead (overlook)](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Trailhead%2C+Yellowstone%2C+WY) — Aerial view of Grand Prismatic.
 - [ ] [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — On the way back; quick and worth it.
-- [ ] [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Hottest, most active; Steamboat Geyser.
-- [ ] [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs%2C+Yellowstone%2C+WY) _(already in your list)_ — Travertine terraces (far north).
-- [ ] [Artists' Paintpots](https://www.google.com/maps/search/?api=1&query=Artists+Paintpots%2C+Yellowstone%2C+WY) — Accessible, less crowded.
-- [ ] [Grand Canyon of the Yellowstone](https://www.google.com/maps/search/?api=1&query=Grand+Canyon+of+the+Yellowstone%2C+WY) _(already in your list)_ — Artist Point is the iconic view.
-- [ ] [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley%2C+Yellowstone+National+Park%2C+WY) — 'America's Serengeti'; wolves, bison (far NE).
-- [ ] [Hayden Valley](https://www.google.com/maps/search/?api=1&query=Hayden+Valley%2C+Yellowstone+National+Park%2C+WY) — Bison, grizzlies; closer to Canyon.
-- [ ] [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake%2C+WY) — Osprey, eagles, cutthroat trout.
-- [ ] [Mount Washburn](https://www.google.com/maps/search/?api=1&query=Mount+Washburn%2C+Yellowstone%2C+WY) — Lookout tower; 360° views; grizzlies.
-- [ ] [Boiling River](https://www.google.com/maps/search/?api=1&query=Boiling+River%2C+Yellowstone+National+Park%2C+WY) — Hot springs meet the Gardner; verify it's open.
+- [ ] [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Hottest, most active; Steamboat Geyser. Too far for our Sat window.
+- [ ] [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs%2C+Yellowstone%2C+WY) _(already in your list)_ — Travertine terraces (far north). Too far for our Sat window.
+- [ ] [Artists' Paintpots](https://www.google.com/maps/search/?api=1&query=Artists+Paintpots%2C+Yellowstone%2C+WY) — Accessible, less crowded. Too far for our Sat window.
+- [ ] [Grand Canyon of the Yellowstone](https://www.google.com/maps/search/?api=1&query=Grand+Canyon+of+the+Yellowstone%2C+WY) _(already in your list)_ — Artist Point is the iconic view. Adding it blows the 3 PM return.
+- [ ] [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley%2C+Yellowstone+National+Park%2C+WY) — 'America's Serengeti'; wolves, bison (far NE) — 3+ hrs one-way.
+- [ ] [Hayden Valley](https://www.google.com/maps/search/?api=1&query=Hayden+Valley%2C+Yellowstone+National+Park%2C+WY) — Bison, grizzlies; well past our West Thumb turnaround.
+- [ ] [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake%2C+WY) — Osprey, eagles, cutthroat trout; you drive its shore between West Thumb and the South Entrance.
+- [ ] [Mount Washburn](https://www.google.com/maps/search/?api=1&query=Mount+Washburn%2C+Yellowstone%2C+WY) — Lookout tower; 360° views; central park, too far.
 
 ## Jackson Town
 

@@ -22,7 +22,7 @@ between pins.
 3. When prompted:
    - Columns to position placemarks: **`Search Query`**
    - Column for the marker titles: **`Name`**
-4. It geocodes all 59 places and drops the pins. Then **Style → Group places by
+4. It geocodes every place in the CSV and drops the pins. Then **Style → Group places by
    → Category** to color them (Food, Yellowstone, Grand Teton, etc.).
 5. **Share** the map link with the crew. In the Google Maps app it shows under
    **You → Maps**.

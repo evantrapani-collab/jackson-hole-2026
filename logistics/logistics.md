@@ -110,7 +110,7 @@ Contract is signed. Key details:
 | Jackson → Yellowstone South Entrance | ~1 hr |
 | Yellowstone South → Old Faithful | ~30 min |
 | Old Faithful → Jackson | ~1.5 hrs |
-| SLC → Jackson (if routing through Salt Lake) | ~5.5 hrs |
+| SLC → Jackson (if routing through Salt Lake) | ~5 hrs |
 
 ---
 
@@ -155,7 +155,7 @@ Contract is signed. Key details:
 
 > In chronological order — work top to bottom.
 
-### Now — Urgent (June)
+### Now — Urgent (July)
 - [x] Airbnb booked
 - [x] Rafting / van booked
 - [x] Book flights
@@ -163,7 +163,7 @@ Contract is signed. Key details:
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
 - [x] 2 SUVs booked (Jason Hardie + Joe Schick)
 - [ ] Verify the Explorer's 7-seat config is on the reservation (Jason Hardie) — planning estimate is **7 seats = 14 for 13**; if the 3rd row isn't there, swap the booking or add a cargo carrier
-- [ ] Book Friday dinner (13-top) if doing a reservation — a 13-top in peak fall books out; reserve now or commit to the house
+- [x] Friday dinner — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`)
 - [ ] Confirm Airbnb check-in time with the host — sizes the Thursday midday gap
 
 ### 8/1
