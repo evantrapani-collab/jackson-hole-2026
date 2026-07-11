@@ -122,6 +122,16 @@ Dashboard-only sync + usability work; no plan content changed, so the grade hold
 - **Misconnect playbook mirrored:** the DFW Tier 0–3 summary now lives on the Logistics tab itself — the dashboard is exactly the thing you'd be holding at DFW, so pointing at `/logistics` wasn't enough.
 - **Usability:** the page now prints properly (light palette, all tabs shown, itinerary days auto-open) — the "print this" contacts card was previously unprintable in practice — and the pure-CSS tabs are keyboard-accessible (focusable radios + visible focus ring), still with zero JS required.
 
+### 7/11 dashboard overhaul (same day, third pass)
+
+Dashboard + maps-layer work; no plan facts changed, so the grade holds at 99.
+
+- **Maps drift closed:** `Cowboy Coffee Co.` (dining's "must-do coffee stop"), `Pearl Street Bagels`, and `Picnic` (both named burrito-stash vendors) were in the docs but missing from the `PLACES` list — added via `generate_places.py` and regenerated (76 places).
+- **Dashboard grew two tabs:** **Activities** (Sunday-afternoon choices, the Yellowstone fits-Saturday triage table, the hike reference shelf, wildlife cheat sheet, booking notes) and **Maps** (one-tap Google Maps links for every on-plan spot, grouped by day, using the same queries as the generated maps layer).
+- **Full mirrors, not excerpts:** the packing checklist now carries all 47 items from `/packing` (grouped), and the To-Do tab carries all 25 open README items with owner/deadline tags — previously both were partial.
+- **New surfaced-from-docs content:** who-owns-what board on Crew (named vs. open roles), on-the-ground estimates + booking tracker on Money, grocery-delivery tiers and backup-spots table on Eat & Drink, a Saturday route strip with drive times on Itinerary, getting-around + safety cards on Logistics.
+- **JS enhancements (still zero-JS functional):** deadline-aware countdown messages, a hero milestone strip (8/1 → 9/10 → 9/17), computed days-left chips, a TODAY badge on the itinerary during the trip, and last-tab memory. Checklist storage keys versioned to `_v2` so grown lists don't mis-map old saved checkmarks.
+
 ### The remaining point (honest, not fixable by documents)
 
 - **−1 Group coordination:** bed math (what the house actually sleeps) is pending the host's answer, and the Explorer's 7 seats is an estimate until the reservation is verified; room/seat assignments can't be finished until both land.

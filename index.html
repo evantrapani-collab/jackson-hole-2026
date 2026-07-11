@@ -5,6 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0e1726">
 <meta name="description" content="Jackson Hole / Yellowstone — September 2026 trip dashboard. Works offline.">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="JH 2026">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏔️</text></svg>">
 <title>Jackson Hole 2026 — Trip HQ</title>
 <style>
   /* ============================================================
@@ -16,8 +20,9 @@
      The iOS Files app previews HTML in Quick Look, which does not
      run JS — so tab switching is pure CSS (hidden radio inputs +
      <label>s), the itinerary uses native <details>, and every list
-     is static HTML. JavaScript only *enhances* (live countdown +
-     saved checkmarks) and is never required for the page to work.
+     is static HTML. JavaScript only *enhances* (live countdown,
+     saved checkmarks, deadline math, "today" highlighting, last-tab
+     memory) and is never required for the page to work.
      ============================================================ */
   :root {
     --sky-0:#0a0f1a; --sky-1:#0e1726; --sky-2:#16233b;
@@ -49,7 +54,7 @@
     padding:calc(28px + env(safe-area-inset-top)) 0 0;
   }
   .stars { position:absolute; inset:0; pointer-events:none; opacity:.7; }
-  .mountains { display:block; width:100%; height:auto; margin-top:18px; }
+  .mountains { display:block; width:100%; height:auto; margin-top:14px; }
   .hero-inner { position:relative; z-index:2; text-align:center; }
   .eyebrow {
     letter-spacing:.28em; text-transform:uppercase; font-size:12px;
@@ -59,7 +64,7 @@
   .hero h1 .amp { color:var(--amber); }
   .hero .sub { color:var(--muted); margin-top:10px; font-size:clamp(14px,3.6vw,18px); }
 
-  /* ---------- Countdown ---------- */
+  /* ---------- Countdown + milestones ---------- */
   .countdown { display:flex; justify-content:center; gap:10px; margin:22px 0 6px; flex-wrap:wrap; }
   .cd-box {
     background:rgba(255,255,255,.06); border:1px solid var(--line);
@@ -67,7 +72,16 @@
   }
   .cd-num { font-size:clamp(22px,6vw,34px); font-weight:800; color:var(--gold); font-variant-numeric:tabular-nums; }
   .cd-lab { font-size:10px; letter-spacing:.18em; text-transform:uppercase; color:var(--faint); margin-top:2px; }
-  .cd-msg { text-align:center; color:var(--pine); font-weight:700; margin-top:8px; min-height:20px; }
+  .cd-msg { text-align:center; color:var(--pine); font-weight:700; margin-top:8px; min-height:20px; padding:0 16px; }
+  .miles { display:flex; justify-content:center; gap:8px; flex-wrap:wrap; margin:12px 0 4px; }
+  .mile {
+    display:inline-flex; align-items:center; gap:7px; font-size:12px; font-weight:700;
+    padding:5px 12px; border-radius:999px; border:1px solid var(--line);
+    background:rgba(255,255,255,.04); color:var(--muted);
+  }
+  .mile .md { color:var(--gold); font-variant-numeric:tabular-nums; }
+  .mile.done { opacity:.45; text-decoration:line-through; }
+  .mile.next { border-color:var(--gold); background:rgba(245,185,66,.12); color:var(--ink); }
 
   /* ---------- Tab state (pure-CSS nav) ----------
      One hidden radio per tab lives at the very top of <body> so it is a
@@ -104,39 +118,45 @@
   @keyframes fade { from{opacity:0; transform:translateY(6px);} to{opacity:1; transform:none;} }
 
   /* Show the panel whose tab radio is checked. */
-  #t-overview:checked  ~ main #overview,
-  #t-itinerary:checked ~ main #itinerary,
-  #t-gameday:checked   ~ main #gameday,
-  #t-crew:checked      ~ main #crew,
-  #t-money:checked     ~ main #money,
-  #t-packing:checked   ~ main #packing,
-  #t-eat:checked       ~ main #eat,
-  #t-logistics:checked ~ main #logistics,
-  #t-todo:checked      ~ main #todo { display:block; }
+  #t-overview:checked   ~ main #overview,
+  #t-itinerary:checked  ~ main #itinerary,
+  #t-gameday:checked    ~ main #gameday,
+  #t-crew:checked       ~ main #crew,
+  #t-money:checked      ~ main #money,
+  #t-eat:checked        ~ main #eat,
+  #t-activities:checked ~ main #activities,
+  #t-packing:checked    ~ main #packing,
+  #t-logistics:checked  ~ main #logistics,
+  #t-maps:checked       ~ main #maps,
+  #t-todo:checked       ~ main #todo { display:block; }
 
   /* Light up the tab whose radio is checked. */
-  #t-overview:checked  ~ nav label[for="t-overview"],
-  #t-itinerary:checked ~ nav label[for="t-itinerary"],
-  #t-gameday:checked   ~ nav label[for="t-gameday"],
-  #t-crew:checked      ~ nav label[for="t-crew"],
-  #t-money:checked     ~ nav label[for="t-money"],
-  #t-packing:checked   ~ nav label[for="t-packing"],
-  #t-eat:checked       ~ nav label[for="t-eat"],
-  #t-logistics:checked ~ nav label[for="t-logistics"],
-  #t-todo:checked      ~ nav label[for="t-todo"] {
+  #t-overview:checked   ~ nav label[for="t-overview"],
+  #t-itinerary:checked  ~ nav label[for="t-itinerary"],
+  #t-gameday:checked    ~ nav label[for="t-gameday"],
+  #t-crew:checked       ~ nav label[for="t-crew"],
+  #t-money:checked      ~ nav label[for="t-money"],
+  #t-eat:checked        ~ nav label[for="t-eat"],
+  #t-activities:checked ~ nav label[for="t-activities"],
+  #t-packing:checked    ~ nav label[for="t-packing"],
+  #t-logistics:checked  ~ nav label[for="t-logistics"],
+  #t-maps:checked       ~ nav label[for="t-maps"],
+  #t-todo:checked       ~ nav label[for="t-todo"] {
     background:linear-gradient(135deg,var(--amber),var(--gold)); color:#1a1206;
   }
 
   /* Keyboard focus ring on the active tab (radios are the focus target). */
-  #t-overview:focus-visible  ~ nav label[for="t-overview"],
-  #t-itinerary:focus-visible ~ nav label[for="t-itinerary"],
-  #t-gameday:focus-visible   ~ nav label[for="t-gameday"],
-  #t-crew:focus-visible      ~ nav label[for="t-crew"],
-  #t-money:focus-visible     ~ nav label[for="t-money"],
-  #t-packing:focus-visible   ~ nav label[for="t-packing"],
-  #t-eat:focus-visible       ~ nav label[for="t-eat"],
-  #t-logistics:focus-visible ~ nav label[for="t-logistics"],
-  #t-todo:focus-visible      ~ nav label[for="t-todo"] {
+  #t-overview:focus-visible   ~ nav label[for="t-overview"],
+  #t-itinerary:focus-visible  ~ nav label[for="t-itinerary"],
+  #t-gameday:focus-visible    ~ nav label[for="t-gameday"],
+  #t-crew:focus-visible       ~ nav label[for="t-crew"],
+  #t-money:focus-visible      ~ nav label[for="t-money"],
+  #t-eat:focus-visible        ~ nav label[for="t-eat"],
+  #t-activities:focus-visible ~ nav label[for="t-activities"],
+  #t-packing:focus-visible    ~ nav label[for="t-packing"],
+  #t-logistics:focus-visible  ~ nav label[for="t-logistics"],
+  #t-maps:focus-visible       ~ nav label[for="t-maps"],
+  #t-todo:focus-visible       ~ nav label[for="t-todo"] {
     outline:2px solid var(--ice); outline-offset:2px;
   }
 
@@ -150,11 +170,12 @@
   }
   .card h3 { font-size:17px; margin-bottom:6px; }
   .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px; }
+  .grid-tight { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:10px; }
   .stat { text-align:center; padding:16px 10px; }
-  .stat .v { font-size:26px; font-weight:800; color:var(--gold); }
+  .stat .v { font-size:24px; font-weight:800; color:var(--gold); }
   .stat .l { color:var(--muted); font-size:13px; margin-top:3px; }
 
-  .pill { display:inline-flex; align-items:center; gap:6px; font-size:12px; font-weight:700; padding:3px 10px; border-radius:999px; }
+  .pill { display:inline-flex; align-items:center; gap:6px; font-size:12px; font-weight:700; padding:3px 10px; border-radius:999px; white-space:nowrap; }
   .pill.ok { background:rgba(79,180,119,.16); color:#74d59b; }
   .pill.warn { background:rgba(245,185,66,.16); color:var(--gold); }
   .pill.stop { background:rgba(226,96,74,.16); color:#f0917f; }
@@ -165,6 +186,7 @@
   ul.clean li:last-child { border-bottom:0; }
   .muted { color:var(--muted); }
   .faint { color:var(--faint); font-size:13px; }
+  .due { color:var(--ice); font-size:12px; font-weight:700; white-space:nowrap; }
 
   /* ---------- Timeline (itinerary, native <details>) ---------- */
   .day { margin-bottom:14px; }
@@ -188,6 +210,23 @@
   .tl li::before { content:""; position:absolute; left:-29px; top:4px; width:12px; height:12px; border-radius:50%; background:var(--amber); border:2px solid var(--sky-1); }
   .tl .t { font-weight:800; color:var(--gold); font-variant-numeric:tabular-nums; }
   .tl .d { color:var(--muted); font-size:14px; }
+  .today-badge {
+    font-size:11px; font-weight:800; letter-spacing:.08em; padding:3px 9px; border-radius:999px;
+    background:linear-gradient(135deg,var(--amber),var(--gold)); color:#1a1206;
+  }
+  details.is-today > .day-head { border-color:var(--gold); box-shadow:0 0 0 1px var(--gold) inset; }
+
+  /* ---------- Route strip (Saturday drive plan) ---------- */
+  .route { display:flex; align-items:center; overflow-x:auto; -webkit-overflow-scrolling:touch; padding:6px 2px 10px; gap:0; }
+  .rt-stop {
+    flex:0 0 auto; text-align:center; background:var(--card-2); border:1px solid var(--line);
+    border-radius:12px; padding:8px 12px; min-width:104px;
+  }
+  .rt-stop .re { font-size:19px; }
+  .rt-stop .rn { font-size:13px; font-weight:700; }
+  .rt-stop .rs { font-size:11px; color:var(--faint); }
+  .rt-leg { flex:0 0 auto; text-align:center; color:var(--faint); font-size:11px; padding:0 8px; white-space:nowrap; }
+  .rt-leg::after { content:"→"; display:block; color:var(--amber); font-size:15px; line-height:.8; }
 
   /* ---------- Checklists (static checkboxes; JS only saves them) ---------- */
   .check {
@@ -206,6 +245,8 @@
   .check .lab { flex:1; }
   .check input:checked ~ .lab { color:var(--faint); text-decoration:line-through; }
   .check .tag { font-size:11px; font-weight:700; padding:2px 8px; border-radius:999px; background:rgba(245,185,66,.16); color:var(--gold); white-space:nowrap; }
+  .grp-h { font-size:12px; letter-spacing:.12em; text-transform:uppercase; color:var(--ice); font-weight:800; padding:14px 4px 4px; border-bottom:1px solid var(--line); }
+  .grp-h:first-child { padding-top:2px; }
   .progress { height:8px; background:var(--sky-2); border-radius:999px; overflow:hidden; margin:4px 0 14px; }
   .progress > span { display:block; height:100%; width:0; background:linear-gradient(90deg,var(--pine),var(--ice)); transition:width .4s ease; }
   .progress-lab { display:flex; justify-content:space-between; font-size:13px; color:var(--muted); margin-bottom:6px; }
@@ -234,6 +275,18 @@
   .guy { display:flex; align-items:center; gap:9px; background:var(--card-2); border:1px solid var(--line); border-radius:999px; padding:5px 14px 5px 5px; font-weight:600; }
   .avatar { width:30px; height:30px; border-radius:50%; display:grid; place-items:center; font-size:12px; font-weight:800; color:#10182a; }
 
+  /* ---------- Map links ---------- */
+  .linkgrid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:10px; }
+  .mapl {
+    display:flex; align-items:center; gap:10px; background:var(--card-2);
+    border:1px solid var(--line); border-radius:12px; padding:10px 12px;
+    color:var(--ink); transition:.15s;
+  }
+  .mapl:hover { border-color:var(--gold); text-decoration:none; }
+  .mapl .mi { font-size:20px; flex:0 0 auto; }
+  .mapl b { font-size:14px; display:block; line-height:1.25; }
+  .mapl .ms { display:block; font-size:12px; color:var(--faint); line-height:1.3; }
+
   footer { text-align:center; color:var(--faint); font-size:13px; padding:28px 16px 40px; border-top:1px solid var(--line); }
   footer .save { color:var(--muted); margin-top:6px; }
   .kbd { font-family:ui-monospace,monospace; background:var(--sky-2); border:1px solid var(--line); border-radius:6px; padding:1px 6px; font-size:12px; }
@@ -256,13 +309,14 @@
       --shadow:none;
     }
     body { background:#fff; }
-    .stars, .mountains, nav.tabs, #countdown, #cdMsg, .reset-btn,
+    .stars, .mountains, nav.tabs, #countdown, #cdMsg, .miles, .reset-btn,
     .chev, footer .save { display:none !important; }
     header.hero { background:none; padding:8px 0 0; }
     .panel { display:block !important; animation:none; margin-bottom:22px; border-top:2px solid var(--line); padding-top:14px; }
     .card { break-inside:avoid; }
     .day { break-inside:avoid; }
     .pill.ok { color:var(--pine); } .pill.stop { color:var(--sunset); }
+    .mapl { border:1px solid var(--line); }
     a { color:inherit; }
   }
 </style>
@@ -276,9 +330,11 @@
 <input class="tab-state" type="radio" name="tab" id="t-gameday">
 <input class="tab-state" type="radio" name="tab" id="t-crew">
 <input class="tab-state" type="radio" name="tab" id="t-money">
-<input class="tab-state" type="radio" name="tab" id="t-packing">
 <input class="tab-state" type="radio" name="tab" id="t-eat">
+<input class="tab-state" type="radio" name="tab" id="t-activities">
+<input class="tab-state" type="radio" name="tab" id="t-packing">
 <input class="tab-state" type="radio" name="tab" id="t-logistics">
+<input class="tab-state" type="radio" name="tab" id="t-maps">
 <input class="tab-state" type="radio" name="tab" id="t-todo">
 
 <header class="hero">
@@ -300,6 +356,12 @@
       <div class="cd-box" style="min-width:auto;padding:11px 20px;"><div class="cd-num" style="font-size:clamp(16px,4.6vw,22px);">Sep 17–21, 2026</div><div class="cd-lab">Wheels down Sep 17</div></div>
     </div>
     <div class="cd-msg" id="cdMsg"></div>
+    <!-- Deadline milestones. JS crosses off the past ones and highlights the next. -->
+    <div class="miles" id="miles">
+      <span class="mile" data-when="2026-08-01"><span class="md">Aug 1</span> Airbnb balance</span>
+      <span class="mile" data-when="2026-09-10"><span class="md">Sep 10</span> Rafting $ locked ⭐</span>
+      <span class="mile" data-when="2026-09-17"><span class="md">Sep 17</span> Wheels up</span>
+    </div>
   </div>
   <svg class="mountains" viewBox="0 0 1440 220" preserveAspectRatio="none" aria-hidden="true">
     <polygon points="0,220 0,150 120,70 210,120 330,30 470,140 560,80 700,170 820,60 980,150 1120,50 1260,140 1380,90 1440,130 1440,220" fill="#2a3a59"/>
@@ -318,9 +380,11 @@
       <label class="tab" for="t-gameday">Game Day</label>
       <label class="tab" for="t-crew">Crew</label>
       <label class="tab" for="t-money">Money</label>
-      <label class="tab" for="t-packing">Packing</label>
       <label class="tab" for="t-eat">Eat &amp; Drink</label>
+      <label class="tab" for="t-activities">Activities</label>
+      <label class="tab" for="t-packing">Packing</label>
       <label class="tab" for="t-logistics">Logistics</label>
+      <label class="tab" for="t-maps">Maps</label>
       <label class="tab" for="t-todo">To-Do</label>
     </div>
   </div>
@@ -331,11 +395,13 @@
   <!-- ============ OVERVIEW ============ -->
   <section class="panel" id="overview">
     <div class="section-h">Trip at a Glance</div>
-    <div class="card grid">
+    <div class="card grid-tight">
       <div class="stat"><div class="v">5</div><div class="l">Days / 4 nights</div></div>
       <div class="stat"><div class="v">13</div><div class="l">Guys (locked)</div></div>
       <div class="stat"><div class="v">2</div><div class="l">National parks</div></div>
       <div class="stat"><div class="v">2</div><div class="l">Football games</div></div>
+      <div class="stat"><div class="v">$1,150–1,400</div><div class="l">All-in pp (+ flights)</div></div>
+      <div class="stat"><div class="v">99/100</div><div class="l">Plan grade (rubric)</div></div>
     </div>
 
     <div class="grid">
@@ -355,7 +421,28 @@
           <li><span class="pill ok">Booked</span> Flights — American Airlines</li>
           <li><span class="pill ok">Booked</span> Rafting + van — JHWW</li>
           <li><span class="pill ok">Booked</span> 2 rental SUVs — Explorer + Expedition (JAC)</li>
+          <li><span class="pill ok">Locked</span> Fri dinner — the house <span class="faint">(6/30 fence passed)</span></li>
           <li><span class="pill stop">Dropped</span> Via Ferrata — not doing it</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <h3>🧱 The Spine — fixed, don't fight it</h3>
+        <ul class="clean">
+          <li><b>Fri</b> — booked dawn-to-dusk: 8 AM van tour + 1 PM rafting</li>
+          <li><b>Sat</b> — Yellowstone via the <b>South Entrance only</b>, back ~3 PM for the 5:30 LSU kickoff. Past Old Faithful / West Thumb doesn't fit</li>
+          <li><b>Sun</b> — 6:30 AM wildlife drive · Saints at 11 AM MT</li>
+          <li><b>13 locked</b> · Montreux House booked · Mon flight 11:47 AM</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>⏳ Next Deadlines</h3>
+        <ul class="clean">
+          <li><span class="pill warn">8/1</span> Airbnb balance → <b>@drewespt</b> Venmo <span class="due" data-due="2026-08-01"></span></li>
+          <li><span class="pill warn">9/10</span> ⭐ Rafting per-person $ + late-cancel rule <span class="faint">(Drewes — 7-day refund cutoff)</span> <span class="due" data-due="2026-09-10"></span></li>
+          <li><span class="pill info">Now</span> Verify Explorer's 3rd row on the reservation <span class="faint">(Hardie)</span></li>
         </ul>
       </div>
     </div>
@@ -369,7 +456,7 @@
         <li>🦌 <b>Sun</b> — Sunrise wildlife drive → Saints @ Ravens (11 AM MT)</li>
         <li>✈️ <b>Mon</b> — Depart JAC 11:47 AM</li>
       </ul>
-      <div class="note" style="margin-top:14px;">Tap <b>Itinerary</b> for the full day-by-day, or <b>Game Day</b> for kickoff times and where to watch.</div>
+      <div class="note" style="margin-top:14px;">Tap <b>Itinerary</b> for the full day-by-day, <b>Game Day</b> for kickoffs, <b>Maps</b> for one-tap directions to everything on the plan.</div>
     </div>
   </section>
 
@@ -377,7 +464,7 @@
   <section class="panel" id="itinerary">
     <div class="section-h">Day by Day</div>
 
-    <details class="day" open>
+    <details class="day" data-date="2026-09-17" open>
       <summary class="day-head">
         <span class="day-emoji">🍺</span>
         <span><span class="day-date">Thursday · Sep 17</span><br><span class="day-title">Arrival + Hit the Town</span></span>
@@ -385,64 +472,85 @@
       </summary>
       <div class="day-body">
         <ul class="tl">
-          <li><span class="t">10:19 AM</span> — <span class="d">Fly into Jackson Hole (JAC) — both SUVs on this flight</span></li>
-          <li><span class="t">Midday</span> — <span class="d">Check-in is mid-afternoon, so fill the gap: grocery run (Smith's / Albertsons), buy <b>bear spray</b> (2+, can't fly with it), lunch downtown</span></li>
-          <li><span class="t">Evening</span> — <span class="d">Snake River Brewing → Silver Dollar → Million Dollar Cowboy Bar (downtown) → drive back to the Village → Mangy Moose (walkable from house)</span></li>
-          <li><span class="t">Late</span> — <span class="d">Sober driver for downtown → Village return (~20 min). Mangy Moose is walkable.</span></li>
+          <li><span class="t">10:19 AM</span> — <span class="d">Land at Jackson Hole (JAC) — both SUV drivers on this flight. <b>Rental counter first, bags second</b>: one driver claims the SUVs while the rest pull luggage</span></li>
+          <li><span class="t">Midday</span> — <span class="d">Check-in is mid-afternoon, so fill the gap on purpose: grocery run (Smith's / Albertsons — <b>Psilos owns it</b>, or the pre-stock delivery skips this), buy <b>bear spray</b> (2+, one per vehicle — can't fly with it, this is the window), lunch downtown + a Jackson Drug huckleberry shake</span></li>
+          <li><span class="t">Afternoon</span> — <span class="d">Drift to Teton Village · check into Montreux House</span></li>
+          <li><span class="t">Evening</span> — <span class="d">Night out: Snake River Brewing → Silver Dollar → Million Dollar Cowboy Bar (downtown) → drive back → Mangy Moose (walkable from the house)</span></li>
+          <li><span class="t">Late</span> — <span class="d"><b>DDs named per SUV</b> for the downtown → Village hop (~20 min) — rideshare is thin and pricey late. Mangy Moose ends the night on foot</span></li>
         </ul>
       </div>
     </details>
 
-    <details class="day">
+    <details class="day" data-date="2026-09-18">
       <summary class="day-head">
         <span class="day-emoji">🚐</span>
         <span><span class="day-date">Friday · Sep 18</span><br><span class="day-title">Tetons Van Tour + Rafting</span></span>
         <span class="chev">▶</span>
       </summary>
       <div class="day-body">
+        <div class="note">Booked <b>dawn-to-dusk</b> — the 8 AM van tour <i>is</i> the Tetons morning; no separate self-drive time.</div>
         <ul class="tl">
-          <li><span class="t">8:00 AM</span> — <span class="d">JHWW Sunrise Wildlife Van Tour (2 vans, Grand Teton NP). Coffee on the way.</span></li>
-          <li><span class="t">~11:30 AM</span> — <span class="d">Lunch — outfitter deli or Cutty's Cheesesteaks</span></li>
-          <li><span class="t">1:00 PM</span> — <span class="d">Snake River Whitewater — "8 Miles of Smiles," Class 2–3. Ends ~4:30. No alcohol; shoes must attach.</span></li>
-          <li><span class="t">PM</span> — <span class="d">Pick up <b>breakfast-burrito batch</b> for weekend early starts → fridge</span></li>
-          <li><span class="t">Evening</span> — <span class="d">Dinner — house (✅ locked; the 6/30 booking fence passed)</span></li>
+          <li><span class="t">Early</span> — <span class="d"><b>Cowboy Coffee Co.</b> on the square (the must-do stop; Bunnery pastries too) — to-go, don't let it push the 8 AM departure</span></li>
+          <li><span class="t">8:00 AM</span> — <span class="d">JHWW Sunrise Wildlife Van Tour (2 vans, Grand Teton NP)</span></li>
+          <li><span class="t">~11:30 AM</span> — <span class="d">Lunch — outfitter deli or Cutty's Cheesesteaks (decide closer)</span></li>
+          <li><span class="t">1:00 PM</span> — <span class="d">Snake River Whitewater — "8 Miles of Smiles," Class 2–3. Arrive 30 min early; ends ~4:30. No alcohol on van or boat; shoes must attach; wetsuit $5 if the weather says so</span></li>
+          <li><span class="t">PM</span> — <span class="d">Pick up the <b>breakfast-burrito batch</b> (~18–20) for the weekend early starts → fridge</span></li>
+          <li><span class="t">Evening</span> — <span class="d">Dinner — the house (✅ locked; the 6/30 booking fence passed). Low-key off the grocery stock</span></li>
+          <li><span class="t">💵</span> — <span class="d"><b>Tip both guides</b> — van tour + rafting, ~$20–40/person across the day. Cash</span></li>
         </ul>
       </div>
     </details>
 
-    <details class="day">
+    <details class="day" data-date="2026-09-19">
       <summary class="day-head">
         <span class="day-emoji">🌋</span>
         <span><span class="day-date">Saturday · Sep 19</span><br><span class="day-title">Yellowstone + LSU/Ole Miss</span></span>
         <span class="chev">▶</span>
       </summary>
       <div class="day-body">
+        <div class="note"><b>Don't try to "do" Yellowstone.</b> Pick the 2–3 stops below and enjoy them rather than racing a loop. No cell service in the park — maps downloaded before you go.</div>
+        <div class="route" aria-label="Saturday drive plan">
+          <div class="rt-stop"><div class="re">🏠</div><div class="rn">House</div><div class="rs">roll 7:00 AM</div></div>
+          <div class="rt-leg">~1 hr</div>
+          <div class="rt-stop"><div class="re">🚪</div><div class="rn">S. Entrance</div><div class="rs">$35/vehicle</div></div>
+          <div class="rt-leg">~30 min</div>
+          <div class="rt-stop"><div class="re">⛲</div><div class="rn">Old Faithful</div><div class="rs">~90-min cycle</div></div>
+          <div class="rt-leg">next door</div>
+          <div class="rt-stop"><div class="re">🌈</div><div class="rn">Grand Prismatic</div><div class="rs">overlook trail</div></div>
+          <div class="rt-leg">on the way back</div>
+          <div class="rt-stop"><div class="re">💠</div><div class="rn">West Thumb</div><div class="rs">quick + worth it</div></div>
+          <div class="rt-leg">~1.5 hrs</div>
+          <div class="rt-stop"><div class="re">🏈</div><div class="rn">House</div><div class="rs">by ~3:00 PM</div></div>
+        </div>
         <ul class="tl">
-          <li><span class="t">7:00 AM</span> — <span class="d">Leave for Yellowstone — S. Entrance ~1 hr. Grab breakfast burritos on the way.</span></li>
-          <li><span class="t">Stops</span> — <span class="d">Old Faithful (check eruption time) · Grand Prismatic overlook · West Thumb on the way back</span></li>
+          <li><span class="t">7:00 AM</span> — <span class="d">Roll out — grab breakfast burritos from the fridge on the way; nothing to cook</span></li>
+          <li><span class="t">Stops</span> — <span class="d"><b>Old Faithful</b> (check the predicted eruption in the NPS app so 13 guys aren't standing around) · <b>Grand Prismatic</b> overlook via Fairy Falls trail · <b>West Thumb</b> on the way back. Yellowstone Lake rides shotgun between them</span></li>
           <li><span class="t">~3:00 PM</span> — <span class="d">Back at the house, comfortable before kickoff</span></li>
-          <li><span class="t">5:30 PM MT</span> — <span class="d">LSU vs. Ole Miss (ABC) — grill 24 oz bone-in ribeyes</span></li>
+          <li><span class="t">5:30 PM MT</span> — <span class="d">LSU vs. Ole Miss (ABC, 6:30 CT) — grill the 24 oz bone-in ribeyes</span></li>
         </ul>
       </div>
     </details>
 
-    <details class="day">
+    <details class="day" data-date="2026-09-20">
       <summary class="day-head">
         <span class="day-emoji">🦌</span>
         <span><span class="day-date">Sunday · Sep 20</span><br><span class="day-title">Sunrise Wildlife Drive + Saints</span></span>
         <span class="chev">▶</span>
       </summary>
       <div class="day-body">
+        <div class="note">The 11 AM kickoff frees the dawn window — <b>use it</b>. September is peak elk rut; this is the can't-miss Wyoming morning. Sunrise ~7:05 — leaving at 6:30 puts you at Schwabacher right at first light (~6:40).</div>
         <ul class="tl">
-          <li><span class="t">6:30–9:30 AM</span> — <span class="d">Sunrise wildlife drive — Schwabacher Landing, Oxbow Bend, Mormon Row, Moose-Wilson Rd. Peak elk rut.</span></li>
-          <li><span class="t">11:00 AM MT</span> — <span class="d">Saints @ Baltimore (CBS) — watch at the house or a spot</span></li>
-          <li><span class="t">Afternoon</span> — <span class="d">Explore — tram + Corbet's Cabin waffles, or Dornan's pizza/view in Moose</span></li>
-          <li><span class="t">Dinner</span> — <span class="d"><b>Early Dornan's (~5 PM)</b>, pizza + Teton view</span></li>
+          <li><span class="t">6:30 AM</span> — <span class="d">Roll out with burritos from the stash — nothing's open at 6:30</span></li>
+          <li><span class="t">First light</span> — <span class="d"><b>Schwabacher Landing</b> — beaver ponds mirroring the Tetons; the signature sunrise</span></li>
+          <li><span class="t">Then</span> — <span class="d"><b>Oxbow Bend</b> (moose, bugling elk, classic reflection) · <b>Mormon Row</b> (bison against the Tetons) · <b>Moose-Wilson Rd</b> (moose + bears — drive slow)</span></li>
+          <li><span class="t">11:00 AM MT</span> — <span class="d">Saints @ Baltimore (CBS, noon CT) — house, or Cutty's / The Bird / Eleanor's</span></li>
+          <li><span class="t">Afternoon</span> — <span class="d">Tram to 10,450 ft + <b>Corbet's Cabin waffles</b> (walkable from the house), or downtown Jackson</span></li>
+          <li><span class="t">~5:00 PM</span> — <span class="d">Dinner — <b>early Dornan's</b> in Moose (default; confirm fall hours the week before), pizza + the Teton view. Backup: the house</span></li>
         </ul>
       </div>
     </details>
 
-    <details class="day">
+    <details class="day" data-date="2026-09-21">
       <summary class="day-head">
         <span class="day-emoji">✈️</span>
         <span><span class="day-date">Monday · Sep 21</span><br><span class="day-title">Travel Home</span></span>
@@ -450,8 +558,8 @@
       </summary>
       <div class="day-body">
         <ul class="tl">
-          <li><span class="t">~9:45 AM</span> — <span class="d">Out of the house — packing out 13 guys takes longer than you think</span></li>
-          <li><span class="t">Before 10:15</span> — <span class="d">Fuel both SUVs (gas in town, not the airport) + return rentals at JAC</span></li>
+          <li><span class="t">~9:45 AM</span> — <span class="d">Out of the house — packing out 13 guys takes longer than you think (confirm exact checkout with the host)</span></li>
+          <li><span class="t">Before 10:15</span> — <span class="d">Fuel both SUVs (gas in town the night before or en route — not the airport lot) + return rentals at JAC; build in ~20 min</span></li>
           <li><span class="t">10:15 AM</span> — <span class="d">Be at JAC — small airport, don't cut it close</span></li>
           <li><span class="t">11:47 AM</span> — <span class="d">Depart JAC → DFW 3:38 PM → MSY 6:41 PM</span></li>
         </ul>
@@ -484,7 +592,7 @@
         <div class="who"><div class="t">LSU vs. Ole Miss</div><div class="muted">Lane Kiffin's return to Oxford · 6:30 CT</div></div>
         <div class="net">ABC</div>
       </div>
-      <div class="note">Back at the house by ~3 PM from Yellowstone. <b>Grill 24 oz bone-in ribeyes</b> during the game.</div>
+      <div class="note">Back at the house by ~3 PM from Yellowstone. <b>Grill 24 oz bone-in ribeyes</b> during the game. Grill captain still unassigned — see To-Do.</div>
     </div>
     <div class="card">
       <div class="game">
@@ -492,13 +600,13 @@
         <div class="who"><div class="t">Saints @ Baltimore Ravens</div><div class="muted">Road game, late-morning watch · noon CT</div></div>
         <div class="net">CBS</div>
       </div>
-      <div class="note">Watch at the house — <b>Cutty's</b>, <b>The Bird</b>, or <b>Eleanor's</b> are options nearby.</div>
+      <div class="note">Watch at the house — <b>Cutty's</b> (Hwy 22, ~10 min), <b>The Bird</b>, or <b>Eleanor's</b> are the venue options. Pick is on the To-Do list.</div>
     </div>
     <div class="card">
       <h3>📺 Watch Plan</h3>
       <ul class="clean">
         <li><b>Sat:</b> House — ribeye night, kickoff 5:30 MT on ABC</li>
-        <li><b>Sun:</b> 11 AM MT kickoff frees the dawn window — do the sunrise wildlife drive first, watch the Saints after</li>
+        <li><b>Sun:</b> 11 AM MT kickoff frees the dawn window — sunrise wildlife drive first, Saints after</li>
         <li class="faint">Who Dat — Monday 11:47 AM departure means Sunday night stays reasonable</li>
       </ul>
     </div>
@@ -524,15 +632,36 @@
         <span class="guy"><span class="avatar" style="background:#d96a8a">CI</span>Ciolino</span>
       </div>
     </div>
+
+    <div class="section-h">Who Owns What</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Job</th><th>Owner</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td>Money hub — Airbnb balance + rafting collect</td><td><b>Drewes</b> <span class="faint">(@drewespt)</span></td><td><span class="pill ok">Named</span></td></tr>
+          <tr><td>⭐ Rafting per-person $ + late-cancel rule</td><td><b>Drewes</b></td><td><span class="pill warn">By 9/10</span></td></tr>
+          <tr><td>Groceries — method call + Smith's butcher (13 ribeyes)</td><td><b>Psilos</b></td><td><span class="pill ok">Named</span></td></tr>
+          <tr><td>Explorer SUV + verify the 3rd row on the reservation</td><td><b>Hardie</b></td><td><span class="pill warn">Verify now</span></td></tr>
+          <tr><td>Expedition SUV</td><td><b>Schick</b></td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>Grill captain — Saturday ribeyes</td><td class="muted">—</td><td><span class="pill stop">Open</span></td></tr>
+          <tr><td>Bear-spray owner — 2+ canisters, buy in Jackson</td><td class="muted">—</td><td><span class="pill stop">Open</span></td></tr>
+          <tr><td>Park-pass owner — ATB pass vs. $35/gate</td><td class="muted">—</td><td><span class="pill stop">Open</span></td></tr>
+          <tr><td>Thursday DDs — one per SUV for the downtown hop</td><td class="muted">—</td><td><span class="pill stop">Open</span></td></tr>
+        </tbody>
+      </table>
+      <div class="note">Herding 13 guys is the main thing that blows up a schedule — every vehicle needs a <b>driver-lead who owns departure times</b>.</div>
+    </div>
+
     <div class="section-h">Driver Leads</div>
     <div class="card scroll-x">
       <table class="tbl">
         <thead><tr><th>Driver</th><th>Vehicle</th><th>Pickup</th><th>Arrives</th></tr></thead>
         <tbody>
-          <tr><td>Jason Hardie</td><td>Ford Explorer</td><td>JAC</td><td class="muted">~10:19 AM, Sep 17</td></tr>
+          <tr><td>Jason Hardie</td><td>Ford Explorer <span class="faint">(7-seat → verify)</span></td><td>JAC</td><td class="muted">~10:19 AM, Sep 17</td></tr>
           <tr><td>Joe Schick</td><td>Expedition (full-size)</td><td>JAC</td><td class="muted">~10:19 AM, Sep 17</td></tr>
         </tbody>
       </table>
+      <div class="note">Explorer as a 7-seater = <b>14 seats for 13</b> — the math works once the 3rd row is verified. Airport days are tight with bags; Yellowstone day is daypacks only, no problem.</div>
     </div>
 
     <div class="section-h">🛏️ Sleeping 13 — Montreux House</div>
@@ -558,54 +687,54 @@
       <table class="tbl">
         <thead><tr><th>Item</th><th class="num">Per Person</th><th>Due</th><th>Pay To</th></tr></thead>
         <tbody>
-          <tr><td>Airbnb — Montreux House</td><td class="num">~$556</td><td><span class="pill warn">8/1</span></td><td><b>@drewespt</b> Venmo</td></tr>
+          <tr><td>Airbnb — Montreux House</td><td class="num">~$556</td><td><span class="pill warn">8/1</span> <span class="due" data-due="2026-08-01"></span></td><td><b>@drewespt</b> Venmo</td></tr>
           <tr><td>Rafting + van tour</td><td class="num">~$300 TBD</td><td><span class="pill info">Closer to trip</span></td><td>Drewes collects</td></tr>
           <tr><td>Flights (own booking)</td><td class="num">—</td><td><span class="pill ok">Booked</span></td><td>—</td></tr>
         </tbody>
       </table>
-      <div class="note">Drewes is the money hub — <b>Airbnb balance due 8/1 to @drewespt on Venmo</b>.</div>
+      <div class="note">Drewes is the money hub — <b>Airbnb balance due 8/1 to @drewespt on Venmo</b> (your share minus the $500 deposit already paid). Rafting balance: no action until Drewes collects.</div>
     </div>
 
     <div class="section-h">Shared Costs</div>
-    <div class="card grid">
+    <div class="card grid-tight">
       <div class="stat"><div class="v">$7,230</div><div class="l">Airbnb total</div></div>
       <div class="stat"><div class="v">~$556</div><div class="l">Lodging per person</div></div>
       <div class="stat"><div class="v">~$300</div><div class="l">Rafting est. per person</div></div>
       <div class="stat"><div class="v">$1,150–1,400</div><div class="l">All-in per person (+ flights)</div></div>
     </div>
-    <div class="note">💵 <b>Bring some cash.</b> Friday's guide tips (~$20–40/person across the van-tour + rafting guides) want it, and a couple of town spots (<b>Pica's</b>, <b>Nora's</b>) are cash-only — hit an ATM.</div>
-  </section>
 
-  <!-- ============ PACKING ============ -->
-  <section class="panel" id="packing">
-    <div class="section-h">Packing — Check It Off</div>
-    <div class="note">September = wide swings: warm afternoons (60s–70s), cold mornings (30s–40s), maybe snow at elevation. <b>Layer everything. Cotton kills.</b> Check marks save on this device.</div>
-    <div class="progress-lab"><span id="packProgLab">0 of 22 packed</span><button class="reset-btn" data-reset="pack">Reset</button></div>
-    <div class="progress"><span id="packProg"></span></div>
-    <div class="card">
-      <label class="check"><input type="checkbox" id="pk0"><span class="box"></span><span class="lab">Puffy / insulated jacket</span><span class="tag">essential</span></label>
-      <label class="check"><input type="checkbox" id="pk1"><span class="box"></span><span class="lab">Waterproof rain jacket</span><span class="tag">essential</span></label>
-      <label class="check"><input type="checkbox" id="pk2"><span class="box"></span><span class="lab">Merino/synthetic base layers</span></label>
-      <label class="check"><input type="checkbox" id="pk3"><span class="box"></span><span class="lab">Fleece or mid-layer</span></label>
-      <label class="check"><input type="checkbox" id="pk4"><span class="box"></span><span class="lab">Hiking pants</span></label>
-      <label class="check"><input type="checkbox" id="pk5"><span class="box"></span><span class="lab">Wool hiking socks (4–5)</span></label>
-      <label class="check"><input type="checkbox" id="pk6"><span class="box"></span><span class="lab">Hiking boots (broken in)</span></label>
-      <label class="check"><input type="checkbox" id="pk7"><span class="box"></span><span class="lab">Warm hat + gloves</span></label>
-      <label class="check"><input type="checkbox" id="pk8"><span class="box"></span><span class="lab">Sunglasses + sunscreen SPF 50</span></label>
-      <label class="check"><input type="checkbox" id="pk9"><span class="box"></span><span class="lab">1–2 nicer outfits for town</span></label>
-      <label class="check"><input type="checkbox" id="pk10"><span class="box"></span><span class="lab">Daypack (20–30L)</span></label>
-      <label class="check"><input type="checkbox" id="pk11"><span class="box"></span><span class="lab">Headlamp + batteries</span></label>
-      <label class="check"><input type="checkbox" id="pk12"><span class="box"></span><span class="lab">Reusable water bottle</span></label>
-      <label class="check"><input type="checkbox" id="pk13"><span class="box"></span><span class="lab">Binoculars (8x42 / 10x42)</span><span class="tag">bring</span></label>
-      <label class="check"><input type="checkbox" id="pk14"><span class="box"></span><span class="lab">Battery pack / car charger</span></label>
-      <label class="check"><input type="checkbox" id="pk15"><span class="box"></span><span class="lab">First aid + blister kit</span></label>
-      <label class="check"><input type="checkbox" id="pk16"><span class="box"></span><span class="lab">Lip balm w/ SPF</span></label>
-      <label class="check"><input type="checkbox" id="pk17"><span class="box"></span><span class="lab">Personal meds + extra</span></label>
-      <label class="check"><input type="checkbox" id="pk18"><span class="box"></span><span class="lab">Driver's license</span></label>
-      <label class="check"><input type="checkbox" id="pk19"><span class="box"></span><span class="lab">Printed confirmations</span></label>
-      <label class="check"><input type="checkbox" id="pk20"><span class="box"></span><span class="lab">Offline maps downloaded</span><span class="tag">do first</span></label>
-      <label class="check"><input type="checkbox" id="pk21"><span class="box"></span><span class="lab">NPS apps for both parks</span></label>
+    <div class="section-h">On-the-Ground Estimates (per person)</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Category</th><th class="num">Estimate</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Food &amp; drink</td><td class="num">$150–250</td><td class="muted">Bars Thu night, meals, drinks</td></tr>
+          <tr><td>Ribeyes (Sat grill)</td><td class="num">$50–80</td><td class="muted">24 oz bone-in + sides; split the grocery run</td></tr>
+          <tr><td>Guide tips (Fri)</td><td class="num">$20–40</td><td class="muted">Van tour <b>+</b> rafting guides; bring cash</td></tr>
+          <tr><td>Bear spray</td><td class="num">~$50/canister</td><td class="muted">2+ needed (one per vehicle); split across the SUV</td></tr>
+          <tr><td>Wetsuit rental</td><td class="num">$5</td><td class="muted">Optional; weather call</td></tr>
+          <tr><td>Park entry</td><td class="num">$0–35/vehicle</td><td class="muted">Free with an America the Beautiful pass ($80)</td></tr>
+          <tr><td>Gas / transport</td><td class="num">$30–60</td><td class="muted">Split across vehicles</td></tr>
+          <tr><td>Incidentals</td><td class="num">$50–100</td><td class="muted">Tips, souvenirs, extra drinks</td></tr>
+        </tbody>
+      </table>
     </div>
+
+    <div class="section-h">Booking Tracker</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Item</th><th>Provider</th><th class="num">Amount</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td>Airbnb</td><td class="muted">Airbnb — Montreux House</td><td class="num">$7,229.82</td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>Rafting / van</td><td class="muted">JHWW</td><td class="num">TBD</td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>Flights</td><td class="muted">American Airlines</td><td class="num">varies</td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>SUV #1 — Explorer</td><td class="muted">Jason Hardie</td><td class="num">—</td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>SUV #2 — Expedition</td><td class="muted">Joe Schick</td><td class="num">—</td><td><span class="pill ok">Booked</span></td></tr>
+          <tr><td>Groceries / ribeyes</td><td class="muted">Smith's or Albertsons (Psilos)</td><td class="num">TBD</td><td><span class="pill warn">Method call pending</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="note">💵 <b>Bring some cash.</b> Friday's guide tips (~$20–40/person across the van-tour + rafting guides) want it, and a couple of town spots (<b>Pica's</b>, <b>Nora's</b>) are cash-only — hit an ATM.</div>
   </section>
 
   <!-- ============ EAT & DRINK ============ -->
@@ -616,40 +745,232 @@
         <thead><tr><th>When</th><th>Spot</th><th>Notes</th></tr></thead>
         <tbody>
           <tr><td>Thu</td><td>Jackson Drug</td><td class="muted">Huckleberry shake on the square — quick downtown hit</td></tr>
-          <tr><td>Fri AM</td><td>Cowboy Coffee Co.</td><td class="muted">Town square — coffee to-go on the way out</td></tr>
-          <tr><td>Sat/Sun AM</td><td>Breakfast burritos (house stash)</td><td class="muted">Reheat for the 7 AM Yellowstone + 6:30 AM wildlife-drive starts</td></tr>
           <tr><td>Thu night</td><td>Snake River Brewing</td><td class="muted">First stop; craft brewery, great food</td></tr>
-          <tr><td>Thu night</td><td>Silver Dollar Bar</td><td class="muted">Classic western bar</td></tr>
+          <tr><td>Thu night</td><td>Silver Dollar Bar</td><td class="muted">Classic western bar — 2,000+ silver dollars in the bar top</td></tr>
           <tr><td>Thu night</td><td>Million Dollar Cowboy Bar</td><td class="muted">Saddle stools, live country — the move</td></tr>
           <tr><td>Thu night</td><td>Mangy Moose</td><td class="muted">Walkable from the house; last stop</td></tr>
-          <tr><td>Fri lunch</td><td>Cutty's Cheesesteaks</td><td class="muted">Or the outfitter deli</td></tr>
+          <tr><td>Fri AM</td><td>Cowboy Coffee Co.</td><td class="muted">Town square, <b>a must</b> — to-go on the way out (+ Bunnery pastries)</td></tr>
+          <tr><td>Fri lunch</td><td>Cutty's Cheesesteaks</td><td class="muted">Or the outfitter deli — decide closer</td></tr>
           <tr><td>Fri dinner</td><td>House ✅ locked</td><td class="muted">6/30 booking fence passed — house it is</td></tr>
-          <tr><td>Sat dinner</td><td>House grill</td><td class="muted">24 oz bone-in ribeyes</td></tr>
+          <tr><td>Sat/Sun AM</td><td>Breakfast burritos (house stash)</td><td class="muted">Reheat for the 7 AM + 6:30 AM starts</td></tr>
+          <tr><td>Sat dinner</td><td>House grill</td><td class="muted">24 oz bone-in ribeyes during the LSU game</td></tr>
           <tr><td>Sun lunch</td><td>Dornan's (Moose)</td><td class="muted">Pizza + beer on a deck with full Teton views</td></tr>
-          <tr><td>Sun dinner</td><td>Dornan's, early (~5 PM)</td><td class="muted">Pizza + Teton view</td></tr>
+          <tr><td>Sun dinner</td><td>Dornan's, early (~5 PM)</td><td class="muted">Default — confirm fall hours; backup: the house</td></tr>
         </tbody>
       </table>
     </div>
 
-    <div class="section-h">🥩 Saturday Ribeye Night</div>
-    <div class="card">
-      <ul class="clean">
-        <li>13 × 24 oz bone-in ribeyes — <b>Smith's (Kroger)</b> or <b>Albertsons</b> in Jackson</li>
-        <li>Buy groceries <b>Thursday on arrival</b> — don't scramble after Yellowstone</li>
-        <li>Assign a grill captain &amp; keep sides simple</li>
-      </ul>
-      <div class="note">Groceries owned by <b>Chris Psilos</b>. Assign the grill captain.</div>
+    <div class="grid">
+      <div class="card">
+        <h3>🥩 Saturday Ribeye Night</h3>
+        <ul class="clean">
+          <li>13 × 24 oz bone-in ribeyes — <b>Smith's (Kroger)</b> or <b>Albertsons</b></li>
+          <li><b>Call the Smith's butcher ahead</b> — 13 × 24 oz is too much to leave to shelf stock</li>
+          <li>Buy Thursday on arrival — don't scramble after Yellowstone</li>
+          <li>Sides from the grocery store — keep it simple</li>
+        </ul>
+        <div class="note">Groceries owned by <b>Chris Psilos</b>. Grill captain still open — see To-Do.</div>
+      </div>
+      <div class="card">
+        <h3>🌯 Breakfast Burritos — Early-Start Stash</h3>
+        <ul class="clean">
+          <li><b>Why</b> — Sat 7 AM + Sun 6:30 AM starts; nothing's open, no time to cook</li>
+          <li><b>Where</b> — Cowboy Coffee, Pearl Street Bagels, Picnic, D.O.G., or Hand Fire; bulk batch (<b>~1.5/guy ≈ 18–20</b>)</li>
+          <li><b>When</b> — pick up <b>Friday after rafting</b>; Teton Village delivery is thin, so call ahead</li>
+          <li><b>Reheat</b> — foil in the oven or microwave; freeze a few as Sunday backup</li>
+        </ul>
+      </div>
     </div>
 
-    <div class="section-h">🌯 Breakfast Burritos — Early-Start Stash</div>
+    <div class="section-h">🛒 Grocery Game Plan (Psilos owns the call)</div>
     <div class="card">
       <ul class="clean">
-        <li><b>Where</b> — Cowboy Coffee, Pearl Street Bagels, Picnic, or D.O.G.; order a bulk batch (~18–20)</li>
-        <li><b>When</b> — pick up <b>Friday after rafting</b> so they're stashed for Saturday's 7 AM Yellowstone start</li>
-        <li><b>Heads up</b> — call ahead &amp; pick up rather than count on same-day delivery</li>
-        <li><b>Reheat</b> — foil in the oven or microwave; freeze a few as Sunday backup</li>
+        <li><span class="pill info">Tier 1</span> <b>Pre-stock before arrival</b> — Snap Pea (built for vacation rentals) · Mountains of Groceries ($45 + 30% of the bill + 8% — price it first) · RMR concierge ask: (307) 739-9050</li>
+        <li><span class="pill info">Tier 2</span> <b>Instacart</b> to Teton Village from Smith's/Albertsons — ~1 hr, the mid-trip restock button</li>
+        <li><span class="pill warn">Tier 3</span> <b>The steaks stay in person</b> — apps pull shelf stock; call the Smith's butcher, pick up the 13 ribeyes yourself</li>
+      </ul>
+      <div class="note"><b>Bottom line:</b> pre-stock the bulk, butcher-call the ribeyes, keep Instacart on standby — and Thursday's midday window frees up for bear spray + lunch + the shake.</div>
+    </div>
+
+    <div class="section-h">If Plans Move — Backups</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Spot</th><th>Vibe</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Pica's Mexican Taqueria</td><td class="muted">Cheap, legendary</td><td class="muted"><b>Cash only</b>; tiny; worth the wait</td></tr>
+          <tr><td>Nora's Fish Creek Inn</td><td class="muted">Diner breakfast</td><td class="muted"><b>Cash only</b>; iconic Wyoming diner</td></tr>
+          <tr><td>Persephone Bakery</td><td class="muted">Breakfast/coffee</td><td class="muted">Best coffee in town; croissants</td></tr>
+          <tr><td>Snake River Grill</td><td class="muted">Upscale</td><td class="muted">On the square; books <b>months</b> out — not a spontaneous 13-top</td></tr>
+          <tr><td>Thai Me Up</td><td class="muted">Thai</td><td class="muted">Beloved locals' spot</td></tr>
+          <tr><td>Merry Piglets / Hand Fire Pizza</td><td class="muted">Casual downtown</td><td class="muted">Lunch/dinner backups near the square</td></tr>
+          <tr><td>Roadhouse Brewing</td><td class="muted">Brewery</td><td class="muted">Great happy hour; Thursday-crawl alternate</td></tr>
+          <tr><td>Pearl Street sloshie</td><td class="muted">Quick hit</td><td class="muted">Friend's favorite; downtown alongside the Jackson Drug shake</td></tr>
+          <tr><td>Creekside Market</td><td class="muted">Sandwiches</td><td class="muted">Grab-and-go before heading into the parks</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <details class="day">
+      <summary class="day-head">
+        <span class="day-emoji">📋</span>
+        <span><span class="day-date">Reference</span><br><span class="day-title">Must-Eat Lists — Triaged Against Our Schedule</span></span>
+        <span class="chev">▶</span>
+      </summary>
+      <div class="day-body">
+        <ul class="clean">
+          <li>✅ <b>Already on the plan</b> — Corbet's Cabin (Sun PM tram), Dornan's (Sun), Cowboy Bar (Thu), Jackson Drug, Bunnery, Silver Dollar, the rafting, the tram</li>
+          <li><b>Easy adds</b> — Leek's Pizzeria (only if up near Colter Bay — Dornan's covers pizza closer), Gun Barrel Steak &amp; Game (a <i>Thursday</i> dinner swap, not an add — Saturday is already ribeyes), Healthy Being (green reset, not a group stop)</li>
+          <li><b>Aspirational, hard to fit</b> — Mural Room at Jackson Lake Lodge (~45–60 min north, wants a reservation) · Jenny Lake Dining Room (pricey, short fall season) — realistically next trip</li>
+          <li><b>Night with a twist</b> — Jackson Hole Playhouse (dinner + Western melodrama) eats a whole evening; our nights are spoken for</li>
+          <li>🚫 <b>Doesn't fit</b> — Jackson Hole Rodeo (season ended Sep 7), Saturday Farmers Market (we're in Yellowstone), Snow King concerts (summer only)</li>
+        </ul>
+        <div class="note"><b>Friday-dinner candidates — closed 6/30, the house won:</b> Local + Gather were the top 13-top candidates, with The Bistro, Figs, Kampai/Bin22 (splinter-size), Coe Tavern (pre-dinner), Snake River Grill (books months out). Kept for reference / next trip. Confirm shoulder-season hours before counting on any in-park spot.</div>
+      </div>
+    </details>
+  </section>
+
+  <!-- ============ ACTIVITIES ============ -->
+  <section class="panel" id="activities">
+    <div class="note"><b>The schedule is full</b> — Friday is booked dawn-to-dusk, Saturday is Yellowstone + LSU, Sunday is the dawn drive + Saints. What's genuinely open: the <b>Thursday midday gap</b> and the <b>Sunday afternoon window</b>. Everything else here is reference (or next trip).</div>
+
+    <div class="section-h">🎯 Sunday Afternoon Window — The Real Choices</div>
+    <div class="card">
+      <ul class="clean">
+        <li>🚡 <b>Tram + Corbet's Cabin waffles</b> — Rendezvous Mountain summit (10,450 ft), no hiking required; try the brown sugar &amp; butter. Walkable from the house. <span class="faint">Confirm fall operating dates + buy tickets online (To-Do)</span></li>
+        <li>🍕 <b>Dornan's deck</b> in Moose — pizza + beer with a straight-on Teton view; flows into the early-dinner default</li>
+        <li>🛍️ <b>Downtown Jackson</b> — antler arches, western shops; friend rec: <b>Spirits &amp; Spice</b> + a Pearl Street sloshie</li>
+        <li>🖼️ <b>National Museum of Wildlife Art</b> — world-class, overlooks the elk refuge; also <b>the</b> indoor move if weather scrubs anything</li>
       </ul>
     </div>
+
+    <div class="section-h">🌋 Yellowstone — What Fits Saturday</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Stop</th><th>Fits?</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Old Faithful</td><td><span class="pill ok">On the plan</span></td><td class="muted">~90-min cycle — check the predicted time; boardwalk loop is excellent</td></tr>
+          <tr><td>Grand Prismatic Spring</td><td><span class="pill ok">On the plan</span></td><td class="muted">Most photographed in the park; overlook via Fairy Falls trail</td></tr>
+          <tr><td>West Thumb Geyser Basin</td><td><span class="pill ok">On the plan</span></td><td class="muted">Right on the way back; quick and worth it</td></tr>
+          <tr><td>Yellowstone Lake</td><td><span class="pill ok">En route</span></td><td class="muted">You drive its shore between West Thumb and the South Entrance</td></tr>
+          <tr><td>Grand Canyon of the Yellowstone</td><td><span class="pill stop">🚫 Next trip</span></td><td class="muted">Artist Point is iconic — but adding it blows the 3 PM return</td></tr>
+          <tr><td>Norris / Mammoth / Artists' Paintpots</td><td><span class="pill stop">🚫 Next trip</span></td><td class="muted">All well past the turnaround</td></tr>
+          <tr><td>Lamar Valley</td><td><span class="pill stop">🚫 Next trip</span></td><td class="muted">"America's Serengeti" — 3+ hrs one-way; Sunday's Teton dawn is the same show 20 min from the house</td></tr>
+          <tr><td>Hayden Valley / Mt. Washburn / Beartooth Hwy</td><td><span class="pill stop">🚫 Next trip</span></td><td class="muted">Too far / wrong exit</td></tr>
+          <tr><td>Boiling River</td><td><span class="pill stop">Closed</span></td><td class="muted">2022 flood destroyed the soaking area; no plans to reopen</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section-h">🥾 Grand Teton Hikes — Reference Shelf</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Trail</th><th class="num">Distance</th><th>Difficulty</th><th>Highlights</th></tr></thead>
+        <tbody>
+          <tr><td>Jenny Lake Loop</td><td class="num">7.1 mi</td><td>Easy</td><td class="muted">Lake views, ferry option — before 8 AM beats the crowds</td></tr>
+          <tr><td>Hidden Falls &amp; Inspiration Pt</td><td class="num">9.7 mi RT</td><td>Moderate</td><td class="muted">Waterfall, panoramic views</td></tr>
+          <tr><td>Taggart &amp; Bradley Lakes</td><td class="num">5.9 mi</td><td>Easy–Mod</td><td class="muted">Quiet, great wildlife</td></tr>
+          <tr><td>Death Canyon</td><td class="num">8.5 mi RT</td><td>Moderate</td><td class="muted">Dramatic canyon walls</td></tr>
+          <tr><td>Cascade Canyon → Lake Solitude</td><td class="num">14.5 mi RT</td><td>Strenuous</td><td class="muted">Best fall colors, high alpine lake</td></tr>
+          <tr><td>Amphitheater Lake</td><td class="num">9.7 mi RT</td><td>Strenuous</td><td class="muted">Huge elevation gain, incredible views</td></tr>
+        </tbody>
+      </table>
+      <div class="note">On the water (also reference): the scenic Snake River float was triaged out — no open window. Jenny Lake kayak/canoe rentals and calm paddling at String Lake exist if a block ever frees up.</div>
+    </div>
+
+    <div class="section-h">🦌 Wildlife Cheat Sheet (the Sunday drive hits the stars)</div>
+    <div class="card">
+      <ul class="clean">
+        <li>⭐ <b>Schwabacher Landing</b> — glassy beaver ponds mirroring the Tetons; go at first light, don't skip</li>
+        <li>⭐ <b>Oxbow Bend</b> — moose, herons, otters; often a bull elk bugling at dawn</li>
+        <li>⭐ <b>Mormon Row / Antelope Flats</b> — bison, pronghorn, coyotes against the barns</li>
+        <li>⭐ <b>Moose-Wilson Road</b> — moose and bears; drive slow</li>
+        <li><b>Willow Flats</b> (Jackson Lake Lodge) — moose hotspot if you're up north</li>
+        <li><b>National Elk Refuge</b> — September is early for the winter herds, but worth a look from town</li>
+      </ul>
+    </div>
+
+    <div class="section-h">Booking Notes</div>
+    <div class="card">
+      <ul class="clean">
+        <li><span class="pill ok">Booked</span> Whitewater rafting + wildlife van tour — JHWW, Friday</li>
+        <li><span class="pill warn">To-Do</span> Tram — no reservation needed to ride, but buy tickets online + confirm fall dates</li>
+        <li><span class="pill info">Only if trading a block</span> Horseback (friend rec: Spring Creek Ranch — book ahead) · fly fishing (September is prime; guide books early)</li>
+        <li><span class="pill stop">Dropped</span> Via Ferrata</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ PACKING ============ -->
+  <section class="panel" id="packing">
+    <div class="section-h">Packing — Check It Off</div>
+    <div class="note">September = wide swings: warm afternoons (60s–70s), cold mornings (30s–40s), maybe snow at elevation. <b>Layer everything. Cotton kills.</b> A puffy + rain shell beats one heavy coat; skip the umbrella (mountain wind) — a hood is always better. Check marks save on this device.</div>
+    <div class="progress-lab"><span id="packProgLab">0 of 47 packed</span><button class="reset-btn" data-reset="pack">Reset</button></div>
+    <div class="progress"><span id="packProg"></span></div>
+    <div class="card">
+      <div class="grp-h">Layers — the strategy</div>
+      <label class="check"><input type="checkbox" id="pk0"><span class="box"></span><span class="lab">Puffy / insulated jacket — the 6:30 AM starts are in the 30s</span><span class="tag">essential</span></label>
+      <label class="check"><input type="checkbox" id="pk1"><span class="box"></span><span class="lab">Waterproof rain jacket — afternoon storms are common</span><span class="tag">essential</span></label>
+      <label class="check"><input type="checkbox" id="pk2"><span class="box"></span><span class="lab">Merino/synthetic base layer tops (2)</span></label>
+      <label class="check"><input type="checkbox" id="pk3"><span class="box"></span><span class="lab">Lightweight base layer bottoms (1–2)</span></label>
+      <label class="check"><input type="checkbox" id="pk4"><span class="box"></span><span class="lab">Fleece or mid-weight insulating layer</span></label>
+      <label class="check"><input type="checkbox" id="pk5"><span class="box"></span><span class="lab">Wool/synthetic hiking socks (4–5)</span><span class="tag">no cotton</span></label>
+      <label class="check"><input type="checkbox" id="pk6"><span class="box"></span><span class="lab">Liner gloves</span></label>
+
+      <div class="grp-h">Hiking &amp; town</div>
+      <label class="check"><input type="checkbox" id="pk7"><span class="box"></span><span class="lab">Hiking pants (zip-off optional)</span></label>
+      <label class="check"><input type="checkbox" id="pk8"><span class="box"></span><span class="lab">Quick-dry shorts (1–2)</span></label>
+      <label class="check"><input type="checkbox" id="pk9"><span class="box"></span><span class="lab">Moisture-wicking t-shirts (3–4)</span></label>
+      <label class="check"><input type="checkbox" id="pk10"><span class="box"></span><span class="lab">Hiking boots — broken in, NOT new</span></label>
+      <label class="check"><input type="checkbox" id="pk11"><span class="box"></span><span class="lab">Camp sandals / flip-flops for evenings</span></label>
+      <label class="check"><input type="checkbox" id="pk12"><span class="box"></span><span class="lab">1–2 nicer outfits for town (smart casual)</span></label>
+      <label class="check"><input type="checkbox" id="pk13"><span class="box"></span><span class="lab">Comfortable walking shoes</span></label>
+
+      <div class="grp-h">Accessories</div>
+      <label class="check"><input type="checkbox" id="pk14"><span class="box"></span><span class="lab">Warm hat / beanie</span></label>
+      <label class="check"><input type="checkbox" id="pk15"><span class="box"></span><span class="lab">Sun hat / baseball cap</span></label>
+      <label class="check"><input type="checkbox" id="pk16"><span class="box"></span><span class="lab">Sunglasses — elevation intensifies sun</span></label>
+      <label class="check"><input type="checkbox" id="pk17"><span class="box"></span><span class="lab">Neck gaiter or light scarf</span></label>
+      <label class="check"><input type="checkbox" id="pk18"><span class="box"></span><span class="lab">Waterproof gloves</span></label>
+
+      <div class="grp-h">Gear</div>
+      <label class="check"><input type="checkbox" id="pk19"><span class="box"></span><span class="lab">Daypack (20–30L)</span></label>
+      <label class="check"><input type="checkbox" id="pk20"><span class="box"></span><span class="lab">Trekking poles (optional)</span></label>
+      <label class="check"><input type="checkbox" id="pk21"><span class="box"></span><span class="lab">Headlamp + extra batteries</span></label>
+      <label class="check"><input type="checkbox" id="pk22"><span class="box"></span><span class="lab">Water bottles / reservoir (3L+ for long hikes)</span></label>
+      <label class="check"><input type="checkbox" id="pk23"><span class="box"></span><span class="lab">Water filter or purification tabs</span></label>
+      <label class="check"><input type="checkbox" id="pk24"><span class="box"></span><span class="lab">Binoculars (8x42 / 10x42) — you'll use them every day</span><span class="tag">bring</span></label>
+      <label class="check"><input type="checkbox" id="pk25"><span class="box"></span><span class="lab">Spotting scope (optional — earns its keep at Oxbow Bend)</span></label>
+      <label class="check"><input type="checkbox" id="pk26"><span class="box"></span><span class="lab">Camera + telephoto if serious about wildlife shots</span></label>
+
+      <div class="grp-h">Safety &amp; health</div>
+      <label class="check"><input type="checkbox" id="pk27"><span class="box"></span><span class="lab">First aid kit</span></label>
+      <label class="check"><input type="checkbox" id="pk28"><span class="box"></span><span class="lab">Moleskin / blister kit</span></label>
+      <label class="check"><input type="checkbox" id="pk29"><span class="box"></span><span class="lab">Sunscreen SPF 50+ — altitude sun is intense</span></label>
+      <label class="check"><input type="checkbox" id="pk30"><span class="box"></span><span class="lab">Lip balm with SPF</span></label>
+      <label class="check"><input type="checkbox" id="pk31"><span class="box"></span><span class="lab">Insect repellent (tapering by September, still present)</span></label>
+      <label class="check"><input type="checkbox" id="pk32"><span class="box"></span><span class="lab">Altitude meds if prone (Jackson is 6,200 ft)</span></label>
+      <label class="check"><input type="checkbox" id="pk33"><span class="box"></span><span class="lab">Personal meds + extra supply</span></label>
+
+      <div class="grp-h">Tech &amp; navigation</div>
+      <label class="check"><input type="checkbox" id="pk34"><span class="box"></span><span class="lab">Offline maps downloaded (Gaia GPS / Google Maps offline)</span><span class="tag">do first</span></label>
+      <label class="check"><input type="checkbox" id="pk35"><span class="box"></span><span class="lab">NPS apps for both parks</span></label>
+      <label class="check"><input type="checkbox" id="pk36"><span class="box"></span><span class="lab">Battery pack / portable charger</span></label>
+      <label class="check"><input type="checkbox" id="pk37"><span class="box"></span><span class="lab">Car charger</span></label>
+
+      <div class="grp-h">House &amp; cooler</div>
+      <label class="check"><input type="checkbox" id="pk38"><span class="box"></span><span class="lab">Cooler — saves money on park food</span></label>
+      <label class="check"><input type="checkbox" id="pk39"><span class="box"></span><span class="lab">Reusable bags, containers</span></label>
+      <label class="check"><input type="checkbox" id="pk40"><span class="box"></span><span class="lab">Utensils, paper plates</span></label>
+
+      <div class="grp-h">Documents &amp; money</div>
+      <label class="check"><input type="checkbox" id="pk41"><span class="box"></span><span class="lab">Driver's license</span></label>
+      <label class="check"><input type="checkbox" id="pk42"><span class="box"></span><span class="lab">Park pass (America the Beautiful) or plan to buy at the gate</span></label>
+      <label class="check"><input type="checkbox" id="pk43"><span class="box"></span><span class="lab">Printed confirmations — lodging + activities</span></label>
+      <label class="check"><input type="checkbox" id="pk44"><span class="box"></span><span class="lab">Travel insurance info (decide yes/no — see To-Do)</span></label>
+      <label class="check"><input type="checkbox" id="pk45"><span class="box"></span><span class="lab">Emergency contacts on paper — incl. St. John's Health, Jackson</span></label>
+      <label class="check"><input type="checkbox" id="pk46"><span class="box"></span><span class="lab">Cash — guide tips + cash-only spots (Pica's, Nora's)</span></label>
+    </div>
+    <div class="note">🐻 <b>Bear spray is handled at the group level</b> — 2+ canisters bought in Jackson on Thursday (~$50 each, one per vehicle). FAA-prohibited in carry-on AND checked bags — don't bring your own.</div>
   </section>
 
   <!-- ============ LOGISTICS ============ -->
@@ -685,38 +1006,63 @@
       </div>
     </details>
 
-    <div class="section-h">🚗 Key Drive Times</div>
+    <div class="section-h">🚗 Getting Around</div>
+    <div class="card">
+      <ul class="clean">
+        <li><b>At JAC:</b> rental counter first, bags second — the counter line builds fast off a full flight at a small airport</li>
+        <li><b>Seats:</b> Explorer as a 7-seater = 14 for 13; Hardie verifies the 3rd row is on the reservation (if not: swap or add a cargo carrier <i>now</i>, not at the counter)</li>
+        <li><b>Luggage days are tight</b> — 13 guys + bags in two SUVs; Yellowstone day is daypacks only, no problem</li>
+        <li><b>Gas up in Jackson</b> before the parks — gas inside is pricier; fuel before the Monday return too</li>
+        <li><b>Zero cell service in Yellowstone</b> — offline maps downloaded before you go</li>
+      </ul>
+    </div>
+
+    <div class="section-h">Key Drive Times</div>
     <div class="card scroll-x">
       <table class="tbl">
         <thead><tr><th>Route</th><th>Time</th></tr></thead>
         <tbody>
           <tr><td>JAC → House (Teton Village)</td><td>~10 min</td></tr>
+          <tr><td>House → Downtown Jackson</td><td>~20 min</td></tr>
           <tr><td>Jackson → Grand Teton S. Entrance</td><td>~20 min</td></tr>
           <tr><td>Jackson → Yellowstone S. Entrance</td><td>~1 hr</td></tr>
           <tr><td>Yellowstone S. → Old Faithful</td><td>~30 min</td></tr>
           <tr><td>Old Faithful → Jackson</td><td>~1.5 hrs</td></tr>
+          <tr><td>SLC → Jackson <span class="faint">(misconnect fallback)</span></td><td>~5 hrs</td></tr>
         </tbody>
       </table>
     </div>
 
-    <div class="section-h">🚐 Rafting Day (Friday)</div>
-    <div class="card">
-      <ul class="clean">
-        <li><b>Shoes:</b> must attach to feet — no sandals/flip flops</li>
-        <li><b>Wetsuits:</b> $5/person on-site — decide on weather</li>
-        <li><b>Arrive:</b> 30 min early to the put-in</li>
-        <li><b>No alcohol</b> on the van or boat — lunch break is the window</li>
-      </ul>
+    <div class="grid">
+      <div class="card">
+        <h3>🚐 Rafting Day (Friday)</h3>
+        <ul class="clean">
+          <li><b>Shoes:</b> must attach to feet — no sandals/flip flops</li>
+          <li><b>Wetsuits:</b> $5/person on-site — decide on weather</li>
+          <li><b>Arrive:</b> 30 min early to the put-in</li>
+          <li><b>No alcohol</b> on the van or boat — lunch break is the window</li>
+          <li><b>Refund:</b> full if cancelled 7+ days out — the 9/10 ⭐ deadline</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>🏞️ Park Entry</h3>
+        <ul class="clean">
+          <li><b>No reservations needed</b> for either park in 2026 — ~$35/vehicle at the gate</li>
+          <li><b>America the Beautiful</b> ($80) covers both — buy on Recreation.gov, skip the line</li>
+          <li><b>2026 construction</b> delays at Yellowstone's North + NE entrances — <b>not our route</b>; the South Entrance is unaffected</li>
+          <li><b>Bear spray:</b> one per vehicle; buy in Jackson</li>
+        </ul>
+      </div>
     </div>
 
-    <div class="section-h">🏞️ Park Entry &amp; Field Notes</div>
+    <div class="section-h">🚨 Safety &amp; Emergency</div>
     <div class="card">
       <ul class="clean">
-        <li><b>No reservations needed</b> for either park in 2026 — pay ~$35/vehicle at the gate</li>
-        <li><b>America the Beautiful</b> pass ($80) covers both — buy on Recreation.gov to skip the line</li>
-        <li><b>Bear spray:</b> one per vehicle; buy/rent in Jackson</li>
-        <li><b>No cell service in Yellowstone</b> — download offline maps before you go</li>
-        <li><b>Weather scrubs a park day?</b> Town fallback (brewery / Cowboy Bar) + the <b>National Museum of Wildlife Art</b> is the named indoor move — world-class, overlooks the elk refuge</li>
+        <li><b>Nearest ER:</b> St. John's Health, 625 E Broadway, Jackson — 24-hr, ~25 min from the house. <b>On paper</b> — no cell service in the parks, and it's a rafting + hiking trip</li>
+        <li><b>Thursday ride plan:</b> DDs per SUV for the downtown → Village hop; Mangy Moose ends the night walkable</li>
+        <li><b>Weather scrubs a park day?</b> Town fallback (brewery / Cowboy Bar) + the <b>National Museum of Wildlife Art</b> is the named indoor move</li>
+        <li><b>Travel insurance:</b> decide yes/no — trip-delay coverage is exactly the DFW 43-min scenario</li>
+        <li><b>911</b> for emergencies; rangers at park visitor centers</li>
       </ul>
     </div>
 
@@ -731,49 +1077,121 @@
           <tr><td>American Airlines</td><td>Flight changes</td><td class="muted">(800) 433-7300 + the AA app</td></tr>
           <tr><td>St. John's Health</td><td>Nearest ER</td><td class="muted">625 E Broadway, Jackson — ~25 min from house</td></tr>
           <tr><td>Drewes</td><td>Money hub</td><td class="muted">@drewespt on Venmo</td></tr>
+          <tr><td>Hardie / Schick</td><td>The two rental SUVs</td><td class="muted">Confirmations on their bookings</td></tr>
         </tbody>
       </table>
+      <div class="note">One guy prints this with the confirmations; a <b>photo of it on every phone</b> is the offline backup.</div>
+    </div>
+  </section>
+
+  <!-- ============ MAPS ============ -->
+  <section class="panel" id="maps">
+    <div class="note">📴 <b>These links need cell service</b> — tap them in town, not in the park. For offline: import the full 76-place file from <b>/maps</b> into Google My Maps (color-coded, shareable) and download offline maps before Saturday.</div>
+
+    <div class="section-h">🏠 Essentials</div>
+    <div class="linkgrid">
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=3720+Morley+Dr%2C+Teton+Village%2C+WY+83025" target="_blank" rel="noopener"><span class="mi">🏠</span><span><b>Montreux House</b><span class="ms">3720 Morley Dr, Teton Village</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Jackson+Hole+Airport%2C+WY" target="_blank" rel="noopener"><span class="mi">✈️</span><span><b>Jackson Hole Airport</b><span class="ms">Fly in Thu · out Mon 11:47 AM</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=St.+John%27s+Health%2C+625+E+Broadway%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🏥</span><span><b>St. John's Health</b><span class="ms">Nearest 24-hr ER · ~25 min</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Smith%27s+Food+and+Drug%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🛒</span><span><b>Smith's</b><span class="ms">Grocery run + butcher counter</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Albertsons%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🛒</span><span><b>Albertsons</b><span class="ms">Grocery alternative</span></span></a>
+    </div>
+
+    <div class="section-h">🍺 Thursday — Downtown Crawl</div>
+    <div class="linkgrid">
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Jackson+Town+Square%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🦌</span><span><b>Town Square</b><span class="ms">Antler arches, the hub</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Jackson+Drug%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🥤</span><span><b>Jackson Drug</b><span class="ms">Huckleberry shake</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Snake+River+Brewing%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🍺</span><span><b>Snake River Brewing</b><span class="ms">Stop 1</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Silver+Dollar+Bar%2C+Wort+Hotel%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🪙</span><span><b>Silver Dollar Bar</b><span class="ms">Stop 2</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Million+Dollar+Cowboy+Bar%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🤠</span><span><b>Cowboy Bar</b><span class="ms">Stop 3 — the move</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Mangy+Moose%2C+Teton+Village%2C+WY" target="_blank" rel="noopener"><span class="mi">🦌</span><span><b>Mangy Moose</b><span class="ms">Last stop — walk home</span></span></a>
+    </div>
+
+    <div class="section-h">🚐 Friday</div>
+    <div class="linkgrid">
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Cowboy+Coffee+Co%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">☕</span><span><b>Cowboy Coffee Co.</b><span class="ms">The must-do stop, to-go</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=The+Bunnery%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🥐</span><span><b>The Bunnery</b><span class="ms">Pastries on the square</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Cutty%27s+Bar+%26+Grill%2C+Wilson%2C+WY" target="_blank" rel="noopener"><span class="mi">🥪</span><span><b>Cutty's</b><span class="ms">Rafting lunch / Saints option</span></span></a>
+    </div>
+
+    <div class="section-h">🌋 Saturday — Yellowstone</div>
+    <div class="linkgrid">
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Yellowstone+South+Entrance%2C+WY" target="_blank" rel="noopener"><span class="mi">🚪</span><span><b>South Entrance</b><span class="ms">~1 hr from Jackson</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Old+Faithful%2C+Yellowstone+National+Park%2C+WY" target="_blank" rel="noopener"><span class="mi">⛲</span><span><b>Old Faithful</b><span class="ms">Check eruption time first</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Fairy+Falls+Trailhead%2C+Yellowstone%2C+WY" target="_blank" rel="noopener"><span class="mi">🌈</span><span><b>Grand Prismatic Overlook</b><span class="ms">Via Fairy Falls trailhead</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=West+Thumb+Geyser+Basin%2C+Yellowstone%2C+WY" target="_blank" rel="noopener"><span class="mi">💠</span><span><b>West Thumb</b><span class="ms">On the way back</span></span></a>
+    </div>
+
+    <div class="section-h">🦌 Sunday — Dawn Drive + Afternoon</div>
+    <div class="linkgrid">
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Schwabacher+Landing%2C+Grand+Teton+National+Park%2C+WY" target="_blank" rel="noopener"><span class="mi">🌄</span><span><b>Schwabacher Landing</b><span class="ms">First light ~6:40 — don't skip</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Oxbow+Bend%2C+Grand+Teton+National+Park%2C+WY" target="_blank" rel="noopener"><span class="mi">🦌</span><span><b>Oxbow Bend</b><span class="ms">Moose + bugling elk</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Mormon+Row+Historic+District%2C+WY" target="_blank" rel="noopener"><span class="mi">🛖</span><span><b>Mormon Row</b><span class="ms">Bison against the Tetons</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Moose-Wilson+Road%2C+Grand+Teton%2C+WY" target="_blank" rel="noopener"><span class="mi">🐻</span><span><b>Moose-Wilson Road</b><span class="ms">Drive slow</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Dornan%27s+Pizza+Pasta+Co%2C+Moose%2C+WY" target="_blank" rel="noopener"><span class="mi">🍕</span><span><b>Dornan's</b><span class="ms">Deck pizza + Teton view</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=Jackson+Hole+Aerial+Tram%2C+Teton+Village%2C+WY" target="_blank" rel="noopener"><span class="mi">🚡</span><span><b>Aerial Tram</b><span class="ms">To Corbet's waffles, 10,450 ft</span></span></a>
+      <a class="mapl" href="https://www.google.com/maps/search/?api=1&amp;query=National+Museum+of+Wildlife+Art%2C+Jackson%2C+WY" target="_blank" rel="noopener"><span class="mi">🖼️</span><span><b>Museum of Wildlife Art</b><span class="ms">The weather-scrub indoor move</span></span></a>
     </div>
   </section>
 
   <!-- ============ TO-DO ============ -->
   <section class="panel" id="todo">
     <div class="section-h">Open Items — Check It Off</div>
-    <div class="note"><b>Only the load-bearing items.</b> Everything else lives in the README. The ⭐ item gates the trip.</div>
-    <div class="progress-lab"><span id="todoProgLab">0 of 10 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
+    <div class="note"><b>The full README list, in chronological order — work top to bottom.</b> The ⭐ item gates the trip. Check marks save on this device.</div>
+    <div class="progress-lab"><span id="todoProgLab">0 of 25 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
     <div class="progress"><span id="todoProg"></span></div>
 
     <div class="section-h">🔴 Now (July)</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="td0"><span class="box"></span><span class="lab">Verify Explorer 7-seat config on the reservation</span><span class="tag">Jason</span></label>
-      <label class="check"><input type="checkbox" id="td1"><span class="box"></span><span class="lab">Confirm Airbnb check-in + checkout times</span><span class="tag">Owner</span></label>
+      <label class="check"><input type="checkbox" id="td0"><span class="box"></span><span class="lab">Verify Explorer 7-seat config on the reservation — one call; if no 3rd row, swap or add a cargo carrier now</span><span class="tag">Hardie</span></label>
+      <label class="check"><input type="checkbox" id="td1"><span class="box"></span><span class="lab">Confirm Airbnb check-in + checkout times with the host — sizes Thursday's midday plan + Monday's exit</span><span class="tag">needs owner</span></label>
     </div>
 
-    <div class="section-h">By Aug 1</div>
+    <div class="section-h">By Aug 1 <span class="due" data-due="2026-08-01"></span></div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="td2"><span class="box"></span><span class="lab">Airbnb balance due — @drewespt Venmo</span><span class="tag">8/1</span></label>
+      <label class="check"><input type="checkbox" id="td2"><span class="box"></span><span class="lab">Airbnb balance — your share (≈$556) minus the $500 deposit → <b>@drewespt</b> Venmo</span><span class="tag">8/1</span></label>
     </div>
 
     <div class="section-h">August → Sep 10</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="td3"><span class="box"></span><span class="lab">⭐ Lock rafting per-person $ + late-cancel rule</span><span class="tag">Drewes</span></label>
-      <label class="check"><input type="checkbox" id="td9"><span class="box"></span><span class="lab">Sort room/bed assignments + bring 2 air mattresses</span><span class="tag">Aug–Sep</span></label>
-      <label class="check"><input type="checkbox" id="td4"><span class="box"></span><span class="lab">Groceries plan — pre-stock vs. in-person run</span><span class="tag">Psilos</span></label>
-      <label class="check"><input type="checkbox" id="td5"><span class="box"></span><span class="lab">Assign grill captain (ribeyes)</span><span class="tag">Aug–Sep</span></label>
-      <label class="check"><input type="checkbox" id="td6"><span class="box"></span><span class="lab">Order breakfast burritos batch (~18–20)</span><span class="tag">pick up Fri</span></label>
+      <label class="check"><input type="checkbox" id="td3"><span class="box"></span><span class="lab">⭐ Lock rafting per-person $ + a late-cancel rule before the 7-day refund cutoff</span><span class="tag">Drewes · 9/10</span></label>
+      <label class="check"><input type="checkbox" id="td4"><span class="box"></span><span class="lab">Sort room/bed assignments (5 kings + 1 queen) + bring/confirm 2 air mattresses</span><span class="tag">Aug–Sep</span></label>
+      <label class="check"><input type="checkbox" id="td5"><span class="box"></span><span class="lab">Groceries: pick pre-stock vs. in-person + call the Smith's butcher for 13 ribeyes</span><span class="tag">Psilos</span></label>
+      <label class="check"><input type="checkbox" id="td6"><span class="box"></span><span class="lab">Assign the Saturday grill captain (13 ribeyes)</span><span class="tag">open role</span></label>
+      <label class="check"><input type="checkbox" id="td7"><span class="box"></span><span class="lab">Pick the Sunday Saints venue — Cutty's / The Bird / Eleanor's / house</span><span class="tag">Aug–Sep</span></label>
+      <label class="check"><input type="checkbox" id="td8"><span class="box"></span><span class="lab">Order the breakfast-burrito batch (~18–20); pickup Friday after rafting</span><span class="tag">pick up Fri</span></label>
     </div>
 
-    <div class="section-h">1–2 Weeks Out</div>
+    <div class="section-h">1–2 Weeks Out (early September)</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="td7"><span class="box"></span><span class="lab">Verify evening DFW→JAC nonstop runs Sep 17</span><span class="tag">1–2 wk</span></label>
-      <label class="check"><input type="checkbox" id="td8"><span class="box"></span><span class="lab">Buy bear spray (2+, one per vehicle)</span><span class="tag">1–2 wk</span></label>
+      <label class="check"><input type="checkbox" id="td9"><span class="box"></span><span class="lab">Verify the evening DFW→JAC nonstop (~5:50 PM) runs Thu Sep 17 — Tier 1 of the misconnect playbook</span><span class="tag">1–2 wk</span></label>
+      <label class="check"><input type="checkbox" id="td10"><span class="box"></span><span class="lab">Travel insurance — decide yes/no (trip-delay coverage = the DFW scenario)</span><span class="tag">decide</span></label>
+      <label class="check"><input type="checkbox" id="td11"><span class="box"></span><span class="lab">Park pass owner — ATB pass ($80, Recreation.gov) vs. $35/vehicle at the gate</span><span class="tag">open role</span></label>
+      <label class="check"><input type="checkbox" id="td12"><span class="box"></span><span class="lab">Bear-spray owner — 2+ canisters (~$50 each), one per vehicle, bought in Jackson</span><span class="tag">open role</span></label>
+      <label class="check"><input type="checkbox" id="td13"><span class="box"></span><span class="lab">Confirm exact rafting departure / check-in time with Jeff @ JHWW</span><span class="tag">1–2 wk</span></label>
+      <label class="check"><input type="checkbox" id="td14"><span class="box"></span><span class="lab">Wetsuit call — $5/person, weather-dependent</span><span class="tag">weather</span></label>
+      <label class="check"><input type="checkbox" id="td15"><span class="box"></span><span class="lab">Rafting lunch — outfitter deli vs. Cutty's</span><span class="tag">decide</span></label>
+      <label class="check"><input type="checkbox" id="td16"><span class="box"></span><span class="lab">Tram: confirm late-Sept operating dates + buy tickets online — Sunday afternoon depends on it</span><span class="tag">1–2 wk</span></label>
+      <label class="check"><input type="checkbox" id="td17"><span class="box"></span><span class="lab">Confirm Dornan's fall hours (Sunday-dinner default; Moose runs shoulder-season schedules)</span><span class="tag">wk before</span></label>
+      <label class="check"><input type="checkbox" id="td18"><span class="box"></span><span class="lab">Download offline maps for Yellowstone (zero cell service)</span><span class="tag">do first</span></label>
+      <label class="check"><input type="checkbox" id="td19"><span class="box"></span><span class="lab">Check Yellowstone road/trail conditions at NPS.gov</span><span class="tag">1–2 wk</span></label>
+      <label class="check"><input type="checkbox" id="td20"><span class="box"></span><span class="lab">Print all confirmations + the Key Contacts table (Logistics tab)</span><span class="tag">print</span></label>
+      <label class="check"><input type="checkbox" id="td21"><span class="box"></span><span class="lab">Emergency info on paper — St. John's Health, 625 E Broadway, Jackson (~25 min)</span><span class="tag">paper</span></label>
+      <label class="check"><input type="checkbox" id="td22"><span class="box"></span><span class="lab">Cash for guide gratuities — ~$20–40/person across the Friday van + rafting guides</span><span class="tag">cash</span></label>
     </div>
+
+    <div class="section-h">On the Trip (Sep 17–21)</div>
+    <div class="card">
+      <label class="check"><input type="checkbox" id="td23"><span class="box"></span><span class="lab">Thu — run the midday plan: groceries (or pre-stock instead), bear spray, lunch + Jackson Drug shake, drift to the Village</span><span class="tag">Thu</span></label>
+      <label class="check"><input type="checkbox" id="td24"><span class="box"></span><span class="lab">Thu — name DDs per SUV for the downtown → Village hop (~20 min); Mangy Moose is walkable</span><span class="tag">Thu</span></label>
+    </div>
+    <div class="faint" style="padding:0 4px 8px;">Rafting balance: no individual action — Drewes collects closer to the trip.</div>
   </section>
 
 </main>
 
 <footer>
-  <div>🏔️ Jackson Hole 2026 · built for the crew · works fully offline</div>
+  <div>🏔️ Jackson Hole 2026 · built for the crew · works fully offline · plan as of July 2026</div>
   <div class="save">Open in Safari and "Add to Home Screen" so you've got it — with the live countdown and saved checkmarks — when the cell bars vanish in Yellowstone.</div>
 </footer>
 
@@ -782,16 +1200,23 @@
    PROGRESSIVE ENHANCEMENT ONLY.
    The page is fully usable with this script disabled (e.g. the
    iOS Files / Quick Look preview, which doesn't run JS). Everything
-   below just adds nice-to-haves: a live countdown, a scroll-to-top
-   on tab change, and checkmarks that persist on this device.
+   below just adds nice-to-haves: a live countdown, deadline math,
+   milestone + "today" highlighting, last-tab memory, and checkmarks
+   that persist on this device.
    ========================================================= */
 (function(){
   var TRIP_START = new Date('2026-09-17T10:19:00-06:00'); // JAC arrival (MDT)
   var TRIP_END   = new Date('2026-09-21T11:47:00-06:00'); // JAC departure
+  var DAY_MS = 864e5;
 
   /* ---------- Live countdown (replaces the static fallback) ---------- */
   var cd = document.getElementById('countdown');
   var msg = document.getElementById('cdMsg');
+  function nextNudge(now){
+    if(now < new Date('2026-08-01T00:00:00-06:00')) return "Next up: Airbnb balance to @drewespt by 8/1.";
+    if(now < new Date('2026-09-10T00:00:00-06:00')) return "Next up: Drewes locks the rafting number by 9/10. ⭐";
+    return "Final stretch — knock out the last open items. 🛫";
+  }
   function tick(){
     var now = new Date();
     if(now >= TRIP_START && now <= TRIP_END){
@@ -801,17 +1226,68 @@
       cd.style.display='none'; msg.textContent = "That was a hell of a trip. 🍺"; return;
     }
     var diff = TRIP_START - now;
-    var d = Math.floor(diff/864e5), h = Math.floor(diff%864e5/36e5),
+    var d = Math.floor(diff/DAY_MS), h = Math.floor(diff%DAY_MS/36e5),
         m = Math.floor(diff%36e5/6e4), s = Math.floor(diff%6e4/1e3);
     cd.innerHTML = [["Days",d],["Hrs",h],["Min",m],["Sec",s]].map(function(p){
       return '<div class="cd-box"><div class="cd-num">'+String(p[1]).padStart(2,'0')+
              '</div><div class="cd-lab">'+p[0]+'</div></div>';
     }).join('');
-    msg.textContent = d > 30 ? "Plenty of time — but the to-do list won't clear itself." :
-                      d > 7  ? "Final stretch. Knock out the open items." :
-                               "Almost wheels-up. 🛫";
+    msg.textContent = nextNudge(now);
   }
   tick(); setInterval(tick,1000);
+
+  /* ---------- Milestone strip: cross off the past, spotlight the next ---------- */
+  (function(){
+    var now = new Date(), marked = false;
+    Array.prototype.forEach.call(document.querySelectorAll('.mile[data-when]'), function(el){
+      var when = new Date(el.dataset.when + 'T23:59:59-06:00');
+      if(when < now){ el.classList.add('done'); }
+      else if(!marked){ el.classList.add('next'); marked = true; }
+    });
+  })();
+
+  /* ---------- Deadline chips: "· in Nd" on anything with data-due ---------- */
+  (function(){
+    var now = new Date();
+    Array.prototype.forEach.call(document.querySelectorAll('.due[data-due]'), function(el){
+      var due = new Date(el.dataset.due + 'T23:59:59-06:00');
+      var days = Math.ceil((due - now)/DAY_MS);
+      el.textContent = days > 1 ? '· in '+days+' days' : days === 1 ? '· tomorrow' :
+                       days === 0 ? '· today' : '· '+(-days)+' days overdue';
+      if(days < 0) el.style.color = 'var(--stop)';
+    });
+  })();
+
+  /* ---------- "Today" badge on the itinerary during the trip ---------- */
+  (function(){
+    var now = new Date();
+    Array.prototype.forEach.call(document.querySelectorAll('details[data-date]'), function(d){
+      var start = new Date(d.dataset.date + 'T00:00:00-06:00');
+      if(now >= start && now < new Date(start.getTime() + DAY_MS)){
+        d.open = true; d.classList.add('is-today');
+        var title = d.querySelector('.day-title');
+        if(title && !d.querySelector('.today-badge')){
+          var b = document.createElement('span');
+          b.className = 'today-badge'; b.textContent = 'TODAY';
+          title.appendChild(document.createTextNode(' ')); title.appendChild(b);
+        }
+      }
+    });
+  })();
+
+  /* ---------- Remember the last tab across visits ---------- */
+  (function(){
+    var radios = document.querySelectorAll('.tab-state');
+    try {
+      var last = localStorage.getItem('jh26_tab');
+      if(last){ var el = document.getElementById(last); if(el) el.checked = true; }
+    } catch(_){}
+    Array.prototype.forEach.call(radios, function(r){
+      r.addEventListener('change', function(){
+        if(r.checked){ try { localStorage.setItem('jh26_tab', r.id); } catch(_){} }
+      });
+    });
+  })();
 
   /* ---------- Scroll to top when a tab is tapped ---------- */
   Array.prototype.forEach.call(document.querySelectorAll('.tab'), function(label){
@@ -833,7 +1309,9 @@
     printOpened = [];
   });
 
-  /* ---------- Persist checklists on this device ---------- */
+  /* ---------- Persist checklists on this device ----------
+     Storage keys are versioned (_v2) because the item lists grew in the
+     July 2026 overhaul — old saved ids would mis-map onto new labels. */
   function wireChecklist(prefix, storeKey, progId, progLabId, unitWord){
     var boxes = Array.prototype.slice.call(document.querySelectorAll('input[id^="'+prefix+'"]'));
     if(!boxes.length) return;
@@ -860,8 +1338,8 @@
       saved = {}; refresh();
     }};
   }
-  var packState = wireChecklist('pk', 'jh26_pack', 'packProg', 'packProgLab', 'packed');
-  var todoState = wireChecklist('td', 'jh26_todo', 'todoProg', 'todoProgLab', 'done');
+  var packState = wireChecklist('pk', 'jh26_pack_v2', 'packProg', 'packProgLab', 'packed');
+  var todoState = wireChecklist('td', 'jh26_todo_v2', 'todoProg', 'todoProgLab', 'done');
 
   Array.prototype.forEach.call(document.querySelectorAll('.reset-btn'), function(btn){
     btn.addEventListener('click', function(){
