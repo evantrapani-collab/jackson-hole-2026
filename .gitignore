@@ -1,0 +1,3 @@
+# Python bytecode cache from running maps/generate_places.py
+__pycache__/
+*.pyc
