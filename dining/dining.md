@@ -13,7 +13,7 @@
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
-| Friday dinner | **House (default)** | Friday | Low-key house dinner after the dawn-to-dusk day; upgrade to Local/Gather only if booked **by 6/30** |
+| Friday dinner | **House ✅ locked** | Friday | Low-key house dinner after the dawn-to-dusk day; the 6/30 booking fence passed with no reservation, so the house is the plan |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose (confirm fall hours); backup is the house — reasonable night before the 11:47 AM flight |
 | Saturday dinner | House grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
@@ -144,7 +144,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - **Healthy Being** — smoothies/juices; there if anyone needs a green reset, not a group stop
 - **Shop the square / Spirits & Spice** — see `/activities`; fits the Thursday midday gap or Sunday afternoon
 
-**Friday-dinner candidates (our open 13-top)**
+**Friday-dinner candidates — closed 6/30: the house won.** *(kept for reference / next trip)*
 Friend's dinner list, sized against 13 guys — all want advance reservations:
 - **Local** — on the square, "great happy hour"; big enough to book → **top candidate**
 - **Gather** — group-friendly Jackson standby → **top candidate**
@@ -177,7 +177,7 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 
 ## Dinner defaults — decided
 
-- **Friday — the house (default).** After a dawn-to-dusk van tour + rafting day, the default is a low-key house dinner off the grocery stock. Upgrade path: if the crew wants the 13-top, book **Local** or **Gather** by **6/30** (alternates: **The Bistro**, **Figs**; Snake River Grill books months out — already now-or-never). No booking by 6/30 → the house *is* the plan, and nobody scrambles for a peak-fall table.
+- **Friday — the house ✅ locked (6/30 fence passed).** After a dawn-to-dusk van tour + rafting day it's a low-key house dinner off the grocery stock. The decision rule was: book **Local** or **Gather** by **6/30** if the crew wanted the 13-top; no booking landed by the fence, so the house *is* the plan and nobody scrambles for a peak-fall table. (The candidate list below stays for reference/next trip.)
 - **Sunday — early Dornan's (default), ~5 PM.** Pizza + the Teton view to close the last full day; **backup: the house.** Confirm Dornan's fall hours the week before (Moose runs shorter shoulder-season schedules). Monday's 11:47 AM flight wants a reasonable night.
 
 > **Cash:** a couple of these (Pica's, Nora's) are cash-only, and Friday's guide tips want cash too — hit an ATM.

@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 99/100** *(re-graded 2026-06-12, after the refinements and crew decisions listed at the bottom)*
+**Current grade: 99/100** *(re-graded 2026-07-11 — grade unchanged; see the 7/11 note at the bottom)*
 
 ---
 
@@ -107,6 +107,12 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 - **Groceries have an owner: Chris Psilos** — the last ownerless load-bearing task. Bookings → 20/20 (the Friday 13-top stays unbooked, but per the scoring rules an owner + deadline + a default that holds with zero action scores full marks).
 - **Explorer planned as a 7-seater → 14 seats for 13** — the seat math now works on the planning estimate. Hardie's item shifts from "confirm the trim" to "verify the 3rd row is on the reservation," and it no longer gates the trip (only the rafting refund item keeps the ⭐).
+
+### 7/11 re-grade (expert-panel review pass)
+
+- **Friday dinner closed as designed:** the 6/30 booking fence passed with no reservation, so the house default held with zero action — the open item is checked off everywhere, not deleted. No point change (the decision rule already scored full marks).
+- **Sync fixes, no point change:** the "Now" buckets rolled June → July; the maps layer was brought back in line with the docs' triage — the permanently closed Boiling River pin removed, the far-side Yellowstone stops relabeled 🚫 "Next trip" instead of "If time," Yellowstone Lake marked as the en-route stop it is; the SLC drive time now reads ~5 hrs in both places; the dashboard's misconnect note points at `/logistics` where the playbook actually lives.
+- **Grade holds at 99** — the remaining point is still the real-world verification below, not a document gap.
 
 ### The remaining point (honest, not fixable by documents)
 

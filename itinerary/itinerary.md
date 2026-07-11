@@ -35,7 +35,7 @@
   - Shoes that attach to your feet required (no sandals or flip flops)
   - Wetsuit rental on-site: $5/person (3-piece) — decide closer to the trip based on weather
   - **No alcohol on the van or boat** — the lunch break is the window
-- **Evening — dinner default: the house.** After a dawn-to-dusk day, the default is a low-key house dinner off the grocery stock (the burrito pickup is already on the way home). If the crew wants the 13-top instead, book **Local or Gather by 6/30** — a peak-fall 13-top isn't a walk-in, so past 6/30 the house *is* the plan, no scramble
+- **Evening — dinner ✅ locked: the house.** After a dawn-to-dusk day it's a low-key house dinner off the grocery stock (the burrito pickup is already on the way home). The 6/30 booking fence for a 13-top (Local/Gather) passed with no reservation, so the house is the plan — no scramble
 - **Tip the guides:** both the van-tour and rafting guides — bring cash (~$20–40/person across both)
 
 ---

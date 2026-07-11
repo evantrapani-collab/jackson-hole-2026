@@ -30,9 +30,9 @@ Trip planning hub for everything related to the trip.
 
 > **In chronological order — work top to bottom.** Owners + deadlines on the load-bearing items; the one that actually gates the trip is flagged ⭐.
 
-**🔴 Now (June)**
+**🔴 Now (July)**
 - [ ] **Verify the Explorer's 7-seat config is on the reservation** *(Owner: Jason Hardie)*: planning estimate is **7 seats → 14 total for 13**, so the math works — but Explorer trims range 5–7, so one call to the rental company confirms the 3rd row. If it somehow isn't there, swap the booking or add a cargo carrier now, not at the JAC counter
-- [ ] **Friday dinner — default locked: the house.** If the crew wants the 13-top instead, book **Local / Gather by 6/30** (alternates: The Bistro / Figs — see [`/dining`](./dining/dining.md#dinner-defaults--decided)); past 6/30 the house is the plan and this item closes itself
+- [x] **Friday dinner — ✅ locked: the house.** The 6/30 booking fence passed with no reservation, so per the decision rule the house *is* the plan (see [`/dining`](./dining/dining.md#dinner-defaults--decided)) — no scramble, item closed as designed
 - [ ] **Confirm Airbnb check-in + checkout times with the host** — flight lands 10:19 AM but check-in is likely mid-afternoon (sizes the Thursday midday plan, below under *On the trip*); checkout sets the Monday exit (plan: out by ~9:45 AM for the 11:47 flight)
 
 **By Aug 1**
