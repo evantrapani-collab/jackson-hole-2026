@@ -5,12 +5,14 @@ Trip-planning repo for a 13-person Jackson Hole / Yellowstone trip, **Sep 17–2
 ## The one rule: keep the three layers in sync
 
 1. **Markdown folders are the source of truth** (`/itinerary`, `/dining`, `/logistics`, `/budget`, `/activities`, `/lodging`, `/packing`, plus the README's *Open Items*).
-2. **`index.html` is a hand-maintained mirror** — a single offline-capable dashboard of the same content (schedule, open items/to-do checklist, dining tables, money). When you change plan content in any markdown file, **make the matching edit in `index.html`** (search it for the same keyword). It's plain static HTML; JS only adds a countdown and localStorage checkmarks.
+2. **`index.html` is a hand-maintained mirror** — a single offline-capable dashboard of the same content (schedule, open items/to-do checklist, dining tables, money). When you change plan content in any markdown file, **make the matching edit in `index.html`** (search it for the same keyword). It's plain static HTML; JS only enhances (countdown + deadline math, localStorage checkmarks, last-tab memory, TODAY badge) and is never required — the page must stay fully usable with zero JS.
 3. **`/maps` is generated.** Never hand-edit `jackson-hole-places.csv` or `add-to-saved-list.md`. If a place is added/removed/renamed anywhere, edit the `PLACES` list in `maps/generate_places.py` and run:
 
    ```bash
    python3 maps/generate_places.py
    ```
+
+   `--check` verifies the outputs match `PLACES` without rewriting them; CI runs it on every push/PR (`.github/workflows/maps-check.yml`).
 
 ## Conventions
 

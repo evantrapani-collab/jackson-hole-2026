@@ -1,0 +1,24 @@
+name: Maps layer in sync
+
+# /maps is generated — jackson-hole-places.csv and add-to-saved-list.md must
+# always match the PLACES list in generate_places.py. This catches both
+# hand-edits to the generated files and a PLACES edit that was never
+# regenerated, enforcing the repo's "never hand-edit generated files" rule.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Verify generated maps files match the PLACES list
+        run: python3 maps/generate_places.py --check

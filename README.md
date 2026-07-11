@@ -2,7 +2,7 @@
 
 Trip planning hub for everything related to the trip.
 
-> 📱 **[Open the Trip HQ dashboard →](./index.html)** — a single, offline-capable page with a live countdown, the full itinerary, game-day times, the crew, money, and check-off packing/to-do lists. Open `index.html` in any browser and "Add to Home Screen" so it works when cell service vanishes in Yellowstone.
+> 📱 **[Open the Trip HQ dashboard →](./index.html)** — a single, offline-capable page with a deadline-aware live countdown, the full itinerary (with a Saturday drive-plan strip), game-day times, the crew + who-owns-what board, money, activities triage, one-tap **Maps** links for every on-plan spot, and check-off packing/to-do lists that mirror this README in full. Open `index.html` in any browser and "Add to Home Screen" so it works when cell service vanishes in Yellowstone.
 
 ## Trip at a Glance
 

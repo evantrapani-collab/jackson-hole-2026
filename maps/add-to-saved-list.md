@@ -7,7 +7,7 @@ Tap a link → it opens the place in Google Maps → **Save** → pick
 Boxes marked _(already in your list)_ are the ones visible in your
 current 19 pins — skip those.
 
-**73 places total.**
+**76 places total.**
 
 ## Lodging & Logistics
 
@@ -25,6 +25,9 @@ current 19 pins — skip those.
 - [ ] [Million Dollar Cowboy Bar](https://www.google.com/maps/search/?api=1&query=Million+Dollar+Cowboy+Bar%2C+Jackson%2C+WY) — Bar crawl stop 3 — saddle stools.
 - [ ] [Mangy Moose Saloon](https://www.google.com/maps/search/?api=1&query=Mangy+Moose%2C+Teton+Village%2C+WY) — Bar crawl last stop — walkable from the house.
 - [ ] [The Bunnery](https://www.google.com/maps/search/?api=1&query=The+Bunnery%2C+Jackson%2C+WY) — Pastries/coffee on the way to the 8 AM van tour.
+- [ ] [Cowboy Coffee Co.](https://www.google.com/maps/search/?api=1&query=Cowboy+Coffee+Co%2C+Jackson%2C+WY) — The must-do coffee stop on the square; to-go on the way to the van tour.
+- [ ] [Pearl Street Bagels](https://www.google.com/maps/search/?api=1&query=Pearl+Street+Bagels%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
+- [ ] [Picnic](https://www.google.com/maps/search/?api=1&query=Picnic%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
 - [ ] [Cutty's Bar & Grill](https://www.google.com/maps/search/?api=1&query=Cutty%27s+Bar+%26+Grill%2C+Wilson%2C+WY) _(already in your list)_ — Friday rafting lunch; Sunday Saints-game option (Hwy 22).
 - [ ] [Dornan's Pizza Pasta Co.](https://www.google.com/maps/search/?api=1&query=Dornan%27s+Pizza+Pasta+Co%2C+Moose%2C+WY) — Deck pizza with full Teton views.
 - [ ] [Corbet's Cabin (tram summit)](https://www.google.com/maps/search/?api=1&query=Corbet%27s+Cabin%2C+Teton+Village%2C+WY) — Waffles at 10,450 ft, top of the tram.
