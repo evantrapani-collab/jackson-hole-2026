@@ -74,8 +74,13 @@
      sibling of <nav> and <main>. Tapping a tab's <label> checks its radio;
      the :checked ~ rules below reveal the matching panel and light up the
      matching tab. No href, so the Files/Quick Look viewer never shows a
-     "leave this app?" navigation prompt, and no JS is needed. */
-  .tab-state { display:none; }
+     "leave this app?" navigation prompt, and no JS is needed.
+     Visually hidden (not display:none) so the radios stay keyboard-
+     focusable: Tab reaches the group, arrow keys switch tabs. */
+  .tab-state {
+    position:absolute; width:1px; height:1px; margin:-1px; padding:0;
+    overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; border:0;
+  }
 
   /* ---------- Nav ---------- */
   nav.tabs {
@@ -120,6 +125,19 @@
   #t-logistics:checked ~ nav label[for="t-logistics"],
   #t-todo:checked      ~ nav label[for="t-todo"] {
     background:linear-gradient(135deg,var(--amber),var(--gold)); color:#1a1206;
+  }
+
+  /* Keyboard focus ring on the active tab (radios are the focus target). */
+  #t-overview:focus-visible  ~ nav label[for="t-overview"],
+  #t-itinerary:focus-visible ~ nav label[for="t-itinerary"],
+  #t-gameday:focus-visible   ~ nav label[for="t-gameday"],
+  #t-crew:focus-visible      ~ nav label[for="t-crew"],
+  #t-money:focus-visible     ~ nav label[for="t-money"],
+  #t-packing:focus-visible   ~ nav label[for="t-packing"],
+  #t-eat:focus-visible       ~ nav label[for="t-eat"],
+  #t-logistics:focus-visible ~ nav label[for="t-logistics"],
+  #t-todo:focus-visible      ~ nav label[for="t-todo"] {
+    outline:2px solid var(--ice); outline-offset:2px;
   }
 
   .section-h { font-size:13px; letter-spacing:.16em; text-transform:uppercase; color:var(--gold); margin:26px 0 12px; font-weight:700; }
@@ -222,6 +240,31 @@
 
   .note { border-left:3px solid var(--amber); background:rgba(232,138,60,.08); padding:10px 14px; border-radius:0 10px 10px 0; margin:10px 0; color:var(--muted); font-size:14px; }
   .note b { color:var(--ink); }
+
+  /* ---------- Print ----------
+     The contacts table literally says "print this," so printing has to
+     work: light palette, every tab's panel shown, chrome hidden. A tiny
+     beforeprint JS hook also pops open the collapsed itinerary days —
+     without JS you just print them pre-opened yourself. */
+  @media print {
+    :root {
+      --sky-0:#fff; --sky-1:#fff; --sky-2:#eef1f6;
+      --card:#fff; --card-2:#f3f5f9; --line:#c6cdd9;
+      --ink:#111; --muted:#333; --faint:#555;
+      --gold:#7a5200; --amber:#9a4d12; --sunset:#a33b2b;
+      --pine:#1e6b47; --ice:#1c5f86; --rose:#8a3a55;
+      --shadow:none;
+    }
+    body { background:#fff; }
+    .stars, .mountains, nav.tabs, #countdown, #cdMsg, .reset-btn,
+    .chev, footer .save { display:none !important; }
+    header.hero { background:none; padding:8px 0 0; }
+    .panel { display:block !important; animation:none; margin-bottom:22px; border-top:2px solid var(--line); padding-top:14px; }
+    .card { break-inside:avoid; }
+    .day { break-inside:avoid; }
+    .pill.ok { color:var(--pine); } .pill.stop { color:var(--sunset); }
+    a { color:inherit; }
+  }
 </style>
 </head>
 <body>
@@ -491,6 +534,21 @@
         </tbody>
       </table>
     </div>
+
+    <div class="section-h">🛏️ Sleeping 13 — Montreux House</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Level</th><th>Room</th><th>Bed(s)</th></tr></thead>
+        <tbody>
+          <tr><td>Upper</td><td>Master Bedroom</td><td>1 king</td></tr>
+          <tr><td>Main</td><td>Guest Bedroom</td><td>1 queen</td></tr>
+          <tr><td>Lower</td><td>Guest Bedroom 1</td><td>1 king</td></tr>
+          <tr><td>Lower</td><td>Guest Bedroom 2</td><td>1 king</td></tr>
+          <tr><td>Lower</td><td>Junior Suite</td><td>2 kings <span class="faint">(biggest room — the overflow spot)</span></td></tr>
+        </tbody>
+      </table>
+      <div class="note"><b>The math:</b> 5 BR / 6 beds (5 kings + 1 queen) maxes at 12 even fully shared — so <b>bring 2 air mattresses</b> for 13. Room/bed assignments still need sorting (see To-Do). Full layout in <b>/lodging</b>.</div>
+    </div>
   </section>
 
   <!-- ============ MONEY ============ -->
@@ -515,6 +573,7 @@
       <div class="stat"><div class="v">~$300</div><div class="l">Rafting est. per person</div></div>
       <div class="stat"><div class="v">$1,150–1,400</div><div class="l">All-in per person (+ flights)</div></div>
     </div>
+    <div class="note">💵 <b>Bring some cash.</b> Friday's guide tips (~$20–40/person across the van-tour + rafting guides) want it, and a couple of town spots (<b>Pica's</b>, <b>Nora's</b>) are cash-only — hit an ATM.</div>
   </section>
 
   <!-- ============ PACKING ============ -->
@@ -606,8 +665,25 @@
           <tr><td>DFW → MSY</td><td>—</td><td>5:05 PM</td><td>6:41 PM</td></tr>
         </tbody>
       </table>
-      <div class="note"><b>⚠️ Short connection at DFW — 43 min outbound.</b> Watch it day-of. Misconnect playbook in <b>/logistics</b>.</div>
+      <div class="note"><b>⚠️ Short connection at DFW — 43 min outbound.</b> Watch it day-of. Playbook below (full version in <b>/logistics</b>).</div>
     </div>
+
+    <details class="day">
+      <summary class="day-head">
+        <span class="day-emoji">🧯</span>
+        <span><span class="day-date">If the DFW connection blows up</span><br><span class="day-title">Misconnect Playbook</span></span>
+        <span class="chev">▶</span>
+      </summary>
+      <div class="day-body">
+        <div class="note" style="margin-top:10px;">Everyone's on one ticket, so AA rebooks free and automatically — the race is <b>13 seats to a small mountain airport</b>, and the thing to protect is <b>Friday's 8 AM van tour</b> (refund window closed), not Thursday.</div>
+        <ul class="clean">
+          <li><b>Tier 0 — prevention:</b> all 13 load the trip in the AA app with push alerts; carry-on only if you can; sit toward the front of AA 468 — 43 min is a Skylink sprint</li>
+          <li><b>Tier 1 — missed it:</b> catch the same-day <b>~5:50 PM DFW→JAC nonstop</b>. All 13 rebook simultaneously in the app while one calls AA and one hits the gate desk. <b>Hardie + Schick get seats first</b> — they hold the rental cars</li>
+          <li><b>Tier 2 — no JAC seats:</b> fly <b>DFW→SLC and drive (~5 hrs)</b>; one-way SUV rentals SLC→Jackson are routine. Even a 3 PM SLC landing makes dinner at the house</li>
+          <li><b>Tier 3 — refuse this one:</b> overnighting at DFW. Rule of thumb: <b>before ~6 PM with no confirmed JAC seat, take the SLC routing. Drive before you sleep.</b></li>
+        </ul>
+      </div>
+    </details>
 
     <div class="section-h">🚗 Key Drive Times</div>
     <div class="card scroll-x">
@@ -640,6 +716,7 @@
         <li><b>America the Beautiful</b> pass ($80) covers both — buy on Recreation.gov to skip the line</li>
         <li><b>Bear spray:</b> one per vehicle; buy/rent in Jackson</li>
         <li><b>No cell service in Yellowstone</b> — download offline maps before you go</li>
+        <li><b>Weather scrubs a park day?</b> Town fallback (brewery / Cowboy Bar) + the <b>National Museum of Wildlife Art</b> is the named indoor move — world-class, overlooks the elk refuge</li>
       </ul>
     </div>
 
@@ -649,8 +726,9 @@
         <thead><tr><th>Who</th><th>Why</th><th>Contact</th></tr></thead>
         <tbody>
           <tr><td><a href="https://www.rmrentals.com/jackson-hole-rentals/montreux-house" target="_blank" rel="noopener">Montreux House</a></td><td>Home base</td><td class="muted">3720 Morley Drive, Teton Village</td></tr>
-          <tr><td>RMR (property mgr)</td><td>House issues</td><td class="muted">(307) 739-9050</td></tr>
-          <tr><td>American Airlines</td><td>Flight changes</td><td class="muted">(800) 433-7300</td></tr>
+          <tr><td>RMR (property mgr)</td><td>House issues</td><td class="muted">(307) 739-9050 · lodging@rmrentals.com</td></tr>
+          <tr><td>JHWW — Jeff</td><td>Fri van tour + rafting</td><td class="muted">Number on the signed contract — copy it here when printing</td></tr>
+          <tr><td>American Airlines</td><td>Flight changes</td><td class="muted">(800) 433-7300 + the AA app</td></tr>
           <tr><td>St. John's Health</td><td>Nearest ER</td><td class="muted">625 E Broadway, Jackson — ~25 min from house</td></tr>
           <tr><td>Drewes</td><td>Money hub</td><td class="muted">@drewespt on Venmo</td></tr>
         </tbody>
@@ -662,7 +740,7 @@
   <section class="panel" id="todo">
     <div class="section-h">Open Items — Check It Off</div>
     <div class="note"><b>Only the load-bearing items.</b> Everything else lives in the README. The ⭐ item gates the trip.</div>
-    <div class="progress-lab"><span id="todoProgLab">0 of 9 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
+    <div class="progress-lab"><span id="todoProgLab">0 of 10 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
     <div class="progress"><span id="todoProg"></span></div>
 
     <div class="section-h">🔴 Now (July)</div>
@@ -679,6 +757,7 @@
     <div class="section-h">August → Sep 10</div>
     <div class="card">
       <label class="check"><input type="checkbox" id="td3"><span class="box"></span><span class="lab">⭐ Lock rafting per-person $ + late-cancel rule</span><span class="tag">Drewes</span></label>
+      <label class="check"><input type="checkbox" id="td9"><span class="box"></span><span class="lab">Sort room/bed assignments + bring 2 air mattresses</span><span class="tag">Aug–Sep</span></label>
       <label class="check"><input type="checkbox" id="td4"><span class="box"></span><span class="lab">Groceries plan — pre-stock vs. in-person run</span><span class="tag">Psilos</span></label>
       <label class="check"><input type="checkbox" id="td5"><span class="box"></span><span class="lab">Assign grill captain (ribeyes)</span><span class="tag">Aug–Sep</span></label>
       <label class="check"><input type="checkbox" id="td6"><span class="box"></span><span class="lab">Order breakfast burritos batch (~18–20)</span><span class="tag">pick up Fri</span></label>
@@ -739,6 +818,19 @@
     label.addEventListener('click', function(){
       window.scrollTo({top:0, behavior:'smooth'});
     });
+  });
+
+  /* ---------- Print: open every collapsed <details> so paper gets it all ---------- */
+  var printOpened = [];
+  window.addEventListener('beforeprint', function(){
+    printOpened = [];
+    Array.prototype.forEach.call(document.querySelectorAll('details'), function(d){
+      if(!d.open){ d.open = true; printOpened.push(d); }
+    });
+  });
+  window.addEventListener('afterprint', function(){
+    printOpened.forEach(function(d){ d.open = false; });
+    printOpened = [];
   });
 
   /* ---------- Persist checklists on this device ---------- */
