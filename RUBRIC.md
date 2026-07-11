@@ -114,6 +114,14 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 - **Sync fixes, no point change:** the "Now" buckets rolled June → July; the maps layer was brought back in line with the docs' triage — the permanently closed Boiling River pin removed, the far-side Yellowstone stops relabeled 🚫 "Next trip" instead of "If time," Yellowstone Lake marked as the en-route stop it is; the SLC drive time now reads ~5 hrs in both places; the dashboard's misconnect note points at `/logistics` where the playbook actually lives.
 - **Grade holds at 99** — the remaining point is still the real-world verification below, not a document gap.
 
+### 7/11 dashboard pass (same day, later)
+
+Dashboard-only sync + usability work; no plan content changed, so the grade holds at 99.
+
+- **Sync gaps closed:** the confirmed bed math (5 kings + 1 queen across 3 levels, 2 air mattresses for 13) now appears on the Crew tab, and the room/bed-assignments open item joined the To-Do tab — both were README/`/lodging` facts the dashboard never carried. The Money tab picked up the bring-cash note (guide tips + Pica's/Nora's), Logistics picked up the weather-scrub indoor move (National Museum of Wildlife Art) and the JHWW/Jeff contact row.
+- **Misconnect playbook mirrored:** the DFW Tier 0–3 summary now lives on the Logistics tab itself — the dashboard is exactly the thing you'd be holding at DFW, so pointing at `/logistics` wasn't enough.
+- **Usability:** the page now prints properly (light palette, all tabs shown, itinerary days auto-open) — the "print this" contacts card was previously unprintable in practice — and the pure-CSS tabs are keyboard-accessible (focusable radios + visible focus ring), still with zero JS required.
+
 ### The remaining point (honest, not fixable by documents)
 
 - **−1 Group coordination:** bed math (what the house actually sleeps) is pending the host's answer, and the Explorer's 7 seats is an estimate until the reservation is verified; room/seat assignments can't be finished until both land.
