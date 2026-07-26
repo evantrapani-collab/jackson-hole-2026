@@ -22,17 +22,17 @@
 
 ### If the DFW connection blows up — misconnect playbook
 
-> Everyone's on one ticket, so a missed connection means **AA rebooks us free and automatically** — the problem isn't cost, it's finding **13 seats** to a small mountain airport on short notice. The thing to protect is **Friday's 8 AM van tour** (private van + boat, refund window closed by then), not Thursday — nothing on Thursday is booked that the grocery pre-stock fallback can't absorb.
+> **Most of the crew — including Hardie and Schick, who hold the two rental reservations — is on the group MSY→DFW→JAC itinerary. A few guys booked separately (names TBD).** For anyone on the group ticket, a missed connection means **AA rebooks free and automatically** — the problem isn't cost, it's finding seats to a small mountain airport on short notice. **Anyone on a separate booking rebooks himself and has no group protection.** The thing to protect is **Friday's 8 AM van tour** (private van + boat, refund window closed by then), not Thursday — nothing on Thursday is booked that the grocery pre-stock fallback can't absorb.
 
 **Tier 0 — prevention (costs nothing)**
-- All 13 load the trip in the **AA app** with push alerts on; check the inbound aircraft Wednesday night
+- Everyone loads the trip in the **AA app** with push alerts on; check the inbound aircraft Wednesday night
 - **Carry-on only** for anyone who can manage it — checked bags chain you to AA's rebooking; carry-ons can take any reroute, including the SLC drive
 - Sit toward the front of AA 468 — the 43 minutes is a Skylink sprint, not a coffee stop
 
 **Tier 1 — missed it; catch the same-day evening nonstop**
 - DFW→JAC typically has a **second nonstop ~5:50 PM (lands ~7:45 PM)** — but post-Labor-Day schedules thin out, so **verify it's running Thu Sep 17** (on the 1–2-weeks-out list)
-- The race is seats, not rebooking: all 13 rebook **simultaneously in the AA app** while one guy calls AA and another hits the gate desk. Take whatever's there; split across flights if needed
-- **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations. An advance party grabs the SUVs, checks into the house, and triggers the grocery **delivery** fallback (see `/dining`)
+- The race is seats, not rebooking: everyone on the group ticket rebooks **simultaneously in the AA app** while one guy calls AA and another hits the gate desk. Take whatever's there; split across flights if needed
+- **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations and are on the group itinerary, so they misconnect together. An advance party grabs the SUVs, checks into the house, and triggers the grocery **delivery** fallback (see `/dining`)
 - Cost of this outcome: the Thursday midday window and most of the bar crawl. Friday untouched. Bear spray moves to Friday evening
 
 **Tier 2 — no JAC seats left same day: fly to SLC and drive**
@@ -177,6 +177,7 @@ Contract is signed. Key details:
 
 ### 1–2 Weeks Before
 - [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) is running Thu Sep 17** — it's Tier 1 of the misconnect playbook above; if it's not in the schedule, the fallback is fly-to-SLC-and-drive
+- [ ] **Identify who is NOT on the group itinerary** — they have no group rebooking protection; make sure they know Friday's van tour is past its refund window
 - [ ] Decide travel insurance (yes/no)
 - [ ] Confirm the Teton Village tram is running late-Sept (shoulder season) + buy tram tickets online — Sunday afternoon plan depends on it
 - [ ] Assign a bear-spray owner (2+ canisters, buy in Jackson)
