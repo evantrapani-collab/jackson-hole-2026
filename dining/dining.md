@@ -16,7 +16,7 @@
 | Friday dinner | **House ✅ locked** | Friday | Low-key house dinner after the dawn-to-dusk day; the 6/30 booking fence passed with no reservation, so the house is the plan |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose (confirm fall hours); backup is the house — reasonable night before the 11:47 AM flight |
-| Saturday dinner | House grill | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons |
+| Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
 | Sunday game | Cutty's / The Bird / Eleanor's / house | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)** |
 
@@ -85,7 +85,29 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 
 ---
 
-## Saturday Ribeye Night
+## Steak Night — Saturday (default) or Sunday?
+
+> Raised on the call: grill the ribeyes for the **Saints game Sunday** instead of the **LSU game Saturday**. Not decided — default stays Saturday until someone calls it. Either way the grocery list and the butcher call are identical, so this does **not** block Psilos.
+
+**Case for Saturday (status quo)**
+- Kickoff is **5:30 PM MT** — a normal dinner hour, and the grill is the evening's whole plan
+- Back from Yellowstone ~3 PM, so there's a 2.5-hr runway to fire the grill
+- Sunday already has a dinner default (early Dornan's) and Monday is a 10:15 AM airport call
+
+**Case for Sunday**
+- Saturday is the longest day of the trip (7 AM roll-out, ~8 hrs of driving/parks) — 13 ribeyes on arrival is real work at the end of it
+- Sunday's schedule is genuinely light after the 11 AM game — more time and more hands
+- Steaks become the last-night send-off rather than a post-Yellowstone scramble
+
+**Watch-outs if it moves to Sunday**
+- **Saints kicks at 11 AM MT** — that's a *lunch*, not a dinner. Steak night on Sunday realistically means **grilling at night**, not during the game; grilling during the game means an 11 AM ribeye
+- It **cancels the Dornan's dinner default** (the Teton-view deck, one of the trip's better meals) — or demotes Dornan's to Sunday lunch, which collides with the tram/Corbet's afternoon plan
+- Saturday then needs a replacement dinner after Yellowstone — realistically the house off grocery stock, or a Jackson sit-down (Gun Barrel) that would need a 13-top reservation
+- Steaks bought Thursday sit one extra day — fine refrigerated, but don't freeze bone-in ribeyes for it
+
+**Decision:** fold into the **Sep 10 grocery/butcher call** with Psilos. If it moves, also re-pick the Saturday dinner and the Dornan's slot in the same breath.
+
+## Ribeye Night — the grocery side (night-agnostic)
 
 - **Steaks:** 24 oz bone-in ribeyes — buy at **Smith's** or **Albertsons** in Jackson (best prices)
 - **Owner: Chris Psilos** — locks the butcher order and the buy vs. pre-stock method
@@ -109,8 +131,8 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - **The Bunnery** — fresh pastries/breakfast on the square. Good grab-and-go **Friday morning** coffee/breakfast *on the way to the 8 AM van tour* (they tell you to eat on the way), or a relaxed Monday pre-flight bite.
 - **Leek's Pizzeria** — casual pizza at Leek's Marina on Jackson Lake, up near Colter Bay (~40 min north, in Grand Teton). Only makes sense if we end up that far north — otherwise Dornan's covers the pizza craving much closer.
 
-**Western steak dinner (alt to Saturday house grill)**
-- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse (elk, bison, trout). A real sit-down western dinner. Note: our **Saturday** is already the 24 oz ribeye grill at the house during the LSU game, so Gun Barrel would be a **Thursday** dinner swap, not an add-on.
+**Western steak dinner (alt to the house grill)**
+- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse (elk, bison, trout). A real sit-down western dinner. Note: the 24 oz ribeye grill at the house already owns one night (Saturday by default), so Gun Barrel would be a **Thursday** dinner swap — or the Saturday replacement if steak night moves to Sunday, in which case it needs a 13-top reservation.
 
 **Scenic park dining — aspirational, hard to fit**
 - **Mural Room** (Jackson Lake Lodge) — big windows on Willow Flats + the Tetons; great but it's ~45–60 min north and usually wants a reservation. Tough to wedge in given the booked Fri/Sat/Sun.
@@ -178,6 +200,7 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 ## Dinner defaults — decided
 
 - **Friday — the house ✅ locked (6/30 fence passed).** After a dawn-to-dusk van tour + rafting day it's a low-key house dinner off the grocery stock. The decision rule was: book **Local** or **Gather** by **6/30** if the crew wanted the 13-top; no booking landed by the fence, so the house *is* the plan and nobody scrambles for a peak-fall table. (The candidate list below stays for reference/next trip.)
+- ⚠️ **Sunday dinner is contingent on the steak-night call above** — if the ribeyes move to Sunday, this default is void.
 - **Sunday — early Dornan's (default), ~5 PM.** Pizza + the Teton view to close the last full day; **backup: the house.** Confirm Dornan's fall hours the week before (Moose runs shorter shoulder-season schedules). Monday's 11:47 AM flight wants a reasonable night.
 
 > **Cash:** a couple of these (Pica's, Nora's) are cash-only, and Friday's guide tips want cash too — hit an ATM.
