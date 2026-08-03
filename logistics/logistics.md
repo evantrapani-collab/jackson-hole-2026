@@ -96,7 +96,8 @@ Contract is signed. Key details:
 | Joe Schick | Expedition (or similar full-size) | JAC | ~10:19 AM, Sep 17 (same inbound flight) |
 
 - **Explorer — planning estimate: 7 seats.** With the Expedition as a 7-seater that's **14 seats for 13** — the math works. Explorers range 5–7 by trim, so Hardie verifies the 3rd row is actually on the reservation with one call; if it somehow isn't, swap the booking or add a cargo carrier now — don't discover it at the JAC counter.
-- A **3rd vehicle or cargo carrier** may still help with luggage on airport-transfer days (13 guys + bags in two SUVs is tight regardless). Yellowstone day is daypacks only, so two SUVs are fine for that.
+- ✅ **Decided: two SUVs only — no 3rd vehicle.** The crew is fine with the tight fit on the two airport-transfer days (13 guys + bags). Yellowstone day is daypacks only, so two is plenty there. A **cargo carrier** stays on the table only as the fallback if the Explorer's 3rd row doesn't check out.
+- Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
 - **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline)
 - Saturday: Leave Yellowstone by **~3:00 PM MT** to be comfortably back for the 5:30 kickoff
@@ -162,6 +163,7 @@ Contract is signed. Key details:
 - [x] Send $500 deposit to @drewespt on Venmo
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
 - [x] 2 SUVs booked (Jason Hardie + Joe Schick)
+- [x] **Decided: 2 rental cars is enough — no 3rd vehicle** (soft-sided bags recommended for the airport-transfer days)
 - [ ] Verify the Explorer's 7-seat config is on the reservation (Jason Hardie) — planning estimate is **7 seats = 14 for 13**; if the 3rd row isn't there, swap the booking or add a cargo carrier
 - [x] Friday dinner — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`)
 - [ ] Confirm Airbnb check-in time with the host — sizes the Thursday midday gap
@@ -174,6 +176,7 @@ Contract is signed. Key details:
 - [ ] Rafting balance — Drewes collects from the crew (depends on final headcount; no individual action now); per-person number + late-cancel rule locked **by 9/10** (7-day refund cutoff)
 - [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes
 - [ ] Pick the Sunday dinner plan
+- [ ] **Steak night: Saturday (LSU) or Sunday (Saints)?** — doesn't change the grocery list, only the night. See `/dining`
 
 ### 1–2 Weeks Before
 - [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) is running Thu Sep 17** — it's Tier 1 of the misconnect playbook above; if it's not in the schedule, the fallback is fly-to-SLC-and-drive
@@ -183,7 +186,7 @@ Contract is signed. Key details:
 - [ ] Assign a bear-spray owner (2+ canisters, buy in Jackson)
 - [ ] Decide on wetsuit rentals (weather-dependent)
 - [ ] Decide on rafting lunch (outfitter vs. Cutty's)
-- [ ] Finalize vehicle/carpool plan from the airports
+- [ ] Finalize carpool / seat split across the **two** SUVs (3rd vehicle ruled out)
 - [ ] Download offline maps for Yellowstone
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
 - [ ] Print all confirmations + the Key Contacts table above (no cell service at the parks)
