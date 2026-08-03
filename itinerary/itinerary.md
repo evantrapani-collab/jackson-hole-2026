@@ -72,6 +72,7 @@
   - ⚠️ **Possible steak night** — idea on the table to move the ribeyes here. Note the 11 AM kickoff makes it a *night* grill, not a game grill, and it would void the Dornan's dinner default. Undecided — see `/dining`
   - Watch at the house or a spot (Cutty's on Hwy 22, The Bird, or Eleanor's)
 - **Afternoon:** Explore favorites — ride the **Teton Village tram** for waffles at **Corbet's Cabin** (walkable from the house), grab pizza + the view at **Dornan's** in Moose, or hit downtown Jackson
+  - 🚲 **Bike option — Wheel Wranglers** (Austin's rec; shops in Teton Village *and* Jackson, e-bikes + regular): the ~15-mile paved pathway between the Village and downtown Jackson. Post-game is the slot that works — **riding in *for* the 11 AM kickoff doesn't fit** (the wildlife drive isn't back until ~9:30). Riding *back* after the game means renting in Jackson and asking about one-way/shuttle; roll by ~5 PM to stay out of the dark. Splinter group, not all 13 — see `/activities`
 - **Dinner — default: early Dornan's (~5 PM)** in Moose — pizza + the Teton view to close the last full day (confirm fall hours the week before; Moose runs shoulder-season schedules). **Backup: the house**
 - Who Dat — Monday 11:47 AM departure means a reasonable Sunday night
 

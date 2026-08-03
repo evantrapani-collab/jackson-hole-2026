@@ -110,6 +110,8 @@ PLACES = [
     ("National Elk Refuge", "Jackson Town", "Optional", "National Elk Refuge, Jackson, WY", False, "Early for winter herds but worth a look."),
     ("National Museum of Wildlife Art", "Jackson Town", "Optional", "National Museum of Wildlife Art, Jackson, WY", False, "World-class collection; elk refuge views."),
     ("Spirits & Spice", "Jackson Town", "Shopping", "Spirits and Spice, Jackson, WY", False, "Friend's favorite shop; Thu midday gap or Sun afternoon."),
+    ("Wheel Wranglers — Teton Village", "Jackson Town", "Sun PM", "Wheel Wranglers, Teton Village, WY", False, "Austin's bike rec (e-bikes + regular); Village end of the ~15-mi pathway ride."),
+    ("Wheel Wranglers — Jackson", "Jackson Town", "Sun PM", "Wheel Wranglers, Jackson, WY", False, "Austin's bike rec; rent here to ride back to the Village after the Saints game."),
 ]
 
 HERE = os.path.dirname(os.path.abspath(__file__))

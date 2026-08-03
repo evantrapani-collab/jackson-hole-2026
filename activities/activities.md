@@ -75,6 +75,21 @@
 - **White-water rafting** — Snake River Gorge (more dramatic than the scenic float)
 - **Fishing** — world-class fly fishing; Snake River, Gros Ventre; get a Wyoming license
 
+### Biking — Wheel Wranglers (Austin's rec)
+
+Austin rented from **Wheel Wranglers** and recommended it highly. Two locations that matter to us: **Teton Village** (walkable-ish from the house) and **Jackson**. Both **e-bikes and regular** bikes. The ride he's describing is the ~**15-mile scenic run between Teton Village and downtown Jackson** on the paved Snake River / Highway 22 pathway system — flat, separated from traffic, Tetons on your shoulder the whole way.
+
+**Where it fits: the Sunday afternoon window.** Kickoff is 11 AM MT, so the game is over by ~2:30 PM and there's daylight until ~7:15. That's a comfortable window for a 15-mile one-way ride or an out-and-back on the pathway.
+
+**Where it doesn't:**
+
+- 🚫 **Riding into town *for* the game.** The wildlife drive doesn't get back until ~9:30 AM, and 15 miles is ~1.5 hrs on regular bikes (~1 hr on e-bikes) plus shop time. That's an 11 AM kickoff with zero margin, and it strands the SUVs in the Village.
+- ⚠️ **Riding back *after* the victory** works better, with two catches: the bikes have to already be in town (rent at the **Jackson** location and ride *back* to the Village — ask whether they do one-way rentals or a shuttle), and post-game beers plus 15 miles in the dark is a bad combination. Keep it to whoever actually wants to ride, and get rolling by ~5 PM.
+- ⚠️ **It competes with the tram + Corbet's waffles and the Dornan's 5 PM dinner default** — the Sunday afternoon window fits *one* of these, not all three.
+- ⚠️ **13 bikes is a big ask** in shoulder season. Reserve ahead, and expect this to be a splinter group, not the whole crew.
+
+**Before booking:** hours, price (e-bike vs. regular), whether they'll hold that many bikes, one-way/shuttle options, and helmet policy — all unverified here, this is Austin's word plus the pathway math.
+
 ### From the friend's rec list — doesn't fit this trip
 
 - 🚫 **Jackson Hole Rodeo** — sells out in advance like she says, but the season is Memorial Day–Labor Day (2026: May 23 – Sep 7). We land Sep 17 — not running
@@ -88,4 +103,5 @@
 - [x] Snake River **whitewater** rafting — booked ✅ (JHWW, Friday 1 PM; see `/logistics`). The *scenic* float is a separate product and there's no open window for it this trip
 - [x] Wildlife guide — covered ✅ by the booked Friday 8 AM JHWW van tour through Grand Teton
 - [ ] Teton Village tram — no reservation needed to ride, but **buy tickets in advance online** (months out for peak days); check fall operating hours/dates since late-Sept is shoulder season
+- [ ] **Wheel Wranglers bikes (Austin's rec)** — call the Teton Village and Jackson shops: fall hours, e-bike vs. regular pricing, how many bikes they'll hold, and whether a **one-way** Jackson → Teton Village rental is possible. Sunday afternoon only; likely a splinter group
 - [ ] Fishing guide — only if someone wants to trade away a slotted block (the schedule is full); September is prime season, so book early if so

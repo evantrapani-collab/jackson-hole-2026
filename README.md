@@ -61,6 +61,7 @@ Trip planning hub for everything related to the trip.
 - [ ] **Travel insurance** — decide yes/no (it's on the packing checklist but never settled). Trip-delay coverage is exactly the DFW 43-min-connection scenario — see the misconnect playbook
 - [ ] **Park pass owner** — decide America the Beautiful pass vs. paying $35/vehicle at the gate; if buying, grab it on Recreation.gov in advance to skip the line
 - [ ] **Bear spray** — assign an owner; need **2+ canisters (~$50 each)**, one per vehicle, bought in Jackson (can't fly with it). Folds into the Thursday window below
+- [ ] 🚲 **Wheel Wranglers bikes — decide + reserve if we're doing it** *(Austin's rec)*: ~15-mile scenic pathway ride between **Teton Village and downtown Jackson**; shops in both, e-bikes and regular. Only slot is **Sunday afternoon** (riding in for the 11 AM kickoff doesn't fit — the wildlife drive isn't back until ~9:30), and it competes with the tram and the 5 PM Dornan's default. Call for fall hours, e-bike vs. regular pricing, how many bikes they'll hold, and whether a **one-way Jackson → Village** rental/shuttle exists. Expect a splinter group, not all 13. See [`/activities`](./activities/activities.md#biking--wheel-wranglers-austins-rec)
 - [ ] Confirm exact rafting departure / check-in time with Jeff @ JHWW
 - [ ] Decide wetsuit rentals ($5/person, weather-dependent)
 - [ ] Pick rafting lunch — outfitter deli vs. Cutty's

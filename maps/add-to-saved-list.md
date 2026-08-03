@@ -7,7 +7,7 @@ Tap a link → it opens the place in Google Maps → **Save** → pick
 Boxes marked _(already in your list)_ are the ones visible in your
 current 19 pins — skip those.
 
-**76 places total.**
+**78 places total.**
 
 ## Lodging & Logistics
 
@@ -99,3 +99,5 @@ current 19 pins — skip those.
 - [ ] [National Elk Refuge](https://www.google.com/maps/search/?api=1&query=National+Elk+Refuge%2C+Jackson%2C+WY) — Early for winter herds but worth a look.
 - [ ] [National Museum of Wildlife Art](https://www.google.com/maps/search/?api=1&query=National+Museum+of+Wildlife+Art%2C+Jackson%2C+WY) — World-class collection; elk refuge views.
 - [ ] [Spirits & Spice](https://www.google.com/maps/search/?api=1&query=Spirits+and+Spice%2C+Jackson%2C+WY) — Friend's favorite shop; Thu midday gap or Sun afternoon.
+- [ ] [Wheel Wranglers — Teton Village](https://www.google.com/maps/search/?api=1&query=Wheel+Wranglers%2C+Teton+Village%2C+WY) — Austin's bike rec (e-bikes + regular); Village end of the ~15-mi pathway ride.
+- [ ] [Wheel Wranglers — Jackson](https://www.google.com/maps/search/?api=1&query=Wheel+Wranglers%2C+Jackson%2C+WY) — Austin's bike rec; rent here to ride back to the Village after the Saints game.
