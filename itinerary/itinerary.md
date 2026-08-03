@@ -53,6 +53,7 @@
 - **Back by ~3:00 PM** to be comfortable before kickoff
 - **5:30 PM MT — LSU vs. Ole Miss** (6:30 CT, **ABC**) — Lane Kiffin's return to Oxford
   - Back at the house; **grill 24 oz bone-in ribeyes**
+  - ⚠️ **Steak night is under discussion** — may move to Sunday (Saints). Default is still Saturday; if it moves, this night needs a replacement dinner. See `/dining`
 
 ---
 
@@ -68,6 +69,7 @@
   - **Mormon Row** — bison against the Tetons at sunrise
   - **Moose-Wilson Road** — moose and bears; drive slow
 - **11:00 AM MT — Saints @ Baltimore Ravens** (noon CT, **CBS**) — road game, late-morning watch
+  - ⚠️ **Possible steak night** — idea on the table to move the ribeyes here. Note the 11 AM kickoff makes it a *night* grill, not a game grill, and it would void the Dornan's dinner default. Undecided — see `/dining`
   - Watch at the house or a spot (Cutty's on Hwy 22, The Bird, or Eleanor's)
 - **Afternoon:** Explore favorites — ride the **Teton Village tram** for waffles at **Corbet's Cabin** (walkable from the house), grab pizza + the view at **Dornan's** in Moose, or hit downtown Jackson
 - **Dinner — default: early Dornan's (~5 PM)** in Moose — pizza + the Teton view to close the last full day (confirm fall hours the week before; Moose runs shoulder-season schedules). **Backup: the house**
@@ -86,6 +88,7 @@
 
 ## Logistics Notes
 
+- **Two SUVs, no 3rd vehicle** — decided. 13 guys + bags is tight on the Thursday and Monday airport legs: **soft duffels over hard rollers**
 - **Driver-lead per vehicle:** name someone in each SUV who owns departure times — herding 13 guys is the main thing that blows up a schedule
 - **Park entry:** no reservations needed for either park in 2026; pay ~$35/vehicle at the gate (or $80 America the Beautiful pass covers both). Buy in advance on Recreation.gov to skip the line
 - **Bear spray:** one per vehicle (you'll split up); can't fly with it — buy/rent in Jackson
