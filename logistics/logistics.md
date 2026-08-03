@@ -167,7 +167,7 @@ Contract is signed. Key details:
 - [x] 2 SUVs booked (Jason Hardie + Joe Schick)
 - [x] **Decided: 2 rental cars is enough — no 3rd vehicle** (soft-sided bags recommended for the airport-transfer days)
 - [ ] Verify the Explorer's 7-seat config is on the reservation (Jason Hardie) — planning estimate is **7 seats = 14 for 13**; if the 3rd row isn't there, swap the booking or add a cargo carrier
-- [x] Friday dinner — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`)
+- [x] Friday dinner venue — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`). Menu still open, see Aug → Sep 10
 - [ ] Confirm Airbnb check-in time with the host — sizes the Thursday midday gap
 
 ### 8/1
@@ -176,8 +176,10 @@ Contract is signed. Key details:
 ### August → Sep 10
 - [x] Room/bed assignments — ✅ decided: **picked on arrival**, not pre-assigned
 - [ ] ⭐ Confirm a sleeping surface for **Brad Ciolino** (call RMR re: sofa bed/cot) — or he packs an air mattress + pump; 6 beds can't cover 13, and there's no big-box store in Jackson
+- [ ] While on that RMR call: **confirm the grill + propane** — gas or charcoal, tank full? A dead tank under 13 ribeyes is the easiest way steak night goes sideways
 - [ ] Rafting balance — Drewes collects from the crew (depends on final headcount; no individual action now); per-person number + late-cancel rule locked **by 9/10** (7-day refund cutoff)
-- [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes
+- [ ] **Friday dinner menu** — venue's locked (the house), but nobody's picked the food. Fajita/taco bar vs. one-pot — decide before handing Psilos a list
+- [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes + full list (ice, paper goods, coffee, drinks) — see `/dining`
 - [ ] Pick the Sunday dinner plan
 - [ ] **Steak night: Saturday (LSU) or Sunday (Saints)?** — doesn't change the grocery list, only the night. See `/dining`
 
