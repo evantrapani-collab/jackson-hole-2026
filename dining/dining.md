@@ -13,7 +13,7 @@
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
-| Friday dinner | **House ✅ locked** | Friday | Low-key house dinner after the dawn-to-dusk day; the 6/30 booking fence passed with no reservation, so the house is the plan |
+| Friday dinner | **House ✅ locked** ⚠️ menu TBD | Friday | Venue is locked, but no menu is picked yet — see *Friday Dinner Menu* below |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose (confirm fall hours); backup is the house — reasonable night before the 11:47 AM flight |
 | Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
@@ -85,6 +85,24 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 
 ---
 
+## Friday Dinner — Venue Locked, Menu Open
+
+> The house won the venue fight back in June. Nobody's picked what's actually cooked. After a dawn-to-dusk van tour + rafting day, nobody wants a project — this needs to be a one-pot or assembly-line meal, not a from-scratch cook.
+
+**Two realistic options:**
+- **Fajita/taco bar** — 10 lb chicken thighs + 5 lb skirt steak, 50+ tortillas, 8 onions/peppers, 2 lb cheese, 3 jars salsa, 12 avocados, rice + beans. Feeds 13 with leftovers (which double as Saturday's Yellowstone sandwich wraps).
+- **One-pot (jambalaya or big pasta)** — cheaper, less prep, one person cooks and walks away for 40 min while everyone else showers off the river.
+
+**Decision:** pick one and fold it into Psilos's Sep 10 grocery/butcher call — right now he's shopping for an undefined meal.
+
+## Grill Check — Before Committing to Ribeyes
+
+> Two ribeye nights (Sat default, maybe Sun) both assume a working grill. Nobody's confirmed the house has one, or that the propane tank is full. A dead tank under 13 raw ribeyes is the single easiest way this trip goes sideways.
+
+- [ ] **Call RMR (307-739-9050)**: what's the grill (gas/charcoal?), and is the propane tank full or does someone need to swap it in Jackson
+- If charcoal: add 2 bags of charcoal + a chimney starter to the Thursday grocery run
+- Fold into the same call as the Ciolino sleeping-surface question — one call to RMR covers both
+
 ## Steak Night — Saturday (default) or Sunday?
 
 > Raised on the call: grill the ribeyes for the **Saints game Sunday** instead of the **LSU game Saturday**. Not decided — default stays Saturday until someone calls it. Either way the grocery list and the butcher call are identical, so this does **not** block Psilos.
@@ -114,6 +132,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - Buy groceries **Thursday on arrival** so you're not scrambling Saturday after Yellowstone
 - Assign someone as the grill captain (still open)
 - **Sides:** Grab whatever at the grocery store — keep it simple
+- **Seasoning:** kosher salt, pepper, garlic powder — Airbnbs never stock enough for 13 steaks; add to the list
 
 ---
 
@@ -214,6 +233,10 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 - [ ] Breakfast burritos to stash for the Sat/Sun early starts (or pick up a batch Friday — see below)
 - [ ] Drinks / cooler supplies for the parks
 - [ ] Snacks for Yellowstone on Saturday
+- [ ] Ice (4–6 bags, replenish daily), Solo cups, paper plates/napkins/towels, trash bags, heavy foil, dish soap, ziplocs
+- [ ] Coffee + filters/creamer/sugar — 13 guys, 4 mornings, more than you think
+- [ ] Sunday game-day spread for the 11 AM kickoff (wings, sausage, chips/dip) — it's a brunch kickoff, not a dinner, so keep it light
+- [ ] Drinks for the two house nights (Sat + Sun) — ~6 cases beer, 2 handles whiskey, mixers, seltzer (Thu is at bars, Fri you're wiped)
 
 ---
 
