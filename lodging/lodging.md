@@ -45,8 +45,8 @@ No pre-assigned rooms — first guys to the house call it. The split below is re
 
 **But two things do NOT sort themselves out on arrival:**
 
-1. ⭐ **The sleeping surfaces have to exist before anyone picks.** 6 beds max 12 even fully shared — 13 guys means **at least 1 person on the floor**, realistically 2–3 once you account for who won't share a king. Ask **RMR (307-739-9050)** whether the house stocks air mattresses, cots, or a rollaway. If not, someone packs **2 + a pump** (~5 lbs each, checked-bag fine) — **don't plan on buying them in Jackson**; it's a small resort town with no big-box store.
-2. **Late arrivals eat the floor.** If the crew splits across flights (see the DFW misconnect playbook), whoever lands last gets the mattress by default. Worth saying out loud now so it isn't a Thursday-night argument — or agree that the guys who booked separately don't get penalized for it.
+1. ⭐ **Brad Ciolino is the 13th man — he's on the floor.** With 6 beds maxing at 12 even fully shared, Ciolino's on a couch or an air mattress. **The sleeping surface has to exist before he can use it.** Ask **RMR (307-739-9050)** whether the house has a sofa bed, cot, or rollaway; if not, **Ciolino (or someone) packs an air mattress + pump** (~5 lbs, checked-bag fine) — **don't plan on buying one in Jackson**, it's a small resort town with no big-box store.
+2. **If flights split (DFW misconnect), Ciolino should still be the one on the floor by design, not by bad luck** — don't let a late-landing guy get bumped onto the couch on top of Ciolino; one floor spot is the plan, not two.
 
 A workable split (reference only — swap names to taste):
 
