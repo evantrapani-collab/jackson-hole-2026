@@ -25,6 +25,7 @@ Trip planning hub for everything related to the trip.
 - ✅ Groceries have an owner — **Chris Psilos**
 - ✅ **Beds picked on arrival** — no pre-assignment; **Brad Ciolino is the 13th man / floor sleeper**; open piece is confirming his sleeping surface with RMR
 - ⚠️ **Steak night may move to Sunday** (Saints) instead of Saturday (LSU) — raised, not decided; default holds
+- ⚠️ **Friday dinner menu still open** — the house venue is locked, but nobody's picked what's cooked
 - ⛔️ Via Ferrata — dropped, not doing it
 - ✅ Bed count confirmed — Montreux House is **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (see [`/lodging`](./lodging/lodging.md#sleeping-13)); 6 beds max 12 even fully shared, so plan on air mattresses for 13
 - 📊 Plan graded **99/100** against [the trip rubric](./RUBRIC.md) — the last point is pending verification (Explorer 3rd row), not a doc gap
@@ -35,7 +36,7 @@ Trip planning hub for everything related to the trip.
 
 **🔴 Now (July)**
 - [ ] **Verify the Explorer's 7-seat config is on the reservation** *(Owner: Jason Hardie)*: planning estimate is **7 seats → 14 total for 13**, so the math works — but Explorer trims range 5–7, so one call to the rental company confirms the 3rd row. If it somehow isn't there, swap the booking or add a cargo carrier now, not at the JAC counter
-- [x] **Friday dinner — ✅ locked: the house.** The 6/30 booking fence passed with no reservation, so per the decision rule the house *is* the plan (see [`/dining`](./dining/dining.md#dinner-defaults--decided)) — no scramble, item closed as designed
+- [x] **Friday dinner venue — ✅ locked: the house.** The 6/30 booking fence passed with no reservation, so per the decision rule the house *is* the plan (see [`/dining`](./dining/dining.md#dinner-defaults--decided)) — no scramble, item closed as designed. *(The menu itself is still open — see below.)*
 - [ ] **Confirm Airbnb check-in + checkout times with the host** — flight lands 10:19 AM but check-in is likely mid-afternoon (sizes the Thursday midday plan, below under *On the trip*); checkout sets the Monday exit (plan: out by ~9:45 AM for the 11:47 flight)
 
 **By Aug 1**
@@ -45,8 +46,10 @@ Trip planning hub for everything related to the trip.
 **August → Sep 10**
 - [x] ✅ **Room/bed assignments — decided: pick on arrival**, no pre-assigned roster
 - [ ] ⭐ **Confirm a sleeping surface for Brad Ciolino (the 13th man)** — 6 beds max 12 even fully shared, so Ciolino's on a couch/air mattress. Call **RMR (307-739-9050)** re: a sofa bed/cot/rollaway; if the house has none, **Ciolino packs an air mattress + pump** — no big-box store in Jackson to buy one on arrival. See [`/lodging`](./lodging/lodging.md#sleeping-13)
+- [ ] **While on that RMR call — confirm the grill + propane** — gas or charcoal, tank full or not? A dead tank under 13 raw ribeyes is the easiest way steak night goes sideways. If charcoal, add it to the grocery run. See [`/dining`](./dining/dining.md#grill-check--before-committing-to-ribeyes)
 - [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: lock the final per-person number AND a rule for who covers a late cancellation, so the crew isn't split-eating a no-show once the refund window closes
-- [ ] **Groceries: pick the method** *(Owner: Chris Psilos)* — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. See [`/dining`](./dining/dining.md#grocery-delivery-options)
+- [ ] **Friday dinner menu** — the house *venue* is locked, but nobody's picked what's cooked. Fajita/taco bar vs. one-pot (jambalaya/pasta) — pick one and fold it into the Sep 10 grocery call so Psilos has an actual list. See [`/dining`](./dining/dining.md#friday-dinner--venue-locked-menu-open)
+- [ ] **Groceries: pick the method** *(Owner: Chris Psilos)* — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. Full list (ice, paper goods, coffee, drinks, Sunday game-day snacks) now itemized in [`/dining`](./dining/dining.md#grocery-run-thursday-arrival)
 - [ ] **Steak night — Saturday or Sunday?** *(decide with the Sep 10 butcher call)*: idea on the table to grill the ribeyes for the **Saints game Sunday** instead of the **LSU game Saturday**. Grocery list is identical either way, so it doesn't block Psilos. Catch: Sunday's kickoff is **11 AM MT**, so steaks there means a *night* grill, it **voids the Dornan's dinner default**, and Saturday then needs a replacement dinner. Full tradeoff in [`/dining`](./dining/dining.md#steak-night--saturday-default-or-sunday)
 - [ ] Assign the **grill captain** (13 ribeyes) — Psilos owns the groceries; back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed). Buy/pre-stock the ribeyes Thursday (Psilos calls the **Smith's butcher** ahead — 13 × 24 oz bone-in is too much to leave to delivery shelf stock)
 - [ ] Pick Sunday Saints venue — Cutty's / The Bird / Eleanor's / house (Saints @ Ravens, 11 AM MT / noon CT, CBS — confirmed)
