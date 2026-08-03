@@ -21,7 +21,9 @@ Trip planning hub for everything related to the trip.
 - ✅ Rafting + van booked (Drewes collects balance from crew closer to trip)
 - ✅ Headcount locked at 13 (Dan Fulham confirmed)
 - ✅ 2 rental SUVs booked — Jason Hardie (Explorer, JAC) + Joe Schick (Expedition, JAC), both on same inbound flight; Explorer planned as a **7-seater → 14 seats for 13**
+- ✅ **2 rental cars is the final answer** — no 3rd vehicle or cargo carrier; crew accepted the tight luggage fit (pack soft-sided)
 - ✅ Groceries have an owner — **Chris Psilos**
+- ⚠️ **Steak night may move to Sunday** (Saints) instead of Saturday (LSU) — raised, not decided; default holds
 - ⛔️ Via Ferrata — dropped, not doing it
 - ✅ Bed count confirmed — Montreux House is **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (see [`/lodging`](./lodging/lodging.md#sleeping-13)); 6 beds max 12 even fully shared, so plan on air mattresses for 13
 - 📊 Plan graded **99/100** against [the trip rubric](./RUBRIC.md) — the last point is pending verification (Explorer 3rd row), not a doc gap
@@ -43,9 +45,10 @@ Trip planning hub for everything related to the trip.
 - [ ] Sort room/bed assignments — bed count confirmed (5 kings + 1 queen, 4 beds/8 people on the Lower Level); bring/confirm 2 air mattresses, then map names to the split in [`/lodging`](./lodging/lodging.md#sleeping-13)
 - [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: lock the final per-person number AND a rule for who covers a late cancellation, so the crew isn't split-eating a no-show once the refund window closes
 - [ ] **Groceries: pick the method** *(Owner: Chris Psilos)* — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. See [`/dining`](./dining/dining.md#grocery-delivery-options)
-- [ ] Assign the Saturday **grill captain** (13 ribeyes) — Psilos owns the groceries; back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed). Buy/pre-stock the ribeyes Thursday (Psilos calls the **Smith's butcher** ahead — 13 × 24 oz bone-in is too much to leave to delivery shelf stock)
+- [ ] **Steak night — Saturday or Sunday?** *(decide with the Sep 10 butcher call)*: idea on the table to grill the ribeyes for the **Saints game Sunday** instead of the **LSU game Saturday**. Grocery list is identical either way, so it doesn't block Psilos. Catch: Sunday's kickoff is **11 AM MT**, so steaks there means a *night* grill, it **voids the Dornan's dinner default**, and Saturday then needs a replacement dinner. Full tradeoff in [`/dining`](./dining/dining.md#steak-night--saturday-default-or-sunday)
+- [ ] Assign the **grill captain** (13 ribeyes) — Psilos owns the groceries; back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed). Buy/pre-stock the ribeyes Thursday (Psilos calls the **Smith's butcher** ahead — 13 × 24 oz bone-in is too much to leave to delivery shelf stock)
 - [ ] Pick Sunday Saints venue — Cutty's / The Bird / Eleanor's / house (Saints @ Ravens, 11 AM MT / noon CT, CBS — confirmed)
-- [ ] **Sunday dinner — default locked: early Dornan's (~5 PM)**, backup the house — only remaining action is confirming Dornan's fall hours the week before (Moose runs shoulder-season schedules); Monday's 11:47 AM flight wants a reasonable night
+- [ ] **Sunday dinner — default locked: early Dornan's (~5 PM)**, backup the house — only remaining action is confirming Dornan's fall hours the week before (Moose runs shoulder-season schedules); Monday's 11:47 AM flight wants a reasonable night. ⚠️ Void if steak night moves to Sunday
 - [ ] **Early-start breakfast** — order a batch of breakfast burritos (~18–20) to stash at the house for the Sat 7 AM Yellowstone + Sun 6:30 AM wildlife-drive starts; **pick up Friday after rafting** (Teton Village delivery is thin). See [`/dining`](./dining/dining.md#breakfast-burritos-for-the-early-starts--house-stash)
 
 **1–2 weeks out (early September)**
@@ -56,6 +59,7 @@ Trip planning hub for everything related to the trip.
 - [ ] Confirm exact rafting departure / check-in time with Jeff @ JHWW
 - [ ] Decide wetsuit rentals ($5/person, weather-dependent)
 - [ ] Pick rafting lunch — outfitter deli vs. Cutty's
+- [ ] **Finalize the carpool / seat split across the two SUVs** — 3rd vehicle is ruled out, so tell everyone to bring **soft duffels, not hard rollers** (Thursday and Monday are the tight legs)
 - [ ] Download offline maps for Yellowstone (no cell service)
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
 - [ ] Print all confirmations + the [Key Contacts table](./logistics/logistics.md#key-contacts--print-this-no-cell-service-in-the-parks)
