@@ -23,6 +23,7 @@ Trip planning hub for everything related to the trip.
 - ✅ 2 rental SUVs booked — Jason Hardie (Explorer, JAC) + Joe Schick (Expedition, JAC), both on same inbound flight; Explorer planned as a **7-seater → 14 seats for 13**
 - ✅ **2 rental cars is the final answer** — no 3rd vehicle or cargo carrier; crew accepted the tight luggage fit (pack soft-sided)
 - ✅ Groceries have an owner — **Chris Psilos**
+- ✅ **Beds picked on arrival** — no pre-assignment; the open piece is confirming 2 air mattresses exist
 - ⚠️ **Steak night may move to Sunday** (Saints) instead of Saturday (LSU) — raised, not decided; default holds
 - ⛔️ Via Ferrata — dropped, not doing it
 - ✅ Bed count confirmed — Montreux House is **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (see [`/lodging`](./lodging/lodging.md#sleeping-13)); 6 beds max 12 even fully shared, so plan on air mattresses for 13
@@ -42,7 +43,8 @@ Trip planning hub for everything related to the trip.
 - [x] **By 8/1** — ✅ confirmed what Montreux House sleeps: **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (full layout in [`/lodging`](./lodging/lodging.md#sleeping-13)). 6 beds max 12 even fully shared → **bring 2 air mattresses** for 13
 
 **August → Sep 10**
-- [ ] Sort room/bed assignments — bed count confirmed (5 kings + 1 queen, 4 beds/8 people on the Lower Level); bring/confirm 2 air mattresses, then map names to the split in [`/lodging`](./lodging/lodging.md#sleeping-13)
+- [x] ✅ **Room/bed assignments — decided: pick on arrival**, no pre-assigned roster
+- [ ] ⭐ **Confirm sleeping surfaces for 13** — the part that *doesn't* sort itself out on arrival. 6 beds max 12 even fully shared, so **1–3 guys are on the floor**. Call **RMR (307-739-9050)** re: air mattresses / cots / rollaway; if the house has none, name someone to pack **2 mattresses + a pump** — there's no big-box store in Jackson to buy them on arrival. See [`/lodging`](./lodging/lodging.md#sleeping-13)
 - [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: lock the final per-person number AND a rule for who covers a late cancellation, so the crew isn't split-eating a no-show once the refund window closes
 - [ ] **Groceries: pick the method** *(Owner: Chris Psilos)* — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. See [`/dining`](./dining/dining.md#grocery-delivery-options)
 - [ ] **Steak night — Saturday or Sunday?** *(decide with the Sep 10 butcher call)*: idea on the table to grill the ribeyes for the **Saints game Sunday** instead of the **LSU game Saturday**. Grocery list is identical either way, so it doesn't block Psilos. Catch: Sunday's kickoff is **11 AM MT**, so steaks there means a *night* grill, it **voids the Dornan's dinner default**, and Saturday then needs a replacement dinner. Full tradeoff in [`/dining`](./dining/dining.md#steak-night--saturday-default-or-sunday)
