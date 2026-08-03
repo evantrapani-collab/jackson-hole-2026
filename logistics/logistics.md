@@ -34,7 +34,7 @@
 - The race is seats, not rebooking: everyone on the group ticket rebooks **simultaneously in the AA app** while one guy calls AA and another hits the gate desk. Take whatever's there; split across flights if needed
 - **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations and are on the group itinerary, so they misconnect together. An advance party grabs the SUVs, checks into the house, and triggers the grocery **delivery** fallback (see `/dining`)
 - Cost of this outcome: the Thursday midday window and most of the bar crawl. Friday untouched. Bear spray moves to Friday evening
-- Side effect: **whoever lands last gets the air mattress** (beds are picked on arrival) — flag it now so it isn't a Thursday-night argument
+- Side effect: **beds are picked on arrival, and Ciolino has the floor spot by design** — don't let a late-landing guy get bumped onto the couch on top of him; one floor spot is the plan, not two
 
 **Tier 2 — no JAC seats left same day: fly to SLC and drive**
 - AA runs many daily DFW→SLC flights; Jackson is **~280 mi / ~5 hrs** from SLC (see drive-time table below)
@@ -53,7 +53,7 @@
 - **Airbnb (Montreux House)** — booked ✅
 - $500 deposit to @drewespt on Venmo — paid ✅
 - Balance due **8/1** (total minus deposit)
-- **Beds: picked on arrival ✅** — no pre-assigned roster. The prerequisite that *can't* wait is sleeping surfaces: 6 beds max 12 shared, so 1–3 guys are on the floor. See `/lodging`
+- **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
 - [ ] **Confirm check-in + checkout times** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight
 
 ---
@@ -133,7 +133,7 @@ Contract is signed. Key details:
 | Who | Why | Contact |
 |---|---|---|
 | **Montreux House** (the Airbnb) | Home base | 3720 Morley Drive, Teton Village, WY 83025 |
-| **RMR** (property manager) | House issues, pre-arrival coordination, **air mattress/cot question** | (307) 739-9050 · lodging@rmrentals.com |
+| **RMR** (property manager) | House issues, pre-arrival coordination, **sleeping-surface question for Ciolino** | (307) 739-9050 · lodging@rmrentals.com |
 | **JHWW — Jeff** | Friday van tour + rafting | Number is on the signed contract — copy it here when printing confirmations |
 | **American Airlines** | Flight changes / misconnect | (800) 433-7300 + the AA app |
 | **St. John's Health** | Nearest 24-hr ER | 625 E Broadway, Jackson — ~25 min from the house |
@@ -175,7 +175,7 @@ Contract is signed. Key details:
 
 ### August → Sep 10
 - [x] Room/bed assignments — ✅ decided: **picked on arrival**, not pre-assigned
-- [ ] ⭐ Confirm the house has 2 air mattresses / cots (call RMR) — or someone packs them + a pump; 6 beds can't cover 13, and there's no big-box store in Jackson
+- [ ] ⭐ Confirm a sleeping surface for **Brad Ciolino** (call RMR re: sofa bed/cot) — or he packs an air mattress + pump; 6 beds can't cover 13, and there's no big-box store in Jackson
 - [ ] Rafting balance — Drewes collects from the crew (depends on final headcount; no individual action now); per-person number + late-cancel rule locked **by 9/10** (7-day refund cutoff)
 - [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes
 - [ ] Pick the Sunday dinner plan
