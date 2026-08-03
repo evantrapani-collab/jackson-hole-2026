@@ -34,6 +34,7 @@
 - The race is seats, not rebooking: everyone on the group ticket rebooks **simultaneously in the AA app** while one guy calls AA and another hits the gate desk. Take whatever's there; split across flights if needed
 - **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations and are on the group itinerary, so they misconnect together. An advance party grabs the SUVs, checks into the house, and triggers the grocery **delivery** fallback (see `/dining`)
 - Cost of this outcome: the Thursday midday window and most of the bar crawl. Friday untouched. Bear spray moves to Friday evening
+- Side effect: **whoever lands last gets the air mattress** (beds are picked on arrival) — flag it now so it isn't a Thursday-night argument
 
 **Tier 2 — no JAC seats left same day: fly to SLC and drive**
 - AA runs many daily DFW→SLC flights; Jackson is **~280 mi / ~5 hrs** from SLC (see drive-time table below)
@@ -52,6 +53,7 @@
 - **Airbnb (Montreux House)** — booked ✅
 - $500 deposit to @drewespt on Venmo — paid ✅
 - Balance due **8/1** (total minus deposit)
+- **Beds: picked on arrival ✅** — no pre-assigned roster. The prerequisite that *can't* wait is sleeping surfaces: 6 beds max 12 shared, so 1–3 guys are on the floor. See `/lodging`
 - [ ] **Confirm check-in + checkout times** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight
 
 ---
@@ -97,7 +99,7 @@ Contract is signed. Key details:
 
 - **Explorer — planning estimate: 7 seats.** With the Expedition as a 7-seater that's **14 seats for 13** — the math works. Explorers range 5–7 by trim, so Hardie verifies the 3rd row is actually on the reservation with one call; if it somehow isn't, swap the booking or add a cargo carrier now — don't discover it at the JAC counter.
 - ✅ **Decided: two SUVs only — no 3rd vehicle.** The crew is fine with the tight fit on the two airport-transfer days (13 guys + bags). Yellowstone day is daypacks only, so two is plenty there. A **cargo carrier** stays on the table only as the fallback if the Explorer's 3rd row doesn't check out.
-- Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze.
+- Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze. Same goes for air mattresses — they pack down, but they're cargo.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
 - **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline)
 - Saturday: Leave Yellowstone by **~3:00 PM MT** to be comfortably back for the 5:30 kickoff
@@ -131,7 +133,7 @@ Contract is signed. Key details:
 | Who | Why | Contact |
 |---|---|---|
 | **Montreux House** (the Airbnb) | Home base | 3720 Morley Drive, Teton Village, WY 83025 |
-| **RMR** (property manager) | House issues, pre-arrival coordination | (307) 739-9050 · lodging@rmrentals.com |
+| **RMR** (property manager) | House issues, pre-arrival coordination, **air mattress/cot question** | (307) 739-9050 · lodging@rmrentals.com |
 | **JHWW — Jeff** | Friday van tour + rafting | Number is on the signed contract — copy it here when printing confirmations |
 | **American Airlines** | Flight changes / misconnect | (800) 433-7300 + the AA app |
 | **St. John's Health** | Nearest 24-hr ER | 625 E Broadway, Jackson — ~25 min from the house |
@@ -172,7 +174,8 @@ Contract is signed. Key details:
 - [ ] Airbnb balance due (total minus $500 deposit)
 
 ### August → Sep 10
-- [ ] Sort room/bed assignments (5 BR / 6 beds for 13) — after confirming what the house actually sleeps
+- [x] Room/bed assignments — ✅ decided: **picked on arrival**, not pre-assigned
+- [ ] ⭐ Confirm the house has 2 air mattresses / cots (call RMR) — or someone packs them + a pump; 6 beds can't cover 13, and there's no big-box store in Jackson
 - [ ] Rafting balance — Drewes collects from the crew (depends on final headcount; no individual action now); per-person number + late-cancel rule locked **by 9/10** (7-day refund cutoff)
 - [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes
 - [ ] Pick the Sunday dinner plan
