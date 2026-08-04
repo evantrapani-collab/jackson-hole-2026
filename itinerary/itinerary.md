@@ -50,6 +50,7 @@
   - **Old Faithful** — check the predicted eruption time (NPS app or visitor center, ~90-min cycle) so 13 guys aren't standing around
   - **Grand Prismatic Spring** overlook (Fairy Falls trail) — the iconic shot
   - **West Thumb Geyser Basin** — right on the way back, quick and worth it
+- *Lunch:* **cooler lunch packed Friday night**, eaten at the **West Thumb picnic tables** on the way out. Don't put 13 guys in the Old Faithful food line at noon — it's 45 minutes you don't have. See `/dining`
 - **Back by ~3:00 PM** to be comfortable before kickoff
 - **5:30 PM MT — LSU vs. Ole Miss** (6:30 CT, **ABC**) — Lane Kiffin's return to Oxford
   - Back at the house; **grill 24 oz bone-in ribeyes**
@@ -80,6 +81,7 @@
 ## Monday, Sep 21 — Travel Home
 
 - **Out of the house by ~9:45 AM** — confirm the exact checkout time with the host (same ask as check-in); 13 guys packing out takes longer than you think
+- *Breakfast:* whatever's left + house coffee — **hold back 2–3 breakfast burritos from the stash for this morning**. No sit-down fits, and JAC's terminal food is two small counters. Clear the fridge on the way out
 - **Fuel both SUVs** the night before or en route (gas in town, not at the tiny airport lot) and **return the rentals at JAC** — build in ~20 min for the return + shuttle to the terminal
 - Be at JAC by **10:15 AM** — it's a small airport but don't cut it close
 - **Depart JAC 11:47 AM** → DFW 3:38 PM → MSY 6:41 PM

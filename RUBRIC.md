@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 99/100** *(re-graded 2026-07-11 — grade unchanged; see the 7/11 note at the bottom)*
+**Current grade: 99/100** *(re-graded 2026-08-04 — found at **97**, restored to 99 by that pass's fixes; see the 8/4 note at the bottom)*
 
 ---
 
@@ -25,7 +25,7 @@ Each category starts at full points; deduct per the criteria. The rubric grades 
 ### 1. Bookings & the critical path (20)
 
 - Everything bookable is booked, or has an owner + deadline + written fallback (−2 each gap)
-- The two trip-gating items (⭐) are flagged and tracked (−3 if not)
+- The trip-gating items (⭐) are flagged and tracked (−3 if not)
 - Anything time-fenced (refund cutoffs, books-out-months venues) has its real deadline written down (−2 each)
 - Load-bearing tasks aren't ownerless (−1 each)
 
@@ -133,8 +133,25 @@ Dashboard + maps-layer work; no plan facts changed, so the grade holds at 99.
 - **JS enhancements (still zero-JS functional):** deadline-aware countdown messages, a hero milestone strip (8/1 → 9/10 → 9/17), computed days-left chips, a TODAY badge on the itinerary during the trip, and last-tab memory (with the restored tab scrolled into view in the nav). Checklist storage keys versioned to `_v2` so grown lists don't mis-map old saved checkmarks.
 - **Sync now enforced, not just graded:** `generate_places.py --check` verifies the generated maps files match the `PLACES` list without rewriting them, and a new CI workflow (`maps-check.yml`) runs it on every push/PR — hand-edits to generated files or an unregenerated `PLACES` edit now fail loudly.
 
+### 8/4 re-grade (date-rot pass)
+
+First re-grade after a deadline actually passed. The rubric says to re-grade when an open item rots past its deadline — two did.
+
+**Found at 97 (−2 from 99):**
+- **−1 Money:** the 8/1 Airbnb balance came and went, and the *amount* had never been written down anywhere — every doc said "total minus deposit," which is not a number you can Venmo. §5 requires per-person amounts to be explicit.
+- **−1 Bookings:** Hardie's Explorer 3rd-row verification sat in a bucket labeled "Now (July)" into August. §1 requires a deadline, and a bucket that names a month that has ended is not one.
+
+**Restored to 99 by this pass:**
+- The balance is now a number in `/budget`, README, and the dashboard: **$7,229.82 − $6,500 (13 × $500) = $729.82 ≈ $56/person** — with the honest flag that Drewes quoted ~$600/person, so it may be ~$100 and someone has to ask him which.
+- The Explorer item got a hard date (**8/15**) and a ⭐ — it's the last open item that can still force a booking change, and Jackson rental inventory doesn't improve as September approaches.
+
+**Also closed this pass (no point change — these were below the deduction line but real):**
+- **Meals:** Saturday lunch had no answer at all and Monday breakfast had none either — §4 wants every slot Thu–Mon to resolve. Both now have plans (cooler lunch at West Thumb; hold burritos back for Monday). Caught only because §4 is enumerated by slot rather than judged by feel.
+- **Sync:** the tram confirmation and "name who isn't on the group itinerary" existed in `/logistics` and `/activities` but never reached README's Open Items — §7 drift. Both added.
+- **Travel insurance** now says what's actually still buyable in August (delay/interruption/medical, not CFAR) instead of implying the full menu is open.
+
 ### The remaining point (honest, not fixable by documents)
 
-- **−1 Group coordination:** bed math (what the house actually sleeps) is pending the host's answer, and the Explorer's 7 seats is an estimate until the reservation is verified; room/seat assignments can't be finished until both land.
+- **−1 Group coordination:** the Explorer's 7 seats is still an estimate until Hardie verifies the reservation, so the seat math is unconfirmed and the carpool split can't be finalized. *(The bed-math half of this deduction is closed — the house is confirmed at 5 kings + 1 queen across 3 levels, and beds-on-arrival is a decision, not a gap.)*
 
-Close those in the real world and this is a 100.
+Close that in the real world and this is a 100.
