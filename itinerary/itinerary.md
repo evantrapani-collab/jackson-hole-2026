@@ -71,7 +71,7 @@
   - **Moose-Wilson Road** — moose and bears; drive slow
 - **11:00 AM MT — Saints @ Baltimore Ravens** (noon CT, **CBS**) — road game, late-morning watch
   - ⚠️ **Possible steak night** — idea on the table to move the ribeyes here. Note the 11 AM kickoff makes it a *night* grill, not a game grill, and it would void the Dornan's dinner default. Undecided — see `/dining`
-  - Watch at the house or a spot (Cutty's on Hwy 22, The Bird, or Eleanor's)
+  - Watch at the house or a spot (Cutty's on Hwy 22 or Eleanor's)
 - **Afternoon:** Explore favorites — ride the **Teton Village tram** for waffles at **Corbet's Cabin** (walkable from the house), grab pizza + the view at **Dornan's** in Moose, or hit downtown Jackson
 - **Dinner — default: early Dornan's (~5 PM)** in Moose — pizza + the Teton view to close the last full day (confirm fall hours the week before; Moose runs shoulder-season schedules). **Backup: the house**
 - Who Dat — Monday 11:47 AM departure means a reasonable Sunday night

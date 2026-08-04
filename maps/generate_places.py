@@ -55,7 +55,6 @@ PLACES = [
     ("Persephone Bakery", "Food & Drink", "Backup", "Persephone Bakery, Jackson, WY", False, "Best coffee in town; croissants."),
     ("Nora's Fish Creek Inn", "Food & Drink", "Backup", "Nora's Fish Creek Inn, Wilson, WY", False, "Iconic Wyoming diner breakfast; cash only."),
     ("Thai Me Up", "Food & Drink", "Backup", "Thai Me Up, Jackson, WY", False, "Beloved locals' Thai spot."),
-    ("The Bird", "Food & Drink", "Sun", "The Bird, Jackson, WY", False, "Saints-game watch option; verify pin (S Hwy 89)."),
     ("Eleanor's", "Food & Drink", "Sun", "Eleanor's, Jackson, WY", False, "Saints-game watch option; verify pin."),
     ("Local Restaurant & Bar", "Food & Drink", "Fri dinner cand.", "Local Restaurant and Bar, Jackson, WY", False, "Friend rec; great happy hour. Top Friday 13-top candidate."),
     ("Gather", "Food & Drink", "Fri dinner cand.", "Gather, Jackson, WY", False, "Friend rec; group-friendly. Top Friday 13-top candidate."),

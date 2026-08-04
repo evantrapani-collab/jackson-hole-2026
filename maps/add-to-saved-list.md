@@ -7,7 +7,7 @@ Tap a link → it opens the place in Google Maps → **Save** → pick
 Boxes marked _(already in your list)_ are the ones visible in your
 current 19 pins — skip those.
 
-**76 places total.**
+**75 places total.**
 
 ## Lodging & Logistics
 
@@ -41,7 +41,6 @@ current 19 pins — skip those.
 - [ ] [Persephone Bakery](https://www.google.com/maps/search/?api=1&query=Persephone+Bakery%2C+Jackson%2C+WY) — Best coffee in town; croissants.
 - [ ] [Nora's Fish Creek Inn](https://www.google.com/maps/search/?api=1&query=Nora%27s+Fish+Creek+Inn%2C+Wilson%2C+WY) — Iconic Wyoming diner breakfast; cash only.
 - [ ] [Thai Me Up](https://www.google.com/maps/search/?api=1&query=Thai+Me+Up%2C+Jackson%2C+WY) — Beloved locals' Thai spot.
-- [ ] [The Bird](https://www.google.com/maps/search/?api=1&query=The+Bird%2C+Jackson%2C+WY) — Saints-game watch option; verify pin (S Hwy 89).
 - [ ] [Eleanor's](https://www.google.com/maps/search/?api=1&query=Eleanor%27s%2C+Jackson%2C+WY) — Saints-game watch option; verify pin.
 - [ ] [Local Restaurant & Bar](https://www.google.com/maps/search/?api=1&query=Local+Restaurant+and+Bar%2C+Jackson%2C+WY) — Friend rec; great happy hour. Top Friday 13-top candidate.
 - [ ] [Gather](https://www.google.com/maps/search/?api=1&query=Gather%2C+Jackson%2C+WY) — Friend rec; group-friendly. Top Friday 13-top candidate.

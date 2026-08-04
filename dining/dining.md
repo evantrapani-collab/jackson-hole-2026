@@ -20,7 +20,7 @@
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose (confirm fall hours); backup is the house — reasonable night before the 11:47 AM flight |
 | Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
-| Sunday game | Cutty's / The Bird / Eleanor's / house | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)** |
+| Sunday game | Cutty's / Eleanor's / house | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)** |
 
 ---
 
@@ -101,10 +101,10 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - **Best fit:** Sunday lunch/early dinner after the morning wildlife drive, since you're already on that side of the park — or any time a low-key meal with a view beats fighting for a table in town
 - Confirm fall hours before you go (Moose runs on shorter shoulder-season schedules)
 
-## Sunday Saints Game — Cutty's / The Bird / Eleanor's
+## Sunday Saints Game — Cutty's / Eleanor's
 
 - **Saints @ Baltimore, 11 AM MT kickoff (noon CT, CBS)** — it's a road game and a **late-morning** start, so watch first, then explore after
-- Options: Cutty's Bar & Grill (Hwy 22, ~10 min), The Bird, Eleanor's, or just watch at the house
+- Options: Cutty's Bar & Grill (Hwy 22, ~10 min), Eleanor's, or just watch at the house
 - Monday 11:47 AM departure means Sunday night should stay reasonable
 
 ---
