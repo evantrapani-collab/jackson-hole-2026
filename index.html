@@ -125,6 +125,7 @@
   #t-money:checked      ~ main #money,
   #t-eat:checked        ~ main #eat,
   #t-activities:checked ~ main #activities,
+  #t-groc:checked       ~ main #groc,
   #t-packing:checked    ~ main #packing,
   #t-logistics:checked  ~ main #logistics,
   #t-maps:checked       ~ main #maps,
@@ -138,6 +139,7 @@
   #t-money:checked      ~ nav label[for="t-money"],
   #t-eat:checked        ~ nav label[for="t-eat"],
   #t-activities:checked ~ nav label[for="t-activities"],
+  #t-groc:checked       ~ nav label[for="t-groc"],
   #t-packing:checked    ~ nav label[for="t-packing"],
   #t-logistics:checked  ~ nav label[for="t-logistics"],
   #t-maps:checked       ~ nav label[for="t-maps"],
@@ -332,6 +334,7 @@
 <input class="tab-state" type="radio" name="tab" id="t-money">
 <input class="tab-state" type="radio" name="tab" id="t-eat">
 <input class="tab-state" type="radio" name="tab" id="t-activities">
+<input class="tab-state" type="radio" name="tab" id="t-groc">
 <input class="tab-state" type="radio" name="tab" id="t-packing">
 <input class="tab-state" type="radio" name="tab" id="t-logistics">
 <input class="tab-state" type="radio" name="tab" id="t-maps">
@@ -382,6 +385,7 @@
       <label class="tab" for="t-money">Money</label>
       <label class="tab" for="t-eat">Eat &amp; Drink</label>
       <label class="tab" for="t-activities">Activities</label>
+      <label class="tab" for="t-groc">Groceries</label>
       <label class="tab" for="t-packing">Packing</label>
       <label class="tab" for="t-logistics">Logistics</label>
       <label class="tab" for="t-maps">Maps</label>
@@ -933,6 +937,171 @@
     </div>
   </section>
 
+  <!-- ============ GROCERIES ============ -->
+  <section class="panel" id="groc">
+    <div class="section-h">Grocery List — 13 Guys</div>
+    <div class="note"><b>Owner: Psilos.</b> Smith's (Kroger) or Albertsons, Jackson — Thursday on arrival, or pre-stocked. Check marks save on this device, so this works standing in the aisle with no signal.</div>
+    <div class="progress-lab"><span id="grocProgLab">0 of 60 got</span><button class="reset-btn" data-reset="groc">Reset</button></div>
+    <div class="progress"><span id="grocProg"></span></div>
+
+    <div class="card">
+      <h3>Why this list is smaller than you'd expect</h3>
+      <div class="note">13 guys × 4 nights sounds like a mountain of food. It isn't — <b>most meals on this trip are out.</b> Thursday is the bar crawl, Friday breakfast is Cowboy Coffee and lunch is the rafting outfitter, Sat/Sun breakfasts are the burrito stash (a <i>vendor</i> order, not groceries), and Sunday dinner is Dornan's. This list feeds <b>one house dinner, one cooler lunch, steak night, the Sunday game spread, coffee for four mornings, and three house nights of drinks.</b></div>
+    </div>
+
+    <div class="card">
+      <h3>⚠️ What's still open</h3>
+      <ul class="clean">
+        <li><b>Friday dinner menu</b> — fajita vs. one-pot. The <i>only</i> part of this list that branches. Pick a module below</li>
+        <li><b>Steak night Sat or Sun</b> — <b>changes nothing here.</b> Same steaks, same sides, different night. Don't let it hold up the shopping</li>
+        <li><b>Grill check</b> — if RMR says charcoal, add charcoal + a chimney starter (last line of Supplies)</li>
+      </ul>
+    </div>
+
+    <div class="section-h">🥩 Step 1: The butcher call — before anything else</div>
+    <div class="card">
+      <div class="note"><b>The one item you can't leave to shelf stock or an app.</b> 13 × 24 oz bone-in is <b>~19.5 lbs of steak</b> — no resort-town meat case has that sitting out on a Thursday.</div>
+      <ul class="clean">
+        <li><b>Call the Smith's butcher counter</b> — cut and hold <b>13 bone-in ribeyes, 24 oz (~1.5 lb) each</b></li>
+        <li>Give them the <b>Thursday</b> pickup and a name</li>
+        <li>Can't do 13? <b>20 oz × 13 is a fine fallback</b>; splitting across Smith's and Albertsons is the backup</li>
+        <li><b>Refrigerate, don't freeze</b> — buying Thursday works whether steak night is Sat or Sun</li>
+      </ul>
+    </div>
+
+    <div class="section-h">Step 2: The master list <span class="faint">(shared either way)</span></div>
+    <div class="section-h">🥩 Meat & Deli</div>
+    <div class="card">
+      <label class="check"><input type="checkbox" id="gr1"><span class="box"></span><span class="lab"><b>13 bone-in ribeyes, 24 oz</b> — pre-ordered at the butcher counter</span><span class="tag">butcher</span></label>
+      <label class="check"><input type="checkbox" id="gr2"><span class="box"></span><span class="lab">Deli turkey + ham, <b>3 lb</b> — Saturday cooler lunch</span></label>
+      <label class="check"><input type="checkbox" id="gr3"><span class="box"></span><span class="lab">Sliced cheese, <b>1.5 lb</b></span></label>
+      <label class="check"><input type="checkbox" id="gr4"><span class="box"></span><span class="lab">Chicken wings, <b>10 lb</b> — Sunday game spread</span></label>
+      <label class="check"><input type="checkbox" id="gr5"><span class="box"></span><span class="lab">Andouille or smoked sausage, <b>3 lb</b> — Sunday spread</span></label>
+    </div>
+
+    <div class="section-h">🥬 Produce</div>
+    <div class="card">
+      <label class="check"><input type="checkbox" id="gr6"><span class="box"></span><span class="lab">Potatoes, <b>10 lb</b> — steak night</span></label>
+      <label class="check"><input type="checkbox" id="gr7"><span class="box"></span><span class="lab">Corn on the cob, <b>13 ears</b></span></label>
+      <label class="check"><input type="checkbox" id="gr8"><span class="box"></span><span class="lab">Bagged salad kits, <b>3</b></span></label>
+      <label class="check"><input type="checkbox" id="gr9"><span class="box"></span><span class="lab">Yellow onions, <b>3 lb</b></span></label>
+      <label class="check"><input type="checkbox" id="gr10"><span class="box"></span><span class="lab">Lemons/limes, <b>6</b></span></label>
+      <label class="check"><input type="checkbox" id="gr11"><span class="box"></span><span class="lab">Apples or oranges, <b>10</b> — cooler lunch + car snacks</span></label>
+      <label class="check"><input type="checkbox" id="gr12"><span class="box"></span><span class="lab">Veggie tray + ranch, <b>1 large</b></span></label>
+    </div>
+
+    <div class="section-h">🍞 Bread & Bakery</div>
+    <div class="card">
+      <label class="check"><input type="checkbox" id="gr13"><span class="box"></span><span class="lab">Sandwich rolls or bread, <b>3 loaves / 2 dz rolls</b></span></label>
+      <label class="check"><input type="checkbox" id="gr14"><span class="box"></span><span class="lab">Bagels or English muffins, <b>2 dozen</b></span></label>
+      <label class="check"><input type="checkbox" id="gr15"><span class="box"></span><span class="lab">Hamburger buns, <b>1 pack</b></span></label>
+    </div>
+
+    <div class="section-h">☕ Breakfast & Coffee</div>
+    <div class="card">
+      <label class="check"><input type="checkbox" id="gr16"><span class="box"></span><span class="lab"><b>Ground coffee, 3 lb</b> — check if the house is drip or Keurig first</span><span class="tag">buy extra</span></label>
+      <label class="check"><input type="checkbox" id="gr17"><span class="box"></span><span class="lab">Coffee filters — <b>buy a pack even if you assume the house has them</b></span></label>
+      <label class="check"><input type="checkbox" id="gr18"><span class="box"></span><span class="lab">Creamer (2 large) + sugar</span></label>
+      <label class="check"><input type="checkbox" id="gr19"><span class="box"></span><span class="lab">Eggs, <b>2 dozen</b> — backup only; Sat/Sun AM is the burrito stash</span></label>
+      <label class="check"><input type="checkbox" id="gr20"><span class="box"></span><span class="lab">Bacon, <b>2 lb</b></span></label>
+      <label class="check"><input type="checkbox" id="gr21"><span class="box"></span><span class="lab">Butter, <b>2 lb</b> — steak night wants it too</span></label>
+      <label class="check"><input type="checkbox" id="gr22"><span class="box"></span><span class="lab">Cream cheese, jam, peanut butter</span></label>
+    </div>
+
+    <div class="section-h">🧂 Pantry & Seasoning</div>
+    <div class="card">
+      <label class="check"><input type="checkbox" id="gr23"><span class="box"></span><span class="lab"><b>Kosher salt, coarse pepper, garlic powder</b> — the ribeye rub. Assume the kitchen has none</span><span class="tag">the rub</span></label>
+      <label class="check"><input type="checkbox" id="gr24"><span class="box"></span><span class="lab">Olive/cooking oil</span></label>
+      <label class="check"><input type="checkbox" id="gr25"><span class="box"></span><span class="lab">Mayo, mustard, ketchup</span></label>
+      <label class="check"><input type="checkbox" id="gr26"><span class="box"></span><span class="lab">Hot sauce, <b>2 bottles</b> — the burritos want it</span></label>
+      <label class="check"><input type="checkbox" id="gr27"><span class="box"></span><span class="lab">BBQ + wing sauce</span></label>
+      <label class="check"><input type="checkbox" id="gr28"><span class="box"></span><span class="lab">Sour cream, <b>2 large</b></span></label>
+      <label class="check"><input type="checkbox" id="gr29"><span class="box"></span><span class="lab">Chips <b>×4 bags</b> + salsa/queso/dip <b>×4</b></span></label>
+      <label class="check"><input type="checkbox" id="gr30"><span class="box"></span><span class="lab">Trail mix, jerky, granola bars — <b>park-day car snacks, Sat + Sun</b></span></label>
+    </div>
+
+    <div class="section-h">🧊 Drinks</div>
+    <div class="card">
+      <label class="check"><input type="checkbox" id="gr31"><span class="box"></span><span class="lab"><b>Beer — 6 cases.</b> Really just Fri/Sat/Sun (Thu is bars, Fri everyone's wrecked)</span></label>
+      <label class="check"><input type="checkbox" id="gr32"><span class="box"></span><span class="lab"><b>Whiskey — 2 handles</b> + mixers</span></label>
+      <label class="check"><input type="checkbox" id="gr33"><span class="box"></span><span class="lab">Hard seltzer, <b>2 cases</b></span></label>
+      <label class="check"><input type="checkbox" id="gr34"><span class="box"></span><span class="lab">Bottled water, <b>3 cases</b> — altitude</span></label>
+      <label class="check"><input type="checkbox" id="gr35"><span class="box"></span><span class="lab">Gatorade/electrolytes, <b>1 case</b> — 6,200 ft + a bar night. Best $12 on the list</span><span class="tag">do it</span></label>
+      <label class="check"><input type="checkbox" id="gr36"><span class="box"></span><span class="lab">Ice, <b>6 bags</b> — plan to re-buy</span></label>
+    </div>
+
+    <div class="section-h">🧻 Paper & Supplies</div>
+    <div class="card">
+      <label class="check"><input type="checkbox" id="gr37"><span class="box"></span><span class="lab">Solo cups (100+), paper plates (150+), napkins, paper towels (6 rolls)</span></label>
+      <label class="check"><input type="checkbox" id="gr38"><span class="box"></span><span class="lab">Trash bags, <b>2 boxes</b> — you haul it out Monday</span></label>
+      <label class="check"><input type="checkbox" id="gr39"><span class="box"></span><span class="lab"><b>Heavy-duty foil</b> — reheating burritos, resting steaks</span></label>
+      <label class="check"><input type="checkbox" id="gr40"><span class="box"></span><span class="lab">Dish soap + dishwasher pods</span></label>
+      <label class="check"><input type="checkbox" id="gr41"><span class="box"></span><span class="lab">Gallon ziplocs</span></label>
+      <label class="check"><input type="checkbox" id="gr42"><span class="box"></span><span class="lab">⚠️ Charcoal (2 bags) + chimney starter — <b>only if the RMR call says charcoal</b></span><span class="tag">conditional</span></label>
+    </div>
+
+    <div class="section-h">Step 3: Pick ONE Friday dinner module</div>
+    <div class="grid">
+      <div class="card">
+        <h3>🌮 Module A — Fajita / Taco Bar</h3>
+        <div class="note">Assembly line, everyone builds their own, scales past 13 without a real cook.</div>
+      <label class="check"><input type="checkbox" id="grA1"><span class="box"></span><span class="lab">Chicken thighs, boneless, <b>10 lb</b></span></label>
+      <label class="check"><input type="checkbox" id="grA2"><span class="box"></span><span class="lab">Skirt or flank steak, <b>5 lb</b></span></label>
+      <label class="check"><input type="checkbox" id="grA3"><span class="box"></span><span class="lab">Flour tortillas, <b>60</b></span></label>
+      <label class="check"><input type="checkbox" id="grA4"><span class="box"></span><span class="lab">Bell peppers <b>×10</b> + onions <b>5 lb</b></span></label>
+      <label class="check"><input type="checkbox" id="grA5"><span class="box"></span><span class="lab">Shredded cheese, <b>2 lb</b></span></label>
+      <label class="check"><input type="checkbox" id="grA6"><span class="box"></span><span class="lab">Salsa, <b>3 jars</b></span></label>
+      <label class="check"><input type="checkbox" id="grA7"><span class="box"></span><span class="lab">Avocados, <b>12</b> — a couple ripe, rest firm</span></label>
+      <label class="check"><input type="checkbox" id="grA8"><span class="box"></span><span class="lab">Rice <b>3 lb</b> + black beans <b>×6</b></span></label>
+      <label class="check"><input type="checkbox" id="grA9"><span class="box"></span><span class="lab">Fajita seasoning, <b>4 packets</b></span></label>
+      <label class="check"><input type="checkbox" id="grA10"><span class="box"></span><span class="lab">Cilantro, extra limes</span></label>
+        <div class="note">✅ <b>Bonus: this feeds Saturday's cooler lunch.</b> Leftover meat + tortillas = Yellowstone wraps — skip the deli meat and rolls above and save ~$35.</div>
+      </div>
+      <div class="card">
+        <h3>🍲 Module B — One-Pot (Jambalaya)</h3>
+        <div class="note">Cheaper, less prep — one guy cooks and walks away while everyone else showers off the river.</div>
+      <label class="check"><input type="checkbox" id="grB1"><span class="box"></span><span class="lab">Andouille, <b>4 lb</b> <i>(on top of Sunday's 3 lb)</i></span></label>
+      <label class="check"><input type="checkbox" id="grB2"><span class="box"></span><span class="lab">Chicken thighs, <b>5 lb</b></span></label>
+      <label class="check"><input type="checkbox" id="grB3"><span class="box"></span><span class="lab">Long-grain rice, <b>4 lb</b></span></label>
+      <label class="check"><input type="checkbox" id="grB4"><span class="box"></span><span class="lab">The trinity — onion, bell pepper, celery ×3 each</span></label>
+      <label class="check"><input type="checkbox" id="grB5"><span class="box"></span><span class="lab">Chicken stock, <b>4 qt</b></span></label>
+      <label class="check"><input type="checkbox" id="grB6"><span class="box"></span><span class="lab">Diced tomatoes, <b>2 large cans</b></span></label>
+      <label class="check"><input type="checkbox" id="grB7"><span class="box"></span><span class="lab">Creole seasoning, bay leaves, thyme</span></label>
+      <label class="check"><input type="checkbox" id="grB8"><span class="box"></span><span class="lab">French bread, <b>3 loaves</b></span></label>
+        <div class="note">⚠️ <b>If you pick B, keep the deli meat + rolls</b> — jambalaya doesn't travel into a cooler, so Saturday's lunch needs its own food.</div>
+      </div>
+    </div>
+
+    <div class="section-h">What It Runs</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Section</th><th class="num">Fajita</th><th class="num">One-pot</th></tr></thead>
+        <tbody>
+          <tr><td>Ribeyes (13 × 24 oz)</td><td class="num">~$330</td><td class="num">~$330</td></tr>
+          <tr><td>Friday dinner module</td><td class="num">~$195</td><td class="num">~$100</td></tr>
+          <tr><td>Meat, deli &amp; produce</td><td class="num">~$150</td><td class="num">~$185</td></tr>
+          <tr><td>Breakfast, coffee &amp; pantry</td><td class="num">~$180</td><td class="num">~$180</td></tr>
+          <tr><td>Sunday game spread</td><td class="num">~$115</td><td class="num">~$115</td></tr>
+          <tr><td>Drinks</td><td class="num">~$280</td><td class="num">~$280</td></tr>
+          <tr><td>Paper, ice &amp; supplies</td><td class="num">~$85</td><td class="num">~$85</td></tr>
+          <tr><td><b>Total</b></td><td class="num"><b>≈$1,335</b></td><td class="num"><b>≈$1,275</b></td></tr>
+          <tr><td><b>Per person (13)</b></td><td class="num"><b>≈$103</b></td><td class="num"><b>≈$98</b></td></tr>
+        </tbody>
+      </table>
+      <div class="note"><b>Budget cross-check:</b> /budget carries Food &amp; Drink $150–250 + ribeyes $50–80 = <b>$200–330/person</b>. This list is <b>~$100</b>; the restaurant meals (Thu bars, Fri rafting lunch, Sun Dornan's) make up the rest. <b>The budget holds.</b> Not on this list: the <b>burrito order, ~$200 total (~$15/person)</b>, from a vendor Friday after rafting.</div>
+    </div>
+
+    <div class="section-h">Thursday, At The Store</div>
+    <div class="card">
+      <ul class="clean">
+        <li>Steaks are <b>already cut and waiting</b> at the butcher counter</li>
+        <li>One guy on drinks + ice, one on the master list, one on the Friday module — <b>three carts, not 13 guys wandering Smith's</b></li>
+        <li><b>Ice goes in last</b>, straight into the cooler</li>
+        <li>Bear spray is <b>not</b> at the grocery store — that's a sporting-goods stop on the same trip</li>
+      </ul>
+    </div>
+  </section>
+
   <!-- ============ PACKING ============ -->
   <section class="panel" id="packing">
     <div class="section-h">Packing — Check It Off</div>
@@ -1387,10 +1556,12 @@
   }
   var packState = wireChecklist('pk', 'jh26_pack_v2', 'packProg', 'packProgLab', 'packed');
   var todoState = wireChecklist('td', 'jh26_todo_v2', 'todoProg', 'todoProgLab', 'done');
+  var grocState = wireChecklist('gr', 'jh26_groc_v1', 'grocProg', 'grocProgLab', 'got');
 
   Array.prototype.forEach.call(document.querySelectorAll('.reset-btn'), function(btn){
     btn.addEventListener('click', function(){
-      var st = btn.dataset.reset === 'pack' ? packState : todoState;
+      var r = btn.dataset.reset;
+      var st = r === 'pack' ? packState : r === 'groc' ? grocState : todoState;
       if(st && confirm('Clear all checkmarks here?')) st.clear();
     });
   });

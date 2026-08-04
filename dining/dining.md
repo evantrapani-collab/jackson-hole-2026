@@ -250,6 +250,8 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 
 ## Grocery Run (Thursday arrival)
 
+> 📋 **The full quantified list lives in [`grocery-list.md`](./grocery-list.md)** — every item with amounts for 13, split by store section, with the two Friday-dinner modules, a cost estimate (~$100/person), and the butcher script. The summary below is the shape of it; that file is what you actually shop from.
+
 **Owner: Chris Psilos.** Hit **Smith's (Kroger)** or **Albertsons** Thursday when you land. Get:
 - [ ] 13 ribeyes (24 oz bone-in — call ahead if the store is small)
 - [ ] Grill sides (potatoes, corn, salad, whatever)
