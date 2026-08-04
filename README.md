@@ -2,7 +2,7 @@
 
 Trip planning hub for everything related to the trip.
 
-> 📱 **[Open the Trip HQ dashboard →](./index.html)** — a single, offline-capable page with a deadline-aware live countdown, the full itinerary (with a Saturday drive-plan strip), game-day times, the crew + who-owns-what board, money, activities triage, one-tap **Maps** links for every on-plan spot, and check-off packing/to-do lists that mirror this README in full. Open `index.html` in any browser and "Add to Home Screen" so it works when cell service vanishes in Yellowstone.
+> 📱 **[Open the Trip HQ dashboard →](./index.html)** — a single, offline-capable page with a deadline-aware live countdown, the full itinerary (with a Saturday drive-plan strip), game-day times, the crew + who-owns-what board, money, activities triage, one-tap **Maps** links for every on-plan spot, a **checkable grocery list** you can work through in the aisle offline, and check-off packing/to-do lists that mirror this README in full. Open `index.html` in any browser and "Add to Home Screen" so it works when cell service vanishes in Yellowstone.
 
 ## Trip at a Glance
 
@@ -58,7 +58,7 @@ Trip planning hub for everything related to the trip.
 - [ ] **While on that RMR call — confirm the grill + propane** — gas or charcoal, tank full or not? A dead tank under 13 raw ribeyes is the easiest way steak night goes sideways. If charcoal, add it to the grocery run. See [`/dining`](./dining/dining.md#grill-check--before-committing-to-ribeyes)
 - [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: lock the final per-person number AND a rule for who covers a late cancellation, so the crew isn't split-eating a no-show once the refund window closes
 - [ ] **Friday dinner menu** — the house *venue* is locked, but nobody's picked what's cooked. Fajita/taco bar vs. one-pot (jambalaya/pasta) — pick one and fold it into the Sep 10 grocery call so Psilos has an actual list. See [`/dining`](./dining/dining.md#friday-dinner--venue-locked-menu-open)
-- [ ] **Groceries: pick the method** *(Owner: Chris Psilos)* — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. Full list (ice, paper goods, coffee, drinks, Sunday game-day snacks) now itemized in [`/dining`](./dining/dining.md#grocery-run-thursday-arrival)
+- [ ] **Groceries: pick the method** *(Owner: Chris Psilos)* — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. **The full quantified list is now built** — every item with amounts for 13, by store section, with both Friday-dinner modules and the butcher script: [`dining/grocery-list.md`](./dining/grocery-list.md) (~$100/person, which keeps the `/budget` food line intact)
 - [ ] **Steak night — Saturday or Sunday?** *(decide with the Sep 10 butcher call)*: idea on the table to grill the ribeyes for the **Saints game Sunday** instead of the **LSU game Saturday**. Grocery list is identical either way, so it doesn't block Psilos. Catch: Sunday's kickoff is **11 AM MT**, so steaks there means a *night* grill, it **voids the Dornan's dinner default**, and Saturday then needs a replacement dinner. Full tradeoff in [`/dining`](./dining/dining.md#steak-night--saturday-default-or-sunday)
 - [ ] Assign the **grill captain** (13 ribeyes) — Psilos owns the groceries; back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed). Buy/pre-stock the ribeyes Thursday (Psilos calls the **Smith's butcher** ahead — 13 × 24 oz bone-in is too much to leave to delivery shelf stock)
 - [ ] Pick Sunday Saints venue — Cutty's / The Bird / Eleanor's / house (Saints @ Ravens, 11 AM MT / noon CT, CBS — confirmed)
@@ -97,7 +97,7 @@ Trip planning hub for everything related to the trip.
 | [`/itinerary`](./itinerary/) | Day-by-day plan |
 | [`/activities`](./activities/) | Things to do — parks, adventure, tours |
 | [`/lodging`](./lodging/) | Hotels, ranches, and camping options |
-| [`/dining`](./dining/) | Restaurants and must-eat spots |
+| [`/dining`](./dining/) | Restaurants, must-eat spots, and the [grocery list](./dining/grocery-list.md) |
 | [`/packing`](./packing/) | Gear and clothing lists |
 | [`/logistics`](./logistics/) | Flights, car rental, permits, reservations |
 | [`/maps`](./maps/) | Get every trip location onto Google Maps (My Maps import + Saved-list links) |
