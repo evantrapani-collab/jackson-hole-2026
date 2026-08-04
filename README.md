@@ -16,7 +16,7 @@ Trip planning hub for everything related to the trip.
 
 ## Current Status
 
-- ✅ Airbnb booked (balance due 8/1)
+- ✅ Airbnb booked — ⏰ balance was due 8/1, still open
 - ✅ Flights booked (American Airlines)
 - ✅ Rafting + van booked (Drewes collects balance from crew closer to trip)
 - ✅ Headcount locked at 13 (Dan Fulham confirmed)
@@ -24,22 +24,28 @@ Trip planning hub for everything related to the trip.
 - ✅ **2 rental cars is the final answer** — no 3rd vehicle or cargo carrier; crew accepted the tight luggage fit (pack soft-sided)
 - ✅ Groceries have an owner — **Chris Psilos**
 - ✅ **Beds picked on arrival** — no pre-assignment; **Brad Ciolino is the 13th man / floor sleeper**; open piece is confirming his sleeping surface with RMR
-- ⏰ **Two items have rotted past their window** — the 8/1 Airbnb balance and Hardie's Explorer 3rd-row call were both "July" items and it's now August. Both are at the top of Open Items with fresh dates
+- ⏰ **The 8/1 Airbnb balance is past due** — waiting on Drewes to say whether it's ~$56 or ~$100/person; see Open Items
+- ✅ **Explorer 3rd row — decided: we don't verify it, we sort it at the JAC counter.** Assume the seats are there. If they're not, the fallback is a third small car on the spot (~$35/person) — written up in Open Items so nobody improvises it Thursday
 - ⚠️ **Steak night may move to Sunday** (Saints) instead of Saturday (LSU) — raised, not decided; default holds
 - ⚠️ **Friday dinner menu still open** — the house venue is locked, but nobody's picked what's cooked
 - ⚠️ **Six decisions still have no name attached** — grill captain, park-pass owner, bear-spray owner, Sunday Saints venue, steak night, Friday menu. None is hard; all of them are currently pointed at the same Sep 10 call, which is how a call runs 90 minutes and decides nothing
 - ⛔️ Via Ferrata — dropped, not doing it
 - ✅ Bed count confirmed — Montreux House is **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (see [`/lodging`](./lodging/lodging.md#sleeping-13)); 6 beds max 12 even fully shared, so plan on air mattresses for 13
-- 📊 Plan graded **99/100** against [the trip rubric](./RUBRIC.md) *(re-graded 8/4: found at 97 — the 8/1 balance amount was never written as a number and the Explorer item lost its deadline; both fixed this pass, back to 99)*. The last point is pending verification (Explorer 3rd row), not a doc gap
+- 📊 Plan graded **100/100** against [the trip rubric](./RUBRIC.md) *(re-graded 8/4)* — the last point was riding on the Explorer verification, which is now a decision with a written counter plan rather than an open unknown
 
 ## Open Items
 
-> **In chronological order — work top to bottom.** Owners + deadlines on the load-bearing items; the ones that actually gate the trip are flagged ⭐ — there are now **four**: the past-due Airbnb balance, Hardie's Explorer 3rd row (8/15), Ciolino's sleeping surface, and Drewes's rafting refund rule (9/10).
+> **In chronological order — work top to bottom.** Owners + deadlines on the load-bearing items; the ones that actually gate the trip are flagged ⭐ — there are **three**: the past-due Airbnb balance, Ciolino's sleeping surface, and Drewes's rafting refund rule (9/10).
 
-**🔴 Now (August) — both of these are past their original window**
+**🔴 Now (August)**
 - [ ] ⭐ **PAST DUE — Airbnb balance was due 8/1** *(Owner: Drewes to confirm receipt)*: the deadline passed with nothing marked paid here. Two things to close: (a) everyone sends the remainder, (b) Drewes confirms he's whole. **The number: $7,229.82 total − $6,500 already in (13 × $500 deposit) = $729.82 left ≈ $56/person** — but Drewes quoted ~$600/person, so if he's collecting to that number it's ~$100. **Ask Drewes which, then pay it** — this is the only trip cost with a hard deadline behind us
-- [ ] ⭐ **Verify the Explorer's 7-seat config is on the reservation — by 8/15** *(Owner: Jason Hardie)*: planning estimate is **7 seats → 14 total for 13**, so the math works — but Explorer trims range 5–7, so one call to the rental company confirms the 3rd row. If it somehow isn't there, swap the booking or add a cargo carrier now, not at the JAC counter. **This has been open since June with no date on it** — it's now ⭐ because it's the one open item that can still force a booking change, and September rental inventory in Jackson only gets worse
-- [x] **Friday dinner venue — ✅ locked: the house.** The 6/30 booking fence passed with no reservation, so per the decision rule the house *is* the plan (see [`/dining`](./dining/dining.md#dinner-defaults--decided)) — no scramble, item closed as designed. *(The menu itself is still open — see below.)*
+- [x] ✅ **Explorer 3rd row — decided: not verifying in advance.** We find out at the JAC counter and make it work. *(Closed as a decision, not a gap — but see the counter plan below, because the worst case doesn't sort itself out.)*
+
+> **If the Explorer turns out to be a 5-seater** (the whole reason this was open): that's 5 + 7 = **12 seats for 13 guys**. Two things to know so nobody's improvising at the counter with 13 tired guys behind them:
+> - **The airport legs are the easy part** — JAC → the house is **~10 minutes**. If seats are short on Thursday or Monday, someone does a second run. Costs nothing, fixes nothing else.
+> - **The park days are the real pinch** — Saturday (Yellowstone) and Sunday (wildlife drive) need all 13 moving *at once*, 1.5 hrs out. A second run can't solve that. If we're at 12 seats, **add a third small car at the JAC counter Thursday** — Avis/Hertz/Enterprise/National are all in-terminal. Roughly $400–500 for the 4 days ÷ 13 ≈ **$35/person**, which is noise against a $1,200 trip.
+> - **Hardie + Schick still hit the rental counter before baggage claim** (already the plan) — that's when you learn the seat count, and it's the moment to add the third car if you need it, not after everyone's standing in the lot.
+
 - [ ] **Confirm Airbnb check-in + checkout times with the host** — flight lands 10:19 AM but check-in is likely mid-afternoon (sizes the Thursday midday plan, below under *On the trip*); checkout sets the Monday exit (plan: out by ~9:45 AM for the 11:47 flight)
 
 **By Aug 1 — window closed**
