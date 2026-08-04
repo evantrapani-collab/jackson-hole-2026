@@ -24,23 +24,26 @@ Trip planning hub for everything related to the trip.
 - ✅ **2 rental cars is the final answer** — no 3rd vehicle or cargo carrier; crew accepted the tight luggage fit (pack soft-sided)
 - ✅ Groceries have an owner — **Chris Psilos**
 - ✅ **Beds picked on arrival** — no pre-assignment; **Brad Ciolino is the 13th man / floor sleeper**; open piece is confirming his sleeping surface with RMR
+- ⏰ **Two items have rotted past their window** — the 8/1 Airbnb balance and Hardie's Explorer 3rd-row call were both "July" items and it's now August. Both are at the top of Open Items with fresh dates
 - ⚠️ **Steak night may move to Sunday** (Saints) instead of Saturday (LSU) — raised, not decided; default holds
 - ⚠️ **Friday dinner menu still open** — the house venue is locked, but nobody's picked what's cooked
+- ⚠️ **Six decisions still have no name attached** — grill captain, park-pass owner, bear-spray owner, Sunday Saints venue, steak night, Friday menu. None is hard; all of them are currently pointed at the same Sep 10 call, which is how a call runs 90 minutes and decides nothing
 - ⛔️ Via Ferrata — dropped, not doing it
 - ✅ Bed count confirmed — Montreux House is **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (see [`/lodging`](./lodging/lodging.md#sleeping-13)); 6 beds max 12 even fully shared, so plan on air mattresses for 13
-- 📊 Plan graded **99/100** against [the trip rubric](./RUBRIC.md) — the last point is pending verification (Explorer 3rd row), not a doc gap
+- 📊 Plan graded **99/100** against [the trip rubric](./RUBRIC.md) *(re-graded 8/4: found at 97 — the 8/1 balance amount was never written as a number and the Explorer item lost its deadline; both fixed this pass, back to 99)*. The last point is pending verification (Explorer 3rd row), not a doc gap
 
 ## Open Items
 
-> **In chronological order — work top to bottom.** Owners + deadlines on the load-bearing items; the one that actually gates the trip is flagged ⭐.
+> **In chronological order — work top to bottom.** Owners + deadlines on the load-bearing items; the ones that actually gate the trip are flagged ⭐ — there are now **four**: the past-due Airbnb balance, Hardie's Explorer 3rd row (8/15), Ciolino's sleeping surface, and Drewes's rafting refund rule (9/10).
 
-**🔴 Now (July)**
-- [ ] **Verify the Explorer's 7-seat config is on the reservation** *(Owner: Jason Hardie)*: planning estimate is **7 seats → 14 total for 13**, so the math works — but Explorer trims range 5–7, so one call to the rental company confirms the 3rd row. If it somehow isn't there, swap the booking or add a cargo carrier now, not at the JAC counter
+**🔴 Now (August) — both of these are past their original window**
+- [ ] ⭐ **PAST DUE — Airbnb balance was due 8/1** *(Owner: Drewes to confirm receipt)*: the deadline passed with nothing marked paid here. Two things to close: (a) everyone sends the remainder, (b) Drewes confirms he's whole. **The number: $7,229.82 total − $6,500 already in (13 × $500 deposit) = $729.82 left ≈ $56/person** — but Drewes quoted ~$600/person, so if he's collecting to that number it's ~$100. **Ask Drewes which, then pay it** — this is the only trip cost with a hard deadline behind us
+- [ ] ⭐ **Verify the Explorer's 7-seat config is on the reservation — by 8/15** *(Owner: Jason Hardie)*: planning estimate is **7 seats → 14 total for 13**, so the math works — but Explorer trims range 5–7, so one call to the rental company confirms the 3rd row. If it somehow isn't there, swap the booking or add a cargo carrier now, not at the JAC counter. **This has been open since June with no date on it** — it's now ⭐ because it's the one open item that can still force a booking change, and September rental inventory in Jackson only gets worse
 - [x] **Friday dinner venue — ✅ locked: the house.** The 6/30 booking fence passed with no reservation, so per the decision rule the house *is* the plan (see [`/dining`](./dining/dining.md#dinner-defaults--decided)) — no scramble, item closed as designed. *(The menu itself is still open — see below.)*
 - [ ] **Confirm Airbnb check-in + checkout times with the host** — flight lands 10:19 AM but check-in is likely mid-afternoon (sizes the Thursday midday plan, below under *On the trip*); checkout sets the Monday exit (plan: out by ~9:45 AM for the 11:47 flight)
 
-**By Aug 1**
-- [ ] **8/1** — Airbnb balance due: the rest of your per-person share (≈$556, Drewes quoted ~$600) minus the $500 deposit already paid → @drewespt Venmo
+**By Aug 1 — window closed**
+> ⏰ **The 8/1 Airbnb balance is past due and has moved up to *Now* above**, with the actual dollar figure attached (~$56/person at the $556 math, ~$100 if Drewes holds his ~$600 quote). Not a second checkbox — it's the same item, escalated.
 - [x] **By 8/1** — ✅ confirmed what Montreux House sleeps: **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (full layout in [`/lodging`](./lodging/lodging.md#sleeping-13)). 6 beds max 12 even fully shared → **bring 2 air mattresses** for 13
 
 **August → Sep 10**
@@ -54,11 +57,15 @@ Trip planning hub for everything related to the trip.
 - [ ] Assign the **grill captain** (13 ribeyes) — Psilos owns the groceries; back from Yellowstone by ~3 PM; LSU vs. Ole Miss 5:30 MT / 6:30 CT on ABC (confirmed). Buy/pre-stock the ribeyes Thursday (Psilos calls the **Smith's butcher** ahead — 13 × 24 oz bone-in is too much to leave to delivery shelf stock)
 - [ ] Pick Sunday Saints venue — Cutty's / The Bird / Eleanor's / house (Saints @ Ravens, 11 AM MT / noon CT, CBS — confirmed)
 - [ ] **Sunday dinner — default locked: early Dornan's (~5 PM)**, backup the house — only remaining action is confirming Dornan's fall hours the week before (Moose runs shoulder-season schedules); Monday's 11:47 AM flight wants a reasonable night. ⚠️ Void if steak night moves to Sunday
+- [ ] **Saturday lunch in Yellowstone — nobody's answered this.** Every other meal Thu–Mon has a plan; this one doesn't. Old Faithful's food court with 13 guys at noon is a 45-minute hole in a day already racing a 3 PM turnaround. **Pack a cooler lunch Friday night** (Friday's dinner leftovers wrap up perfectly, or grab sandwiches at Creekside Market) and eat it at West Thumb on the way back. See [`/dining`](./dining/dining.md#saturday-lunch--pack-it)
+- [ ] **Monday breakfast** — out the door ~9:45 for an 11:47 flight, so this is coffee + whatever's left at the house, not a sit-down. Keep 2–3 burritos back from the stash for it; JAC's terminal food is thin. See [`/dining`](./dining/dining.md#monday-breakfast--use-what-is-left)
 - [ ] **Early-start breakfast** — order a batch of breakfast burritos (~18–20) to stash at the house for the Sat 7 AM Yellowstone + Sun 6:30 AM wildlife-drive starts; **pick up Friday after rafting** (Teton Village delivery is thin). See [`/dining`](./dining/dining.md#breakfast-burritos-for-the-early-starts--house-stash)
 
 **1–2 weeks out (early September)**
 - [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) runs Thu Sep 17** — Tier 1 of the [DFW misconnect playbook](./logistics/logistics.md#if-the-dfw-connection-blows-up--misconnect-playbook) (43-min connection); if it's not in the schedule, the fallback is fly-to-SLC-and-drive (~5 hrs)
-- [ ] **Travel insurance** — decide yes/no (it's on the packing checklist but never settled). Trip-delay coverage is exactly the DFW 43-min-connection scenario — see the misconnect playbook
+- [ ] **Identify who is NOT on the group MSY→DFW→JAC itinerary** — a few guys booked separately (names still TBD). They get **no group rebooking protection** if DFW blows up, and they need to know Friday's van tour is past its refund window either way. Get the names on paper; it's currently in [`/logistics`](./logistics/logistics.md) only
+- [ ] **Tram — confirm late-September operating dates + buy tickets online** — the whole Sunday-afternoon plan (Corbet's Cabin waffles, walkable from the house) rests on the tram running in shoulder season. If it's closed, Sunday afternoon needs a different answer. See [`/activities`](./activities/activities.md#booking-notes)
+- [ ] **Travel insurance** — decide yes/no (it's on the packing checklist but never settled). Trip-delay coverage is exactly the DFW 43-min-connection scenario — see the misconnect playbook. ⏰ **Note what's already gone:** "cancel for any reason" riders almost always require purchase within 10–21 days of the *first* trip deposit, which was months ago. What's still buyable now is trip-delay / interruption / medical — which is the coverage that actually matches this trip's risk, so the decision is still worth making, just don't expect CFAR
 - [ ] **Park pass owner** — decide America the Beautiful pass vs. paying $35/vehicle at the gate; if buying, grab it on Recreation.gov in advance to skip the line
 - [ ] **Bear spray** — assign an owner; need **2+ canisters (~$50 each)**, one per vehicle, bought in Jackson (can't fly with it). Folds into the Thursday window below
 - [ ] Confirm exact rafting departure / check-in time with Jeff @ JHWW

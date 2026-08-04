@@ -13,6 +13,8 @@
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
+| Saturday lunch | **Cooler lunch, packed Friday night** ⚠️ | Saturday | In-park; eat at West Thumb on the way back — see *Saturday Lunch* below |
+| Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 burritos — see *Monday Breakfast* below |
 | Friday dinner | **House ✅ locked** ⚠️ menu TBD | Friday | Venue is locked, but no menu is picked yet — see *Friday Dinner Menu* below |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose (confirm fall hours); backup is the house — reasonable night before the 11:47 AM flight |
@@ -62,6 +64,28 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - **Delivery caveat:** restaurant delivery (DoorDash/Uber Eats) into **Teton Village** is thin — **call ahead and pick up** rather than counting on same-day delivery to the house
 - **Reheat:** wrap in foil → oven, or microwave; stash hot sauce/salsa at the house. Keep a few frozen as backup for Sunday
 - Cheap insurance against 13 hungry guys and a 6:30 AM departure with nothing open
+
+## Saturday Lunch — pack it
+
+> The one meal slot on this trip that never got an answer. Saturday is the tightest day: out at 7 AM, back by ~3 PM, with ~3 hours of driving inside that window. Lunch has to cost 20 minutes, not 60.
+
+**Why not eat in the park:** the Old Faithful complex is the only real food between the South Entrance and the turnaround. At noon, in a group of 13, that's a line, a scramble for seats, and easily 45 minutes — spent at the exact hour you should be moving toward Grand Prismatic. It also costs park-concession prices for cafeteria food.
+
+**The plan: a cooler lunch, built Friday night.**
+- **Friday's dinner is the source** — a fajita/taco bar rolls straight into wraps; a one-pot doesn't, so if the menu lands on jambalaya/pasta, buy sandwich stuff on the Thursday grocery run instead
+- **Or grab-and-go:** **Creekside Market** in Jackson does exactly this (sandwiches for the park), but confirm they open early enough to beat a 7 AM roll-out — otherwise it's a Friday-afternoon stop alongside the burrito pickup
+- **Where to eat it:** **West Thumb** — it's the last stop on the way back, it's on Yellowstone Lake, and there are picnic tables. Best lunch view of the trip and it costs nothing
+- **Cooler goes in the Explorer** — it's already on the packing list; ice is already on the grocery list
+- ⚠️ **Store food properly in Yellowstone** — it's bear country and food storage is regulated. Cooler stays in the vehicle, never on a picnic table unattended
+
+## Monday Breakfast — use what's left
+
+> Out of the house by ~9:45 AM, at JAC by 10:15, wheels up 11:47. There is no time for a sit-down, and JAC's terminal food is a couple of small counters.
+
+- **Hold back 2–3 breakfast burritos** from the Sat/Sun stash on purpose — freeze them Thursday if needed
+- Coffee at the house (it's on the grocery list); last-morning leftovers clear the fridge, which you want anyway before checkout
+- **The Bunnery** on the square is the only sit-down that fits, and only barely — it's the *wrong* direction from Teton Village to JAC. Skip it unless the group is running early
+- Whoever's on trash/fridge duty: eat it or bin it, don't leave it for RMR
 
 ## Cutty's Beer and Cheesesteaks (Friday)
 
@@ -233,6 +257,7 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 - [ ] Breakfast burritos to stash for the Sat/Sun early starts (or pick up a batch Friday — see below)
 - [ ] Drinks / cooler supplies for the parks
 - [ ] Snacks for Yellowstone on Saturday
+- [ ] **Saturday cooler lunch** — sandwich makings (or count on Friday's fajita leftovers if that's the menu); the in-park option is a 45-min hole on the tightest day
 - [ ] Ice (4–6 bags, replenish daily), Solo cups, paper plates/napkins/towels, trash bags, heavy foil, dish soap, ziplocs
 - [ ] Coffee + filters/creamer/sugar — 13 guys, 4 mornings, more than you think
 - [ ] Sunday game-day spread for the 11 AM kickoff (wings, sausage, chips/dip) — it's a brunch kickoff, not a dinner, so keep it light

@@ -9,7 +9,7 @@
 
 | Item | Per Person | Due | Pay To |
 |---|---|---|---|
-| Airbnb — Montreux House | ~$556 | **8/1** | @drewespt Venmo |
+| Airbnb — Montreux House | ~$556 total (**≈$56 balance left**) | ⏰ **8/1 — past due** | @drewespt Venmo |
 | Rafting + van tour | ~$300 TBD | Closer to trip | Drewes collects |
 | Flights | varies | Booked | Own booking |
 
@@ -24,7 +24,20 @@
 | **Total price** | $7,229.82 |
 | **Drewes paid to reserve** | $4,000 |
 | **Per-person deposit** | $500 to @drewespt on Venmo |
-| **Airbnb balance due** | **8/1** — total minus deposit |
+| **Airbnb balance due** | **8/1** — ⏰ **past due** — total minus deposit |
+
+### The balance, as an actual number
+
+Nobody had written down what "the balance" is, which is a good way for a passed deadline to stay passed.
+
+| | |
+|---|---|
+| Total | $7,229.82 |
+| Already in (13 × $500 deposit) | −$6,500.00 |
+| **Still owed to Drewes** | **$729.82** |
+| **Per person** | **≈ $56** |
+
+⚠️ **One thing to confirm with Drewes:** he quoted the crew **~$600/person**, not $556. If he's collecting to the $600 number the remainder is **~$100/person**, and the extra ~$570 across the group is presumably a cushion for cleaning/fees/damage-deposit float. **Ask him which number he wants before sending** — don't 13-way-guess it. Either way it's the smallest check of the trip and it's already late.
 
 ### Cost Per Person by Attendance
 
@@ -78,7 +91,7 @@
 
 | Item | Provider | Confirmation # | Amount | Status |
 |---|---|---|---|---|
-| Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ |
+| Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ — ⏰ balance past due (8/1) |
 | Rafting / Van | JHWW | — | TBD (Drewes collects) | Booked ✅ |
 | Flights | American Airlines | — | varies | Booked ✅ |
 | Rental SUV #1 (Explorer) | Jason Hardie | — | — | Booked ✅ |
@@ -91,5 +104,5 @@
 
 | Date | Action |
 |---|---|
-| **8/1** | Airbnb balance due → @drewespt on Venmo |
+| **8/1** ⏰ | Airbnb balance due → @drewespt on Venmo — **past due**, ≈$56/person remaining (confirm vs. Drewes's ~$600 quote) |
 | **Closer to trip** | Rafting balance — Drewes collects from the crew |

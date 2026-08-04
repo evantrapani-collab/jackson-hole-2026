@@ -52,7 +52,7 @@
 
 - **Airbnb (Montreux House)** — booked ✅
 - $500 deposit to @drewespt on Venmo — paid ✅
-- Balance due **8/1** (total minus deposit)
+- Balance due **8/1** — ⏰ **now past due** (total minus deposit ≈ **$56/person**; see `/budget`)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
 - [ ] **Confirm check-in + checkout times** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight
 
@@ -158,7 +158,7 @@ Contract is signed. Key details:
 
 > In chronological order — work top to bottom.
 
-### Now — Urgent (July)
+### Now — Urgent (August) — the first two are past their window
 - [x] Airbnb booked
 - [x] Rafting / van booked
 - [x] Book flights
@@ -166,12 +166,12 @@ Contract is signed. Key details:
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
 - [x] 2 SUVs booked (Jason Hardie + Joe Schick)
 - [x] **Decided: 2 rental cars is enough — no 3rd vehicle** (soft-sided bags recommended for the airport-transfer days)
-- [ ] Verify the Explorer's 7-seat config is on the reservation (Jason Hardie) — planning estimate is **7 seats = 14 for 13**; if the 3rd row isn't there, swap the booking or add a cargo carrier
+- [ ] ⭐ **By 8/15** — verify the Explorer's 7-seat config is on the reservation (Jason Hardie) — planning estimate is **7 seats = 14 for 13**; if the 3rd row isn't there, swap the booking or add a cargo carrier. Open since June with no date; it's the last open item that can still force a booking change
 - [x] Friday dinner venue — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`). Menu still open, see Aug → Sep 10
 - [ ] Confirm Airbnb check-in time with the host — sizes the Thursday midday gap
 
-### 8/1
-- [ ] Airbnb balance due (total minus $500 deposit)
+### 8/1 — ⏰ PAST DUE
+- [ ] Airbnb balance due (total minus $500 deposit) — **$729.82 left across the crew ≈ $56/person**, or ~$100 if Drewes collects to his ~$600 quote. Confirm which with Drewes and settle up — see `/budget`
 
 ### August → Sep 10
 - [x] Room/bed assignments — ✅ decided: **picked on arrival**, not pre-assigned
