@@ -97,7 +97,21 @@ Contract is signed. Key details:
 | Jason Hardie | Ford Explorer | JAC | ~10:19 AM, Sep 17 (same inbound flight) |
 | Joe Schick | Expedition (or similar full-size) | JAC | ~10:19 AM, Sep 17 (same inbound flight) |
 
-- **Explorer — planning estimate: 7 seats.** With the Expedition as a 7-seater that's **14 seats for 13** — the math works. Explorers range 5–7 by trim, so Hardie verifies the 3rd row is actually on the reservation with one call; if it somehow isn't, swap the booking or add a cargo carrier now — don't discover it at the JAC counter.
+- **Explorer — planning estimate: 7 seats.** With the Expedition as a 7-seater that's **14 seats for 13** — the math works. Explorers range 5–7 by trim, so this is an estimate, not a confirmed number.
+- ✅ **Decided: we don't verify it in advance.** We find out at the counter Thursday and make it work. That's fine — but the fallback is written down here so nobody's improvising in a terminal with 13 tired guys.
+
+### If the Explorer is a 5-seater — the counter plan
+
+5 + 7 = **12 seats for 13 guys**. One short. Two different problems, only one of which is easy:
+
+| Leg | Short a seat? | Fix |
+|---|---|---|
+| Thu JAC → house, Mon house → JAC | Yes | **Second run.** It's a **~10 min** drive. Costs nothing. |
+| **Sat Yellowstone, Sun wildlife drive** | Yes | **No fix by shuttling** — all 13 need to move at once, 1.5 hrs out |
+
+- **So: if you're at 12 seats, add a third small car at the JAC counter on Thursday.** Avis, Hertz, Enterprise and National all have in-terminal counters at JAC. Ballpark **$400–500 for the 4 days ÷ 13 ≈ $35/person** — noise against a ~$1,200 trip, and it un-pinches the luggage squeeze on both airport legs as a bonus.
+- **Hardie + Schick hit the rental counter before baggage claim** (already the plan) — that's the moment you learn the seat count, and the moment to add the third car. Don't wait until everyone's standing in the lot with bags.
+- Mid-September is shoulder season, so JAC inventory is usually there — but it's a small airport. If nothing's available, the fallback is renting from a Jackson agency in town during the Thursday midday window.
 - ✅ **Decided: two SUVs only — no 3rd vehicle.** The crew is fine with the tight fit on the two airport-transfer days (13 guys + bags). Yellowstone day is daypacks only, so two is plenty there. A **cargo carrier** stays on the table only as the fallback if the Explorer's 3rd row doesn't check out.
 - Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze. Same goes for air mattresses — they pack down, but they're cargo.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
@@ -166,7 +180,7 @@ Contract is signed. Key details:
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
 - [x] 2 SUVs booked (Jason Hardie + Joe Schick)
 - [x] **Decided: 2 rental cars is enough — no 3rd vehicle** (soft-sided bags recommended for the airport-transfer days)
-- [ ] ⭐ **By 8/15** — verify the Explorer's 7-seat config is on the reservation (Jason Hardie) — planning estimate is **7 seats = 14 for 13**; if the 3rd row isn't there, swap the booking or add a cargo carrier. Open since June with no date; it's the last open item that can still force a booking change
+- [x] ✅ **Explorer 3rd row — decided: not verifying in advance.** We learn the seat count at the JAC counter Thursday and handle it there. Counter plan written up under *Getting Around* — the one case that doesn't self-solve is the park days
 - [x] Friday dinner venue — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`). Menu still open, see Aug → Sep 10
 - [ ] Confirm Airbnb check-in time with the host — sizes the Thursday midday gap
 

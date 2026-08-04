@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 99/100** *(re-graded 2026-08-04 — found at **97**, restored to 99 by that pass's fixes; see the 8/4 note at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-08-04 — found at **97**, restored to 99 by that pass's fixes, then to **100** when the Explorer question became a decision with a written fallback; see the 8/4 notes at the bottom)*
 
 ---
 
@@ -150,8 +150,18 @@ First re-grade after a deadline actually passed. The rubric says to re-grade whe
 - **Sync:** the tram confirmation and "name who isn't on the group itinerary" existed in `/logistics` and `/activities` but never reached README's Open Items — §7 drift. Both added.
 - **Travel insurance** now says what's actually still buyable in August (delay/interruption/medical, not CFAR) instead of implying the full menu is open.
 
-### The remaining point (honest, not fixable by documents)
+### 8/4, second pass — the last point closes (100/100)
 
-- **−1 Group coordination:** the Explorer's 7 seats is still an estimate until Hardie verifies the reservation, so the seat math is unconfirmed and the carpool split can't be finalized. *(The bed-math half of this deduction is closed — the house is confirmed at 5 kings + 1 queen across 3 levels, and beds-on-arrival is a decision, not a gap.)*
+The crew called it: **the Explorer's 3rd row won't be verified in advance.** We find out at the JAC counter and make it work.
 
-Close that in the real world and this is a 100.
+That sounds like it should *cost* a point, and under a naive reading it would — the seat math stays unconfirmed until Thursday. But §6 says pending-external-info items can't score full marks *while open*, and this one is no longer open: it's decided. The rubric's own scoring rule (top of the file) is that it **does not penalize future human actions if the plan gives them an owner, a deadline, and a default that holds if the action never happens.** An owner (Hardie, at the counter), a moment (before baggage claim), and a default that holds with zero advance work (add a third car if it's 12 seats) is exactly that.
+
+What earned the point was writing the fallback down rather than leaving "we'll make it work" as a feeling:
+- The **worst case is named** — 5 + 7 = 12 seats for 13, one short.
+- The **two failure modes are separated**, which nobody had done: the airport legs are trivially fixable (JAC→house is ~10 min, do a second run), but **Saturday and Sunday are not** — all 13 have to move at once, 1.5 hrs out, and no amount of shuttling solves that. That distinction is the whole reason a third car might be needed, and it was invisible while the item was phrased as "verify the trim."
+- The **fix is priced** (~$400–500 ÷ 13 ≈ $35/person) so it's a shrug at the counter, not a debate.
+- The **decision moment is placed** — Hardie and Schick already hit the rental counter before baggage claim, so the seat count is known while there's still a counter to solve it at.
+
+**Grade: 100/100.** Every remaining open item now has an owner, a deadline, or a default that holds without anyone doing anything. The trip can still go sideways — that's trips — but it won't go sideways because of something this repo failed to say.
+
+*(The bed-math half of the old deduction closed earlier: the house is confirmed at 5 kings + 1 queen across 3 levels, and beds-on-arrival is a decision, not a gap.)*
