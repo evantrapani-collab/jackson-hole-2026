@@ -5,15 +5,44 @@
 
 ---
 
-## What Everyone Owes
+## What Everyone Owes — ✅ FINAL NUMBER IN (8/10)
+
+Drewes closed this out in the group chat on **8/10**: final payments to the VRBO and the Grand Teton tour/rafting are about to hit.
+
+> ### **$784.14 per man — lodging + tours, all in.**
+> **Send the balance *minus whatever you've already sent Drewes*** → **Venmo @DrewesPT**.
+> Can't remember what you sent? Ask Drewes directly — he'll pull it from the treasurer.
+
+This supersedes the old "~$556 Airbnb + ~$300 rafting TBD" split and the ~$56-vs-$100 balance question — that's all folded into the one number now.
 
 | Item | Per Person | Due | Pay To |
 |---|---|---|---|
-| Airbnb — Montreux House | ~$556 total (**≈$56 balance left**) | ⏰ **8/1 — past due** | @drewespt Venmo |
-| Rafting + van tour | ~$300 TBD | Closer to trip | Drewes collects |
+| **Lodging + van tour + rafting (combined)** | **$784.14** | **Now** — final payments hitting | **@DrewesPT** Venmo |
 | Flights | varies | Booked | Own booking |
 
-> Drewes is the money hub. Airbnb balance is due 8/1 — send to **@drewespt on Venmo**. He'll collect rafting closer to the trip once headcount is final.
+### The ledger — what each man still owes
+
+Deposits as Drewes posted them. **Balance = $784.14 − already sent.**
+
+| Man | Already sent | **Still owes** |
+|---|---|---|
+| Hardie | $500 | **$284.14** |
+| Schick | $500 | **$284.14** |
+| Psilos | $500 | **$284.14** |
+| Evan | $500 | **$284.14** |
+| Shrub | $500 | **$284.14** |
+| Levy | $500 | **$284.14** |
+| Mitternight | $750 *(told to hold his deposit, sent it anyway 2/18 via Venmo)* | **$34.14** |
+| Austin | $0 to Drewes — ⚠️ sent **Gunter** $250 on 3/12 | **$784.14** — or $534.14 if the Gunter $250 counts |
+| Solak | $0 to Drewes — ⚠️ sent **Gunter** $250 on 3/12 | **$784.14** — or $534.14 if the Gunter $250 counts |
+| Hasney | $0 | **$784.14** |
+| Dan Fulham | $0 *(air mattress)* | **$784.14** |
+| Brad Ciolino | $0 | **$784.14** |
+| Drewes | — (collecting) | — |
+
+⚠️ **The one thing that isn't clean: the two $250s that went to Gunter, not Drewes.** Drewes said "minus whatever you have **already sent me**" — money that went to Gunter isn't money Drewes has. **Austin and Solak: confirm with Drewes before sending**, so you don't either double-pay $250 or short him $250. Everyone else's math above is unambiguous.
+
+**Check on the totals:** 13 × $784.14 = **$10,193.82** for the trip's fixed costs. Collected so far: **$3,750** (6 × $500 + Mitternight's $750), leaving **~$6,443.82** for Drewes to gather — plus/minus the Gunter question.
 
 ---
 
@@ -23,27 +52,18 @@
 |---|---|
 | **Total price** | $7,229.82 |
 | **Drewes paid to reserve** | $4,000 |
-| **Per-person deposit** | $500 to @drewespt on Venmo |
-| **Airbnb balance due** | **8/1** — ⏰ **past due** — total minus deposit |
+| **Per-person deposit** | $500 to @DrewesPT on Venmo |
+| **Balance** | ✅ **Resolved 8/10** — rolled into the single **$784.14/man** lodging + tours number above |
 
-### The balance, as an actual number
-
-Nobody had written down what "the balance" is, which is a good way for a passed deadline to stay passed.
-
-| | |
-|---|---|
-| Total | $7,229.82 |
-| Already in (13 × $500 deposit) | −$6,500.00 |
-| **Still owed to Drewes** | **$729.82** |
-| **Per person** | **≈ $56** |
-
-⚠️ **One thing to confirm with Drewes:** he quoted the crew **~$600/person**, not $556. If he's collecting to the $600 number the remainder is **~$100/person**, and the extra ~$570 across the group is presumably a cushion for cleaning/fees/damage-deposit float. **Ask him which number he wants before sending** — don't 13-way-guess it. Either way it's the smallest check of the trip and it's already late.
+> The old open question here — was the remainder ~$56/person (at $556) or ~$100 (at Drewes's ~$600 quote)? — is **closed**. Drewes isn't collecting lodging and tours separately; it's one $784.14 figure, and deposits already sent come straight off it. Use the ledger above, not this section, to decide what to send.
 
 ### Cost Per Person by Attendance
 
+Historical, for reference only — headcount is locked at 13 and the number is now $784.14 all-in.
+
 | Attendees | Airbnb Per Person |
 |---|---|
-| **13 (locked)** | **~$556 (Drewes quoted ~$600)** |
+| **13 (locked)** | **~$556** |
 | 12 | ~$600 |
 | 8 | ~$900 |
 
@@ -53,12 +73,12 @@ Nobody had written down what "the balance" is, which is a good way for a passed 
 
 - Contract signed; private van + boat
 - Full refund if cancelled 7+ days out
-- **Payment:** Chris Drewes collects from the crew closer to the trip; final per-person amount depends on final headcount (13). No individual action needed now.
-- Earlier ballpark from the chat: ~$165 rafting + ~$165 Teton tour, ~$300/day with group discount — final number TBD by Drewes.
+- **Payment:** ✅ **Settled 8/10** — no longer a separate collect. The tour + rafting are inside the **$784.14/man** figure Drewes posted; final payments to the adventure company are hitting now.
+- Earlier ballpark from the chat: ~$165 rafting + ~$165 Teton tour, ~$300/day with group discount — consistent with the final combined number.
 
 ---
 
-## Per-Person Estimates (on top of Airbnb + rafting)
+## Per-Person Estimates (on top of the $784.14)
 
 | Category | Estimate | Notes |
 |---|---|---|
@@ -78,11 +98,10 @@ Nobody had written down what "the balance" is, which is a good way for a passed 
 
 | | |
 |---|---|
-| Airbnb | ~$556 |
-| Rafting + van tour | ~$300 (TBD by Drewes) |
+| Lodging + van tour + rafting (Drewes, final) | **$784.14** |
 | Food, drink & ribeyes | ~$200–330 |
 | Tips, bear spray, gas, park entry, incidentals | ~$110–215 |
-| **Total on the ground** | **≈ $1,150–1,400** |
+| **Total on the ground** | **≈ $1,100–1,330** |
 | Flights | + each person's own booking |
 
 ---
@@ -91,8 +110,8 @@ Nobody had written down what "the balance" is, which is a good way for a passed 
 
 | Item | Provider | Confirmation # | Amount | Status |
 |---|---|---|---|---|
-| Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ — ⏰ balance past due (8/1) |
-| Rafting / Van | JHWW | — | TBD (Drewes collects) | Booked ✅ |
+| Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ — final payment hitting; in the $784.14 |
+| Rafting / Van | JHWW | — | In the $784.14 | Booked ✅ — final payment hitting |
 | Flights | American Airlines | — | varies | Booked ✅ |
 | Rental SUV #1 (Explorer) | Jason Hardie | — | — | Booked ✅ |
 | Rental SUV #2 (Expedition) | Joe Schick | — | — | Booked ✅ |
@@ -104,5 +123,6 @@ Nobody had written down what "the balance" is, which is a good way for a passed 
 
 | Date | Action |
 |---|---|
-| **8/1** ⏰ | Airbnb balance due → @drewespt on Venmo — **past due**, ≈$56/person remaining (confirm vs. Drewes's ~$600 quote) |
-| **Closer to trip** | Rafting balance — Drewes collects from the crew |
+| **8/10** ✅ | Drewes posted the final number: **$784.14/man**, lodging + tours combined |
+| **Now** 🔴 | **Everyone sends their balance** (see ledger) → **@DrewesPT** on Venmo. Austin + Solak: settle the Gunter $250 question with Drewes first |
+| **Now** | Drewes confirms he's whole once the money lands |
