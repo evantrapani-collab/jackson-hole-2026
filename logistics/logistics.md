@@ -51,8 +51,8 @@
 ## Lodging
 
 - **Airbnb (Montreux House)** — booked ✅
-- $500 deposit to @drewespt on Venmo — paid ✅
-- Balance due **8/1** — ⏰ **now past due** (total minus deposit ≈ **$56/person**; see `/budget`)
+- $500 deposit to @DrewesPT on Venmo — paid ✅ (by most; see the ledger)
+- ✅ **Final number posted 8/10: $784.14/man**, lodging **+ van tour + rafting** combined. Send that minus what you've already sent Drewes → **@DrewesPT**. Per-man ledger in [`/budget`](../budget/budget.md#the-ledger--what-each-man-still-owes)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
 - [ ] **Confirm check-in + checkout times** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight
 
@@ -151,7 +151,7 @@ Contract is signed. Key details:
 | **JHWW — Jeff** | Friday van tour + rafting | Number is on the signed contract — copy it here when printing confirmations |
 | **American Airlines** | Flight changes / misconnect | (800) 433-7300 + the AA app |
 | **St. John's Health** | Nearest 24-hr ER | 625 E Broadway, Jackson — ~25 min from the house |
-| **Drewes** | Money hub | @drewespt on Venmo |
+| **Drewes** | Money hub | @DrewesPT on Venmo |
 | **Hardie / Schick** | The two rental SUVs | Confirmations on their bookings |
 
 > One guy prints this table with the confirmations; a photo of it on every phone is the offline backup.
@@ -176,7 +176,7 @@ Contract is signed. Key details:
 - [x] Airbnb booked
 - [x] Rafting / van booked
 - [x] Book flights
-- [x] Send $500 deposit to @drewespt on Venmo
+- [x] Send $500 deposit to @DrewesPT on Venmo
 - [x] Headcount locked at 13 (Dan Fulham confirmed)
 - [x] 2 SUVs booked (Jason Hardie + Joe Schick)
 - [x] **Decided: 2 rental cars is enough — no 3rd vehicle** (soft-sided bags recommended for the airport-transfer days)
@@ -184,14 +184,14 @@ Contract is signed. Key details:
 - [x] Friday dinner venue — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`). Menu still open, see Aug → Sep 10
 - [ ] Confirm Airbnb check-in time with the host — sizes the Thursday midday gap
 
-### 8/1 — ⏰ PAST DUE
-- [ ] Airbnb balance due (total minus $500 deposit) — **$729.82 left across the crew ≈ $56/person**, or ~$100 if Drewes collects to his ~$600 quote. Confirm which with Drewes and settle up — see `/budget`
+### Now — 💵 settle up with Drewes
+- [ ] **$784.14/man, minus whatever you've already sent him** → **@DrewesPT** on Venmo. Covers lodging + van tour + rafting; final payments to the VRBO and the adventure company are hitting now. ⚠️ Austin + Solak sent **Gunter** $250 on 3/12, not Drewes — confirm with Drewes before sending. Per-man ledger in `/budget`
 
 ### August → Sep 10
 - [x] Room/bed assignments — ✅ decided: **picked on arrival**, not pre-assigned
 - [ ] ⭐ Confirm a sleeping surface for **Brad Ciolino** (call RMR re: sofa bed/cot) — or he packs an air mattress + pump; 6 beds can't cover 13, and there's no big-box store in Jackson
 - [ ] While on that RMR call: **confirm the grill + propane** — gas or charcoal, tank full? A dead tank under 13 ribeyes is the easiest way steak night goes sideways
-- [ ] Rafting balance — Drewes collects from the crew (depends on final headcount; no individual action now); per-person number + late-cancel rule locked **by 9/10** (7-day refund cutoff)
+- [ ] Rafting **late-cancel rule** locked **by 9/10** (7-day refund cutoff) — the per-person number is settled ($784.14 all-in, collected up front), so what's left is who eats a drop-out's cost
 - [ ] **Friday dinner menu** — venue's locked (the house), but nobody's picked the food. Fajita/taco bar vs. one-pot — decide before handing Psilos a list
 - [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes + full list (ice, paper goods, coffee, drinks) — see `/dining`
 - [ ] Pick the Sunday dinner plan

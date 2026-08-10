@@ -16,15 +16,16 @@ Trip planning hub for everything related to the trip.
 
 ## Current Status
 
-- ✅ Airbnb booked — ⏰ balance was due 8/1, still open
+- 💵 **Final money number is in (8/10): $784.14/man — lodging + tours, all in.** Send the balance minus what you've already sent Drewes → **Venmo @DrewesPT**. Per-man ledger in [`/budget`](./budget/budget.md#the-ledger--what-each-man-still-owes)
+- ✅ Airbnb booked — final payment hitting; the old 8/1 balance question is closed, folded into the $784.14
 - ✅ Flights booked (American Airlines)
-- ✅ Rafting + van booked (Drewes collects balance from crew closer to trip)
+- ✅ Rafting + van booked — also inside the $784.14, no separate collect
 - ✅ Headcount locked at 13 (Dan Fulham confirmed)
 - ✅ 2 rental SUVs booked — Jason Hardie (Explorer, JAC) + Joe Schick (Expedition, JAC), both on same inbound flight; Explorer planned as a **7-seater → 14 seats for 13**
 - ✅ **2 rental cars is the final answer** — no 3rd vehicle or cargo carrier; crew accepted the tight luggage fit (pack soft-sided)
 - ✅ Groceries have an owner — **Chris Psilos**
 - ✅ **Beds picked on arrival** — no pre-assignment; **Brad Ciolino is the 13th man / floor sleeper**; open piece is confirming his sleeping surface with RMR
-- ⏰ **The 8/1 Airbnb balance is past due** — waiting on Drewes to say whether it's ~$56 or ~$100/person; see Open Items
+- ⚠️ **Two payments went to Gunter, not Drewes** — Austin and Solak each sent Gunter $250 on 3/12. Drewes's "minus whatever you've already sent me" doesn't obviously cover that; those two confirm with him before paying. See Open Items
 - ✅ **Explorer 3rd row — decided: we don't verify it, we sort it at the JAC counter.** Assume the seats are there. If they're not, the fallback is a third small car on the spot (~$35/person) — written up in Open Items so nobody improvises it Thursday
 - ⚠️ **Steak night may move to Sunday** (Saints) instead of Saturday (LSU) — raised, not decided; default holds
 - ⚠️ **Friday dinner menu still open** — the house venue is locked, but nobody's picked what's cooked
@@ -35,10 +36,15 @@ Trip planning hub for everything related to the trip.
 
 ## Open Items
 
-> **In chronological order — work top to bottom.** Owners + deadlines on the load-bearing items; the ones that actually gate the trip are flagged ⭐ — there are **three**: the past-due Airbnb balance, Ciolino's sleeping surface, and Drewes's rafting refund rule (9/10).
+> **In chronological order — work top to bottom.** Owners + deadlines on the load-bearing items; the ones that actually gate the trip are flagged ⭐ — there are **three**: paying Drewes the $784.14 balance, Ciolino's sleeping surface, and Drewes's rafting refund rule (9/10).
 
 **🔴 Now (August)**
-- [ ] ⭐ **PAST DUE — Airbnb balance was due 8/1** *(Owner: Drewes to confirm receipt)*: the deadline passed with nothing marked paid here. Two things to close: (a) everyone sends the remainder, (b) Drewes confirms he's whole. **The number: $7,229.82 total − $6,500 already in (13 × $500 deposit) = $729.82 left ≈ $56/person** — but Drewes quoted ~$600/person, so if he's collecting to that number it's ~$100. **Ask Drewes which, then pay it** — this is the only trip cost with a hard deadline behind us
+- [ ] ⭐ **PAY DREWES — $784.14/man, minus what you've already sent** *(Owner: everyone; Drewes confirms receipt)*: posted in the group chat **8/10**. One number covering **lodging + van tour + rafting**; the final payments to the VRBO and the adventure company are hitting now, so this is money already out of Drewes's pocket. **Venmo @DrewesPT.** Don't remember what you sent? Ask him — he'll pull it from the treasurer. Full per-man ledger: [`/budget`](./budget/budget.md#the-ledger--what-each-man-still-owes)
+  - $500 already in (Hardie, Schick, Psilos, Evan, Shrub, Levy) → **$284.14 each**
+  - Mitternight ($750 on 2/18) → **$34.14**
+  - Nothing in yet (Hasney, Dan, Ciolino) → **$784.14 each**
+  - ⚠️ **Austin + Solak** each sent **Gunter** $250 on 3/12, not Drewes — **confirm with Drewes whether that counts** before sending, or you'll double-pay or short him by $250. Everyone else's number is unambiguous
+- [x] ✅ **The old 8/1 Airbnb balance question — closed.** It was ~$56 vs. ~$100/person depending on which quote Drewes was collecting to; moot now that lodging and tours are one $784.14 figure with deposits netted off
 - [x] ✅ **Explorer 3rd row — decided: not verifying in advance.** We find out at the JAC counter and make it work. *(Closed as a decision, not a gap — but see the counter plan below, because the worst case doesn't sort itself out.)*
 
 > **If the Explorer turns out to be a 5-seater** (the whole reason this was open): that's 5 + 7 = **12 seats for 13 guys**. Two things to know so nobody's improvising at the counter with 13 tired guys behind them:
@@ -49,14 +55,14 @@ Trip planning hub for everything related to the trip.
 - [ ] **Confirm Airbnb check-in + checkout times with the host** — flight lands 10:19 AM but check-in is likely mid-afternoon (sizes the Thursday midday plan, below under *On the trip*); checkout sets the Monday exit (plan: out by ~9:45 AM for the 11:47 flight)
 
 **By Aug 1 — window closed**
-> ⏰ **The 8/1 Airbnb balance is past due and has moved up to *Now* above**, with the actual dollar figure attached (~$56/person at the $556 math, ~$100 if Drewes holds his ~$600 quote). Not a second checkbox — it's the same item, escalated.
+> ✅ **The 8/1 Airbnb balance is superseded** — Drewes replaced it on 8/10 with the single **$784.14/man** lodging + tours number, which lives in *Now* above. Not a second checkbox.
 - [x] **By 8/1** — ✅ confirmed what Montreux House sleeps: **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (full layout in [`/lodging`](./lodging/lodging.md#sleeping-13)). 6 beds max 12 even fully shared → **bring 2 air mattresses** for 13
 
 **August → Sep 10**
 - [x] ✅ **Room/bed assignments — decided: pick on arrival**, no pre-assigned roster
 - [ ] ⭐ **Confirm a sleeping surface for Brad Ciolino (the 13th man)** — 6 beds max 12 even fully shared, so Ciolino's on a couch/air mattress. Call **RMR (307-739-9050)** re: a sofa bed/cot/rollaway; if the house has none, **Ciolino packs an air mattress + pump** — no big-box store in Jackson to buy one on arrival. See [`/lodging`](./lodging/lodging.md#sleeping-13)
 - [ ] **While on that RMR call — confirm the grill + propane** — gas or charcoal, tank full or not? A dead tank under 13 raw ribeyes is the easiest way steak night goes sideways. If charcoal, add it to the grocery run. See [`/dining`](./dining/dining.md#grill-check--before-committing-to-ribeyes)
-- [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: lock the final per-person number AND a rule for who covers a late cancellation, so the crew isn't split-eating a no-show once the refund window closes
+- [ ] ⭐ **Rafting refund exposure** *(Owner: Drewes — by 9/10, before the 7-day refund cutoff)*: the per-person number is now locked ($784.14 all-in), so what's left is the **rule for who eats a late cancellation** — the crew shouldn't split a no-show's cost once the refund window closes. Sharper now that the money is collected up front: a drop-out after 9/10 means Drewes is holding someone's $784.14 with nothing to refund it from
 - [ ] **Friday dinner menu** — the house *venue* is locked, but nobody's picked what's cooked. Fajita/taco bar vs. one-pot (jambalaya/pasta) — pick one and fold it into the Sep 10 grocery call so Psilos has an actual list. See [`/dining`](./dining/dining.md#friday-dinner--venue-locked-menu-open)
 - [ ] **Groceries: pick the method** *(Owner: Chris Psilos)* — decide in-person run vs. **pre-stock** (Snap Pea / Mountains of Groceries / RMR concierge) and **call the Smith's butcher** to lock 13 bone-in ribeyes. **The full quantified list is now built** — every item with amounts for 13, by store section, with both Friday-dinner modules and the butcher script: [`dining/grocery-list.md`](./dining/grocery-list.md) (~$100/person, which keeps the `/budget` food line intact)
 - [ ] **Steak night — Saturday or Sunday?** *(decide with the Sep 10 butcher call)*: idea on the table to grill the ribeyes for the **Saints game Sunday** instead of the **LSU game Saturday**. Grocery list is identical either way, so it doesn't block Psilos. Catch: Sunday's kickoff is **11 AM MT**, so steaks there means a *night* grill, it **voids the Dornan's dinner default**, and Saturday then needs a replacement dinner. Full tradeoff in [`/dining`](./dining/dining.md#steak-night--saturday-default-or-sunday)
@@ -83,7 +89,7 @@ Trip planning hub for everything related to the trip.
 - [ ] Print all confirmations + the [Key Contacts table](./logistics/logistics.md#key-contacts--print-this-no-cell-service-in-the-parks)
 - [ ] **Emergency info** — write down the nearest hospital: **St. John's Health, 625 E Broadway, Jackson** (~25 min from the house). It's a rafting + hiking trip; have it on paper since there's no cell service in the parks
 - [ ] **Guide gratuities** — Friday is a full-day van tour **+** private rafting trip; budget ~$20–40/person in tips across both guides. Expected, and easy to forget on the river. Bring **cash** (a few spots in town are cash-only too)
-- [ ] Rafting balance — Drewes collects from the crew closer to the trip (no individual action now)
+- [x] ✅ Rafting balance — no separate collect; it's inside the $784.14 Drewes posted 8/10
 
 **On the trip (Sep 17–21)**
 - [ ] **Thu — fill the midday gap** — flight lands 10:19 AM but check-in is likely mid-afternoon (exact time confirmed above). Plan the window: grocery run (Smith's/Albertsons), buy **bear spray**, lunch + Jackson Drug shake downtown, then drift to Teton Village. Don't strand 13 guys + bags in a parking lot. *(Or skip the run entirely — see grocery **delivery/pre-stock** options in [`/dining`](./dining/dining.md#grocery-delivery-options): pre-stock the house before arrival + Instacart for restocks)*
