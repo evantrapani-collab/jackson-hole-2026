@@ -101,10 +101,17 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - **Best fit:** Sunday lunch/early dinner after the morning wildlife drive, since you're already on that side of the park — or any time a low-key meal with a view beats fighting for a table in town
 - Confirm fall hours before you go (Moose runs on shorter shoulder-season schedules)
 
-## Sunday Saints Game — Cutty's / Eleanor's
+## Sunday Saints Game — Cutty's / Eleanor's / a Brewery / House Cookout
 
 - **Saints @ Baltimore, 11 AM MT kickoff (noon CT, CBS)** — it's a road game and a **late-morning** start, so watch first, then explore after
-- Options: Cutty's Bar & Grill (Hwy 22, ~10 min), Eleanor's, or just watch at the house
+- Options: Cutty's Bar & Grill (Hwy 22, ~10 min), Eleanor's, a brewery, or just watch at the house
+- **Brewery scouting (group chat, 8/11 — Austin's review):**
+  - **Snake River Brewing** — good beer, good seating, **awesome outdoor space**; big enough that the full group of 13–14 can roll in without a reservation
+  - **Roadhouse Brewery** — decent beer/selection, spacious, good seating; also big enough for the whole group to walk in together
+  - **Melvin** — good beer but a "terrible space" — ruled out for a group this size
+  - **Still West** — good beer, small selection, ski-lodge vibe and pricing, great mountain views — plays more like a restaurant than a brewery
+  - Nobody's TV setup is great, but **Roadhouse and Snake River are the best bets** for actually watching the game
+- **Psilos's plan:** run a Thursday/Friday recon pass to check the real TV/seating situation before picking — LSU (the Ole Miss undercard) should be the easier of the two games to place. **A Sunday cookout at the house is also in play** as the default way to control the NFL slate (RedZone, etc.) without fighting for a TV
 - Monday 11:47 AM departure means Sunday night should stay reasonable
 
 ---
@@ -168,6 +175,8 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - ✅ **Corbet's Cabin** — waffles at the top of the tram, 10,000+ ft, unreal views. Already slotted for **Sunday afternoon** after the Saints game (walkable from the house at Teton Village).
 - ✅ **Dornan's Pizza & Pasta Co.** — deck pizza with full Teton views in Moose. Already our **Sunday lunch/early-dinner** idea (see above).
 - ◻️ **Million Dollar Cowboy** — we've got the **Cowboy Bar** Thursday night. The downstairs *Steakhouse* is a sit-down option if anyone wants a western dinner instead of the house ribeyes.
+
+> **Reservations call (group chat, 8/11):** the Cowboy Steakhouse and Snake River Grill only take reservations **~30 days out**; as of 8/11 we're **37 days out** — a week too early to even try. Chris D. is fine passing on chasing a group reservation and sticking with house steak nights + casual spots on the fly. Practical effect: expect **splitting into 2 tables/groups** at any unreserved casual spot — Austin flags this as the norm for our size; **Snake River Brewing and Roadhouse Brewery are the two big enough that the full group can typically walk in and get seated together.**
 
 **Easy adds (low effort, fit the existing days)**
 - **Jackson Drug** — famous huckleberry shake, on the town square. Perfect quick hit **Thursday** while bar-hopping, or any time we're downtown. No reservation, no commitment.
