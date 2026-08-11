@@ -40,9 +40,10 @@ Trip planning hub for everything related to the trip.
 
 **🔴 Now (August)**
 - [ ] ⭐ **PAY DREWES — $784.14/man, minus what you've already sent** *(Owner: everyone; Drewes confirms receipt)*: posted in the group chat **8/10**. One number covering **lodging + van tour + rafting**; the final payments to the VRBO and the adventure company are hitting now, so this is money already out of Drewes's pocket. **Venmo @DrewesPT.** Don't remember what you sent? Ask him — he'll pull it from the treasurer. Full per-man ledger: [`/budget`](./budget/budget.md#the-ledger--what-each-man-still-owes)
-  - $500 already in (Hardie, Schick, Psilos, Evan, Shrub, Levy) → **$284.14 each**
+  - ✅ **Paid in full (8/11):** Evan, Shrub (Schaubhut), Hasney, Ciolino
+  - $500 already in (Hardie, Schick, Psilos, Levy) → **$284.14 each**
   - Mitternight ($750 on 2/18) → **$34.14**
-  - Nothing in yet (Hasney, Dan, Ciolino) → **$784.14 each**
+  - Nothing in yet: Dan Fulham → **$784.14**
   - ⚠️ **Austin + Solak** each sent **Gunter** $250 on 3/12, not Drewes — **confirm with Drewes whether that counts** before sending, or you'll double-pay or short him by $250. Everyone else's number is unambiguous
 - [x] ✅ **The old 8/1 Airbnb balance question — closed.** It was ~$56 vs. ~$100/person depending on which quote Drewes was collecting to; moot now that lodging and tours are one $784.14 figure with deposits netted off
 - [x] ✅ **Explorer 3rd row — decided: not verifying in advance.** We find out at the JAC counter and make it work. *(Closed as a decision, not a gap — but see the counter plan below, because the worst case doesn't sort itself out.)*
