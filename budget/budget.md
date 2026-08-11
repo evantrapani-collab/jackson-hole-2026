@@ -29,20 +29,20 @@ Deposits as Drewes posted them. **Balance = $784.14 − already sent.**
 | Hardie | $500 | **$284.14** |
 | Schick | $500 | **$284.14** |
 | Psilos | $500 | **$284.14** |
-| Evan | $500 | **$284.14** |
-| Shrub | $500 | **$284.14** |
+| Evan | $784.14 *(paid in full 8/11)* | **$0 ✅** |
+| Shrub *(Schaubhut)* | $784.14 *(paid in full 8/11)* | **$0 ✅** |
 | Levy | $500 | **$284.14** |
 | Mitternight | $750 *(told to hold his deposit, sent it anyway 2/18 via Venmo)* | **$34.14** |
 | Austin | $0 to Drewes — ⚠️ sent **Gunter** $250 on 3/12 | **$784.14** — or $534.14 if the Gunter $250 counts |
 | Solak | $0 to Drewes — ⚠️ sent **Gunter** $250 on 3/12 | **$784.14** — or $534.14 if the Gunter $250 counts |
-| Hasney | $0 | **$784.14** |
+| Hasney | $784.14 *(paid in full 8/11)* | **$0 ✅** |
 | Dan Fulham | $0 *(air mattress)* | **$784.14** |
-| Brad Ciolino | $0 | **$784.14** |
+| Brad Ciolino | $784.14 *(paid in full 8/11)* | **$0 ✅** |
 | Drewes | — (collecting) | — |
 
 ⚠️ **The one thing that isn't clean: the two $250s that went to Gunter, not Drewes.** Drewes said "minus whatever you have **already sent me**" — money that went to Gunter isn't money Drewes has. **Austin and Solak: confirm with Drewes before sending**, so you don't either double-pay $250 or short him $250. Everyone else's math above is unambiguous.
 
-**Check on the totals:** 13 × $784.14 = **$10,193.82** for the trip's fixed costs. Collected so far: **$3,750** (6 × $500 + Mitternight's $750), leaving **~$6,443.82** for Drewes to gather — plus/minus the Gunter question.
+**Check on the totals:** 13 × $784.14 = **$10,193.82** for the trip's fixed costs. Collected so far: **$5,886.56** (Evan, Shrub, Hasney, Ciolino paid in full 8/11; Hardie/Schick/Psilos/Levy at $500; Mitternight's $750), leaving **~$4,307.26** for Drewes to gather — plus/minus the Gunter question.
 
 ---
 
@@ -124,5 +124,6 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 | Date | Action |
 |---|---|
 | **8/10** ✅ | Drewes posted the final number: **$784.14/man**, lodging + tours combined |
-| **Now** 🔴 | **Everyone sends their balance** (see ledger) → **@DrewesPT** on Venmo. Austin + Solak: settle the Gunter $250 question with Drewes first |
+| **8/11** ✅ | Evan, Shrub, Hasney, and Ciolino paid in full |
+| **Now** 🔴 | **Everyone else sends their balance** (see ledger) → **@DrewesPT** on Venmo. Austin + Solak: settle the Gunter $250 question with Drewes first |
 | **Now** | Drewes confirms he's whole once the money lands |
