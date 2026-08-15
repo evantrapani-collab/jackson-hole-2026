@@ -7,7 +7,7 @@ Tap a link → it opens the place in Google Maps → **Save** → pick
 Boxes marked _(already in your list)_ are the ones visible in your
 current 19 pins — skip those.
 
-**79 places total.**
+**80 places total.**
 
 ## Lodging & Logistics
 
@@ -78,6 +78,10 @@ current 19 pins — skip those.
 - [ ] [Jackson Lake Lodge (Willow Flats)](https://www.google.com/maps/search/?api=1&query=Jackson+Lake+Lodge%2C+WY) — Moose hotspot at Willow Flats.
 - [ ] [Jackson Hole Aerial Tram](https://www.google.com/maps/search/?api=1&query=Jackson+Hole+Aerial+Tram%2C+Teton+Village%2C+WY) — Rendezvous Mtn summit; Corbet's waffles up top.
 - [ ] [Colter Bay Village](https://www.google.com/maps/search/?api=1&query=Colter+Bay+Village%2C+Grand+Teton+National+Park%2C+WY) _(already in your list)_ — Jackson Lake; near Leek's Marina.
+
+## Activities
+
+- [ ] [Bridger Gondola (Teton Village)](https://www.google.com/maps/search/?api=1&query=Bridger+Gondola%2C+Teton+Village%2C+WY) — Mid-mountain lift — the Thursday-afternoon ride, distinct from the summit tram.
 
 ## Yellowstone NP
 

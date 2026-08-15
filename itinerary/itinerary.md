@@ -8,13 +8,30 @@
 ## Thursday, Sep 17 — Arrival + Hit the Town
 
 - Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
-- **Midday gap — fill it on purpose.** Check-in at the house is likely mid-afternoon (confirm exact time with the host), so there's ~4–5 hours between landing and the door opening. Don't strand 13 guys + bags in a lot:
-  - **Grocery run** — Smith's or Albertsons in Jackson (ribeyes, sides, breakfast for Friday, cooler drinks) — **Psilos owns the grocery plan**
-  - **Buy bear spray** — 2+ canisters, one per vehicle, on the same grocery bill (can't fly with it; this is the window)
-  - **Lunch downtown** + a Jackson Drug huckleberry shake on the square
-  - Drift to Teton Village; check in to the house (Montreux House)
-  - **At check-in, check the grill** — burner test, heft the propane tank. Thursday is the only day with enough runway to fix it before steak night (`/dining`)
-- 🍕 **On the table — open with Dornan's instead** *(Drewes, 8/15)*: it's **~8 min from JAC**, in the opposite direction from town. Land, drive 8 minutes, sit down to pizza and beer with the Tetons in front of you, and let 13 guys decompress and adjust to 6,200 ft before anyone drives into Jackson. It's a better use of the gap than circling town with bags. **Default: the plan above holds** unless someone calls it. ⚠️ If Dornan's happens Thursday, re-pick the **Sunday** dinner slot — it's currently Dornan's too
+- ✅ **Check-in is 4:00 PM** *(confirmed with RMR, 8/15)*. That's a **~5-hour gap** with 13 guys and all the bags in two SUVs — longer than the "4–5 hours" this page used to assume, and the whole reason the afternoon needs a shape.
+  - ⏳ **Early check-in: asked for, not promised.** Drewes has already planted the seed with RMR. It hinges on the cleaning crew and whether anyone checked out Wednesday, and **they may charge for locking it in early** — so it's a play-it-by-ear bonus, not something to build the day around. **Plan for 4 PM; be pleasantly surprised.**
+
+### The afternoon — Drewes's plan (8/15), and it fits
+
+Land → **Dornan's** → **brewery in town** → **gondola at Teton Village** → **check in** → out for the night. Rough clock, so you can see the seams:
+
+| Time | Where | Notes |
+|---|---|---|
+| 10:19–11:00 | JAC | Land, **rental counter before baggage claim**, load two SUVs |
+| 11:15–12:45 | **Dornan's** (Moose) | **~8 min from JAC**, opposite direction from town. Pizza, beer, straight-on Tetons. Decompress and let everyone adjust to 6,200 ft before anyone drives into Jackson |
+| ~1:10–2:45 | **Brewery in town** | Austin's rec — **Snake River Brewing** (great outdoor space, seats 13 without a reservation). Note this is already stop 1 of the night crawl; this just moves it to daylight |
+| ~3:10–4:00 | **Teton Village gondola** | Ride up, look around, and you're already at the house's doorstep when check-in opens |
+| **4:00 PM** | **Montreux House** | Check in, drop bags, shower. **Check the grill while you're at it** — burner test, heft the propane tank (`/dining`) |
+| Evening | Downtown → Mangy Moose | The night crawl below |
+
+**Three catches worth naming before this is the plan:**
+
+1. ⚠️ **Groceries and bear spray fall off this itinerary — and bear spray can't slip.** You can't fly with it, and Friday is booked dawn-to-dusk, so **Thursday is the only window**. Two clean solves: **(a) pre-stock the house** (Snap Pea / Mountains of Groceries / RMR concierge — see `/dining`) so the fridge is loaded when you walk in at 4, and one guy grabs bear spray downtown while everyone's at the brewery; or **(b) split at the brewery** — one SUV runs Smith's/Albertsons + the sporting-goods stop while the other holds the table. **Do not leave Jackson for Teton Village without bear spray in both vehicles.**
+2. ⚠️ **The DD job starts at lunch now, not at midnight.** Beer at Dornan's ~11:30, more at the brewery ~1:15, then two drives (town → Village, and later town → Village again). **Hardie and Schick are the only two insured to drive** — one of them holding off through the afternoon legs is a real ask, so say out loud who's dry when, or add an authorized driver at the JAC counter that morning.
+3. ⚠️ **All the luggage rides along until 4 PM.** Three stops with two fully loaded SUVs — nothing valuable visible, and it's the best argument for taking the early check-in if RMR offers it.
+
+🚡 **Gondola vs. tram — make sure we know which one we're riding.** Teton Village has two lifts: the **Aerial Tram** to the Rendezvous summit (10,450 ft) where **Corbet's Cabin** does the waffles, and the **Bridger Gondola** to mid-mountain. **Sunday's plan is the tram, for the waffles.** If Thursday is the gondola, they're different rides and both are worth it. If Thursday ends up on the tram, then **Sunday's mountain block needs a different answer** — don't do the same ride twice. Confirm which is running in late September when you buy tram tickets (**by 9/7**).
+
 - **Night out (Jackson → Teton Village):**
   1. **Snake River Brewing** — craft brewery, great food; casual start
   2. **Silver Dollar Bar and Grill** — classic western bar, inlaid silver dollar bar top

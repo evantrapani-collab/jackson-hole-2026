@@ -90,6 +90,7 @@ PLACES = [
     ("Moose-Wilson Road", "Grand Teton NP", "Sun sunrise", "Moose-Wilson Road, Grand Teton, WY", False, "Moose and bears; drive slow."),
     ("Jackson Lake Lodge (Willow Flats)", "Grand Teton NP", "Optional", "Jackson Lake Lodge, WY", False, "Moose hotspot at Willow Flats."),
     ("Jackson Hole Aerial Tram", "Grand Teton NP", "Sun PM", "Jackson Hole Aerial Tram, Teton Village, WY", False, "Rendezvous Mtn summit; Corbet's waffles up top."),
+    ("Bridger Gondola (Teton Village)", "Activities", "Thu PM", "Bridger Gondola, Teton Village, WY", False, "Mid-mountain lift — the Thursday-afternoon ride, distinct from the summit tram."),
     ("Colter Bay Village", "Grand Teton NP", "If up north", "Colter Bay Village, Grand Teton National Park, WY", True, "Jackson Lake; near Leek's Marina."),
 
     # --- Yellowstone National Park ---
