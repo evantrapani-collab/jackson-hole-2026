@@ -10,15 +10,17 @@
 - Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
 - **Midday gap — fill it on purpose.** Check-in at the house is likely mid-afternoon (confirm exact time with the host), so there's ~4–5 hours between landing and the door opening. Don't strand 13 guys + bags in a lot:
   - **Grocery run** — Smith's or Albertsons in Jackson (ribeyes, sides, breakfast for Friday, cooler drinks) — **Psilos owns the grocery plan**
-  - **Buy bear spray** — 2+ canisters, one per vehicle (can't fly with it; this is the window)
+  - **Buy bear spray** — 2+ canisters, one per vehicle, on the same grocery bill (can't fly with it; this is the window)
   - **Lunch downtown** + a Jackson Drug huckleberry shake on the square
   - Drift to Teton Village; check in to the house (Montreux House)
+  - **At check-in, check the grill** — burner test, heft the propane tank. Thursday is the only day with enough runway to fix it before steak night (`/dining`)
+- 🍕 **On the table — open with Dornan's instead** *(Drewes, 8/15)*: it's **~8 min from JAC**, in the opposite direction from town. Land, drive 8 minutes, sit down to pizza and beer with the Tetons in front of you, and let 13 guys decompress and adjust to 6,200 ft before anyone drives into Jackson. It's a better use of the gap than circling town with bags. **Default: the plan above holds** unless someone calls it. ⚠️ If Dornan's happens Thursday, re-pick the **Sunday** dinner slot — it's currently Dornan's too
 - **Night out (Jackson → Teton Village):**
   1. **Snake River Brewing** — craft brewery, great food; casual start
   2. **Silver Dollar Bar and Grill** — classic western bar, inlaid silver dollar bar top
   3. **Million Dollar Cowboy Bar** — saddle bar stools, sawdust floors, live country music; the move
   4. **Mangy Moose** — right at Teton Village; natural last stop on the way back to the house
-- **Getting back:** Mangy Moose is in Teton Village — **walkable from the house**, so the night ends on foot. The leg that needs a sober driver is the **downtown Jackson → Teton Village drive (~20 min)** earlier in the night, after the Cowboy Bar. Name **designated drivers per SUV** for that hop or sort a ride plan before you go out — rideshare in Jackson is thin and pricey late
+- **Getting back:** Mangy Moose is in Teton Village — **walkable from the house**, so the night ends on foot. The one leg that needs a sober driver is the **downtown Jackson → Teton Village drive (~20 min)** earlier in the night, after the Cowboy Bar. **DDs default to Hardie and Schick** — they're the only two on the rental agreements, so they're the only two insured to drive the SUVs. Anyone else who wants a shift gets added as an authorized driver at the JAC counter that morning. Say it out loud before you go out; rideshare in Jackson is thin and pricey late
 
 ---
 
@@ -46,15 +48,19 @@
 
 - **Leave by 7:00 AM** — South Entrance is ~1 hr from Jackson
   - *Grab-and-go breakfast:* reheat the **breakfast-burrito stash** from the fridge (picked up Friday) — no time to cook before a 7 AM roll-out
-- **Keep it to 2–3 stops:**
-  - **Old Faithful** — check the predicted eruption time (NPS app or visitor center, ~90-min cycle) so 13 guys aren't standing around
-  - **Grand Prismatic Spring** overlook (Fairy Falls trail) — the iconic shot
-  - **West Thumb Geyser Basin** — right on the way back, quick and worth it
+- **The route — in this order** *(from Jeremy Galiano, who's driven it; it's a real improvement on doing Old Faithful first)*:
+  1. **Drive past Old Faithful to the Grand Prismatic overlook first** (Fairy Falls trail). Coming in the South Entrance you go left toward Old Faithful and keep going ~10 min. Hitting the overlook early beats the midday crowd and the parking crunch
+  2. **Skip the boardwalk right at Grand Prismatic** — Jeremy's tip, and it's the one that buys us the day: *if you do the overlook, you don't need to go close to it.* That's a whole stop's worth of time back on the tightest day of the trip
+  3. **Backtrack to Old Faithful** and give it a couple of hours — check the predicted eruption time (NPS app or visitor center, ~90-min cycle) so 13 guys aren't standing around, and walk the Upper Geyser Basin loop while you wait
+  4. **West Thumb Geyser Basin** on the way out — geysers right on the lake, quick, and it's where lunch happens
+- 🎧 **Offline audio tour:** the **Shaka Guide "Yellowstone National Park Tour"** app narrates this exact South-Entrance loop and **works offline once downloaded** — which matters, because there's no cell service past the gate. Download it before Saturday.
+- 🚫 **What Jeremy recommends that we can't fit:** Emerald Spring (Norris Basin) and the **Yellowstone canyon waterfalls** — both are genuinely "can't miss," and both are well past our turnaround. See `/activities` for the drive-time math; they're next-trip stops, not Saturday stops.
 - *Lunch:* **cooler lunch packed Friday night**, eaten at the **West Thumb picnic tables** on the way out. Don't put 13 guys in the Old Faithful food line at noon — it's 45 minutes you don't have. See `/dining`
 - **Back by ~3:00 PM** to be comfortable before kickoff
 - **5:30 PM MT — LSU vs. Ole Miss** (6:30 CT, **ABC**) — Lane Kiffin's return to Oxford
   - Back at the house; **grill 24 oz bone-in ribeyes**
-  - ⚠️ **Steak night is under discussion** — may move to Sunday (Saints). Default is still Saturday; if it moves, this night needs a replacement dinner. See `/dining`
+  - Plan on **two batches** — 13 × 24 oz bone-in doesn't fit one grate; rest batch one in a 200°F oven. **Grill captain defaults to Psilos**, who owns the meat
+  - ⚠️ **Steak night is under discussion** — may move to Sunday (Saints). Default is still Saturday; if it moves, this night is **the house off grocery stock** (Friday's leftovers or pasta) — no reservation needed. See `/dining`
 
 ---
 
@@ -70,9 +76,9 @@
   - **Mormon Row** — bison against the Tetons at sunrise
   - **Moose-Wilson Road** — moose and bears; drive slow
 - **11:00 AM MT — Saints @ Baltimore Ravens** (noon CT, **CBS**) — road game, late-morning watch
-  - ⚠️ **Possible steak night** — idea on the table to move the ribeyes here. Note the 11 AM kickoff makes it a *night* grill, not a game grill, and it would void the Dornan's dinner default. Undecided — see `/dining`
-  - Watch at the house or a spot (Cutty's on Hwy 22 or Eleanor's)
-- **Afternoon:** Explore favorites — ride the **Teton Village tram** for waffles at **Corbet's Cabin** (walkable from the house), grab pizza + the view at **Dornan's** in Moose, or hit downtown Jackson
+  - ⚠️ **Possible steak night** — idea on the table to move the ribeyes here. Note the 11 AM kickoff makes it a *night* grill, not a game grill, and it would void the Dornan's dinner default (Saturday then drops to the house off grocery stock). Undecided — see `/dining`
+  - **Default: watch at the house** — owns the TV and the whole slate, no reservation, nobody driving after kickoff. Snake River Brewing / Roadhouse / Cutty's / Eleanor's are the upgrade if the Thu–Fri recon likes their setup
+- **Afternoon:** Explore favorites — ride the **Teton Village tram** for waffles at **Corbet's Cabin** (walkable from the house), grab pizza + the view at **Dornan's** in Moose, or hit downtown Jackson. ⚠️ **Tram tickets + fall operating dates need confirming by 9/7**; if it isn't running, the afternoon is downtown Jackson + the early Dornan's already on the day
 - **Dinner — default: early Dornan's (~5 PM)** in Moose — pizza + the Teton view to close the last full day (confirm fall hours the week before; Moose runs shoulder-season schedules). **Backup: the house**
 - Who Dat — Monday 11:47 AM departure means a reasonable Sunday night
 
@@ -91,9 +97,9 @@
 ## Logistics Notes
 
 - **Two SUVs, no 3rd vehicle** — decided. 13 guys + bags is tight on the Thursday and Monday airport legs: **soft duffels over hard rollers**
-- **Driver-lead per vehicle:** name someone in each SUV who owns departure times — herding 13 guys is the main thing that blows up a schedule
-- **Park entry:** no reservations needed for either park in 2026; pay ~$35/vehicle at the gate (or $80 America the Beautiful pass covers both). Buy in advance on Recreation.gov to skip the line
-- **Bear spray:** one per vehicle (you'll split up); can't fly with it — buy/rent in Jackson
+- **Driver-lead per vehicle: Hardie (Explorer) and Schick (Expedition)** — they hold the rental agreements, so they're the two insured drivers, and the driver-lead owns departure times for his car. Herding 13 guys is the main thing that blows up a schedule
+- **Park entry:** no reservations needed for either park in 2026. **Default: pay at the gate** — 2 vehicles × 2 parks × $35 = $140, cheaper than two $80 America the Beautiful passes. Only worth a pass if somebody already owns one
+- **Bear spray:** one per vehicle (you'll split up); can't fly with it — buy in Jackson on the Thursday grocery run, on the grocery bill
 - **Weather backup:** mid-September can bring early snow + road closures at Yellowstone elevation. Town fallback (brewery / Cowboy Bar) keeps a scrubbed park day from being a scramble — and the **National Museum of Wildlife Art** (world-class, overlooks the elk refuge) is the named indoor daytime move
 - **No cell service in Yellowstone** — download offline maps before you go
 - **If something goes wrong:** nearest hospital is **St. John's Health, 625 E Broadway, Jackson** (~25 min from the house, 24-hr ER). Write it down — no cell service in the parks. It's a rafting + hiking trip

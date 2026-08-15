@@ -34,7 +34,7 @@ PLACES = [
 
     # --- Food & Drink ---
     ("Jackson Drug", "Food & Drink", "Thu", "Jackson Drug, Jackson, WY", False, "Huckleberry shake on the town square."),
-    ("Snake River Brewing", "Food & Drink", "Thu night", "Snake River Brewing, Jackson, WY", False, "Bar crawl stop 1 — craft brewery + food."),
+    ("Snake River Brewing", "Food & Drink", "Thu night / Sun game", "Snake River Brewing, Jackson, WY", False, "Bar crawl stop 1; also the other brewery big enough for all 13 at the Saints game."),
     ("Silver Dollar Bar (Wort Hotel)", "Food & Drink", "Thu night", "Silver Dollar Bar, Wort Hotel, Jackson, WY", False, "Bar crawl stop 2 — silver-dollar bar top."),
     ("Million Dollar Cowboy Bar", "Food & Drink", "Thu night", "Million Dollar Cowboy Bar, Jackson, WY", False, "Bar crawl stop 3 — saddle stools."),
     ("Mangy Moose Saloon", "Food & Drink", "Thu night", "Mangy Moose, Teton Village, WY", False, "Bar crawl last stop — walkable from the house."),
@@ -63,7 +63,10 @@ PLACES = [
     ("Kampai", "Food & Drink", "Splinter group", "Kampai, Jackson, WY", False, "Sushi; too small for 13 — splinter or pre-dinner."),
     ("Bin22", "Food & Drink", "Splinter group", "Bin22, Jackson, WY", False, "Wine bar + tapas; too small for 13 — pre-dinner stop."),
     ("Coe Tavern", "Food & Drink", "Drinks", "Coe Tavern, Jackson, WY", False, "Rooftop drinks + snacks; pre-dinner stop."),
-    ("Roadhouse Brewing Co.", "Food & Drink", "Thu night alt", "Roadhouse Brewing Co, Jackson, WY", False, "Great happy hour; Thursday-crawl alternate."),
+    ("Roadhouse Brewing Co.", "Food & Drink", "Sun game / Thu alt", "Roadhouse Brewing Co, Jackson, WY", False, "Big enough to seat all 13 without a reservation — top Saints-game option; great happy hour Thursday."),
+    ("Sidewinders Tavern", "Food & Drink", "Sun game", "Sidewinders Tavern, Jackson, WY", False, "Sports tavern just down from Teton Village — closest game-watching option to the house (Jeremy rec)."),
+    ("The Verge", "Food & Drink", "Thu night alt", "The Verge, Jackson, WY", False, "Liquor in front, dive bar in back (AJAX rec). Bar-crawl flavor, not a dinner."),
+    ("Jackson Whole Grocer", "Lodging & Logistics", "Thu", "Jackson Whole Grocer, Jackson, WY", False, "Third grocery/butcher option if Albertsons and Smith's are out of Prime."),
     ("D.O.G.", "Food & Drink", "Burrito stash", "D.O.G., Jackson, WY", False, "Friend's burrito pick; bulk-order option for the early-start stash."),
     ("Creekside Market & Deli", "Food & Drink", "Sun / cooler", "Creekside Market and Deli, Jackson, WY", False, "Sandwiches before heading into the parks."),
     ("Pearl Street Market (sloshies)", "Food & Drink", "Thu", "Pearl Street Market, Jackson, WY", False, "Friend's sloshie favorite; downtown quick hit."),
@@ -92,9 +95,10 @@ PLACES = [
     # --- Yellowstone National Park ---
     ("Yellowstone South Entrance", "Yellowstone NP", "Sat", "Yellowstone South Entrance, WY", False, "~1 hr from Jackson; our gate (unaffected by 2026 closures)."),
     ("Old Faithful", "Yellowstone NP", "Sat", "Old Faithful, Yellowstone National Park, WY", True, "Check predicted eruption (~90-min cycle)."),
-    ("Grand Prismatic Spring", "Yellowstone NP", "Sat", "Grand Prismatic Spring, Yellowstone, WY", True, "Most photographed; hike the overlook."),
-    ("Fairy Falls Trailhead (overlook)", "Yellowstone NP", "Sat", "Fairy Falls Trailhead, Yellowstone, WY", False, "Aerial view of Grand Prismatic."),
+    ("Grand Prismatic Spring", "Yellowstone NP", "Sat — skippable", "Grand Prismatic Spring, Yellowstone, WY", True, "The boardwalk. If you do the overlook, you can skip going close to it."),
+    ("Fairy Falls Trailhead (overlook)", "Yellowstone NP", "Sat — 1st stop", "Fairy Falls Trailhead, Yellowstone, WY", False, "Grand Prismatic overlook — do this FIRST, then skip the boardwalk below."),
     ("West Thumb Geyser Basin", "Yellowstone NP", "Sat", "West Thumb Geyser Basin, Yellowstone, WY", True, "On the way back; quick and worth it."),
+    ("Emerald Spring (Norris)", "Yellowstone NP", "🚫 Next trip", "Emerald Spring, Norris Geyser Basin, Yellowstone, WY", False, "Jeremy's favorite pool — but it's Norris, well past our 3 PM turnaround."),
     ("Norris Geyser Basin", "Yellowstone NP", "🚫 Next trip", "Norris Geyser Basin, Yellowstone, WY", True, "Hottest, most active; Steamboat Geyser. Too far for our Sat window."),
     ("Mammoth Hot Springs", "Yellowstone NP", "🚫 Next trip", "Mammoth Hot Springs, Yellowstone, WY", True, "Travertine terraces (far north). Too far for our Sat window."),
     ("Artists' Paintpots", "Yellowstone NP", "🚫 Next trip", "Artists Paintpots, Yellowstone, WY", False, "Accessible, less crowded. Too far for our Sat window."),

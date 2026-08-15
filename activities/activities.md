@@ -43,12 +43,20 @@
 
 | Feature | Location | Fits Saturday? | Notes |
 |---|---|---|---|
-| Old Faithful | Upper Geyser Basin | ✅ on the plan | Erupts every ~90 min; boardwalk loop around the basin is excellent |
-| Grand Prismatic Spring | Midway Geyser Basin | ✅ on the plan | Most photographed in the park; hike the overlook trail for the aerial view |
-| West Thumb Geyser Basin | South, on Yellowstone Lake | ✅ on the plan | Right on the way back; quick and worth it |
+| Grand Prismatic **overlook** | Midway Geyser Basin | ✅ **first stop** | Fairy Falls trail, aerial view. Do this *before* Old Faithful — beats the midday crowd |
+| Grand Prismatic **boardwalk** | Midway Geyser Basin | ◻️ skippable | **If you do the overlook, skip going close to it** (Jeremy's tip) — that's a full stop's worth of time back on our tightest day |
+| Old Faithful | Upper Geyser Basin | ✅ on the plan | Erupts every ~90 min; worth a couple of hours with the basin loop while you wait for the predicted time |
+| West Thumb Geyser Basin | South, on Yellowstone Lake | ✅ on the plan | Right on the way back; geysers next to the lake; our cooler-lunch stop |
+| Emerald Spring | Norris Geyser Basin | 🚫 too far | Jeremy's favorite of the thermal pools, and he's probably right — but it's Norris, well past our turnaround |
 | Norris Geyser Basin | Central | 🚫 too far | Most active and hottest; Steamboat Geyser is world's tallest active geyser |
 | Mammoth Hot Springs | North | 🚫 too far | Colorful travertine terraces; constantly changing formations |
 | Artists' Paintpots | Central | 🚫 too far | Fun, accessible, less crowded |
+
+> **Jeremy Galiano's full route, and where ours diverges.** A frequent-visitor rec came in on 8/15 and it's the best routing advice we've gotten: *South Entrance → left toward Old Faithful → **Grand Prismatic overlook first** → back to Old Faithful for a couple of hours → then north past Grand Prismatic to Emerald Spring → the **canyon waterfalls** → back south to West Thumb.*
+>
+> **We've adopted the first half exactly** — the overlook-first ordering and the skip-the-boardwalk tip are now the Saturday plan in `/itinerary`. **We can't take the second half.** Emerald Spring (Norris) and the canyon are both ~1.5–2 hrs *further* north from Old Faithful, and we're on a hard 3 PM turnaround for the LSU game. Jeremy's route is a full day in the park; ours is a half day with a kickoff at the end of it. Everything past Grand Prismatic is next-trip.
+>
+> 🎧 He also passed the **Shaka Guide "Yellowstone National Park Tour"** audio driving tour — it covers this South-Entrance loop and **runs offline once downloaded**, which is exactly right for a park with no cell service. Download it before Saturday.
 
 ### Wildlife
 
@@ -60,7 +68,7 @@
 ### Scenic Drives & Overlooks
 
 - **Grand Loop Road** — the figure-eight that connects all major areas; we only touch the lower-left segment (South Entrance → West Thumb → Old Faithful)
-- 🚫 **Grand Canyon of the Yellowstone** — Upper and Lower Falls; Artist Point is the iconic view — adding it blows the 3 PM return
+- 🚫 **Grand Canyon of the Yellowstone** — Upper and Lower Falls; Artist Point is the iconic view. Jeremy calls the waterfalls "can't miss" and he's right — but they're ~1.5 hrs past Old Faithful, and adding them blows the 3 PM return with a 5:30 kickoff waiting. The honest trade: the canyon or the LSU game, not both
 - 🚫 **Mount Washburn** — 6.4 mi RT hike or drive to the lookout tower; stunning 360° views — central park, too far
 - 🚫 **Beartooth Highway** — one of the most scenic roads in America, but it exits the **opposite** side of the park via Cooke City. Next trip
 
@@ -87,5 +95,5 @@
 
 - [x] Snake River **whitewater** rafting — booked ✅ (JHWW, Friday 1 PM; see `/logistics`). The *scenic* float is a separate product and there's no open window for it this trip
 - [x] Wildlife guide — covered ✅ by the booked Friday 8 AM JHWW van tour through Grand Teton
-- [ ] Teton Village tram — no reservation needed to ride, but **buy tickets in advance online** (months out for peak days); check fall operating hours/dates since late-Sept is shoulder season
+- [ ] Teton Village tram — no reservation needed to ride, but **buy tickets in advance online** *(by **9/7**, before anyone flies)*; check fall operating hours/dates on jacksonhole.com (JHMR publishes the fall calendar each summer). ✅ **Better odds than we'd assumed** — the 8/15 word from town is that **shoulder season now starts in October and September is one of the busier months**, so a running tram is the likely case, not the coin flip these docs were treating it as. **If the tram isn't running — or nobody buys tickets — Sunday afternoon defaults to downtown Jackson plus the early Dornan's dinner already on the day.** The plan loses a highlight, not a block
 - [ ] Fishing guide — only if someone wants to trade away a slotted block (the schedule is full); September is prime season, so book early if so

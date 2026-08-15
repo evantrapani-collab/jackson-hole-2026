@@ -24,5 +24,7 @@ Trip-planning repo for a 13-person Jackson Hole / Yellowstone trip, **Sep 17–2
   - Saturday: Yellowstone via the **South Entrance only**, back by ~3 PM for the 5:30 PM LSU game. Anything past Old Faithful / West Thumb doesn't fit.
   - Sunday: 6:30 AM wildlife drive, Saints game at 11 AM MT.
   - Headcount is **locked at 13**; lodging is booked (Montreux House, Teton Village).
+- Every open decision carries a **default that holds with zero action** (README → *Decision Defaults*, mirrored on the dashboard's Crew tab). When you add an open item, add what happens if nobody does anything.
+- `RUBRIC.md` is a **maintainer's scorecard, not trip content** — re-grade it when plan content changes materially, but never link it or quote a score from `index.html` or the README.
 - Reference content that doesn't fit the schedule stays in the docs but gets triaged honestly (see the 🚫 flags in `activities.md` and the "triaged against our schedule" section in `dining.md`) rather than deleted.
 - Times are Mountain Time unless marked CT.

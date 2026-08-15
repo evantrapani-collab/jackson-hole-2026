@@ -51,10 +51,9 @@
 ## Lodging
 
 - **Airbnb (Montreux House)** — booked ✅
-- $500 deposit to @DrewesPT on Venmo — paid ✅ (by most; see the ledger)
-- ✅ **Final number posted 8/10: $784.14/man**, lodging **+ van tour + rafting** combined. Send that minus what you've already sent Drewes → **@DrewesPT**. Per-man ledger in [`/budget`](../budget/budget.md#the-ledger--what-each-man-still-owes)
+- ✅ **Paid in full — $784.14/man**, lodging **+ van tour + rafting** combined, collected from all 13 by **8/15**. Nothing left to send. Ledger in [`/budget`](../budget/budget.md#the-ledger--settled)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
-- [ ] **Confirm check-in + checkout times** with the host — the flight lands 10:19 AM but Airbnb check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight
+- [ ] **Confirm check-in + checkout times** *(Owner: **Drewes**, by **8/22** — he booked the house, and RMR takes questions from the guest of record)*. The flight lands 10:19 AM but check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight. **Default if the call never happens: mid-afternoon check-in, ~10 AM checkout** — which is exactly what the Thursday and Monday plans already assume, so silence changes nothing
 
 ---
 
@@ -65,7 +64,7 @@ Contract is signed. Key details:
 | Detail | Info |
 |---|---|
 | What's included | Private van + private boat for the group |
-| Payment | **Chris Drewes collects from the crew closer to the trip**; final per-person amount depends on final headcount (13). No individual action needed now. |
+| Payment | ✅ **Paid** — never a separate collect. The van tour + rafting are inside the **$784.14/man** figure, settled by all 13 on 8/15; ledger in [`/budget`](../budget/budget.md#the-ledger--settled) |
 | Cancellation | Full refund if cancelled 7+ days out |
 
 ### Day-of Details (Friday)
@@ -111,7 +110,7 @@ Contract is signed. Key details:
 
 - **So: if you're at 12 seats, add a third small car at the JAC counter on Thursday.** Avis, Hertz, Enterprise and National all have in-terminal counters at JAC. Ballpark **$400–500 for the 4 days ÷ 13 ≈ $35/person** — noise against a ~$1,200 trip, and it un-pinches the luggage squeeze on both airport legs as a bonus.
 - **Hardie + Schick hit the rental counter before baggage claim** (already the plan) — that's the moment you learn the seat count, and the moment to add the third car. Don't wait until everyone's standing in the lot with bags.
-- Mid-September is shoulder season, so JAC inventory is usually there — but it's a small airport. If nothing's available, the fallback is renting from a Jackson agency in town during the Thursday midday window.
+- ⚠️ **Don't count on quiet-season inventory.** We'd assumed mid-September was shoulder season at JAC; the Cowboy Steakhouse told us (8/15) that **shoulder season now starts in October and September is one of their busier months.** Restaurants aren't rental counters, but it's the same tourist curve — so treat a third car at JAC as *likely* available, not guaranteed. If nothing's on the lot, the fallback is renting from a Jackson agency in town during the Thursday midday window, and the fallback to *that* is a second run on the airport legs plus splitting the park days across two departures.
 - ✅ **Decided: two SUVs only — no 3rd vehicle.** The crew is fine with the tight fit on the two airport-transfer days (13 guys + bags). Yellowstone day is daypacks only, so two is plenty there. A **cargo carrier** stays on the table only as the fallback if the Explorer's 3rd row doesn't check out.
 - Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze. Same goes for air mattresses — they pack down, but they're cargo.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
@@ -134,11 +133,17 @@ Contract is signed. Key details:
 ## National Park Entry
 
 - ✅ **Confirmed (2026): neither park requires a timed-entry/vehicle reservation** — just drive up and pay at the gate. No advance permit to book.
-- **America the Beautiful Pass** ($80/vehicle/year) — covers both parks; worth it if anyone already has one
-- **Per-vehicle fee** — $35 each for Grand Teton and Yellowstone if no pass
-- With 13 guys in multiple vehicles, having a pass per vehicle saves money
+- ✅ **Default: pay at the gate.** Run the numbers for *our* trip and the pass loses:
+
+| Option | Math | Cost |
+|---|---|---|
+| **Pay at the gate** | 2 vehicles × 2 parks × $35 | **$140** |
+| America the Beautiful | 2 passes × $80 (a pass covers one vehicle) | $160 |
+
+- So the only thing worth asking is: **does anybody already own an ATB pass?** One question in the group chat (**by 9/7**). If yes, that vehicle rides free and the other pays $70 at the gates
+- If someone does want to buy one anyway, grab it on Recreation.gov in advance rather than at the booth — the line at the South Entrance is the cost, not the $80
 - **2026 note:** Yellowstone has bridge-construction delays at the **North and Northeast entrances** — not on our route. We use the **South Entrance**, which is unaffected.
-- [ ] **Assign a pass owner** — decide ATB pass vs. paying at the gate; if buying, grab it on Recreation.gov in advance to skip the line
+- [ ] **Ask the chat if anyone already has an ATB pass** *(by 9/7)* — that's the whole decision. Default is gate fees, and $140 comes out of the same pocket either way (~$11/man)
 
 ---
 
@@ -161,9 +166,9 @@ Contract is signed. Key details:
 ## Safety & Emergency
 
 - **Nearest hospital:** **St. John's Health**, 625 E Broadway, Jackson — 24-hr ER, ~25 min from the house. Write it down; there's no cell service in the parks. Relevant with rafting + hiking on the slate.
-- **Bear spray:** need **2+ canisters (~$50 each)**, one per vehicle — buy in Jackson (can't fly with it). Assign an owner; fits the Thursday arrival window.
+- **Bear spray:** need **2+ canisters (~$50 each)**, one per vehicle — buy in Jackson (can't fly with it). **Default: it rides on the Thursday grocery run and goes on the grocery bill** (~$8/man across 13), so it belongs to the trip Psilos is already making rather than to nobody. If Thursday gets away from us, Jackson's outdoor shops and both parks' visitor centers stock it — the fallback is a stop, not a hole.
 - **Travel insurance:** decide yes/no before the trip (on the packing checklist, not yet settled).
-- **Thursday night ride plan:** Mangy Moose (last stop) is in Teton Village, walkable from the house. The sober-driver leg is the **downtown Jackson → Teton Village drive (~20 min)** after the Cowboy Bar — name designated drivers per SUV for that hop or arrange rides in advance (late-night rideshare in Jackson is thin).
+- **Thursday night ride plan — DDs: Hardie and Schick (default).** Mangy Moose, the last stop, is in Teton Village and walkable from the house, so exactly **one leg needs a sober driver**: the **downtown Jackson → Teton Village drive (~20 min)** after the Cowboy Bar. The two of them are the only names on the rental agreements, which means they're the only two insured to drive those SUVs — that decides it by default. Anyone else who wants to take a shift has to be **added as an authorized driver at the JAC counter Thursday** (typically a small per-day fee), which is a 60-second ask while you're already standing there. Say the plan out loud at the house before you leave; late-night rideshare in Jackson is thin and expensive.
 - **Wyoming non-emergency / dispatch:** 911 for emergencies; rangers reachable at park visitor centers.
 
 ---
@@ -182,37 +187,42 @@ Contract is signed. Key details:
 - [x] **Decided: 2 rental cars is enough — no 3rd vehicle** (soft-sided bags recommended for the airport-transfer days)
 - [x] ✅ **Explorer 3rd row — decided: not verifying in advance.** We learn the seat count at the JAC counter Thursday and handle it there. Counter plan written up under *Getting Around* — the one case that doesn't self-solve is the park days
 - [x] Friday dinner venue — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`). Menu still open, see Aug → Sep 10
-- [ ] Confirm Airbnb check-in time with the host — sizes the Thursday midday gap
+- [ ] **The RMR call** *(Owner: Drewes — guest of record — by 8/22)*: check-in + checkout times, a rollaway/cot for Ciolino, and the grill/propane. One call, three answers, all three with defaults that hold if it never happens
 
-### Now — 💵 settle up with Drewes
-- [ ] **$784.14/man, minus whatever you've already sent him** → **@DrewesPT** on Venmo. Covers lodging + van tour + rafting; final payments to the VRBO and the adventure company are hitting now. ⚠️ Austin + Solak sent **Gunter** $250 on 3/12, not Drewes — confirm with Drewes before sending. Per-man ledger in `/budget`
+### Now — 💵 money: ✅ done
+- [x] **$784.14/man — paid by all 13 (8/15).** Covers lodging + van tour + rafting; Drewes is whole on the VRBO and the outfitter. The Gunter $250 question closed with it. Ledger in `/budget`
+- [ ] **Cowboy Steakhouse / Snake River Grill — reservation window opens 8/17** (30 days out; the one week the phone works for our dates). Default: nobody calls, house steak nights stand. Snake River Grill has a private room — see `/dining`
 
 ### August → Sep 10
 - [x] Room/bed assignments — ✅ decided: **picked on arrival**, not pre-assigned
-- [ ] ⭐ Confirm a sleeping surface for **Brad Ciolino** (call RMR re: sofa bed/cot) — or he packs an air mattress + pump; 6 beds can't cover 13, and there's no big-box store in Jackson
-- [ ] While on that RMR call: **confirm the grill + propane** — gas or charcoal, tank full? A dead tank under 13 ribeyes is the easiest way steak night goes sideways
+- [ ] **Ciolino packs an air mattress + pump** *(Owner: Ciolino — unconditional)*. The RMR rollaway question is an upgrade on this, not a substitute for it; 6 beds can't cover 13 and there's no big-box store in Jackson
+- [ ] **Grill + propane** — RMR on the phone, then eyeball it yourself Thursday at check-in. Dead tank → $25 exchange at Smith's; charcoal → 2 bags + a chimney; no grill → reverse-sear the ribeyes in the oven
 - [ ] Rafting **late-cancel rule** locked **by 9/10** (7-day refund cutoff) — the per-person number is settled ($784.14 all-in, collected up front), so what's left is who eats a drop-out's cost
-- [ ] **Friday dinner menu** — venue's locked (the house), but nobody's picked the food. Fajita/taco bar vs. one-pot — decide before handing Psilos a list
-- [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes + full list (ice, paper goods, coffee, drinks) — see `/dining`
-- [ ] Pick the Sunday dinner plan
-- [ ] **Steak night: Saturday (LSU) or Sunday (Saints)?** — doesn't change the grocery list, only the night. See `/dining`
+- [ ] **Friday dinner menu** — venue's locked (the house), but nobody's picked the food. Fajita/taco bar vs. one-pot — decide before handing Psilos a list; **defaults to the fajita bar** (its leftovers are Saturday's cooler lunch)
+- [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes + full list (ice, paper goods, coffee, drinks, **bear spray on the same bill**) — see `/dining`
+- [ ] Sunday dinner — **default: early Dornan's (~5 PM)**, backup the house; only action is confirming fall hours the week before. Void if steak night moves to Sunday
+- [ ] **Steak night: Saturday (LSU) or Sunday (Saints)?** — doesn't change the grocery list, only the night. **Default: Saturday**, and if it moves, Saturday drops to the house off grocery stock. See `/dining`
+- [ ] **Grill captain — default: Psilos** (he owns the meat). Two batches of ribeyes, hold the first in a 200°F oven
+- [ ] **Sunday Saints venue — default: the house cookout**; breweries (Snake River, Roadhouse) are the upgrade if the Thu/Fri recon likes them
 
 ### 1–2 Weeks Before
 - [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) is running Thu Sep 17** — it's Tier 1 of the misconnect playbook above; if it's not in the schedule, the fallback is fly-to-SLC-and-drive
 - [ ] **Identify who is NOT on the group itinerary** — they have no group rebooking protection; make sure they know Friday's van tour is past its refund window
 - [ ] Decide travel insurance (yes/no)
-- [ ] Confirm the Teton Village tram is running late-Sept (shoulder season) + buy tram tickets online — Sunday afternoon plan depends on it
-- [ ] Assign a bear-spray owner (2+ canisters, buy in Jackson)
+- [ ] **Tram — confirm late-Sept operating dates + buy tickets online** *(by 9/7)*. If it's down or nobody buys, Sunday afternoon defaults to downtown Jackson + the early Dornan's dinner already on the day
+- [ ] **Bear spray — 2+ canisters on the Thursday grocery bill** (default owner: the grocery run). Backstop: Jackson outdoor shops + park visitor centers
 - [ ] Decide on wetsuit rentals (weather-dependent)
 - [ ] Decide on rafting lunch (outfitter vs. Cutty's)
 - [ ] Finalize carpool / seat split across the **two** SUVs (3rd vehicle ruled out)
-- [ ] Download offline maps for Yellowstone
+- [ ] Download offline maps for Yellowstone + the **Shaka Guide "Yellowstone National Park Tour"** audio tour (covers our South-Entrance loop; works offline)
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
 - [ ] Print all confirmations + the Key Contacts table above (no cell service at the parks)
 - [ ] Write down emergency info (St. John's Health, Jackson)
 
 ### On Arrival (Thursday)
-- [ ] Grocery run — Smith's or Albertsons in Jackson (ribeyes, sides, drinks)
+- [ ] Grocery run — Smith's or Albertsons in Jackson (ribeyes, sides, drinks) **+ 2 bear-spray canisters on the same bill**
+- [ ] **Check the grill at check-in** — burner test + heft the propane tank while there's still a day of runway
+- [ ] **Name the two DDs out loud before leaving for downtown** — defaults to Hardie + Schick (the only insured drivers); add authorized drivers at the JAC counter if you want to rotate
 - [ ] Confirm Saturday game plan for Yellowstone timing
 
 ### Departure Day (Monday)
