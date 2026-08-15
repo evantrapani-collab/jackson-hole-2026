@@ -53,7 +53,8 @@
 - **Airbnb (Montreux House)** — booked ✅
 - ✅ **Paid in full — $784.14/man**, lodging **+ van tour + rafting** combined, collected from all 13 by **8/15**. Nothing left to send. Ledger in [`/budget`](../budget/budget.md#the-ledger--settled)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
-- [ ] **Confirm check-in + checkout times** *(Owner: **Drewes**, by **8/22** — he booked the house, and RMR takes questions from the guest of record)*. The flight lands 10:19 AM but check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight. **Default if the call never happens: mid-afternoon check-in, ~10 AM checkout** — which is exactly what the Thursday and Monday plans already assume, so silence changes nothing
+- ✅ **Check-in is 4:00 PM** *(confirmed 8/15)*. That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** Drewes has planted the seed with RMR, but it depends on the cleaning crew and a Wednesday checkout, and **they may charge to lock it in early**. Play it by ear; build the day for 4 PM.
+- [ ] **Still to confirm on the RMR call** *(Owner: **Drewes**, by **8/22**)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino, and the grill + propane
 
 ---
 
@@ -187,7 +188,7 @@ Contract is signed. Key details:
 - [x] **Decided: 2 rental cars is enough — no 3rd vehicle** (soft-sided bags recommended for the airport-transfer days)
 - [x] ✅ **Explorer 3rd row — decided: not verifying in advance.** We learn the seat count at the JAC counter Thursday and handle it there. Counter plan written up under *Getting Around* — the one case that doesn't self-solve is the park days
 - [x] Friday dinner venue — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`). Menu still open, see Aug → Sep 10
-- [ ] **The RMR call** *(Owner: Drewes — guest of record — by 8/22)*: check-in + checkout times, a rollaway/cot for Ciolino, and the grill/propane. One call, three answers, all three with defaults that hold if it never happens
+- [ ] **The RMR call** *(Owner: Drewes — guest of record — by 8/22)*: ✅ check-in answered (**4 PM**); still open are **checkout time**, a rollaway/cot for Ciolino, and the grill/propane. Each has a default that holds if the call never happens
 
 ### Now — 💵 money: ✅ done
 - [x] **$784.14/man — paid by all 13 (8/15).** Covers lodging + van tour + rafting; Drewes is whole on the VRBO and the outfitter. The Gunter $250 question closed with it. Ledger in `/budget`

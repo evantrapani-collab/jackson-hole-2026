@@ -4,7 +4,8 @@
 
 | Meal | Spot | Day | Notes |
 |---|---|---|---|
-| Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square — quick downtown hit |
+| **Thursday lunch** | **Dornan's (Moose)** 🆕 | Thu | ~8 min from JAC — the arrival stop: pizza, beer, Tetons, acclimate to 6,200 ft before town. *(Drewes's plan, 8/15)* |
+| Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square. ⚠️ **Squeezed by the new afternoon plan** — Dornan's → brewery → gondola → 4 PM check-in leaves no downtown-lunch window. Grab it while you're in town at the brewery, or Sunday afternoon |
 | Friday breakfast | The Bunnery | Fri AM | Pastries/coffee grab-and-go on the way to the 8 AM van tour |
 | Friday coffee | Cowboy Coffee Co. | Fri AM | Downtown Jackson (town square) — grab on the way out to the van tour/rafting; **a must** |
 | Early-start breakfast | Breakfast burritos (house stash) | Sat/Sun AM | Order a batch to keep at the house; reheat for the 7 AM Yellowstone + 6:30 AM wildlife-drive starts |
@@ -98,7 +99,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - In **Moose, WY**, right at the Grand Teton park boundary on the Snake River — **~25 min from Teton Village**, basically next to Schwabacher Landing
 - The draw is the **upstairs deck**: pizza, pasta, and beer with an unobstructed, straight-on view of the Tetons — one of the best casual views in the valley
 - Genuinely casual — boots, no reservations, big-group friendly; pair it with the adjacent **Dornan's Wine Shoppe** (deep list, surprisingly good)
-- **Best fit:** Sunday lunch/early dinner after the morning wildlife drive, since you're already on that side of the park — or any time a low-key meal with a view beats fighting for a table in town
+- **Best fit:** now **two** slots are in play — **(1) Thursday arrival lunch**, since it's ~8 min from JAC and check-in isn't until 4 PM (Drewes's plan), and **(2) Sunday lunch/early dinner** after the morning wildlife drive, when you're already on that side of the park. ⚠️ **Doing both means eating here twice** — fine if that's the call, but if Thursday happens, re-pick Sunday's dinner deliberately rather than by accident
 - Confirm fall hours before you go (Moose can run shorter fall schedules — though September is a busy month here, so a full schedule is likelier)
 - **~8 minutes from JAC**, in the opposite direction from town — which is what makes it a candidate for the Thursday arrival stop, not just Sunday
 
@@ -306,7 +307,7 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 There's no full-size grocery in Teton Village, so the alternative to driving into Jackson is delivery. For **13 guys**, the smart play is a **hybrid**: pre-stock the bulk so the house is loaded on arrival, call the butcher to lock the ribeyes, and keep an app on standby for mid-trip restocks.
 
 **Tier 1 — Pre-arrival stocking (recommended for the group)**
-Shoppers fill the fridge *before you walk in* — ideal since Thursday lands 10:19 AM with a packed midday window before mid-afternoon check-in.
+Shoppers fill the fridge *before you walk in* — and with **check-in confirmed at 4:00 PM** and the afternoon now spoken for (Dornan's → brewery → gondola), this is the option that makes Thursday work without anyone pushing a cart. **This is the recommended play now, not just an option.**
 - **Jackson Hole Grocery Delivery (Snap Pea)** — built for vacation rentals; works with local property managers to stock before arrival; curated "vacation-ready" packages to speed up the list.
 - **Mountains of Groceries** — full personal-shopper service. Pricing: **$45/delivery + 30% of the food bill + 8% processing fee + sales tax** (the 30% adds up on a 13-person haul — price it first).
 - **RMR concierge** — our property manager (Rendezvous Mountain Rentals). No published grocery service, but they handle pre-arrival coordination and paid add-ons; a manager letting a shopper in early is exactly how pre-stock works. Ask directly: **(307) 739-9050 / lodging@rmrentals.com**.

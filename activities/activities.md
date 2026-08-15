@@ -29,6 +29,7 @@
 ### Other
 
 - **Teton Village Aerial Tram** — rides to the summit of Rendezvous Mountain (10,450 ft); no hiking required. At the top, **Corbet's Cabin** serves the famous waffles (try the brown sugar & butter) — earn the view, then eat. Walkable from the house, so an easy slot on the Sunday afternoon "explore" window
+- **Bridger Gondola** — the *other* Teton Village lift, to mid-mountain rather than the summit. ⚠️ **These are two different rides and the plan now touches both:** Drewes's Thursday afternoon includes "the gondola" before the 4 PM check-in, and Sunday's block is the **tram** for the Corbet's waffles. Worth confirming which lift Thursday means — if Thursday ends up on the tram, **Sunday needs a different afternoon**, because nobody wants to pay for the same ride twice
 - **Horseback riding** — several outfitters offer half-day and full-day rides; friend rec: **Spring Creek Ranch** ("loved my ride") — book in advance. Only fits if we trade away a slotted block
 - **Mountain biking** — extensive trail network around Jackson and Teton Village
 - **Paragliding** — tandem flights off Teton Village; bucket-list experience
