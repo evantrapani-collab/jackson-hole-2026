@@ -7,7 +7,7 @@ Tap a link → it opens the place in Google Maps → **Save** → pick
 Boxes marked _(already in your list)_ are the ones visible in your
 current 19 pins — skip those.
 
-**75 places total.**
+**79 places total.**
 
 ## Lodging & Logistics
 
@@ -16,6 +16,7 @@ current 19 pins — skip those.
 - [ ] [St. John's Health (hospital)](https://www.google.com/maps/search/?api=1&query=St.+John%27s+Health%2C+625+E+Broadway%2C+Jackson%2C+WY) — Nearest 24-hr ER, ~25 min from the house.
 - [ ] [Smith's Food and Drug](https://www.google.com/maps/search/?api=1&query=Smith%27s+Food+and+Drug%2C+Jackson%2C+WY) — Grocery run on arrival (ribeyes, sides).
 - [ ] [Albertsons](https://www.google.com/maps/search/?api=1&query=Albertsons%2C+Jackson%2C+WY) — Grocery alternative to Smith's.
+- [ ] [Jackson Whole Grocer](https://www.google.com/maps/search/?api=1&query=Jackson+Whole+Grocer%2C+Jackson%2C+WY) — Third grocery/butcher option if Albertsons and Smith's are out of Prime.
 
 ## Food & Drink
 
@@ -50,6 +51,8 @@ current 19 pins — skip those.
 - [ ] [Bin22](https://www.google.com/maps/search/?api=1&query=Bin22%2C+Jackson%2C+WY) — Wine bar + tapas; too small for 13 — pre-dinner stop.
 - [ ] [Coe Tavern](https://www.google.com/maps/search/?api=1&query=Coe+Tavern%2C+Jackson%2C+WY) — Rooftop drinks + snacks; pre-dinner stop.
 - [ ] [Roadhouse Brewing Co.](https://www.google.com/maps/search/?api=1&query=Roadhouse+Brewing+Co%2C+Jackson%2C+WY) — Big enough to seat all 13 without a reservation — top Saints-game option; great happy hour Thursday.
+- [ ] [Sidewinders Tavern](https://www.google.com/maps/search/?api=1&query=Sidewinders+Tavern%2C+Jackson%2C+WY) — Sports tavern just down from Teton Village — closest game-watching option to the house (Jeremy rec).
+- [ ] [The Verge](https://www.google.com/maps/search/?api=1&query=The+Verge%2C+Jackson%2C+WY) — Liquor in front, dive bar in back (AJAX rec). Bar-crawl flavor, not a dinner.
 - [ ] [D.O.G.](https://www.google.com/maps/search/?api=1&query=D.O.G.%2C+Jackson%2C+WY) — Friend's burrito pick; bulk-order option for the early-start stash.
 - [ ] [Creekside Market & Deli](https://www.google.com/maps/search/?api=1&query=Creekside+Market+and+Deli%2C+Jackson%2C+WY) — Sandwiches before heading into the parks.
 - [ ] [Pearl Street Market (sloshies)](https://www.google.com/maps/search/?api=1&query=Pearl+Street+Market%2C+Jackson%2C+WY) — Friend's sloshie favorite; downtown quick hit.
@@ -80,9 +83,10 @@ current 19 pins — skip those.
 
 - [ ] [Yellowstone South Entrance](https://www.google.com/maps/search/?api=1&query=Yellowstone+South+Entrance%2C+WY) — ~1 hr from Jackson; our gate (unaffected by 2026 closures).
 - [ ] [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful%2C+Yellowstone+National+Park%2C+WY) _(already in your list)_ — Check predicted eruption (~90-min cycle).
-- [ ] [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring%2C+Yellowstone%2C+WY) _(already in your list)_ — Most photographed; hike the overlook.
-- [ ] [Fairy Falls Trailhead (overlook)](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Trailhead%2C+Yellowstone%2C+WY) — Aerial view of Grand Prismatic.
+- [ ] [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring%2C+Yellowstone%2C+WY) _(already in your list)_ — The boardwalk. If you do the overlook, you can skip going close to it.
+- [ ] [Fairy Falls Trailhead (overlook)](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Trailhead%2C+Yellowstone%2C+WY) — Grand Prismatic overlook — do this FIRST, then skip the boardwalk below.
 - [ ] [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — On the way back; quick and worth it.
+- [ ] [Emerald Spring (Norris)](https://www.google.com/maps/search/?api=1&query=Emerald+Spring%2C+Norris+Geyser+Basin%2C+Yellowstone%2C+WY) — Jeremy's favorite pool — but it's Norris, well past our 3 PM turnaround.
 - [ ] [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Hottest, most active; Steamboat Geyser. Too far for our Sat window.
 - [ ] [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs%2C+Yellowstone%2C+WY) _(already in your list)_ — Travertine terraces (far north). Too far for our Sat window.
 - [ ] [Artists' Paintpots](https://www.google.com/maps/search/?api=1&query=Artists+Paintpots%2C+Yellowstone%2C+WY) — Accessible, less crowded. Too far for our Sat window.

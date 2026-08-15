@@ -51,8 +51,7 @@
 ## Lodging
 
 - **Airbnb (Montreux House)** — booked ✅
-- $500 deposit to @DrewesPT on Venmo — paid ✅ (by most; see the ledger)
-- ✅ **Final number posted 8/10: $784.14/man**, lodging **+ van tour + rafting** combined. Send that minus what you've already sent Drewes → **@DrewesPT**. Per-man ledger in [`/budget`](../budget/budget.md#the-ledger--what-each-man-still-owes)
+- ✅ **Paid in full — $784.14/man**, lodging **+ van tour + rafting** combined, collected from all 13 by **8/15**. Nothing left to send. Ledger in [`/budget`](../budget/budget.md#the-ledger--settled)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
 - [ ] **Confirm check-in + checkout times** *(Owner: **Drewes**, by **8/22** — he booked the house, and RMR takes questions from the guest of record)*. The flight lands 10:19 AM but check-in is usually mid-afternoon (the exact time sizes the Thursday midday gap: grocery + bear spray + downtown lunch). Checkout sets the Monday exit: plan to be **out by ~9:45 AM** for the 11:47 flight. **Default if the call never happens: mid-afternoon check-in, ~10 AM checkout** — which is exactly what the Thursday and Monday plans already assume, so silence changes nothing
 
@@ -65,7 +64,7 @@ Contract is signed. Key details:
 | Detail | Info |
 |---|---|
 | What's included | Private van + private boat for the group |
-| Payment | ✅ **Settled 8/10** — no separate collect. The van tour + rafting are inside the single **$784.14/man** figure Drewes posted; per-man ledger in [`/budget`](../budget/budget.md#the-ledger--what-each-man-still-owes) |
+| Payment | ✅ **Paid** — never a separate collect. The van tour + rafting are inside the **$784.14/man** figure, settled by all 13 on 8/15; ledger in [`/budget`](../budget/budget.md#the-ledger--settled) |
 | Cancellation | Full refund if cancelled 7+ days out |
 
 ### Day-of Details (Friday)
@@ -111,7 +110,7 @@ Contract is signed. Key details:
 
 - **So: if you're at 12 seats, add a third small car at the JAC counter on Thursday.** Avis, Hertz, Enterprise and National all have in-terminal counters at JAC. Ballpark **$400–500 for the 4 days ÷ 13 ≈ $35/person** — noise against a ~$1,200 trip, and it un-pinches the luggage squeeze on both airport legs as a bonus.
 - **Hardie + Schick hit the rental counter before baggage claim** (already the plan) — that's the moment you learn the seat count, and the moment to add the third car. Don't wait until everyone's standing in the lot with bags.
-- Mid-September is shoulder season, so JAC inventory is usually there — but it's a small airport. If nothing's available, the fallback is renting from a Jackson agency in town during the Thursday midday window.
+- ⚠️ **Don't count on quiet-season inventory.** We'd assumed mid-September was shoulder season at JAC; the Cowboy Steakhouse told us (8/15) that **shoulder season now starts in October and September is one of their busier months.** Restaurants aren't rental counters, but it's the same tourist curve — so treat a third car at JAC as *likely* available, not guaranteed. If nothing's on the lot, the fallback is renting from a Jackson agency in town during the Thursday midday window, and the fallback to *that* is a second run on the airport legs plus splitting the park days across two departures.
 - ✅ **Decided: two SUVs only — no 3rd vehicle.** The crew is fine with the tight fit on the two airport-transfer days (13 guys + bags). Yellowstone day is daypacks only, so two is plenty there. A **cargo carrier** stays on the table only as the fallback if the Explorer's 3rd row doesn't check out.
 - Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze. Same goes for air mattresses — they pack down, but they're cargo.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive
@@ -190,8 +189,9 @@ Contract is signed. Key details:
 - [x] Friday dinner venue — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`). Menu still open, see Aug → Sep 10
 - [ ] **The RMR call** *(Owner: Drewes — guest of record — by 8/22)*: check-in + checkout times, a rollaway/cot for Ciolino, and the grill/propane. One call, three answers, all three with defaults that hold if it never happens
 
-### Now — 💵 settle up with Drewes
-- [ ] **$784.14/man, minus whatever you've already sent him** → **@DrewesPT** on Venmo. Covers lodging + van tour + rafting; final payments to the VRBO and the adventure company are hitting now. ⚠️ Austin + Solak sent **Gunter** $250 on 3/12, not Drewes — confirm with Drewes before sending. Per-man ledger in `/budget`
+### Now — 💵 money: ✅ done
+- [x] **$784.14/man — paid by all 13 (8/15).** Covers lodging + van tour + rafting; Drewes is whole on the VRBO and the outfitter. The Gunter $250 question closed with it. Ledger in `/budget`
+- [ ] **Cowboy Steakhouse / Snake River Grill — reservation window opens 8/17** (30 days out; the one week the phone works for our dates). Default: nobody calls, house steak nights stand. Snake River Grill has a private room — see `/dining`
 
 ### August → Sep 10
 - [x] Room/bed assignments — ✅ decided: **picked on arrival**, not pre-assigned
@@ -214,7 +214,7 @@ Contract is signed. Key details:
 - [ ] Decide on wetsuit rentals (weather-dependent)
 - [ ] Decide on rafting lunch (outfitter vs. Cutty's)
 - [ ] Finalize carpool / seat split across the **two** SUVs (3rd vehicle ruled out)
-- [ ] Download offline maps for Yellowstone
+- [ ] Download offline maps for Yellowstone + the **Shaka Guide "Yellowstone National Park Tour"** audio tour (covers our South-Entrance loop; works offline)
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
 - [ ] Print all confirmations + the Key Contacts table above (no cell service at the parks)
 - [ ] Write down emergency info (St. John's Health, Jackson)

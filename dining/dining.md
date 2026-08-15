@@ -99,7 +99,8 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - The draw is the **upstairs deck**: pizza, pasta, and beer with an unobstructed, straight-on view of the Tetons — one of the best casual views in the valley
 - Genuinely casual — boots, no reservations, big-group friendly; pair it with the adjacent **Dornan's Wine Shoppe** (deep list, surprisingly good)
 - **Best fit:** Sunday lunch/early dinner after the morning wildlife drive, since you're already on that side of the park — or any time a low-key meal with a view beats fighting for a table in town
-- Confirm fall hours before you go (Moose runs on shorter shoulder-season schedules)
+- Confirm fall hours before you go (Moose can run shorter fall schedules — though September is a busy month here, so a full schedule is likelier)
+- **~8 minutes from JAC**, in the opposite direction from town — which is what makes it a candidate for the Thursday arrival stop, not just Sunday
 
 ## Sunday Saints Game — Cutty's / Eleanor's / a Brewery / House Cookout
 
@@ -113,6 +114,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
   - Nobody's TV setup is great, but **Roadhouse and Snake River are the best bets** for actually watching the game
 - **Psilos's plan:** run a Thursday/Friday recon pass to check the real TV/seating situation before picking — LSU (the Ole Miss undercard) should be the easier of the two games to place
 - ✅ **Default: the house cookout.** It owns the TV, the full Sunday slate (RedZone and the late window, not just the Saints), needs no reservation and no 13-top anywhere, and doesn't put anyone in a car after an 11 AM kickoff. **Snake River Brewing or Roadhouse are the upgrade** if the recon likes their setup — but if the recon never happens, the day still has an answer
+- 🆕 **Add Sidewinders to the recon list** *(Jeremy, 8/15)* — a sports tavern **just down from Teton Village**, good food and drinks at reasonable prices. Nobody's TV setup among the breweries is great, and this is the one option built for watching games *and* the closest to the house. If the recon likes it, it beats driving into Jackson on a game morning
 - Monday 11:47 AM departure means Sunday night should stay reasonable
 
 ---
@@ -168,7 +170,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 
 ## Ribeye Night — the grocery side (night-agnostic)
 
-- **Steaks:** 24 oz bone-in ribeyes — buy at **Smith's** or **Albertsons** in Jackson (best prices)
+- **Steaks: start at Albertsons.** Local read (Austin's BIL, 8/15): **Albertsons is usually the one carrying Prime** — go there first for 13 × 24 oz bone-in, and fall back to **Smith's** or **Jackson Whole Grocer** if Albertsons is out of Prime that week. *(The note said "WF"; Jackson has no Whole Foods, and Jackson Whole Grocer is the store that fits — worth a look at the case either way.)* This flips the old "Smith's or Albertsons, whichever" guidance: **call the Albertsons butcher first.**
 - **Owner: Chris Psilos** — locks the butcher order and the buy vs. pre-stock method
 - Buy groceries **Thursday on arrival** so you're not scrambling Saturday after Yellowstone
 - **Grill captain — default: Psilos.** He owns the meat and has to be in the kitchen anyway; anybody takes the tongs off him by saying so out loud
@@ -189,13 +191,22 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 
 > **Reservations call (group chat, 8/11):** the Cowboy Steakhouse and Snake River Grill only take reservations **~30 days out**; as of 8/11 we're **37 days out** — a week too early to even try. Chris D. is fine passing on chasing a group reservation and sticking with house steak nights + casual spots on the fly. Practical effect: expect **splitting into 2 tables/groups** at any unreserved casual spot — Austin flags this as the norm for our size; **Snake River Brewing and Roadhouse Brewery are the two big enough that the full group can typically walk in and get seated together.**
 
+> ### ⏰ The window opens **8/17** — and two things changed the math
+>
+> The 30-day line from Sep 17 lands on **8/17–8/18**. That's the week the phone works for our dates, and after it passes the option closes on its own.
+>
+> - ⚠️ **"Shoulder season" now starts in *October* — September is one of their busier months.** That's straight from the Cowboy Steakhouse, and it undercuts the assumption running through these docs that late September is a quiet walk-in month. It doesn't change anything we've *booked*, but it does mean a 13-top walking into a good restaurant on a Saturday night in September is a worse bet than we'd been treating it as. (Good news for the tram and Dornan's hours, though — a busier September makes both *more* likely to be running full schedules.)
+> - 🏠 **Snake River Grill has a private room** *(Austin's brother-in-law)*. That's the single thing that makes a 13-top easy instead of awkward, and it's the only room anyone's turned up.
+>
+> **Default: nobody calls, and the house steak nights stand** — that's already the crew's decision and it needs no action. But if anyone wants one real western sit-down (Thursday dinner, or the Saturday replacement if steak night moves to Sunday), **8/17 is the week to call**, and Snake River Grill's room is the reason to call them first.
+
 **Easy adds (low effort, fit the existing days)**
 - **Jackson Drug** — famous huckleberry shake, on the town square. Perfect quick hit **Thursday** while bar-hopping, or any time we're downtown. No reservation, no commitment.
 - **The Bunnery** — fresh pastries/breakfast on the square. Good grab-and-go **Friday morning** coffee/breakfast *on the way to the 8 AM van tour* (they tell you to eat on the way), or a relaxed Monday pre-flight bite.
 - **Leek's Pizzeria** — casual pizza at Leek's Marina on Jackson Lake, up near Colter Bay (~40 min north, in Grand Teton). Only makes sense if we end up that far north — otherwise Dornan's covers the pizza craving much closer.
 
 **Western steak dinner (alt to the house grill)**
-- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse (elk, bison, trout). A real sit-down western dinner. Note: the 24 oz ribeye grill at the house already owns one night (Saturday by default), so Gun Barrel would be a **Thursday** dinner swap — or the Saturday replacement if steak night moves to Sunday, in which case it needs a 13-top reservation.
+- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse. **Seconded by AJAX (8/15): "elk and bison and Joe Rogan-type meats."** A real sit-down western dinner. Note: the 24 oz ribeye grill at the house already owns one night (Saturday by default), so Gun Barrel would be a **Thursday** dinner swap — or the Saturday replacement if steak night moves to Sunday, in which case it needs a 13-top reservation.
 
 **Scenic park dining — aspirational, hard to fit**
 - **Mural Room** (Jackson Lake Lodge) — big windows on Willow Flats + the Tetons; great but it's ~45–60 min north and usually wants a reservation. Tough to wedge in given the booked Fri/Sat/Sun.
@@ -204,7 +215,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 **Night out with a twist**
 - **Jackson Hole Playhouse** — dinner + a live Western musical/melodrama. Fun for a group, but it eats a whole evening and needs reservations. Our nights are mostly spoken for (Thu bars, Sat/Sun games) — flag it only if we want to trade a bar night for it.
 
-> **Action:** confirm fall/shoulder-season hours for any of these before counting on them — Moose and the in-park spots (Dornan's, Mural Room, Jenny Lake, Leek's) run shortened schedules in late September.
+> **Action:** confirm fall hours for any of these before counting on them — Moose and the in-park spots (Dornan's, Mural Room, Jenny Lake, Leek's) can run shortened schedules in late September. Temper that with the 8/15 correction, though: **September is a busy month in Jackson, not a shoulder one** — the real risk is a full restaurant, not a closed one.
 
 ---
 
@@ -224,7 +235,9 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - **D.O.G.** — friend's burrito pick; added to the breakfast-burrito stash vendor list above
 - **Creekside Market** — "perfect to grab a sandwich before going into Grand Teton" — fits Sunday on the way to/from the wildlife drive, or stock the Saturday Yellowstone cooler if their hours beat the 7 AM roll-out
 - **Pearl Street sloshie** — friend's favorite; quick downtown hit Thursday alongside the Jackson Drug shake
-- **Roadhouse Brewery** — "great happy hour"; Thursday-crawl alternate or extra stop
+- **Roadhouse Brewery** — "great happy hour"; downtown, **good beer and solid food** (Jeremy, 8/15). Thursday-crawl alternate, and one of the two breweries big enough for the whole group at the Saints game
+- **Sidewinders** — *(Jeremy, 8/15)* **just down the road from Teton Village**, good food and drinks at a reasonable price, and Guy Fieri shot a show there. It's a **sports tavern**, which makes it the most interesting new name on this list: the Sunday Saints question is really "whose TVs are best," and it's the closest option to the house of anything we've considered. Worth the Thu/Fri recon stop
+- **The Verge** — *(AJAX, 8/15)* liquor store in the front, dive bar in the back. Thursday-crawl flavor, not a dinner
 - **Merry Piglets / Hand Fire Pizza** — casual downtown lunch/dinner backups (Hand Fire is already on the burrito-vendor list)
 - **Healthy Being** — smoothies/juices; there if anyone needs a green reset, not a group stop
 - **Shop the square / Spirits & Spice** — see `/activities`; fits the Thursday midday gap or Sunday afternoon
@@ -264,7 +277,8 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 
 - **Friday — the house ✅ locked (6/30 fence passed).** After a dawn-to-dusk van tour + rafting day it's a low-key house dinner off the grocery stock. The decision rule was: book **Local** or **Gather** by **6/30** if the crew wanted the 13-top; no booking landed by the fence, so the house *is* the plan and nobody scrambles for a peak-fall table. (The candidate list below stays for reference/next trip.)
 - ⚠️ **Sunday dinner is contingent on the steak-night call above** — if the ribeyes move to Sunday, this default is void and **Saturday drops to the house off grocery stock** (see *Steak Night*). Both branches have a dinner; neither needs a booking.
-- **Sunday — early Dornan's (default), ~5 PM.** Pizza + the Teton view to close the last full day; **backup: the house.** Confirm Dornan's fall hours the week before (Moose runs shorter shoulder-season schedules). Monday's 11:47 AM flight wants a reasonable night.
+- **Sunday — early Dornan's (default), ~5 PM.** Pizza + the Teton view to close the last full day; **backup: the house.** Still confirm Dornan's hours the week before — but note that **September is a busy month here, not a shoulder one** (Cowboy Steakhouse, 8/15), so a full fall schedule is the likelier outcome. Monday's 11:47 AM flight wants a reasonable night.
+  - ⚠️ **If Dornan's becomes the Thursday arrival stop** (Drewes's idea — it's 8 min from JAC), decide whether it still owns Sunday or whether Sunday moves to the house / a Jackson spot.
 
 > **Cash:** a couple of these (Pica's, Nora's) are cash-only, and Friday's guide tips want cash too — hit an ATM.
 

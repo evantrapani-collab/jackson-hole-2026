@@ -16,8 +16,8 @@ Trip planning hub for everything related to the trip.
 
 ## Current Status
 
-- 💵 **Final money number is in (8/10): $784.14/man — lodging + tours, all in.** Send the balance minus what you've already sent Drewes → **Venmo @DrewesPT**. Per-man ledger in [`/budget`](./budget/budget.md#the-ledger--what-each-man-still-owes)
-- ✅ Airbnb booked — final payment hitting; the old 8/1 balance question is closed, folded into the $784.14
+- ✅ **MONEY IS DONE (8/15) — everyone is paid up to Drewes.** $784.14/man × 13 = **$10,193.82, fully collected**; the Gunter $250 question closed with it. Nothing left to send. Ledger in [`/budget`](./budget/budget.md#the-ledger--settled)
+- ✅ Airbnb booked and paid — the old 8/1 balance question is closed, folded into the $784.14
 - ✅ Flights booked (American Airlines)
 - ✅ Rafting + van booked — also inside the $784.14, no separate collect
 - ✅ Headcount locked at 13 (Dan Fulham confirmed)
@@ -25,42 +25,40 @@ Trip planning hub for everything related to the trip.
 - ✅ **2 rental cars is the final answer** — no 3rd vehicle or cargo carrier; crew accepted the tight luggage fit (pack soft-sided)
 - ✅ Groceries have an owner — **Chris Psilos**
 - ✅ **Beds picked on arrival** — no pre-assignment; **Brad Ciolino is the 13th man / floor sleeper**, and **he packs an air mattress + pump regardless** of what RMR says about a rollaway
-- ⚠️ **Two payments went to Gunter, not Drewes** — Austin and Solak each sent Gunter $250 on 3/12. Drewes's "minus whatever you've already sent me" doesn't obviously cover that; those two confirm with him by **8/22**, and **send the full $784.14 if it isn't settled by then**. See Open Items
+- ✅ **The Gunter $250 question is closed** — Austin and Solak's March payments went to Gunter instead of Drewes; it sorted out when everyone squared up. Nobody double-paid, nobody's short
 - ✅ **Explorer 3rd row — decided: we don't verify it, we sort it at the JAC counter.** Assume the seats are there. If they're not, the fallback is a third small car on the spot (~$35/person) — written up in Open Items so nobody improvises it Thursday
 - ⚠️ **Steak night may move to Sunday** (Saints) instead of Saturday (LSU) — raised, not decided; default holds
 - ⚠️ **Friday dinner menu still open** — the house venue is locked, but nobody's picked what's cooked (default: fajita bar)
-- ✅ **Every open decision now has a written default** — the ten that had nobody's name on them were all pointed at the same Sep 10 call. Each one now says what happens if nobody does anything: see *Decision Defaults* below
+- ✅ **Every open decision has a written default** — the ones that had nobody's name on them were all pointed at the same Sep 10 call. Each now says what happens if nobody does anything: see *Decision Defaults* below
+- 🍕 **New on the table (8/15):** open Thursday with **Dornan's** (8 min from JAC) to decompress and acclimate before town; **Sidewinders** — a sports tavern near Teton Village — joins the Sunday game-venue recon; the **Saturday Yellowstone route reorders** to hit the Grand Prismatic overlook *first*
 - ⛔️ Via Ferrata — dropped, not doing it
 - ✅ Bed count confirmed — Montreux House is **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (see [`/lodging`](./lodging/lodging.md#sleeping-13)); 6 beds max 12 even fully shared, so plan on air mattresses for 13
 
 ## Decision Defaults — what happens if nobody does anything
 
-> Ten decisions had nobody's name on them and were all pointed at the same **Sep 10** call — which is how a call runs 90 minutes and decides nothing. Every one now has a **default that holds with zero action.** The call is for *changing* defaults, not inventing them. Nothing on this list can sink the trip by being ignored.
+> These decisions had nobody's name on them and were all pointed at the same **Sep 10** call — which is how a call runs 90 minutes and decides nothing. Every one now has a **default that holds with zero action.** The call is for *changing* defaults, not inventing them. Nothing on this list can sink the trip by being ignored.
 
 | Open decision | Owner / by when | If nobody acts — the default |
 |---|---|---|
 | **The RMR call** — check-in/checkout times, Ciolino's sleeping surface, grill + propane | **Drewes** (he booked the house; RMR talks to the guest of record) · **8/22** | Plan on a mid-afternoon check-in and a ~10 AM checkout — Thursday's midday plan and the 9:45 AM Monday exit already assume exactly that, so no answer changes nothing. **Ciolino packs an air mattress + pump regardless.** The grill gets eyeballed at check-in Thursday, with a full day of runway to fix it |
-| **Austin + Solak's $250 to Gunter** | Austin, Solak · **8/22** | **Send the full $784.14.** Overpaying Drewes is recoverable — he refunds or credits it. Shorting the guy who's already out of pocket isn't |
+| **Cowboy Steakhouse 13-top** — the reservation window opens **8/17** (they take calls 30 days out) | whoever wants it · **8/17–8/18** | **Nobody calls, and the house steak nights stand.** The crew already decided it's fine passing on a group reservation — this is a window, not an obligation. But it's the *only* week it can be booked, so it closes for good on its own |
 | **Friday dinner menu** | Psilos's Sep 10 grocery call | **Fajita/taco bar.** Its leftovers become Saturday's cooler lunch; a one-pot's don't |
 | **Steak night — Sat or Sun** | Sep 10 call | **Stays Saturday.** If it moves, Saturday drops to pasta/leftovers at the house (no reservation needed) and the Dornan's default is void |
 | **Grill captain** | Sep 10 call | **Psilos lights it** — he owns the meat. 13 bone-in ribeyes is two batches on any home grill; hold batch one in a 200°F oven |
 | **Sunday Saints venue** | Thu/Fri recon | **House cookout** — owns the TV and the whole NFL slate, no reservation, no 13-top problem. Snake River Brewing or Roadhouse are the upgrade if the recon likes their setup |
 | **Park pass** | ask in the group chat · **9/7** | **Pay at the gate.** 2 vehicles × 2 parks × $35 = **$140**; two America the Beautiful passes = $160. Only worth buying if someone already owns one |
-| **Bear spray** | rides the Thursday Jackson run | **Goes on the grocery bill** — 2 canisters (~$100) split 13 ways, same trip Psilos is already making. Missed it? Jackson's outdoor shops and both parks' visitor centers stock it |
+| **Bear spray** | rides the Thursday Jackson run | **Goes on the grocery bill** — 2 canisters (~$100, so ~$8/man) on the trip Psilos is already making. Missed it? Jackson's outdoor shops and both parks' visitor centers stock it |
 | **Thursday DDs** | named at the house before you leave | **Hardie + Schick.** They're the only two on the rental agreements, so they're the only two insured to drive the SUVs. Want to rotate? Add drivers at the JAC counter Thursday (small daily fee) |
-| **Tram tickets** | **9/7** | If the tram isn't running in shoulder season — or nobody buys tickets — Sunday afternoon is **downtown Jackson + early Dornan's**. The day doesn't lose a block |
+| **Tram tickets** | **9/7** | If the tram isn't running — or nobody buys tickets — Sunday afternoon is **downtown Jackson + early Dornan's**. The day doesn't lose a block. *(Better odds than we assumed: September is a busy month here, not a shoulder one.)* |
+| **Thursday arrival — Dornan's or straight to town** | raised by Drewes 8/15 | **The current plan holds** (groceries → bear spray → downtown lunch). Dornan's is ~8 min from JAC and makes a good decompress-and-acclimate stop; if we take it, re-pick Sunday's dinner |
 
 ## Open Items
 
-> **In chronological order — work top to bottom.** Owners + deadlines on the load-bearing items; the ones that actually gate the trip are flagged ⭐ — there are **two**: paying Drewes the $784.14 balance, and Drewes's rafting refund rule (9/10). Everything else has a default in the table above that holds if it never gets done.
+> **In chronological order — work top to bottom.** Owners + deadlines on the load-bearing items; the one that still gates the trip is flagged ⭐ — there is **one left**: Drewes's rafting refund rule (9/10). The money is done. Everything else has a default in the table above that holds if it never gets done.
 
 **🔴 Now (August)**
-- [ ] ⭐ **PAY DREWES — $784.14/man, minus what you've already sent** *(Owner: everyone; Drewes confirms receipt)*: posted in the group chat **8/10**. One number covering **lodging + van tour + rafting**; the final payments to the VRBO and the adventure company are hitting now, so this is money already out of Drewes's pocket. **Venmo @DrewesPT.** Don't remember what you sent? Ask him — he'll pull it from the treasurer. Full per-man ledger: [`/budget`](./budget/budget.md#the-ledger--what-each-man-still-owes)
-  - ✅ **Paid in full (8/11):** Evan, Shrub (Schaubhut), Hasney, Ciolino
-  - $500 already in (Hardie, Schick, Psilos, Levy) → **$284.14 each**
-  - Mitternight ($750 on 2/18) → **$34.14**
-  - Nothing in yet: Dan Fulham → **$784.14**
-  - ⚠️ **Austin + Solak** each sent **Gunter** $250 on 3/12, not Drewes — **confirm with Drewes whether that counts** *(Owner: Austin + Solak, by **8/22**)*. **If it isn't settled by then, send the full $784.14** — an overpayment comes back, a $250 shortfall sits on Drewes, who has already paid it out. Everyone else's number is unambiguous
+- [x] ✅ **PAY DREWES — DONE (8/15). Everyone is paid up.** $784.14/man covering **lodging + van tour + rafting**, × 13 = **$10,193.82**, fully collected. Drewes is whole on the VRBO and the outfitter. The Gunter $250 question closed with it — nobody double-paid, nobody's short. Ledger: [`/budget`](./budget/budget.md#the-ledger--settled)
+- [ ] **Cowboy Steakhouse — the reservation window opens 8/17** *(30 days out from Sep 17; the one week it can be booked)*: the Million Dollar Cowboy **Steakhouse** takes group calls 30 days ahead, so the phone line for our dates opens **8/17–8/18** and shuts again as the date passes. ⚠️ **They also flagged that "shoulder season" now starts in *October* — September is one of their busier months**, which undercuts the old assumption that a 13-top could be walked in. **Default: nobody calls and the house steak nights stand** (already the crew's call), but if anyone wants a real western sit-down as the Thursday dinner or the Saturday replacement, this is the week. Snake River Grill is the same window — and **Austin's brother-in-law says they have a private room**, which is the one thing that makes a 13-top easy. See [`/dining`](./dining/dining.md#10-must-eat-spots--saved-list-triaged-against-our-schedule)
 - [x] ✅ **The old 8/1 Airbnb balance question — closed.** It was ~$56 vs. ~$100/person depending on which quote Drewes was collecting to; moot now that lodging and tours are one $784.14 figure with deposits netted off
 - [x] ✅ **Explorer 3rd row — decided: not verifying in advance.** We find out at the JAC counter and make it work. *(Closed as a decision, not a gap — but see the counter plan below, because the worst case doesn't sort itself out.)*
 
@@ -93,7 +91,7 @@ Trip planning hub for everything related to the trip.
 **1–2 weeks out (early September)**
 - [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) runs Thu Sep 17** — Tier 1 of the [DFW misconnect playbook](./logistics/logistics.md#if-the-dfw-connection-blows-up--misconnect-playbook) (43-min connection); if it's not in the schedule, the fallback is fly-to-SLC-and-drive (~5 hrs)
 - [ ] **Identify who is NOT on the group MSY→DFW→JAC itinerary** — a few guys booked separately (names still TBD). They get **no group rebooking protection** if DFW blows up, and they need to know Friday's van tour is past its refund window either way. Get the names on paper; it's currently in [`/logistics`](./logistics/logistics.md) only
-- [ ] **Tram — confirm late-September operating dates + buy tickets online** *(by **9/7**, so tickets are bought before anyone flies)*: the Sunday-afternoon plan (Corbet's Cabin waffles, walkable from the house) rests on the tram running in shoulder season — JHMR publishes fall dates on jacksonhole.com each summer. **If it's closed, or nobody buys tickets, Sunday afternoon defaults to downtown Jackson + the early Dornan's dinner** that's already on the day — no empty block. See [`/activities`](./activities/activities.md#booking-notes)
+- [ ] **Tram — confirm late-September operating dates + buy tickets online** *(by **9/7**, so tickets are bought before anyone flies)*: the Sunday-afternoon plan (Corbet's Cabin waffles, walkable from the house) rests on the tram running in late September — JHMR publishes fall dates on jacksonhole.com each summer. ✅ Better odds than assumed: **September is a busy month here, not a shoulder one** (8/15). **If it's closed, or nobody buys tickets, Sunday afternoon defaults to downtown Jackson + the early Dornan's dinner** that's already on the day — no empty block. See [`/activities`](./activities/activities.md#booking-notes)
 - [ ] **Travel insurance** — decide yes/no (it's on the packing checklist but never settled). Trip-delay coverage is exactly the DFW 43-min-connection scenario — see the misconnect playbook. ⏰ **Note what's already gone:** "cancel for any reason" riders almost always require purchase within 10–21 days of the *first* trip deposit, which was months ago. What's still buyable now is trip-delay / interruption / medical — which is the coverage that actually matches this trip's risk, so the decision is still worth making, just don't expect CFAR
 - [ ] **Park pass** — **default: pay at the gate.** Do the math once: 2 vehicles × 2 parks × $35 = **$140**, versus **$160** for two America the Beautiful passes ($80 each, one per vehicle). The gate wins unless **someone already owns an ATB pass** — so the only real action is one question in the group chat (**by 9/7**). If a pass turns up, that vehicle rides free
 - [ ] **Bear spray** — **default: it rides on the Thursday Jackson run** and goes on the grocery bill (2 canisters, ~$50 each, one per vehicle, ~$8/man split 13 ways). Can't fly with it, so Jackson is the only place to get it. If Thursday gets away from us, Jackson's outdoor shops and both parks' visitor centers sell it — worst case it's a Saturday-morning stop, not a missing item
@@ -101,7 +99,7 @@ Trip planning hub for everything related to the trip.
 - [ ] Decide wetsuit rentals ($5/person, weather-dependent)
 - [ ] Pick rafting lunch — outfitter deli vs. Cutty's
 - [ ] **Finalize the carpool / seat split across the two SUVs** — 3rd vehicle is ruled out, so tell everyone to bring **soft duffels, not hard rollers** (Thursday and Monday are the tight legs)
-- [ ] Download offline maps for Yellowstone (no cell service)
+- [ ] Download offline maps for Yellowstone (no cell service) — **and the Shaka Guide "Yellowstone National Park Tour"** audio driving tour, which narrates our exact South-Entrance loop and works offline once downloaded (rec from Jeremy Galiano, 8/15)
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
 - [ ] Print all confirmations + the [Key Contacts table](./logistics/logistics.md#key-contacts--print-this-no-cell-service-in-the-parks)
 - [ ] **Emergency info** — write down the nearest hospital: **St. John's Health, 625 E Broadway, Jackson** (~25 min from the house). It's a rafting + hiking trip; have it on paper since there's no cell service in the parks
@@ -110,6 +108,7 @@ Trip planning hub for everything related to the trip.
 
 **On the trip (Sep 17–21)**
 - [ ] **Thu — fill the midday gap** — flight lands 10:19 AM but check-in is likely mid-afternoon (exact time confirmed above). Plan the window: grocery run (Smith's/Albertsons), buy **bear spray**, lunch + Jackson Drug shake downtown, then drift to Teton Village. Don't strand 13 guys + bags in a parking lot. *(Or skip the run entirely — see grocery **delivery/pre-stock** options in [`/dining`](./dining/dining.md#grocery-delivery-options): pre-stock the house before arrival + Instacart for restocks)*
+  - 🍕 **On the table (Drewes, 8/15): open with Dornan's straight off the plane.** It's **~8 min from JAC**, though in the *opposite* direction from town — pizza, beer, and the Teton view while everyone decompresses and adjusts to 6,200 ft before hitting Jackson. It fits the gap better than circling town with bags, and the elevation argument is real. **Default if nobody calls it: the current plan holds** (groceries → bear spray → downtown lunch). ⚠️ If we do it Thursday, decide whether Dornan's still owns the **Sunday** dinner slot or something else gets that night. *(Drewes floated it for the Monday departure too, but that doesn't fit — out of the house ~9:45 for an 11:47 flight leaves no room.)*
 - [ ] **Thu — DDs for the drive back from downtown Jackson** — the downtown bars → Teton Village leg is a ~20-min drive after drinking (Mangy Moose, the last stop, is in the Village and walkable from the house, so it's the *only* leg that needs a sober driver). **Default: Hardie and Schick.** They're the two names on the rental agreements, which means they're the only two insured to drive those SUVs — that settles it unless someone gets added as an authorized driver at the JAC counter Thursday (a small daily fee per driver). Say it out loud at the house before you leave; rideshare is thin and expensive late in Jackson
 
 ## Repo Structure

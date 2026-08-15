@@ -13,7 +13,7 @@
 | **Bathrooms** | 5 private |
 | **Airbnb listing** | airbnb.com/rooms/52569336 |
 | **Total** | $7,229.82 (≈$556/person at 13) |
-| **Balance due** | ✅ **Settled 8/10** — folded into the single **$784.14/man** lodging + tours number. Don't pay off this row; use the ledger in [`/budget`](../budget/budget.md#the-ledger--what-each-man-still-owes) |
+| **Balance due** | ✅ **Paid in full (8/15)** — folded into the single **$784.14/man** lodging + tours number, collected from all 13. Ledger in [`/budget`](../budget/budget.md#the-ledger--settled) |
 
 ### Location Notes
 

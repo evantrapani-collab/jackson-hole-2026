@@ -14,6 +14,7 @@
   - **Lunch downtown** + a Jackson Drug huckleberry shake on the square
   - Drift to Teton Village; check in to the house (Montreux House)
   - **At check-in, check the grill** — burner test, heft the propane tank. Thursday is the only day with enough runway to fix it before steak night (`/dining`)
+- 🍕 **On the table — open with Dornan's instead** *(Drewes, 8/15)*: it's **~8 min from JAC**, in the opposite direction from town. Land, drive 8 minutes, sit down to pizza and beer with the Tetons in front of you, and let 13 guys decompress and adjust to 6,200 ft before anyone drives into Jackson. It's a better use of the gap than circling town with bags. **Default: the plan above holds** unless someone calls it. ⚠️ If Dornan's happens Thursday, re-pick the **Sunday** dinner slot — it's currently Dornan's too
 - **Night out (Jackson → Teton Village):**
   1. **Snake River Brewing** — craft brewery, great food; casual start
   2. **Silver Dollar Bar and Grill** — classic western bar, inlaid silver dollar bar top
@@ -47,10 +48,13 @@
 
 - **Leave by 7:00 AM** — South Entrance is ~1 hr from Jackson
   - *Grab-and-go breakfast:* reheat the **breakfast-burrito stash** from the fridge (picked up Friday) — no time to cook before a 7 AM roll-out
-- **Keep it to 2–3 stops:**
-  - **Old Faithful** — check the predicted eruption time (NPS app or visitor center, ~90-min cycle) so 13 guys aren't standing around
-  - **Grand Prismatic Spring** overlook (Fairy Falls trail) — the iconic shot
-  - **West Thumb Geyser Basin** — right on the way back, quick and worth it
+- **The route — in this order** *(from Jeremy Galiano, who's driven it; it's a real improvement on doing Old Faithful first)*:
+  1. **Drive past Old Faithful to the Grand Prismatic overlook first** (Fairy Falls trail). Coming in the South Entrance you go left toward Old Faithful and keep going ~10 min. Hitting the overlook early beats the midday crowd and the parking crunch
+  2. **Skip the boardwalk right at Grand Prismatic** — Jeremy's tip, and it's the one that buys us the day: *if you do the overlook, you don't need to go close to it.* That's a whole stop's worth of time back on the tightest day of the trip
+  3. **Backtrack to Old Faithful** and give it a couple of hours — check the predicted eruption time (NPS app or visitor center, ~90-min cycle) so 13 guys aren't standing around, and walk the Upper Geyser Basin loop while you wait
+  4. **West Thumb Geyser Basin** on the way out — geysers right on the lake, quick, and it's where lunch happens
+- 🎧 **Offline audio tour:** the **Shaka Guide "Yellowstone National Park Tour"** app narrates this exact South-Entrance loop and **works offline once downloaded** — which matters, because there's no cell service past the gate. Download it before Saturday.
+- 🚫 **What Jeremy recommends that we can't fit:** Emerald Spring (Norris Basin) and the **Yellowstone canyon waterfalls** — both are genuinely "can't miss," and both are well past our turnaround. See `/activities` for the drive-time math; they're next-trip stops, not Saturday stops.
 - *Lunch:* **cooler lunch packed Friday night**, eaten at the **West Thumb picnic tables** on the way out. Don't put 13 guys in the Old Faithful food line at noon — it's 45 minutes you don't have. See `/dining`
 - **Back by ~3:00 PM** to be comfortable before kickoff
 - **5:30 PM MT — LSU vs. Ole Miss** (6:30 CT, **ABC**) — Lane Kiffin's return to Oxford
