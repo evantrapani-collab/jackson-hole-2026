@@ -20,7 +20,7 @@ current 19 pins — skip those.
 ## Food & Drink
 
 - [ ] [Jackson Drug](https://www.google.com/maps/search/?api=1&query=Jackson+Drug%2C+Jackson%2C+WY) — Huckleberry shake on the town square.
-- [ ] [Snake River Brewing](https://www.google.com/maps/search/?api=1&query=Snake+River+Brewing%2C+Jackson%2C+WY) — Bar crawl stop 1 — craft brewery + food.
+- [ ] [Snake River Brewing](https://www.google.com/maps/search/?api=1&query=Snake+River+Brewing%2C+Jackson%2C+WY) — Bar crawl stop 1; also the other brewery big enough for all 13 at the Saints game.
 - [ ] [Silver Dollar Bar (Wort Hotel)](https://www.google.com/maps/search/?api=1&query=Silver+Dollar+Bar%2C+Wort+Hotel%2C+Jackson%2C+WY) — Bar crawl stop 2 — silver-dollar bar top.
 - [ ] [Million Dollar Cowboy Bar](https://www.google.com/maps/search/?api=1&query=Million+Dollar+Cowboy+Bar%2C+Jackson%2C+WY) — Bar crawl stop 3 — saddle stools.
 - [ ] [Mangy Moose Saloon](https://www.google.com/maps/search/?api=1&query=Mangy+Moose%2C+Teton+Village%2C+WY) — Bar crawl last stop — walkable from the house.
@@ -49,7 +49,7 @@ current 19 pins — skip those.
 - [ ] [Kampai](https://www.google.com/maps/search/?api=1&query=Kampai%2C+Jackson%2C+WY) — Sushi; too small for 13 — splinter or pre-dinner.
 - [ ] [Bin22](https://www.google.com/maps/search/?api=1&query=Bin22%2C+Jackson%2C+WY) — Wine bar + tapas; too small for 13 — pre-dinner stop.
 - [ ] [Coe Tavern](https://www.google.com/maps/search/?api=1&query=Coe+Tavern%2C+Jackson%2C+WY) — Rooftop drinks + snacks; pre-dinner stop.
-- [ ] [Roadhouse Brewing Co.](https://www.google.com/maps/search/?api=1&query=Roadhouse+Brewing+Co%2C+Jackson%2C+WY) — Great happy hour; Thursday-crawl alternate.
+- [ ] [Roadhouse Brewing Co.](https://www.google.com/maps/search/?api=1&query=Roadhouse+Brewing+Co%2C+Jackson%2C+WY) — Big enough to seat all 13 without a reservation — top Saints-game option; great happy hour Thursday.
 - [ ] [D.O.G.](https://www.google.com/maps/search/?api=1&query=D.O.G.%2C+Jackson%2C+WY) — Friend's burrito pick; bulk-order option for the early-start stash.
 - [ ] [Creekside Market & Deli](https://www.google.com/maps/search/?api=1&query=Creekside+Market+and+Deli%2C+Jackson%2C+WY) — Sandwiches before heading into the parks.
 - [ ] [Pearl Street Market (sloshies)](https://www.google.com/maps/search/?api=1&query=Pearl+Street+Market%2C+Jackson%2C+WY) — Friend's sloshie favorite; downtown quick hit.

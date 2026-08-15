@@ -2,13 +2,21 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-08-04 — found at **97**, restored to 99 by that pass's fixes, then to **100** when the Explorer question became a decision with a written fallback; see the 8/4 notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-08-15 — found at **85**, restored to 100 by that pass; see the 8/15 notes at the bottom)*
+
+> **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
 ---
 
 ## How scoring works
 
 Each category starts at full points; deduct per the criteria. The rubric grades **the plan and its documents** — it does not award points for the trip itself going well, and it does not penalize future human actions *if* the plan gives them an owner, a deadline, and a default that holds if the action never happens.
+
+Three rules of thumb that decide most edge cases:
+
+1. **The zero-action test.** For every open item, ask: *if nobody does anything, what happens?* If the answer is a written outcome, it scores. If the answer is "we'd figure it out," it doesn't — that's a gap wearing a plan's clothes.
+2. **The decision-funnel rule.** An open decision whose only path to resolution is a future group call is **still open**, no matter how well documented the tradeoffs are. Calls slip, and a call carrying ten decisions decides two. A decision pointed at a call scores full marks only when it also carries a default that survives the call not happening.
+3. **A number is not explicit until it's a number.** "Total minus deposit," "$784 or $534 depending," "TBD" — none of these are things a person can Venmo, pack, or buy. Ranges are fine for estimates; ambiguity is not fine for amounts owed.
 
 | # | Category | Points |
 |---|---|---|
@@ -26,8 +34,9 @@ Each category starts at full points; deduct per the criteria. The rubric grades 
 
 - Everything bookable is booked, or has an owner + deadline + written fallback (−2 each gap)
 - The trip-gating items (⭐) are flagged and tracked (−3 if not)
-- Anything time-fenced (refund cutoffs, books-out-months venues) has its real deadline written down (−2 each)
-- Load-bearing tasks aren't ownerless (−1 each)
+- Anything time-fenced (refund cutoffs, books-out-months venues, shoulder-season operating dates) has its real deadline written down (−2 each)
+- Load-bearing tasks aren't ownerless (−1 each). *"Someone should call X" is ownerless. Where an institution will only talk to one person — the guest of record, the cardholder, the renter — the plan should say so and name him; that's not an assignment, it's a fact*
+- Anything the trip depends on that a vendor could simply not be running (a tram, a shoulder-season kitchen) has a named replacement for the block it fills (−1 each)
 
 ### 2. Schedule feasibility vs. fixed constraints (15)
 
@@ -54,21 +63,23 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 ### 5. Money — totals, splits, deadlines (12)
 
-- Per-person amounts, due dates, and who collects are explicit (−2 each gap)
+- Per-person amounts, due dates, and who collects are explicit (−2 each gap). **Every man's number is a single number** — an "or" in an amount owed is a gap, not a nuance (−2), and it closes with a tiebreak rule, not with a promise to ask
 - A single **all-in per-person planning number** exists (−1 if you have to add it up yourself)
 - Cash needs (tips, cash-only spots) called out (−1)
-- Booking tracker reflects reality (−1 if stale)
+- Booking tracker and every money line reflect reality (−1 per stale figure — superseded balances, "TBD" amounts that have since been settled)
 
 ### 6. Group coordination (10)
 
-- Headcount, roster, and seat math (13 bodies vs. vehicle seats) tracked with the gap flagged (−2 if not)
+- Headcount, roster, and seat math (13 bodies vs. vehicle seats) tracked with the gap flagged (−2 if not). The roster and the money ledger name the same 13 men in a way you can match one-to-one (−1 if a name appears in one and not the other)
 - Bed math (13 vs. 6 beds) acknowledged with an assignment plan/deadline (−2 if not)
-- Drivers, DDs, grill captain, departure-time owners: named or explicitly pending with a deadline (−1 each ownerless role)
+- Drivers, DDs, grill captain, departure-time owners: named, or carrying a **default owner** with a deadline (−1 each role that is neither)
 - Pending-external-info items (e.g., Explorer trim, bed count) can't score full marks until answered (−1 each while open)
+- No single meeting is the only path to more than a couple of decisions (−1 per decision stacked on a call without its own default) — see the decision-funnel rule above
 
 ### 7. Three layers in sync (10)
 
 - Every plan fact appears identically in markdown and `index.html` (−1 per divergence)
+- **Any number that appears in two places matches in both** (−1 per mismatched figure). This is the cheapest deduction to earn and the easiest to miss: totals, ranges, per-person amounts, place counts, item counts. A figure quoted in prose ("the full 76-place file") counts as one of the two places
 - `/maps` regenerated whenever places change; no hand-edits to generated files (−2 per violation)
 - Open Items (README) ↔ To-Do tab (dashboard) match (−1 per drift)
 
@@ -82,17 +93,17 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 ## Scorecard
 
-| Category | Before (6/12 baseline) | After refinements | After 6/12 crew decisions |
-|---|---|---|---|
-| 1. Bookings & critical path | 18 | 19 | 20 |
-| 2. Schedule feasibility | 14 | 15 | 15 |
-| 3. Risk, safety & contingency | 14 | 15 | 15 |
-| 4. Meals | 10 | 12 | 12 |
-| 5. Money | 11 | 12 | 12 |
-| 6. Group coordination | 9 | 9 | 9 |
-| 7. Three layers in sync | 9 | 10 | 10 |
-| 8. Dashboard usability | 6 | 6 | 6 |
-| **Total** | **91** | **98** | **99** |
+| Category | Points | 6/12 baseline | After 6/12 decisions | 8/4 re-grade | **8/15 found** | **8/15 after** |
+|---|---|---|---|---|---|---|
+| 1. Bookings & critical path | 20 | 18 | 20 | 20 | **17** | **20** |
+| 2. Schedule feasibility | 15 | 14 | 15 | 15 | **15** | **15** |
+| 3. Risk, safety & contingency | 15 | 14 | 15 | 15 | **13** | **15** |
+| 4. Meals | 12 | 10 | 12 | 12 | **11** | **12** |
+| 5. Money | 12 | 11 | 12 | 12 | **9** | **12** |
+| 6. Group coordination | 10 | 9 | 9 | 10 | **7** | **10** |
+| 7. Three layers in sync | 10 | 9 | 10 | 10 | **7** | **10** |
+| 8. Dashboard usability | 6 | 6 | 6 | 6 | **6** | **6** |
+| **Total** | **100** | **91** | **99** | **100** | **85** | **100** |
 
 ### What the baseline lost points for → what changed
 
@@ -165,3 +176,32 @@ What earned the point was writing the fallback down rather than leaving "we'll m
 **Grade: 100/100.** Every remaining open item now has an owner, a deadline, or a default that holds without anyone doing anything. The trip can still go sideways — that's trips — but it won't go sideways because of something this repo failed to say.
 
 *(The bed-math half of the old deduction closed earlier: the house is confirmed at 5 kings + 1 queen across 3 levels, and beds-on-arrival is a decision, not a gap.)*
+
+---
+
+### 8/15 re-grade — found at 85, restored to 100
+
+Eleven days and a lot of group-chat traffic after the last pass: Drewes posted the final $784.14 number (8/10), four guys paid in full (8/11), the brewery recon and the reservations question landed. The plan got **more decided** in that window and **less finished**, which is the failure mode this rubric exists to catch.
+
+**Found at 85 (−15).** Two of the deductions are new rot; most are gaps the 8/4 pass graded generously, and the rubric now has language that makes them unmissable.
+
+| # | Cat | Deduction | What was actually wrong |
+|---|---|---|---|
+| −3 | §1 | Three ownerless load-bearing tasks | Check-in/checkout, Ciolino's ⭐ sleeping surface, and the grill/propane check were all "someone should call." The dashboard was honest enough to tag one of them `needs owner`, which is a gap admitting to itself. The tram — the thing the whole Sunday afternoon rests on — had no date and no answer for "what if it isn't running" |
+| −2 | §3 | No DD plan | "Name designated drivers per SUV" had been in three documents since June without ever naming one. A plan to make a plan is not a plan, and this is the drinking-and-driving line item |
+| −1 | §4 | Friday menu had no zero-action default | The grocery list carried both branches, so Psilos was covered — but nobody had said which meal happens if the Sep 10 call never picks |
+| −2 | §5 | Two men's amounts weren't numbers | Austin and Solak each owed "**$784.14 — or $534.14** if the Gunter $250 counts." Nine days of it sitting there, one Venmo away from either double-paying or shorting the guy fronting $10k |
+| −1 | §5 | Stale money lines | `/lodging` still showed "**Balance due 8/1** — total minus $500 deposit"; `/logistics` still said Drewes "collects closer to the trip; final amount depends on headcount." Both superseded on 8/10 |
+| −3 | §6 | Three ownerless roles | Grill captain, park pass, bear spray. The README *named the problem out loud* — "six decisions still have no name attached… all pointed at the same Sep 10 call, which is how a call runs 90 minutes and decides nothing" — and then left all six pointed at that call. Naming a risk is not mitigating it |
+| −3 | §7 | Three number divergences | All-in per person read **$1,150–1,400** on the Overview tab and **$1,100–1,330** on the Money tab of the same page; the Crew tab still said the seat math "works once the 3rd row is verified" eleven days after we decided not to verify it; the Maps tab advertised a **76**-place file that the generator builds with **75** |
+
+**Restored to 100 by this pass.** One structural change did most of the work — a **Decision Defaults** table in the README, mirrored to the dashboard's Crew tab, that gives every open decision an owner, a date, and *what happens if nobody does anything*:
+
+- **The three ownerless calls became one owned call.** RMR only takes questions from the guest of record, so the check-in, cot, and grill questions route through **Drewes** by **8/22** — and each has a default that holds if the call never happens: the times we already assume, a mattress Ciolino packs regardless, and a grill you eyeball Thursday at check-in with an oven reverse-sear behind it. Ciolino's item **loses its ⭐** for the same reason the Explorer did: a fallback that needs no advance work isn't a gate.
+- **The DD gap closed on a fact nobody had written down.** Only Hardie and Schick are on the rental agreements, so they're the only two insured to drive those SUVs — the DD question was already answered by the contracts. Rotating means adding an authorized driver at the JAC counter, which is a 60-second ask you're standing in line for anyway.
+- **The $250 got a tiebreak instead of a conversation:** unsettled by 8/22 → send the full $784.14, because an overpayment comes back with one Venmo and a shortfall sits on the man who already paid the VRBO and the outfitter.
+- **Park pass stopped being a role and became arithmetic** — 2 vehicles × 2 parks × $35 = $140 against $160 for two passes, so the default is the gate and the only action left is one question in the chat. Bear spray stopped being a role by riding a trip someone already owns, at ~$8/man on the grocery bill.
+- **Both game-night branches got dinners.** Steak night stays Saturday; if it moves, Saturday drops to the house off grocery stock and Dornan's is void. Friday's menu defaults to the fajita bar — the branch whose leftovers *are* Saturday's cooler lunch.
+- **Sync:** the all-in number reads $1,100–1,330 in both places (and the estimate line was re-added correctly at ~$120–220 now that bear spray and park entry are per-man figures), the Crew tab matches the Explorer decision, the maps count reads 75, and the two breweries that became real Saints-game candidates got their `PLACES` entries updated and regenerated.
+
+**Grade: 100/100.** The test this pass was built around: *for every open item, if nobody does anything, what happens?* Ten items had no answer to that on 8/15. All ten have one now, and the Sep 10 call went from carrying the plan to confirming it.

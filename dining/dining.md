@@ -15,12 +15,12 @@
 | Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
 | Saturday lunch | **Cooler lunch, packed Friday night** ⚠️ | Saturday | In-park; eat at West Thumb on the way back — see *Saturday Lunch* below |
 | Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 burritos — see *Monday Breakfast* below |
-| Friday dinner | **House ✅ locked** ⚠️ menu TBD | Friday | Venue is locked, but no menu is picked yet — see *Friday Dinner Menu* below |
+| Friday dinner | **House ✅ locked** — menu default: fajita bar | Friday | Venue locked; menu defaults to the fajita/taco bar if nobody picks by 9/10 — see *Friday Dinner Menu* below |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose (confirm fall hours); backup is the house — reasonable night before the 11:47 AM flight |
 | Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
-| Sunday game | Cutty's / Eleanor's / house | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)** |
+| Sunday game | **House cookout (default)** | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)**; Snake River Brewing / Roadhouse / Cutty's / Eleanor's are the upgrade if the Thu–Fri recon likes them |
 
 ---
 
@@ -111,7 +111,8 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
   - **Melvin** — good beer but a "terrible space" — ruled out for a group this size
   - **Still West** — good beer, small selection, ski-lodge vibe and pricing, great mountain views — plays more like a restaurant than a brewery
   - Nobody's TV setup is great, but **Roadhouse and Snake River are the best bets** for actually watching the game
-- **Psilos's plan:** run a Thursday/Friday recon pass to check the real TV/seating situation before picking — LSU (the Ole Miss undercard) should be the easier of the two games to place. **A Sunday cookout at the house is also in play** as the default way to control the NFL slate (RedZone, etc.) without fighting for a TV
+- **Psilos's plan:** run a Thursday/Friday recon pass to check the real TV/seating situation before picking — LSU (the Ole Miss undercard) should be the easier of the two games to place
+- ✅ **Default: the house cookout.** It owns the TV, the full Sunday slate (RedZone and the late window, not just the Saints), needs no reservation and no 13-top anywhere, and doesn't put anyone in a car after an 11 AM kickoff. **Snake River Brewing or Roadhouse are the upgrade** if the recon likes their setup — but if the recon never happens, the day still has an answer
 - Monday 11:47 AM departure means Sunday night should stay reasonable
 
 ---
@@ -126,13 +127,18 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 
 **Decision:** pick one and fold it into Psilos's Sep 10 grocery/butcher call — right now he's shopping for an undefined meal.
 
+**Default if nobody picks: the fajita/taco bar.** It's the branch that pays for itself twice — the leftovers wrap into Saturday's cooler lunch, which the one-pot can't do without a separate sandwich run. Psilos shops the fajita module unless he's told otherwise by the 10th.
+
 ## Grill Check — Before Committing to Ribeyes
 
 > Two ribeye nights (Sat default, maybe Sun) both assume a working grill. Nobody's confirmed the house has one, or that the propane tank is full. A dead tank under 13 raw ribeyes is the single easiest way this trip goes sideways.
 
-- [ ] **Call RMR (307-739-9050)**: what's the grill (gas/charcoal?), and is the propane tank full or does someone need to swap it in Jackson
-- If charcoal: add 2 bags of charcoal + a chimney starter to the Thursday grocery run
-- Fold into the same call as the Ciolino sleeping-surface question — one call to RMR covers both
+- [ ] **Drewes asks RMR (307-739-9050)** on the check-in call: what's the grill (gas/charcoal?), and is the propane tank full or does someone need to swap it in Jackson
+- [ ] **Check it yourself Thursday at check-in** — lid up, burner test, heft the tank. This is the one that actually protects the night: Thursday leaves a full day of runway, Saturday at 4 PM leaves none
+- **If the tank's dead:** propane exchange at Smith's or Albertsons in Jackson, ~$25 — a 40-minute round trip Thursday or Friday
+- **If it's charcoal:** 2 bags + a chimney starter on the Thursday grocery run (or the Friday burrito pickup)
+- **If there's no working grill at all:** the ribeyes **reverse-sear in the house oven** — 250°F until they're 10° shy, then a screaming cast-iron sear in batches. Worse steak, but not a lost night, and it needs nothing you can't buy at Smith's
+- Fold the call into the same one as the Ciolino sleeping-surface and check-in questions — one call to RMR covers all three
 
 ## Steak Night — Saturday (default) or Sunday?
 
@@ -154,14 +160,19 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - Saturday then needs a replacement dinner after Yellowstone — realistically the house off grocery stock, or a Jackson sit-down (Gun Barrel) that would need a 13-top reservation
 - Steaks bought Thursday sit one extra day — fine refrigerated, but don't freeze bone-in ribeyes for it
 
-**Decision:** fold into the **Sep 10 grocery/butcher call** with Psilos. If it moves, also re-pick the Saturday dinner and the Dornan's slot in the same breath.
+**Decision:** fold into the **Sep 10 grocery/butcher call** with Psilos. **Default: it stays Saturday** — nobody has to do anything for that to happen.
+
+**If it does move to Sunday, the two knock-on slots already have answers** so the switch can't leave a hole:
+- **Saturday dinner → the house, off grocery stock** (Friday's leftovers, pasta, or the sides that were already bought for the steaks). No reservation, no 13-top, nobody driving back into town after a 7 AM–3 PM Yellowstone day. Gun Barrel is the upgrade *only* if someone books a 13-top in advance
+- **Sunday dinner → the Dornan's default is void**, and the ribeyes are that night's dinner instead. Don't try to keep both
 
 ## Ribeye Night — the grocery side (night-agnostic)
 
 - **Steaks:** 24 oz bone-in ribeyes — buy at **Smith's** or **Albertsons** in Jackson (best prices)
 - **Owner: Chris Psilos** — locks the butcher order and the buy vs. pre-stock method
 - Buy groceries **Thursday on arrival** so you're not scrambling Saturday after Yellowstone
-- Assign someone as the grill captain (still open)
+- **Grill captain — default: Psilos.** He owns the meat and has to be in the kitchen anyway; anybody takes the tongs off him by saying so out loud
+- **Plan on two batches.** 13 × 24 oz bone-in won't fit one home grate — cook in two rounds and rest batch one in a 200°F oven, or everybody eats late and unevenly
 - **Sides:** Grab whatever at the grocery store — keep it simple
 - **Seasoning:** kosher salt, pepper, garlic powder — Airbnbs never stock enough for 13 steaks; add to the list
 
@@ -252,7 +263,7 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 ## Dinner defaults — decided
 
 - **Friday — the house ✅ locked (6/30 fence passed).** After a dawn-to-dusk van tour + rafting day it's a low-key house dinner off the grocery stock. The decision rule was: book **Local** or **Gather** by **6/30** if the crew wanted the 13-top; no booking landed by the fence, so the house *is* the plan and nobody scrambles for a peak-fall table. (The candidate list below stays for reference/next trip.)
-- ⚠️ **Sunday dinner is contingent on the steak-night call above** — if the ribeyes move to Sunday, this default is void.
+- ⚠️ **Sunday dinner is contingent on the steak-night call above** — if the ribeyes move to Sunday, this default is void and **Saturday drops to the house off grocery stock** (see *Steak Night*). Both branches have a dinner; neither needs a booking.
 - **Sunday — early Dornan's (default), ~5 PM.** Pizza + the Teton view to close the last full day; **backup: the house.** Confirm Dornan's fall hours the week before (Moose runs shorter shoulder-season schedules). Monday's 11:47 AM flight wants a reasonable night.
 
 > **Cash:** a couple of these (Pica's, Nora's) are cash-only, and Friday's guide tips want cash too — hit an ATM.

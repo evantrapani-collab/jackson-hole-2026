@@ -12,8 +12,8 @@
 | **Beds** | 6 |
 | **Bathrooms** | 5 private |
 | **Airbnb listing** | airbnb.com/rooms/52569336 |
-| **Total** | $7,229.82 (≈$556/person at 13; Drewes quoted ~$600 — see /budget) |
-| **Balance due** | **8/1** — total minus $500 deposit |
+| **Total** | $7,229.82 (≈$556/person at 13) |
+| **Balance due** | ✅ **Settled 8/10** — folded into the single **$784.14/man** lodging + tours number. Don't pay off this row; use the ledger in [`/budget`](../budget/budget.md#the-ledger--what-each-man-still-owes) |
 
 ### Location Notes
 
@@ -45,7 +45,7 @@ No pre-assigned rooms — first guys to the house call it. The split below is re
 
 **But two things do NOT sort themselves out on arrival:**
 
-1. ⭐ **Brad Ciolino is the 13th man — he's on the floor.** With 6 beds maxing at 12 even fully shared, Ciolino's on a couch or an air mattress. **The sleeping surface has to exist before he can use it.** Ask **RMR (307-739-9050)** whether the house has a sofa bed, cot, or rollaway; if not, **Ciolino (or someone) packs an air mattress + pump** (~5 lbs, checked-bag fine) — **don't plan on buying one in Jackson**, it's a small resort town with no big-box store.
+1. **Brad Ciolino is the 13th man — he's on the floor.** With 6 beds maxing at 12 even fully shared, Ciolino's on a couch or an air mattress. **The sleeping surface has to exist before he can use it — so the mattress is the default, not the fallback: Ciolino packs an air mattress + pump** (~5 lbs, ~$40, checked-bag fine) **regardless of what RMR says.** Drewes asks RMR (307-739-9050) about a sofa bed / cot / rollaway on the same call as check-in times and the grill; if one turns up, the mattress stays in the bag. Doing it the other way round — waiting on the call, then packing — is how you land in a town with no big-box store and nowhere to buy one.
 2. **If flights split (DFW misconnect), Ciolino should still be the one on the floor by design, not by bad luck** — don't let a late-landing guy get bumped onto the couch on top of Ciolino; one floor spot is the plan, not two.
 
 A workable split (reference only — swap names to taste):
@@ -59,4 +59,5 @@ A workable split (reference only — swap names to taste):
 Note: 4 of the 6 beds (8 people) are on the **Lower Level** — the Junior Suite + both lower guest rooms cluster down there, with the Master up top and one queen on the main level.
 
 - [x] ✅ **Room/bed assignments — decided: sort on arrival**, no pre-assignment
-- [ ] ⭐ **Confirm sleeping surfaces for 13** *(before the trip — the part that can't wait)*: call RMR about air mattresses / cots / rollaway; if the house has none, assign someone to pack **2 air mattresses + a pump**
+- [ ] **Ciolino packs an air mattress + pump** *(Owner: Brad Ciolino — unconditional)*. A second one is cheap insurance if anyone else would rather not share a king; 6 beds only reach 12 with every bed doubled up
+- [ ] **Drewes asks RMR about a rollaway/cot/sofa bed** *(by 8/22, same call as check-in times + the grill)* — an upgrade on the mattress, not a dependency

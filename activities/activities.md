@@ -87,5 +87,5 @@
 
 - [x] Snake River **whitewater** rafting — booked ✅ (JHWW, Friday 1 PM; see `/logistics`). The *scenic* float is a separate product and there's no open window for it this trip
 - [x] Wildlife guide — covered ✅ by the booked Friday 8 AM JHWW van tour through Grand Teton
-- [ ] Teton Village tram — no reservation needed to ride, but **buy tickets in advance online** (months out for peak days); check fall operating hours/dates since late-Sept is shoulder season
+- [ ] Teton Village tram — no reservation needed to ride, but **buy tickets in advance online** *(by **9/7**, before anyone flies)*; check fall operating hours/dates on jacksonhole.com, since late-Sept is shoulder season and JHMR publishes the fall calendar each summer. **If the tram isn't running — or nobody buys tickets — Sunday afternoon defaults to downtown Jackson plus the early Dornan's dinner already on the day.** The plan loses a highlight, not a block
 - [ ] Fishing guide — only if someone wants to trade away a slotted block (the schedule is full); September is prime season, so book early if so

@@ -13,7 +13,7 @@
 | Thu dinner | ❌ | Bar crawl — Snake River Brewing has a full menu |
 | Fri breakfast | ❌ | Cowboy Coffee / Bunnery on the way to the 8 AM van tour |
 | Fri lunch | ❌ | Rafting — outfitter deli or Cutty's |
-| **Fri dinner** | ✅ | House. **Menu undecided** — see the two modules below |
+| **Fri dinner** | ✅ | House. **Menu defaults to the fajita bar** (Module A) unless the Sep 10 call says otherwise — see the two modules below |
 | **Sat breakfast** | ⚠️ partial | Burrito stash, bought from a **vendor**, not the grocery store |
 | **Sat lunch** | ✅ | Cooler lunch, eaten at West Thumb |
 | **Sat dinner** | ✅ | **Steak night** — the ribeyes |
@@ -28,10 +28,12 @@
 
 ## ⚠️ Two open decisions change this list
 
-1. **Friday dinner menu** — fajita bar vs. one-pot. This is the *only* part of the list that actually branches. Pick a module below.
+1. **Friday dinner menu** — fajita bar vs. one-pot. This is the *only* part of the list that actually branches. Pick a module below. ✅ **Default: Module A, the fajita bar** — nobody has to decide anything for that to happen, and it's the branch that also feeds Saturday's cooler lunch.
 2. **Steak night: Saturday or Sunday?** — **does not change the list at all.** Same ribeyes, same sides, different night. Don't let this one hold up the shopping.
 
-A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Both questions go on the same RMR call — see [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
+A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes asks RMR on the 8/22 call, and you eyeball the grill yourself Thursday at check-in — see [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
+
+**Also on this trip, not on this list:** **2 bear-spray canisters (~$50 each)**, one per vehicle. Sporting-goods stop, same run, same bill — ~$8/man split 13 ways.
 
 ---
 
@@ -118,7 +120,7 @@ Everything below is **shared regardless of the Friday menu**. Then add one modul
 - [ ] Dish soap + dishwasher pods
 - [ ] Gallon ziplocs — cooler lunch, leftovers
 - [ ] Sunscreen / lip balm if anyone forgot *(they did)*
-- [ ] ⚠️ **Charcoal (2 bags) + chimney starter** — **only if the RMR call says charcoal grill.** Skip if it's gas and the tank's full
+- [ ] ⚠️ **Charcoal (2 bags) + chimney starter** — **only if the grill turns out to be charcoal.** Skip if it's gas and the tank's full; if the tank's low, a **~$25 propane exchange** is at the same Smith's/Albertsons
 
 ---
 

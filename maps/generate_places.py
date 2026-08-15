@@ -34,7 +34,7 @@ PLACES = [
 
     # --- Food & Drink ---
     ("Jackson Drug", "Food & Drink", "Thu", "Jackson Drug, Jackson, WY", False, "Huckleberry shake on the town square."),
-    ("Snake River Brewing", "Food & Drink", "Thu night", "Snake River Brewing, Jackson, WY", False, "Bar crawl stop 1 — craft brewery + food."),
+    ("Snake River Brewing", "Food & Drink", "Thu night / Sun game", "Snake River Brewing, Jackson, WY", False, "Bar crawl stop 1; also the other brewery big enough for all 13 at the Saints game."),
     ("Silver Dollar Bar (Wort Hotel)", "Food & Drink", "Thu night", "Silver Dollar Bar, Wort Hotel, Jackson, WY", False, "Bar crawl stop 2 — silver-dollar bar top."),
     ("Million Dollar Cowboy Bar", "Food & Drink", "Thu night", "Million Dollar Cowboy Bar, Jackson, WY", False, "Bar crawl stop 3 — saddle stools."),
     ("Mangy Moose Saloon", "Food & Drink", "Thu night", "Mangy Moose, Teton Village, WY", False, "Bar crawl last stop — walkable from the house."),
@@ -63,7 +63,7 @@ PLACES = [
     ("Kampai", "Food & Drink", "Splinter group", "Kampai, Jackson, WY", False, "Sushi; too small for 13 — splinter or pre-dinner."),
     ("Bin22", "Food & Drink", "Splinter group", "Bin22, Jackson, WY", False, "Wine bar + tapas; too small for 13 — pre-dinner stop."),
     ("Coe Tavern", "Food & Drink", "Drinks", "Coe Tavern, Jackson, WY", False, "Rooftop drinks + snacks; pre-dinner stop."),
-    ("Roadhouse Brewing Co.", "Food & Drink", "Thu night alt", "Roadhouse Brewing Co, Jackson, WY", False, "Great happy hour; Thursday-crawl alternate."),
+    ("Roadhouse Brewing Co.", "Food & Drink", "Sun game / Thu alt", "Roadhouse Brewing Co, Jackson, WY", False, "Big enough to seat all 13 without a reservation — top Saints-game option; great happy hour Thursday."),
     ("D.O.G.", "Food & Drink", "Burrito stash", "D.O.G., Jackson, WY", False, "Friend's burrito pick; bulk-order option for the early-start stash."),
     ("Creekside Market & Deli", "Food & Drink", "Sun / cooler", "Creekside Market and Deli, Jackson, WY", False, "Sandwiches before heading into the parks."),
     ("Pearl Street Market (sloshies)", "Food & Drink", "Thu", "Pearl Street Market, Jackson, WY", False, "Friend's sloshie favorite; downtown quick hit."),

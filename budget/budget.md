@@ -40,7 +40,9 @@ Deposits as Drewes posted them. **Balance = $784.14 − already sent.**
 | Brad Ciolino | $784.14 *(paid in full 8/11)* | **$0 ✅** |
 | Drewes | — (collecting) | — |
 
-⚠️ **The one thing that isn't clean: the two $250s that went to Gunter, not Drewes.** Drewes said "minus whatever you have **already sent me**" — money that went to Gunter isn't money Drewes has. **Austin and Solak: confirm with Drewes before sending**, so you don't either double-pay $250 or short him $250. Everyone else's math above is unambiguous.
+⚠️ **The one thing that isn't clean: the two $250s that went to Gunter, not Drewes.** Drewes said "minus whatever you have **already sent me**" — money that went to Gunter isn't money Drewes has. **Austin and Solak: confirm with Drewes before sending** *(by **8/22**)*, so you don't either double-pay $250 or short him $250. Everyone else's math above is unambiguous.
+
+> **The tiebreak, so this can't sit open:** if it isn't settled with Drewes by **8/22**, **send the full $784.14**. The two outcomes are not symmetric — an overpayment comes back from Drewes with one Venmo, while a $250 shortfall sits on the guy who has already paid the VRBO and the outfitter out of his own account. Pay it forward, sort the $250 with Gunter after.
 
 **Check on the totals:** 13 × $784.14 = **$10,193.82** for the trip's fixed costs. Collected so far: **$5,886.56** (Evan, Shrub, Hasney, Ciolino paid in full 8/11; Hardie/Schick/Psilos/Levy at $500; Mitternight's $750), leaving **~$4,307.26** for Drewes to gather — plus/minus the Gunter question.
 
@@ -86,9 +88,9 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 | Food & Drink | $150–250 total | Bars Thu night, meals, drinks |
 | Ribeyes (Sat grill) | $50–80 | 24 oz bone-in + sides; split the grocery run |
 | Guide tips (Fri) | $20–40 | Van tour **+** rafting guides; bring cash |
-| Bear spray | ~$50/canister | Need 2+ (one per vehicle); split across the SUV. Buy in Jackson |
+| Bear spray | ~$8 | 2 canisters at ~$50, one per vehicle, split 13 ways — **buy in Jackson, on the Thursday grocery bill** |
 | Rafting wetsuit rental | $5 | Optional; decide closer to the trip |
-| Park entry | $0–35/vehicle | Free with America the Beautiful pass |
+| Park entry | ~$11 | **Default: pay at the gate** — 2 vehicles × 2 parks × $35 = $140 split 13 ways. Two ATB passes would be $160, so the pass only wins if someone already owns one |
 | Gas / transport | $30–60 | Split across vehicles |
 | Incidentals | $50–100 | Tips, souvenirs, extra drinks |
 
@@ -100,7 +102,7 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 |---|---|
 | Lodging + van tour + rafting (Drewes, final) | **$784.14** |
 | Food, drink & ribeyes | ~$200–330 |
-| Tips, bear spray, gas, park entry, incidentals | ~$110–215 |
+| Tips, bear spray, gas, park entry, incidentals | ~$120–220 |
 | **Total on the ground** | **≈ $1,100–1,330** |
 | Flights | + each person's own booking |
 
@@ -115,7 +117,8 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 | Flights | American Airlines | — | varies | Booked ✅ |
 | Rental SUV #1 (Explorer) | Jason Hardie | — | — | Booked ✅ |
 | Rental SUV #2 (Expedition) | Joe Schick | — | — | Booked ✅ |
-| Groceries / Ribeyes | Smith's or Albertsons, Jackson (Owner: Psilos) | — | TBD | Open — method call pending |
+| Groceries / Ribeyes | Smith's or Albertsons, Jackson (Owner: Psilos) | — | ~$100/person | Open — method call pending (in-person vs. pre-stock); bear spray rides the same bill |
+| Park entry | NPS, at the gate | — | ~$140 total | Default — pay at the South Entrances; no pass being bought |
 
 ---
 
