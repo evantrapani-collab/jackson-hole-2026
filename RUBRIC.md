@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-08-15 — found at **85**, restored to 100 by that pass; see the 8/15 notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-08-20 — found at **97**, restored to 100 by that pass; see the 8/20 notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -93,17 +93,17 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 ## Scorecard
 
-| Category | Points | 6/12 baseline | After 6/12 decisions | 8/4 re-grade | **8/15 found** | **8/15 after** |
-|---|---|---|---|---|---|---|
-| 1. Bookings & critical path | 20 | 18 | 20 | 20 | **17** | **20** |
-| 2. Schedule feasibility | 15 | 14 | 15 | 15 | **15** | **15** |
-| 3. Risk, safety & contingency | 15 | 14 | 15 | 15 | **13** | **15** |
-| 4. Meals | 12 | 10 | 12 | 12 | **11** | **12** |
-| 5. Money | 12 | 11 | 12 | 12 | **9** | **12** |
-| 6. Group coordination | 10 | 9 | 9 | 10 | **7** | **10** |
-| 7. Three layers in sync | 10 | 9 | 10 | 10 | **7** | **10** |
-| 8. Dashboard usability | 6 | 6 | 6 | 6 | **6** | **6** |
-| **Total** | **100** | **91** | **99** | **100** | **85** | **100** |
+| Category | Points | 6/12 baseline | After 6/12 decisions | 8/4 re-grade | 8/15 found | 8/15 after | **8/20 found** | **8/20 after** |
+|---|---|---|---|---|---|---|---|---|
+| 1. Bookings & critical path | 20 | 18 | 20 | 20 | 17 | 20 | **19** | **20** |
+| 2. Schedule feasibility | 15 | 14 | 15 | 15 | 15 | 15 | **14** | **15** |
+| 3. Risk, safety & contingency | 15 | 14 | 15 | 15 | 13 | 15 | **15** | **15** |
+| 4. Meals | 12 | 10 | 12 | 12 | 11 | 12 | **11** | **12** |
+| 5. Money | 12 | 11 | 12 | 12 | 9 | 12 | **12** | **12** |
+| 6. Group coordination | 10 | 9 | 9 | 10 | 7 | 10 | **10** | **10** |
+| 7. Three layers in sync | 10 | 9 | 10 | 10 | 7 | 10 | **10** | **10** |
+| 8. Dashboard usability | 6 | 6 | 6 | 6 | 6 | 6 | **6** | **6** |
+| **Total** | **100** | **91** | **99** | **100** | **85** | **100** | **97** | **100** |
 
 ### What the baseline lost points for → what changed
 
@@ -229,3 +229,34 @@ Drewes's afternoon (**Dornan's → brewery in town → gondola at Teton Village 
 3. **Two lifts, not one.** Thursday says "gondola," Sunday says "tram." At Teton Village those are different rides — the Bridger Gondola to mid-mountain and the Aerial Tram to the 10,450 ft summit where the Corbet's waffles are. If Thursday ends up on the tram, **Sunday's afternoon needs a different answer**. Same class of catch as the Dornan's double-booking: a plan can collide with itself, and §2's timing arithmetic won't catch it because nothing about the clock is wrong.
 
 **Grade holds at 100.** Nothing here was a deduction — the plan absorbed a confirmed fact and a new proposal without opening a gap, which is what the Decision Defaults structure was built to do. The clock table is the pattern worth reusing: *when a day's plan gets more than three moving parts, write the times down, because the seams only show up next to a clock.*
+
+---
+
+### 8/20 re-grade — the Friday confirmations land (found at 97, restored to 100)
+
+Both Friday confirmations came in on the same day: **Teton Expeditions** for the 8 AM Grand Teton sunrise safari (party of 13, 4 hours) and **Jackson Hole Whitewater** for the 1:00–4:30 PM "Classic Raft." Two facts in them reshaped the day, and one of them corrected these docs.
+
+**What the confirmations changed, and what it didn't cost:**
+
+- **Friday is two outfitters, not one.** Every document in this repo said "JHWW van + boat" — one vendor, one contract. It's two. **That costs nothing under §1**: the repo faithfully recorded what the crew believed, and a confirmation email is exactly the mechanism that corrects a belief. The plan didn't change; the names on it did. What it *does* change is real: **two tips, not one**, and two numbers to call on a dawn-to-dusk day.
+- **Both trips leave from the same building — 945 W Broadway.** This is a schedule fact the plan was working around without knowing it existed. Friday's midday reposition, which every version of these docs quietly assumed, doesn't exist.
+
+**Found at 97 (−3).** All three are things the repo could have said before the email arrived, not things the email revealed:
+
+| # | Cat | Deduction | What was actually wrong |
+|---|---|---|---|
+| −1 | §1 | The outfitter contact row was a placeholder | The Key Contacts card — the printable one, for a trip with no cell service — carried *"number is on the signed contract, copy it here when printing"* for the single vendor running the only fully-booked day of the trip. A contacts card with a TODO in it is not a contacts card. **JHWW is 307-733-1007**; it's written down now, in both layers |
+| −1 | §2 | Friday had no arithmetic before 8:00 AM | §2 wants each day's timing to actually work. Friday's schedule started *at* the tour: no house departure, no drive time, no arrival buffer — while the same page told everyone to be 30 minutes early for the afternoon boat. The confirmation's **"15 minutes prior"** turns that into a real clock: **7:45 check-in → ~7:00 wheels up**, with coffee as the only stop that fits. That hour existed before the email; nobody had written it |
+| −1 | §4 | Friday lunch was a slot premised on a drive | The plan put lunch at *"Cutty's — between the van tour and the rafting put-in."* There is no *between*; both trips stage from the same lot. The slot had a venue but the wrong shape — a ~45-minute window in a parking lot, not a stop on a route |
+
+**Restored to 100 by this pass:**
+
+- **The day is now clocked end to end** — leave ~7:00, check in 7:45, safari 8:00–~noon, lunch, raft check-in 12:30, water 1:00–4:30 — in `/itinerary`, the dashboard's Friday block, and both Key Times tables. The flagged risk is the honest one: **getting 13 guys out the door by 7 is harder than the drive.**
+- **Friday lunch got re-decided against the real constraint.** Default is the **outfitter deli** (zero travel, nobody misses the boat); **Sidewinders is next door** in the same complex; **Cutty's is now a ~25-min round trip out of a ~60-min window** and is relabeled a Sunday option. Free win: Sidewinders was already on the Sunday game-venue recon list, and we're parked next to it for six hours — **the recon is now a lunch stop**, not a separate errand.
+- **A new open item, with a default:** JHWW requires **every party member to sign the online waiver before arrival**, and says the confirmation email can be forwarded. It carries an owner (whoever holds the confirmation), a date (**9/10**, riding along with the call everything else points at), and a zero-action default — *thirteen guys filling out forms in the boathouse lot at 12:15, out of a ~45-minute lunch break.* Per §1 that scores full marks: it's a cost, not a gate. **No new ⭐** — the rafting late-cancel rule is still the only one.
+- **The no-alcohol rule got bigger and is stated as such.** Teton Expeditions bans it outright in writing; JHWW's rule covers the van and the boat. Friday's only drinking window is the lunch hour, and it's the hour before a Class 2–3 river. Worth saying plainly to a group whose Thursday is a bar crawl.
+- **Sync + maps:** the boathouse is a new `PLACES` entry (**81 places**, regenerated, `--check` clean), Sidewinders' and Cutty's entries were corrected to match their real geography, and the Teton Expeditions / JHWW split now reads identically in the README, `/itinerary`, `/logistics`, `/dining`, `/activities`, `/budget`, `/packing` and `index.html`.
+
+**One thing left open on purpose:** Teton Expeditions' email doesn't mention a waiver either way. That's a question on the pre-trip list, not an assumption — and the default (there's one to sign on-site) is the safe reading.
+
+**Grade: 100/100.** The pass didn't add a plan; it removed a phantom drive, put an hour back on the clock that nobody had written down, and gave a vendor requirement an owner before it could become a parking-lot scramble.

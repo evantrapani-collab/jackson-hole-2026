@@ -7,13 +7,14 @@ Tap a link → it opens the place in Google Maps → **Save** → pick
 Boxes marked _(already in your list)_ are the ones visible in your
 current 19 pins — skip those.
 
-**80 places total.**
+**81 places total.**
 
 ## Lodging & Logistics
 
 - [ ] [Montreux House (the Airbnb)](https://www.google.com/maps/search/?api=1&query=3720+Morley+Dr%2C+Teton+Village%2C+WY+83025) _(already in your list)_ — Booked. 5 BR / 6 beds for 13.
 - [ ] [Jackson Hole Airport (JAC)](https://www.google.com/maps/search/?api=1&query=Jackson+Hole+Airport%2C+WY) _(already in your list)_ — Fly in 10:19 AM Thu; depart 11:47 AM Mon. Rental pickup.
 - [ ] [St. John's Health (hospital)](https://www.google.com/maps/search/?api=1&query=St.+John%27s+Health%2C+625+E+Broadway%2C+Jackson%2C+WY) — Nearest 24-hr ER, ~25 min from the house.
+- [ ] [945 W Broadway (Fri boathouse)](https://www.google.com/maps/search/?api=1&query=945+W+Broadway+Ave%2C+Jackson%2C+WY+83001) — Both Friday trips stage here: Teton Expeditions safari (check in 7:45 AM) and Jackson Hole Whitewater rafting (check in 12:30). Hillside complex, next to Sidewinders. 307-733-1007.
 - [ ] [Smith's Food and Drug](https://www.google.com/maps/search/?api=1&query=Smith%27s+Food+and+Drug%2C+Jackson%2C+WY) — Grocery run on arrival (ribeyes, sides).
 - [ ] [Albertsons](https://www.google.com/maps/search/?api=1&query=Albertsons%2C+Jackson%2C+WY) — Grocery alternative to Smith's.
 - [ ] [Jackson Whole Grocer](https://www.google.com/maps/search/?api=1&query=Jackson+Whole+Grocer%2C+Jackson%2C+WY) — Third grocery/butcher option if Albertsons and Smith's are out of Prime.
@@ -25,11 +26,11 @@ current 19 pins — skip those.
 - [ ] [Silver Dollar Bar (Wort Hotel)](https://www.google.com/maps/search/?api=1&query=Silver+Dollar+Bar%2C+Wort+Hotel%2C+Jackson%2C+WY) — Bar crawl stop 2 — silver-dollar bar top.
 - [ ] [Million Dollar Cowboy Bar](https://www.google.com/maps/search/?api=1&query=Million+Dollar+Cowboy+Bar%2C+Jackson%2C+WY) — Bar crawl stop 3 — saddle stools.
 - [ ] [Mangy Moose Saloon](https://www.google.com/maps/search/?api=1&query=Mangy+Moose%2C+Teton+Village%2C+WY) — Bar crawl last stop — walkable from the house.
-- [ ] [The Bunnery](https://www.google.com/maps/search/?api=1&query=The+Bunnery%2C+Jackson%2C+WY) — Pastries/coffee on the way to the 8 AM van tour.
-- [ ] [Cowboy Coffee Co.](https://www.google.com/maps/search/?api=1&query=Cowboy+Coffee+Co%2C+Jackson%2C+WY) — The must-do coffee stop on the square; to-go on the way to the van tour.
+- [ ] [The Bunnery](https://www.google.com/maps/search/?api=1&query=The+Bunnery%2C+Jackson%2C+WY) — Pastries/coffee on the way to the 8 AM safari.
+- [ ] [Cowboy Coffee Co.](https://www.google.com/maps/search/?api=1&query=Cowboy+Coffee+Co%2C+Jackson%2C+WY) — The must-do coffee stop on the square; ~5 min from the boathouse — to-go, wheels up ~7 AM.
 - [ ] [Pearl Street Bagels](https://www.google.com/maps/search/?api=1&query=Pearl+Street+Bagels%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
 - [ ] [Picnic](https://www.google.com/maps/search/?api=1&query=Picnic%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
-- [ ] [Cutty's Bar & Grill](https://www.google.com/maps/search/?api=1&query=Cutty%27s+Bar+%26+Grill%2C+Wilson%2C+WY) _(already in your list)_ — Friday rafting lunch; Sunday Saints-game option (Hwy 22).
+- [ ] [Cutty's Bar & Grill](https://www.google.com/maps/search/?api=1&query=Cutty%27s+Bar+%26+Grill%2C+Wilson%2C+WY) _(already in your list)_ — Sunday Saints-game option (Hwy 22). Was the Friday lunch pick — now a ~10-min detour each way from the boathouse.
 - [ ] [Dornan's Pizza Pasta Co.](https://www.google.com/maps/search/?api=1&query=Dornan%27s+Pizza+Pasta+Co%2C+Moose%2C+WY) — Deck pizza with full Teton views.
 - [ ] [Corbet's Cabin (tram summit)](https://www.google.com/maps/search/?api=1&query=Corbet%27s+Cabin%2C+Teton+Village%2C+WY) — Waffles at 10,450 ft, top of the tram.
 - [ ] [Gun Barrel Steak & Game House](https://www.google.com/maps/search/?api=1&query=Gun+Barrel+Steak+and+Game+House%2C+Jackson%2C+WY) — Wild-game steakhouse; Thursday dinner alt.
@@ -51,7 +52,7 @@ current 19 pins — skip those.
 - [ ] [Bin22](https://www.google.com/maps/search/?api=1&query=Bin22%2C+Jackson%2C+WY) — Wine bar + tapas; too small for 13 — pre-dinner stop.
 - [ ] [Coe Tavern](https://www.google.com/maps/search/?api=1&query=Coe+Tavern%2C+Jackson%2C+WY) — Rooftop drinks + snacks; pre-dinner stop.
 - [ ] [Roadhouse Brewing Co.](https://www.google.com/maps/search/?api=1&query=Roadhouse+Brewing+Co%2C+Jackson%2C+WY) — Big enough to seat all 13 without a reservation — top Saints-game option; great happy hour Thursday.
-- [ ] [Sidewinders Tavern](https://www.google.com/maps/search/?api=1&query=Sidewinders+Tavern%2C+Jackson%2C+WY) — Sports tavern just down from Teton Village — closest game-watching option to the house (Jeremy rec).
+- [ ] [Sidewinders Tavern](https://www.google.com/maps/search/?api=1&query=Sidewinders+Tavern%2C+Jackson%2C+WY) — Sports tavern at 945 W Broadway — next door to the Friday boathouse, so it's the free lunch-hour recon for the Sunday game (Jeremy rec).
 - [ ] [The Verge](https://www.google.com/maps/search/?api=1&query=The+Verge%2C+Jackson%2C+WY) — Liquor in front, dive bar in back (AJAX rec). Bar-crawl flavor, not a dinner.
 - [ ] [D.O.G.](https://www.google.com/maps/search/?api=1&query=D.O.G.%2C+Jackson%2C+WY) — Friend's burrito pick; bulk-order option for the early-start stash.
 - [ ] [Creekside Market & Deli](https://www.google.com/maps/search/?api=1&query=Creekside+Market+and+Deli%2C+Jackson%2C+WY) — Sandwiches before heading into the parks.

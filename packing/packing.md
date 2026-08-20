@@ -84,7 +84,8 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 - [ ] Driver's license
 - [ ] National Park pass (America the Beautiful) or plan to buy at entrance
 - [ ] Printed hotel/lodging confirmations (cell service is unreliable)
-- [ ] Activity booking confirmations
+- [ ] Activity booking confirmations — **two separate ones for Friday**: Teton Expeditions (8 AM safari) and Jackson Hole Whitewater (1 PM raft), both at 945 W Broadway
+- [ ] **Friday rafting waiver — signed online before you fly.** JHWW requires it from every party member; the confirmation email is forwardable
 - [ ] Travel insurance info (decide if you're getting it)
 - [ ] Emergency contacts written down — incl. **St. John's Health, Jackson** (nearest ER)
 - [ ] Cash — Friday guide tips + a couple cash-only spots (Pica's, Nora's)
@@ -95,5 +96,6 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 
 - **Bear spray:** Do not pack in carry-on or checked luggage (FAA prohibited). The group buys canisters in Jackson on arrival Thursday — don't bring your own.
 - **Layers > warm clothes:** A puffy + rain jacket beats a single heavy coat for flexibility.
+- **Friday is the day that tests the layers.** Teton Expeditions says it outright: dress in layers, because the van stops and everyone gets out to use the spotting scope at 8 AM. Then you're on the water by 1 PM — so pack a **dry set of clothes for the afternoon** and remember the boat requires **shoes that attach to your feet** (no flip-flops). Binoculars earn their keep on this morning.
 - **Skip the umbrella:** Useless in mountain wind; a hood is always better.
 - **Cotton kills:** Avoid cotton base layers and socks entirely. When wet, cotton loses all insulating ability.
