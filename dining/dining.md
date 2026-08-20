@@ -6,14 +6,14 @@
 |---|---|---|---|
 | **Thursday lunch** | **Dornan's (Moose)** 🆕 | Thu | ~8 min from JAC — the arrival stop: pizza, beer, Tetons, acclimate to 6,200 ft before town. *(Drewes's plan, 8/15)* |
 | Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square. ⚠️ **Squeezed by the new afternoon plan** — Dornan's → brewery → gondola → 4 PM check-in leaves no downtown-lunch window. Grab it while you're in town at the brewery, or Sunday afternoon |
-| Friday breakfast | The Bunnery | Fri AM | Pastries/coffee grab-and-go on the way to the 8 AM van tour |
-| Friday coffee | Cowboy Coffee Co. | Fri AM | Downtown Jackson (town square) — grab on the way out to the van tour/rafting; **a must** |
+| Friday breakfast | The Bunnery | Fri AM | Pastries/coffee grab-and-go — **to-go only**; check-in is 7:45, so the house empties ~7:00 |
+| Friday coffee | Cowboy Coffee Co. | Fri AM | Town square, ~5 min from the 945 W Broadway boathouse — grab it **to-go** on the way to the 7:45 check-in; **a must** |
 | Early-start breakfast | Breakfast burritos (house stash) | Sat/Sun AM | Order a batch to keep at the house; reheat for the 7 AM Yellowstone + 6:30 AM wildlife-drive starts |
 | Thursday bars | Snake River Brewing | Thu night | First stop; craft brewery, great food |
 | Thursday bars | Silver Dollar Bar & Grill | Thu night | Classic western bar; inlaid silver dollar bar top |
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
-| Friday lunch (rafting) | Cutty's Beer and Cheesesteaks | Friday | Between the van tour and rafting; or outfitter deli |
+| Friday lunch | **Outfitter deli (default)** | Friday | ~45-min window at 945 W Broadway between the safari and the boat — **Sidewinders is next door**; Cutty's is now a detour |
 | Saturday lunch | **Cooler lunch, packed Friday night** ⚠️ | Saturday | In-park; eat at West Thumb on the way back — see *Saturday Lunch* below |
 | Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 burritos — see *Monday Breakfast* below |
 | Friday dinner | **House ✅ locked** — menu default: fajita bar | Friday | Venue locked; menu defaults to the fajita/taco bar if nobody picks by 9/10 — see *Friday Dinner Menu* below |
@@ -51,10 +51,10 @@
 
 ## Cowboy Coffee Co. (Friday AM) — the must-do coffee stop
 
-- Local Jackson coffee roaster **right on the town square** (N Cache St), so it's an easy grab on the way out of town toward the van tour/rafting put-in
+- Local Jackson coffee roaster **right on the town square** (N Cache St) — **~5 minutes from the 945 W Broadway boathouse**, so it's the one stop that fits between leaving the house (~7:00) and the 7:45 safari check-in. To-go
 - Order coffee for the vans **to go**; they also do breakfast sandwiches/burritos if anyone wants food in hand
 - Pairs with — or replaces — the Bunnery stop Friday morning; pick whichever is the cleaner stop on the way out
-- Opens early — confirm exact hours before the 8 AM tour so the stop doesn't push the departure
+- Opens early — confirm exact hours, because the margin is thinner than it looks: **7:45 check-in** means leaving the house ~7:00, and this is the only stop in that hour
 
 ## Breakfast Burritos for the Early Starts — house stash
 
@@ -88,11 +88,19 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - **The Bunnery** on the square is the only sit-down that fits, and only barely — it's the *wrong* direction from Teton Village to JAC. Skip it unless the group is running early
 - Whoever's on trash/fridge duty: eat it or bin it, don't leave it for RMR
 
-## Cutty's Beer and Cheesesteaks (Friday)
+## Friday Lunch — the window between the safari and the boat
 
-- Located between the van tour and the rafting put-in
-- Casual, quick, the right kind of food before getting on the water
-- Alternative to the outfitter's deli lunch — decide closer to the trip
+> 🆕 **The confirmations (8/20) changed the shape of this decision.** We'd been picturing a drive between the morning tour and the rafting put-in. There isn't one: **Teton Expeditions and Jackson Hole Whitewater both operate out of 945 W Broadway.** The safari gets back around **noon**, rafting checks in at **12:30**. So this isn't "where do we eat between two places" — it's **what can 13 guys eat in ~45 minutes without leaving the parking lot.**
+
+| Option | Travel | The call |
+|---|---|---|
+| **Outfitter deli lunch** (JHWW) | none | ✅ **The default.** Sandwiches at the boathouse, nobody's watching a clock, nobody misses the boat |
+| **Sidewinders** | walk next door | The interesting one — **same complex** as the boathouse. Doubles as the **Sunday game-venue recon** we already planned, so you learn something about the TVs while you eat. Risk: table service for 13 in 45 min |
+| **Cutty's** (Wilson) | ~10 min each way | Was the plan when we thought the two trips were in different places. **~25 min of a 60-min window in the car** — hard to justify now |
+
+- If the safari runs long (good wildlife does that), **lunch is what compresses** — another point for the deli option
+- Whatever you pick, remember **both outfitters ban alcohol**: this hour is the only drinking window on Friday, and it's the hour before a Class 2–3 river. Act accordingly
+- Cutty's stays on the board for **Sunday** (Saints game, Hwy 22) — it just isn't the obvious Friday answer anymore
 
 ## Dornan's Pizza Pasta Co. (Moose) — the pizza + view spot
 
@@ -115,7 +123,8 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
   - Nobody's TV setup is great, but **Roadhouse and Snake River are the best bets** for actually watching the game
 - **Psilos's plan:** run a Thursday/Friday recon pass to check the real TV/seating situation before picking — LSU (the Ole Miss undercard) should be the easier of the two games to place
 - ✅ **Default: the house cookout.** It owns the TV, the full Sunday slate (RedZone and the late window, not just the Saints), needs no reservation and no 13-top anywhere, and doesn't put anyone in a car after an 11 AM kickoff. **Snake River Brewing or Roadhouse are the upgrade** if the recon likes their setup — but if the recon never happens, the day still has an answer
-- 🆕 **Add Sidewinders to the recon list** *(Jeremy, 8/15)* — a sports tavern **just down from Teton Village**, good food and drinks at reasonable prices. Nobody's TV setup among the breweries is great, and this is the one option built for watching games *and* the closest to the house. If the recon likes it, it beats driving into Jackson on a game morning
+- 🆕 **Add Sidewinders to the recon list** *(Jeremy, 8/15)* — a sports tavern at the west end of town, good food and drinks at reasonable prices. Nobody's TV setup among the breweries is great, and this is the one option built for watching games *and* the closest to the house of anything in town. If the recon likes it, it beats driving into downtown Jackson on a game morning
+  - ✅ **And the recon just got free (8/20):** the rafting confirmation places the JHWW boathouse **"in the Hillside complex next to Sidewinders"** — i.e. **945 W Broadway, the same lot we're standing in for six hours on Friday.** Eat lunch there between the safari and the boat and the Sunday question answers itself
 - Monday 11:47 AM departure means Sunday night should stay reasonable
 
 ---
@@ -203,7 +212,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 
 **Easy adds (low effort, fit the existing days)**
 - **Jackson Drug** — famous huckleberry shake, on the town square. Perfect quick hit **Thursday** while bar-hopping, or any time we're downtown. No reservation, no commitment.
-- **The Bunnery** — fresh pastries/breakfast on the square. Good grab-and-go **Friday morning** coffee/breakfast *on the way to the 8 AM van tour* (they tell you to eat on the way), or a relaxed Monday pre-flight bite.
+- **The Bunnery** — fresh pastries/breakfast on the square. Good grab-and-go **Friday morning** coffee/breakfast *on the way to the 7:45 check-in* (the outfitter tells you to eat on the way), or a relaxed Monday pre-flight bite.
 - **Leek's Pizzeria** — casual pizza at Leek's Marina on Jackson Lake, up near Colter Bay (~40 min north, in Grand Teton). Only makes sense if we end up that far north — otherwise Dornan's covers the pizza craving much closer.
 
 **Western steak dinner (alt to the house grill)**
@@ -237,7 +246,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - **Creekside Market** — "perfect to grab a sandwich before going into Grand Teton" — fits Sunday on the way to/from the wildlife drive, or stock the Saturday Yellowstone cooler if their hours beat the 7 AM roll-out
 - **Pearl Street sloshie** — friend's favorite; quick downtown hit Thursday alongside the Jackson Drug shake
 - **Roadhouse Brewery** — "great happy hour"; downtown, **good beer and solid food** (Jeremy, 8/15). Thursday-crawl alternate, and one of the two breweries big enough for the whole group at the Saints game
-- **Sidewinders** — *(Jeremy, 8/15)* **just down the road from Teton Village**, good food and drinks at a reasonable price, and Guy Fieri shot a show there. It's a **sports tavern**, which makes it the most interesting new name on this list: the Sunday Saints question is really "whose TVs are best," and it's the closest option to the house of anything we've considered. Worth the Thu/Fri recon stop
+- **Sidewinders** — *(Jeremy, 8/15)* at **945 W Broadway**, the west end of Jackson on the Teton Village side of town (~15–20 min from the house), good food and drinks at a reasonable price, and Guy Fieri shot a show there. **It's next door to the JHWW boathouse** — so we're parked there Friday anyway. It's a **sports tavern**, which makes it the most interesting new name on this list: the Sunday Saints question is really "whose TVs are best," and it's the closest option to the house of anything we've considered. Worth the Thu/Fri recon stop
 - **The Verge** — *(AJAX, 8/15)* liquor store in the front, dive bar in the back. Thursday-crawl flavor, not a dinner
 - **Merry Piglets / Hand Fire Pizza** — casual downtown lunch/dinner backups (Hand Fire is already on the burrito-vendor list)
 - **Healthy Being** — smoothies/juices; there if anyone needs a green reset, not a group stop

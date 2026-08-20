@@ -94,7 +94,7 @@
 
 ## Booking Notes
 
-- [x] Snake River **whitewater** rafting — booked ✅ (JHWW, Friday 1 PM; see `/logistics`). The *scenic* float is a separate product and there's no open window for it this trip
-- [x] Wildlife guide — covered ✅ by the booked Friday 8 AM JHWW van tour through Grand Teton
+- [x] Snake River **whitewater** rafting — booked ✅ (**Jackson Hole Whitewater**, "Classic Raft," Friday **1:00–4:30 PM**, 945 W Broadway; see `/logistics`). The *scenic* float is a separate product and there's no open window for it this trip
+- [x] Wildlife guide — covered ✅ by the Friday 8 AM Grand Teton sunrise safari. ⚠️ **It's booked with Teton Expeditions, not JHWW** *(confirmation 8/20 — these docs had it as one combined "JHWW van + boat" booking)*. Half day, **4 hours**, party of 13 confirmed, **check in 7:45 AM** — and it stages from the **same address as the rafting**, so Friday never leaves 945 W Broadway between trips
 - [ ] Teton Village tram — no reservation needed to ride, but **buy tickets in advance online** *(by **9/7**, before anyone flies)*; check fall operating hours/dates on jacksonhole.com (JHMR publishes the fall calendar each summer). ✅ **Better odds than we'd assumed** — the 8/15 word from town is that **shoulder season now starts in October and September is one of the busier months**, so a running tram is the likely case, not the coin flip these docs were treating it as. **If the tram isn't running — or nobody buys tickets — Sunday afternoon defaults to downtown Jackson plus the early Dornan's dinner already on the day.** The plan loses a highlight, not a block
 - [ ] Fishing guide — only if someone wants to trade away a slotted block (the schedule is full); September is prime season, so book early if so

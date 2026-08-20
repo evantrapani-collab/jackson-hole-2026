@@ -20,7 +20,7 @@ Trip-planning repo for a 13-person Jackson Hole / Yellowstone trip, **Sep 17–2
 
 - Open items live in **README → Open Items**, mirrored into the `index.html` to-do checklist. Load-bearing items get an owner + deadline (and ⭐ if they gate the trip).
 - The trip's fixed constraints — check these before suggesting plan changes:
-  - Friday is **booked dawn-to-dusk** (8 AM van tour + 1 PM rafting).
+  - Friday is **booked dawn-to-dusk** (8 AM Teton Expeditions safari + 1 PM JHWW rafting — **both out of 945 W Broadway**, check in 7:45 AM).
   - Saturday: Yellowstone via the **South Entrance only**, back by ~3 PM for the 5:30 PM LSU game. Anything past Old Faithful / West Thumb doesn't fit.
   - Sunday: 6:30 AM wildlife drive, Saints game at 11 AM MT.
   - Headcount is **locked at 13**; lodging is booked (Montreux House, Teton Village).

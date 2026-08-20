@@ -41,21 +41,40 @@ Land → **Dornan's** → **brewery in town** → **gondola at Teton Village** �
 
 ---
 
-## Friday, Sep 18 — Guided Tetons Van Tour + Whitewater Rafting ✅ BOOKED
+## Friday, Sep 18 — Guided Tetons Safari + Whitewater Rafting ✅ BOOKED
 
-> **Booked dawn-to-dusk — no free morning.** The 8 AM van tour *is* your Tetons morning.
+> **Booked dawn-to-dusk — no free morning.** The 8 AM safari *is* your Tetons morning.
+>
+> ✅ **Both confirmations are in (8/20), and together they answer the day's biggest open question: it all happens at one address.** The morning tour is **Teton Expeditions** — a different outfit than the rafting, which is **Jackson Hole Whitewater**, and not the single "JHWW van + boat" these docs assumed. But **both stage from the same building: 945 W Broadway, Jackson** (the boathouse in the Hillside complex, next door to Sidewinders). **Nobody repositions midday.** The van brings you back to the boat.
 
-- **8:00 AM — JHWW Sunrise Wildlife Van Tour** (two vans, wildlife focus through Grand Teton NP)
+| Time | What | Where |
+|---|---|---|
+| ~7:00 AM | Leave the house (coffee stop on the way) | Teton Village |
+| **7:45 AM** | **Check in — 15 min early, in writing** | 945 W Broadway |
+| 8:00 AM–~12:00 PM | Teton Expeditions sunrise safari (4 hrs) | Grand Teton NP |
+| ~12:00–12:30 PM | Lunch — same parking lot | 945 W Broadway |
+| **12:30 PM** | Rafting check-in (30 min early) | 945 W Broadway |
+| 1:00–4:30 PM | Snake River whitewater | Snake River Canyon |
+
+- **~7:00 AM — roll out.** Teton Village → 945 W Broadway is ~20 min, and **Teton Expeditions asks everyone to be there 15 minutes prior — 7:45 AM.** Coffee is the only thing that fits in between: **Cowboy Coffee Co.** on the square is the must-do stop (Bunnery pastries too), it's ~5 min from the boathouse, and it's **to-go only** on this morning. Getting 13 guys out the door by 7 is the actual risk here, not the drive
+- **8:00 AM–~12:00 PM — Teton Expeditions half-day Grand Teton sunrise safari** ✅ *party of 13 confirmed for 9/18, 8:00 AM*
+  - **Trip length is 4 hours**, so plan on being back at the boathouse right around **noon** — an hour before the boat. Good wildlife runs long, though; if the van is late back, lunch is the thing that gets compressed, not the rafting
   - This covers the Tetons — there's no separate self-drive time built in
-  - Grab coffee and breakfast on the way; they recommend it. **Cowboy Coffee Co.** on the town square is the must-do stop (also Bunnery pastries) — order to-go and don't let it push the 8 AM departure
-- **~11:30 AM — Lunch break** at the rafting rental spot
-  - Deli-style lunch from the outfitter, OR **Cutty's Beer and Cheesesteaks** nearby
-- **1:00 PM — Snake River Whitewater Rafting** ("8 Miles of Smiles," Class 2–3) — private van + boat, ends ~4:30 PM
+  - **Dress in layers.** Their words: it may be cold in the morning and *"we decide to get out and look through the spotting scope"* — so this is a stand-around-in-the-wind tour, not a sit-in-the-van one. Bring binoculars
+  - 🚫 **Teton Expeditions has a written NO ALCOHOL policy — "please leave it behind."** Same rule as the boat. Combined with JHWW's, **Friday's only drinking window is the lunch hour between them**, and that's the hour right before you get on a river
+- **~12:00–12:30 PM — Lunch, in the boathouse parking lot.** Now that both trips share an address, the tradeoff is clean — see `/dining`:
+  - **Outfitter deli lunch** (JHWW's, on site) — zero travel, zero risk of missing the boat. The default
+  - **Sidewinders** — literally next door in the same complex; walkable, and it **doubles as the Sunday game-venue recon** we were already planning. Table service for 13 in 45 minutes is the gamble
+  - **Cutty's** (Wilson, ~10 min west) — ~25 min of a ~60-min window spent in the car. It was the plan when we thought the tour and the boat were in different places; it isn't the obvious call anymore
+- **12:30 PM — rafting check-in** (the contract says be at the put-in 30 min early)
+- **1:00–4:30 PM — Jackson Hole Whitewater, "Classic Raft"** ("8 Miles of Smiles," Class 2–3) — private boat, ends ~4:30 PM ✅ *times confirmed in writing*
+  - ⚠️ **Waivers — every man signs online before arrival.** JHWW's confirmation is explicit about it and the email is forwardable to the whole party. 13 guys filling out forms on their phones in a parking lot is exactly how an on-time group turns into a late one. See *Open Items* in the README
   - Shoes that attach to your feet required (no sandals or flip flops)
   - Wetsuit rental on-site: $5/person (3-piece) — decide closer to the trip based on weather
-  - **No alcohol on the van or boat** — the lunch break is the window
+  - **No alcohol on the van or boat**
+  - ☎️ **JHWW: 307-733-1007** — the day-of number if anything slips
 - **Evening — dinner ✅ locked: the house.** After a dawn-to-dusk day it's a low-key house dinner off the grocery stock (the burrito pickup is already on the way home). The 6/30 booking fence for a 13-top (Local/Gather) passed with no reservation, so the house is the plan — no scramble
-- **Tip the guides:** both the van-tour and rafting guides — bring cash (~$20–40/person across both)
+- **Tip the guides:** **two separate outfits**, so that's two tips — bring cash (~$20–40/person across both)
 
 ---
 
@@ -127,8 +146,10 @@ Land → **Dornan's** → **brewery in town** → **gondola at Teton Village** �
 
 | Event | Time | Notes |
 |---|---|---|
-| Friday van tour | 8:00 AM | Booked dawn-to-dusk; coffee/breakfast on the way |
-| Rafting | 1:00 PM | Ends ~4:30 PM; arrive 30 min early; no alcohol |
+| Fri — leave the house | ~7:00 AM | Coffee to-go on the way; ~20 min to 945 W Broadway |
+| Fri — safari check-in | **7:45 AM** | 15 min prior, per Teton Expeditions |
+| Friday safari (Teton Expeditions) | 8:00 AM | 4 hrs → back ~noon. Layers; no alcohol |
+| Rafting (JHWW) | 1:00 PM | **Same address** — 945 W Broadway. Check in 12:30; ends ~4:30; waiver signed in advance |
 | Sat — leave for Yellowstone | 7:00 AM | 2–3 stops; back by ~3:00 PM |
 | LSU/Ole Miss kickoff | 5:30 PM MT | 6:30 CT on ABC |
 | Sun — sunrise wildlife drive | 6:30 AM | Oxbow Bend, Mormon Row, Moose-Wilson |

@@ -11,7 +11,7 @@
 | Slot | On this list? | Why |
 |---|---|---|
 | Thu dinner | ❌ | Bar crawl — Snake River Brewing has a full menu |
-| Fri breakfast | ❌ | Cowboy Coffee / Bunnery on the way to the 8 AM van tour |
+| Fri breakfast | ❌ | Cowboy Coffee / Bunnery, to-go, on the way to the 7:45 AM check-in |
 | Fri lunch | ❌ | Rafting — outfitter deli or Cutty's |
 | **Fri dinner** | ✅ | House. **Menu defaults to the fajita bar** (Module A) unless the Sep 10 call says otherwise — see the two modules below |
 | **Sat breakfast** | ⚠️ partial | Burrito stash, bought from a **vendor**, not the grocery store |

@@ -58,31 +58,42 @@
 
 ---
 
-## Rafting / Van — BOOKED ✅
+## Friday Safari + Rafting — BOOKED ✅
 
-Contract is signed. Key details:
+> ✅ **Both confirmations landed 8/20 — and they correct something these docs had wrong.** Friday is **two different outfitters**, not one: the morning safari is **Teton Expeditions**, the afternoon rafting is **Jackson Hole Whitewater**. The good news buried in that: **they operate out of the same building.** One address, all day, no repositioning at lunch.
 
 | Detail | Info |
 |---|---|
-| What's included | Private van + private boat for the group |
-| Payment | ✅ **Paid** — never a separate collect. The van tour + rafting are inside the **$784.14/man** figure, settled by all 13 on 8/15; ledger in [`/budget`](../budget/budget.md#the-ledger--settled) |
+| **Where — both trips** | **945 W Broadway Ave, Jackson, WY 83001** — the JHWW boathouse in the **Hillside complex, next to Sidewinders**. ~20 min from the house |
+| **Morning** | **Teton Expeditions** — half-day Grand Teton sunrise safari, **party of 13 confirmed, 9/18 8:00 AM**, **4 hours** (back ~noon). **Be there 15 min prior — 7:45 AM** |
+| **Afternoon** | **Jackson Hole Whitewater** — "Classic Raft" (8 Miles of Smiles, Class 2–3), **1:00–4:30 PM**, private boat. Check in 12:30 (30 min early) |
+| **JHWW phone** | **307-733-1007** |
+| Payment | ✅ **Paid** — never a separate collect. Both are inside the **$784.14/man** figure, settled by all 13 on 8/15; ledger in [`/budget`](../budget/budget.md#the-ledger--settled) |
 | Cancellation | Full refund if cancelled 7+ days out |
+
+> 📇 **Name on the bookings:** the Teton Expeditions confirmation is addressed to **Chris** — i.e. **Psilos**, not Drewes, is the contact of record for the morning safari. Worth knowing before somebody calls the wrong outfitter about the wrong trip on Friday morning.
 
 ### Day-of Details (Friday)
 
-- **Shoes:** Must attach to your feet — no sandals or flip flops
+- ⚠️ **WAIVERS — all 13 sign JHWW's online waiver before arrival.** Stated in the confirmation, and **the email is forwardable** so everyone can sign off the same link. Do it in advance: 13 guys doing paperwork on their phones in a parking lot is how a 12:30 check-in becomes a 1:00 launch. *(Teton Expeditions' email doesn't mention a waiver — ask when confirming, and assume there's one to sign on-site.)*
+- 🚫 **No alcohol, all day, both operators.** Teton Expeditions puts it in red — *"NO ALCOHOL POLICY! Please leave it behind"* — and JHWW's no-alcohol rule covers the van and the boat. **The lunch hour between them is the only window**, and it's the hour before you get on a river
+- **Layers for the morning:** Teton Expeditions says dress in layers because *"we decide to get out and look through the spotting scope"* — cold, and out of the vehicle. Bring binoculars
+- **Shoes (rafting):** Must attach to your feet — no sandals or flip flops
 - **Wetsuits:** Available to rent on-site — $5/person (3-piece suit); decide closer to the trip based on weather
-- **Arrival:** Get to the put-in **30 minutes early**
-- **Before you go:** Grab coffees and breakfast at a nearby spot on the way — they recommend this
-- **Lunch:**
-  - Option A: Deli-style lunch supplied by the outfitter
-  - Option B: **Cutty's Beer and Cheesesteaks** — between the van tour and the rafting portion
+- **Arrival:** **7:45 AM** for the safari (confirmed); **30 min early** for rafting (contract)
+- **Before you go:** Grab coffees to-go on the way — Cowboy Coffee Co. on the square is ~5 min from the boathouse
+- **Lunch — a ~60-minute window in the boathouse lot** (see [`/dining`](../dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)):
+  - Option A: Deli-style lunch supplied by the outfitter — zero travel, the low-risk default
+  - Option B: **Sidewinders** — next door in the same complex, and it doubles as the **Sunday game-venue recon**
+  - Option C: **Cutty's** (Wilson) — ~10 min west each way, which eats half the window. Weaker now that both trips share an address
+- **Two outfitters = two tips.** Cash, ~$20–40/person across both
 
 ### Reminders (don't need to decide now)
 
+- [ ] **Waivers signed by all 13** — forward the JHWW email to the group
 - [ ] Wetsuit rentals — decide closer to the trip ($5/person)
-- [ ] Lunch preference — outfitter deli or Cutty's?
-- [ ] Confirm exact departure / check-in time with outfitter (Jeff @ JHWW)
+- [ ] Lunch preference — outfitter deli, Sidewinders next door, or Cutty's?
+- [ ] ✅ Times confirmed in writing (7:45 check-in / 8:00 safari / 1:00 rafting). Still open: whether **Teton Expeditions has its own waiver**, and whether the safari can hand off directly to JHWW if the van runs long
 
 ---
 
@@ -154,7 +165,8 @@ Contract is signed. Key details:
 |---|---|---|
 | **Montreux House** (the Airbnb) | Home base | 3720 Morley Drive, Teton Village, WY 83025 |
 | **RMR** (property manager) | House issues, pre-arrival coordination, **sleeping-surface question for Ciolino** | (307) 739-9050 · lodging@rmrentals.com |
-| **JHWW — Jeff** | Friday van tour + rafting | Number is on the signed contract — copy it here when printing confirmations |
+| **Jackson Hole Whitewater** | Friday 1 PM rafting — and the **address for all of Friday** | **307-733-1007** · 945 W Broadway Ave, Jackson, WY 83001 *(Hillside complex, next to Sidewinders)* |
+| **Teton Expeditions** | Friday 8 AM Grand Teton safari — **be there 7:45** | Same address: 945 W Broadway. Booking is under **Chris (Psilos)**; number is on the confirmation — copy it here when printing |
 | **American Airlines** | Flight changes / misconnect | (800) 433-7300 + the AA app |
 | **St. John's Health** | Nearest 24-hr ER | 625 E Broadway, Jackson — ~25 min from the house |
 | **Drewes** | Money hub | @DrewesPT on Venmo |
@@ -212,8 +224,9 @@ Contract is signed. Key details:
 - [ ] Decide travel insurance (yes/no)
 - [ ] **Tram — confirm late-Sept operating dates + buy tickets online** *(by 9/7)*. If it's down or nobody buys, Sunday afternoon defaults to downtown Jackson + the early Dornan's dinner already on the day
 - [ ] **Bear spray — 2+ canisters on the Thursday grocery bill** (default owner: the grocery run). Backstop: Jackson outdoor shops + park visitor centers
+- [ ] **All 13 sign the JHWW online waiver** — forward the confirmation email to the group *(and ask Teton Expeditions whether they have one too)*
 - [ ] Decide on wetsuit rentals (weather-dependent)
-- [ ] Decide on rafting lunch (outfitter vs. Cutty's)
+- [ ] Decide on Friday lunch (outfitter deli / Sidewinders next door / Cutty's)
 - [ ] Finalize carpool / seat split across the **two** SUVs (3rd vehicle ruled out)
 - [ ] Download offline maps for Yellowstone + the **Shaka Guide "Yellowstone National Park Tour"** audio tour (covers our South-Entrance loop; works offline)
 - [ ] Check Yellowstone road/trail conditions at NPS.gov

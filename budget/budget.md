@@ -64,9 +64,10 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 
 ---
 
-## Rafting / Van ✅ BOOKED
+## Safari / Rafting ✅ BOOKED
 
 - Contract signed; private van + boat
+- **Two outfitters, one address** *(confirmations 8/20)*: **Teton Expeditions** runs the 8 AM Grand Teton sunrise safari (booked under **Chris Psilos**), **Jackson Hole Whitewater** runs the 1 PM raft — both out of 945 W Broadway. Money is unaffected; both were already inside the combined number
 - Full refund if cancelled 7+ days out
 - **Payment:** ✅ **Settled** — never a separate collect. The tour + rafting are inside the **$784.14/man** figure, which all 13 have now paid.
 - Earlier ballpark from the chat: ~$165 rafting + ~$165 Teton tour, ~$300/day with group discount — consistent with the final combined number.
@@ -106,7 +107,8 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 | Item | Provider | Confirmation # | Amount | Status |
 |---|---|---|---|---|
 | Airbnb | Airbnb | — | $7,229.82 total | Booked ✅ — paid; inside the $784.14 |
-| Rafting / Van | JHWW | — | In the $784.14 | Booked ✅ — paid |
+| Fri rafting (1 PM) | Jackson Hole Whitewater | — | In the $784.14 | Booked ✅ — paid |
+| Fri safari (8 AM) | Teton Expeditions | — | In the $784.14 | Booked ✅ — paid *(booked under Psilos)* |
 | Flights | American Airlines | — | varies | Booked ✅ |
 | Rental SUV #1 (Explorer) | Jason Hardie | — | — | Booked ✅ |
 | Rental SUV #2 (Expedition) | Joe Schick | — | — | Booked ✅ |
