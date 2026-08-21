@@ -82,9 +82,10 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 | Food & Drink | $150–250 total | Bars Thu night, meals, drinks |
 | Ribeyes (Sat grill) | $50–80 | 24 oz bone-in + sides; split the grocery run |
 | Guide tips (Fri) | $20–40 | Van tour **+** rafting guides; bring cash |
-| Bear spray | ~$8 | 2 canisters at ~$50, one per vehicle, split 13 ways — **buy in Jackson, on the Thursday grocery bill** |
+| **Tram ticket (Sun)** 🆕 | **~$55** | ⚠️ **This line was missing.** Sightseeing ticket to Corbet's Cabin, ~$55/person, bought online by 9/7. ✅ Tram confirmed running (May 16–Oct 4, 8:30–5). Skippable, but if all 13 ride it's **~$715** — the biggest single item nobody had counted |
+| Bear spray | **~$4** ⬇️ | 🆕 **Now a rental, not a purchase.** 2 canisters from the **Bear Aware kiosk at JAC baggage claim** — $16 for 2 days, $4/day after, **capped at $28 each** = ~$56 total ÷ 13. Was ~$8/man to buy at ~$50/canister, and you can't fly home with those |
 | Rafting wetsuit rental | $5 | Optional; decide closer to the trip |
-| Park entry | ~$11 | **Default: pay at the gate** — 2 vehicles × 2 parks × $35 = $140 split 13 ways. Two ATB passes would be $160, so the pass only wins if someone already owns one |
+| Park entry | ~$11 | **Default: pay at the gate** — 2 vehicles × 2 parks × $35 = $140 split 13 ways. Two ATB passes would be $160, so the pass only wins if someone already owns one. **Each $35 is a 7-day pass**, so Saturday's Grand Teton fee also covers Sunday |
 | Gas / transport | $30–60 | Split across vehicles |
 | Incidentals | $50–100 | Tips, souvenirs, extra drinks |
 
@@ -96,9 +97,12 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 |---|---|
 | Lodging + van tour + rafting (Drewes, final) | **$784.14** |
 | Food, drink & ribeyes | ~$200–330 |
-| Tips, bear spray, gas, park entry, incidentals | ~$120–220 |
-| **Total on the ground** | **≈ $1,100–1,330** |
+| Tips, bear spray, gas, park entry, incidentals | ~$115–220 |
+| **Sunday tram** *(optional, ~$55)* | ~$0–55 |
+| **Total on the ground** | **≈ $1,100–1,390** |
 | Flights | + each person's own booking |
+
+> 🆕 **What moved (8/21 review):** the **tram ticket (~$55/person) was never in this budget** and it's on the Sunday plan — added above. Working against it, **bear spray dropped from ~$8 to ~$4/man** by switching from buying two canisters to renting them at the airport kiosk. Net effect on the all-in number: **+$56 at the top end** ($1,330 → $1,390), and now it's honest.
 
 ---
 
@@ -112,8 +116,10 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 | Flights | American Airlines | — | varies | Booked ✅ |
 | Rental SUV #1 (Explorer) | Jason Hardie | — | — | Booked ✅ |
 | Rental SUV #2 (Expedition) | Joe Schick | — | — | Booked ✅ |
-| Groceries / Ribeyes | Smith's or Albertsons, Jackson (Owner: Psilos) | — | ~$100/person | Open — method call pending (in-person vs. pre-stock); bear spray rides the same bill |
-| Park entry | NPS, at the gate | — | ~$140 total | Default — pay at the South Entrances; no pass being bought |
+| Groceries / Ribeyes | Smith's or Albertsons, Jackson (Owner: Psilos) | — | ~$100/person | Open — method call pending (in-person vs. pre-stock). **Thursday now has a 3–4 PM block for it** (the gondola closure freed the hour) |
+| Park entry | NPS, at the gate | — | ~$140 total | Default — pay at the gates; no pass being bought. Each $35 is good 7 days |
+| **Bear spray (2 canisters)** | **Bear Aware kiosk, JAC baggage claim** | — | **~$56 total** | 🆕 **Rental** — pick up Thursday at carousel #3, drop in the same box Monday. Capped at $28/canister |
+| **Tram tickets (Sun)** | Jacksonhole.com, online | — | ~$55/person | 🆕 **Open** — buy by 9/7. Tram confirmed running May 16 – Oct 4 |
 
 ---
 

@@ -81,7 +81,7 @@
 - **Shoes (rafting):** Must attach to your feet — no sandals or flip flops
 - **Wetsuits:** Available to rent on-site — $5/person (3-piece suit); decide closer to the trip based on weather
 - **Arrival:** **7:45 AM** for the safari (confirmed); **30 min early** for rafting (contract)
-- **Before you go:** Grab coffees to-go on the way — Cowboy Coffee Co. on the square is ~5 min from the boathouse
+- **Before you go:** ☕ **Cowboy Coffee's drive-thru at 1007 S US-89** — opens **6 AM**, sits ~2 min from the boathouse right where WY-22 meets the highway, and you pass it on the way in. **Not the Town Square store** (125 N Cache): that one is ~5 min *east past* 945 W Broadway, so it's a backtrack, and 13 guys queuing indoors at 7:15 is how a 7:45 check-in slips. **Leave the house ~6:45**, not 7:00
 - **Lunch — a ~60-minute window in the boathouse lot** (see [`/dining`](../dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)):
   - Option A: Deli-style lunch supplied by the outfitter — zero travel, the low-risk default
   - Option B: **Sidewinders** — next door in the same complex, and it doubles as the **Sunday game-venue recon**
@@ -117,28 +117,39 @@
 
 | Leg | Short a seat? | Fix |
 |---|---|---|
-| Thu JAC → house, Mon house → JAC | Yes | **Second run.** It's a **~10 min** drive. Costs nothing. |
+| Thu JAC → house, Mon house → JAC | Yes | **Second run** — but it is *not* free. ⚠️ **JAC → the house is ~30–35 min, not ~10**, because the Moose-Wilson shortcut is closed until Nov 15. A second run is a **~65-minute round trip**, and on Monday it happens against an 11:47 flight |
 | **Sat Yellowstone, Sun wildlife drive** | Yes | **No fix by shuttling** — all 13 need to move at once, 1.5 hrs out |
 
-- **So: if you're at 12 seats, add a third small car at the JAC counter on Thursday.** Avis, Hertz, Enterprise and National all have in-terminal counters at JAC. Ballpark **$400–500 for the 4 days ÷ 13 ≈ $35/person** — noise against a ~$1,200 trip, and it un-pinches the luggage squeeze on both airport legs as a bonus.
+- **So: if you're at 12 seats, add a third small car at the JAC counter on Thursday.** The corrected drive time makes this *more* clearly right, not less — the "we'll just do a second run" escape hatch costs an hour each time, and Monday morning doesn't have an hour. Avis, Hertz, Enterprise and National all have in-terminal counters at JAC. Ballpark **$400–500 for the 4 days ÷ 13 ≈ $35/person** — noise against a ~$1,200 trip, and it un-pinches the luggage squeeze on both airport legs as a bonus.
 - **Hardie + Schick hit the rental counter before baggage claim** (already the plan) — that's the moment you learn the seat count, and the moment to add the third car. Don't wait until everyone's standing in the lot with bags.
 - ⚠️ **Don't count on quiet-season inventory.** We'd assumed mid-September was shoulder season at JAC; the Cowboy Steakhouse told us (8/15) that **shoulder season now starts in October and September is one of their busier months.** Restaurants aren't rental counters, but it's the same tourist curve — so treat a third car at JAC as *likely* available, not guaranteed. If nothing's on the lot, the fallback is renting from a Jackson agency in town during the Thursday midday window, and the fallback to *that* is a second run on the airport legs plus splitting the park days across two departures.
 - ✅ **Decided: two SUVs only — no 3rd vehicle.** The crew is fine with the tight fit on the two airport-transfer days (13 guys + bags). Yellowstone day is daypacks only, so two is plenty there. A **cargo carrier** stays on the table only as the fallback if the Explorer's 3rd row doesn't check out.
 - Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze. Same goes for air mattresses — they pack down, but they're cargo.
-- Gas up in Jackson before heading to the parks; gas inside parks is more expensive
-- **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline)
-- Saturday: Leave Yellowstone by **~3:00 PM MT** to be comfortably back for the 5:30 kickoff
+- Gas up in Jackson before heading to the parks; gas inside parks is more expensive. **Saturday is ~230 miles round trip** — start it on a full tank, not a half one
+- **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline). *Nuance worth knowing: there is usually a signal in the **Old Faithful developed area** and at Grant Village, and none at all in between. Plan for none; be glad if the eruption prediction loads*
+- Saturday: **wheels rolling south out of West Thumb by 2:00 PM MT** — that's the number that protects the 5:30 kickoff, and it's ~1 hr 50 from there to the house
 
-### Key Drive Times
+### Key Drive Times — rebuilt from the house, not from town
 
-| Route | Time |
-|---|---|
-| JAC → House (Teton Village) | ~10 min |
-| Jackson → Grand Teton South Entrance | ~20 min |
-| Jackson → Yellowstone South Entrance | ~1 hr |
-| Yellowstone South → Old Faithful | ~30 min |
-| Old Faithful → Jackson | ~1.5 hrs |
-| SLC → Jackson (if routing through Salt Lake) | ~5 hrs |
+> ⚠️ **This table used to be wrong in the direction that costs you the day.** It measured from *Jackson*, but we sleep in *Teton Village*, and it had Yellowstone's South Entrance an hour from town and Old Faithful thirty minutes past it. Real numbers below; the Saturday clock in [`/itinerary`](../itinerary/itinerary.md) is rebuilt on them.
+>
+> 🚧 **And the back way is closed.** The **Moose-Wilson Road is shut between the Laurance S. Rockefeller Preserve and Moose from Sept 8 to Nov 15, 2026** (NPS Phase II construction — new Teton Park roundabout). That's the short hop from Teton Village to Moose. **Everything to the parks now goes WY-390 → WY-22 → the Y → US-26/89/191 north through Jackson**, which adds ~10 min each way to every park leg.
+
+| Route | Time | Note |
+|---|---|---|
+| **JAC → House (Teton Village)** | **~30–35 min** | ⚠️ **Not "~10 min."** The 13-mile short way is Moose-Wilson — **closed**. The open route is 22 mi south through Jackson, out WY-22, north on WY-390 |
+| House → downtown Jackson | ~20 min | WY-390 → WY-22 → the Y |
+| House → **945 W Broadway** (Fri boathouse) | ~20 min | Right at the Y end of Broadway — you don't drive through town |
+| House → Moose / Dornan's | **~35 min** | Was ~25 via Moose-Wilson. **That road is closed** |
+| House → Schwabacher Landing | **~45 min** | Sunday's sunrise stop. Sunrise ~7:07 → **leave 6:00** |
+| House → **Yellowstone South Entrance** | **~1 hr 30** | 65 mi. *Old table said "~1 hr from Jackson"* |
+| **South Entrance → Old Faithful** | **~1 hr 15** | **39 miles** at 45 mph. *Old table said 30 min* |
+| Old Faithful → West Thumb | ~40 min | 17 mi over Craig Pass |
+| **Old Faithful → the house** | **~2 hrs 15** | *Old table said 1.5 hrs* |
+| JAC → Dornan's (Moose) | ~12 min | Thursday's arrival stop |
+| SLC → Jackson (if routing through Salt Lake) | ~5 hrs | Misconnect Tier 2 |
+
+> 🕐 **The one number that matters on Saturday: wheels rolling south out of West Thumb by 2:00 PM.** That lands you home ~3:50, grill lit ~4:15, eating before the 5:30 kickoff. Leaving at 3:00 instead puts you home at 4:45 with 13 raw ribeyes and 45 minutes.
 
 ---
 
@@ -154,6 +165,8 @@
 
 - So the only thing worth asking is: **does anybody already own an ATB pass?** One question in the group chat (**by 9/7**). If yes, that vehicle rides free and the other pays $70 at the gates
 - If someone does want to buy one anyway, grab it on Recreation.gov in advance rather than at the booth — the line at the South Entrance is the cost, not the $80
+- 🧾 **Each $35 is a 7-day pass — keep the receipt on the dash.** Heading north on Saturday you pass the **Moran entrance station** and pay Grand Teton's $35; that same receipt covers **Sunday's wildlife drive** (Oxbow Bend is the only Sunday stop past a station). Two parks, two fees, but **not four**
+- 🌐 **New for 2026 — a $100 non-resident surcharge.** Starting Jan 1, 2026 every visitor aged 16+ who is **not a U.S. resident** pays an extra **$100 per person** on top of the vehicle fee, unless they enter on an annual/America the Beautiful pass. Almost certainly irrelevant for 13 guys out of New Orleans — but if anyone on this trip isn't a U.S. resident, that's a $100 surprise at the South Entrance, so ask once rather than find out at the booth
 - **2026 note:** Yellowstone has bridge-construction delays at the **North and Northeast entrances** — not on our route. We use the **South Entrance**, which is unaffected.
 - [ ] **Ask the chat if anyone already has an ATB pass** *(by 9/7)* — that's the whole decision. Default is gate fees, and $140 comes out of the same pocket either way (~$11/man)
 
@@ -179,7 +192,9 @@
 ## Safety & Emergency
 
 - **Nearest hospital:** **St. John's Health**, 625 E Broadway, Jackson — 24-hr ER, ~25 min from the house. Write it down; there's no cell service in the parks. Relevant with rafting + hiking on the slate.
-- **Bear spray:** need **2+ canisters (~$50 each)**, one per vehicle — buy in Jackson (can't fly with it). **Default: it rides on the Thursday grocery run and goes on the grocery bill** (~$8/man across 13), so it belongs to the trip Psilos is already making rather than to nobody. If Thursday gets away from us, Jackson's outdoor shops and both parks' visitor centers stock it — the fallback is a stop, not a hole.
+- 🐻 **Bear spray — ✅ solved, and it moved off the grocery run.** **Bear Aware** staffs a kiosk at **JAC next to baggage claim #3**, seven days a week **June–October**. Rent **2 canisters** (one per vehicle) while you're waiting on bags Thursday morning: **$16 for the first two days, $4/day after, capped at $28 each — ~$56 total, ~$4/man.** Return them to the **after-hours drop box at the same kiosk** Monday morning.
+  - **Why this beats buying:** it costs zero minutes (you're at that carousel anyway), it's ~$44 cheaper than two canisters at ~$50, it takes the single most-flagged ⚠️ off Thursday's schedule entirely, and it answers the thing nobody had answered — **you can't fly home with bear spray**, so bought canisters get abandoned at the house.
+  - **Fallback:** **Smith's and Albertsons both stock bear spray**, so if the kiosk is out it's one line on the errand-hour cart, not a separate sporting-goods trip. Both parks' visitor centers sell it too.
 - **Travel insurance:** decide yes/no before the trip (on the packing checklist, not yet settled).
 - **Thursday night ride plan — DDs: Hardie and Schick (default).** Mangy Moose, the last stop, is in Teton Village and walkable from the house, so exactly **one leg needs a sober driver**: the **downtown Jackson → Teton Village drive (~20 min)** after the Cowboy Bar. The two of them are the only names on the rental agreements, which means they're the only two insured to drive those SUVs — that decides it by default. Anyone else who wants to take a shift has to be **added as an authorized driver at the JAC counter Thursday** (typically a small per-day fee), which is a 60-second ask while you're already standing there. Say the plan out loud at the house before you leave; late-night rideshare in Jackson is thin and expensive.
 - **Wyoming non-emergency / dispatch:** 911 for emergencies; rangers reachable at park visitor centers.
@@ -190,7 +205,7 @@
 
 > In chronological order — work top to bottom.
 
-### Now — Urgent (August) — the first two are past their window
+### Now — Urgent (August) — **one live item left: the RMR call, due 8/22**
 - [x] Airbnb booked
 - [x] Rafting / van booked
 - [x] Book flights
@@ -204,7 +219,7 @@
 
 ### Now — 💵 money: ✅ done
 - [x] **$784.14/man — paid by all 13 (8/15).** Covers lodging + van tour + rafting; Drewes is whole on the VRBO and the outfitter. The Gunter $250 question closed with it. Ledger in `/budget`
-- [ ] **Cowboy Steakhouse / Snake River Grill — reservation window opens 8/17** (30 days out; the one week the phone works for our dates). Default: nobody calls, house steak nights stand. Snake River Grill has a private room — see `/dining`
+- [x] ✅ **Cowboy Steakhouse / Snake River Grill — window opened 8/17 and closed. Nobody called, so the default fired: the house steak nights stand.** That was already the crew's decision; this just makes it final. No further action, and no 13-top sit-down on the schedule
 
 ### August → Sep 10
 - [x] Room/bed assignments — ✅ decided: **picked on arrival**, not pre-assigned
@@ -222,8 +237,8 @@
 - [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) is running Thu Sep 17** — it's Tier 1 of the misconnect playbook above; if it's not in the schedule, the fallback is fly-to-SLC-and-drive
 - [ ] **Identify who is NOT on the group itinerary** — they have no group rebooking protection; make sure they know Friday's van tour is past its refund window
 - [ ] Decide travel insurance (yes/no)
-- [ ] **Tram — confirm late-Sept operating dates + buy tickets online** *(by 9/7)*. If it's down or nobody buys, Sunday afternoon defaults to downtown Jackson + the early Dornan's dinner already on the day
-- [ ] **Bear spray — 2+ canisters on the Thursday grocery bill** (default owner: the grocery run). Backstop: Jackson outdoor shops + park visitor centers
+- [ ] **Tram — ✅ operating dates confirmed; just buy the tickets** *(by 9/7)*. JHMR runs the **Aerial Tram May 16 – Oct 4, 2026, 8:30 AM–5 PM**, Corbet's Cabin open — Sunday the 20th is safely inside it. **~$55/person**, buy online. *(The old "is it even running in late September" risk is closed. If nobody buys tickets, Sunday afternoon still defaults to downtown Jackson + the early Dornan's already on the day.)*
+- [x] ✅ **Bear spray — solved, and it costs nobody a stop:** rent 2 canisters at the **Bear Aware kiosk, JAC baggage claim #3** Thursday morning (~$28 each capped, ~$56 total), drop them in the same kiosk's box Monday. Fallback: Smith's/Albertsons both stock it
 - [ ] **All 13 sign the JHWW online waiver** — forward the confirmation email to the group *(and ask Teton Expeditions whether they have one too)*
 - [ ] Decide on wetsuit rentals (weather-dependent)
 - [ ] Decide on Friday lunch (outfitter deli / Sidewinders next door / Cutty's)
@@ -234,11 +249,13 @@
 - [ ] Write down emergency info (St. John's Health, Jackson)
 
 ### On Arrival (Thursday)
-- [ ] Grocery run — Smith's or Albertsons in Jackson (ribeyes, sides, drinks) **+ 2 bear-spray canisters on the same bill**
+- [ ] **At baggage claim: rent 2 bear-spray canisters** at the Bear Aware kiosk (next to carousel #3) while Hardie and Schick are at the rental counter
+- [ ] **Grocery run, 3:00–4:00 PM** — Smith's or Albertsons in Jackson (ribeyes, sides, drinks, ice). This is the block the closed gondola freed up
 - [ ] **Check the grill at check-in** — burner test + heft the propane tank while there's still a day of runway
 - [ ] **Name the two DDs out loud before leaving for downtown** — defaults to Hardie + Schick (the only insured drivers); add authorized drivers at the JAC counter if you want to rotate
 - [ ] Confirm Saturday game plan for Yellowstone timing
 
 ### Departure Day (Monday)
 - [ ] Fuel both SUVs the night before or en route (not at the airport lot)
+- [ ] **Return the 2 bear-spray canisters** to the Bear Aware kiosk / after-hours drop box at baggage claim — you can't fly with them
 - [ ] Return both rentals at JAC — build in ~20 min before the 11:47 AM flight

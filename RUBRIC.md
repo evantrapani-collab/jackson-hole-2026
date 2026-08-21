@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-08-20 — found at **97**, restored to 100 by that pass; see the 8/20 notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-08-21 — found at **89**, restored to 100 by that pass; see the 8/21 notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -36,13 +36,14 @@ Three rules of thumb that decide most edge cases:
 - The trip-gating items (⭐) are flagged and tracked (−3 if not)
 - Anything time-fenced (refund cutoffs, books-out-months venues, shoulder-season operating dates) has its real deadline written down (−2 each)
 - Load-bearing tasks aren't ownerless (−1 each). *"Someone should call X" is ownerless. Where an institution will only talk to one person — the guest of record, the cardholder, the renter — the plan should say so and name him; that's not an assignment, it's a fact*
-- Anything the trip depends on that a vendor could simply not be running (a tram, a shoulder-season kitchen) has a named replacement for the block it fills (−1 each)
+- Anything the trip depends on that a vendor could simply not be running (a tram, a lift, a shoulder-season kitchen) **has had its operating calendar actually checked**, and has a named replacement for the block it fills (−2 if unchecked, −1 if checked but unreplaced). *Sharpened 8/21: three passes flagged the tram-vs-gondola ambiguity and none of them asked whether either was running. One was not.*
 
 ### 2. Schedule feasibility vs. fixed constraints (15)
 
-The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowstone via South Entrance, back ~3 PM for the 5:30 LSU game; Sunday 6:30 AM drive + 11 AM Saints; 13 locked; Montreux House booked.
+The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowstone via South Entrance, **hard 2:00 PM turnaround at West Thumb** for the 5:30 LSU game; Sunday **6:00 AM** drive + 11 AM Saints; 13 locked; Montreux House booked.
 
-- Every day's timing arithmetic actually works (drive times, eruption windows, kickoff buffers) (−2 per broken day)
+- Every day's timing arithmetic actually works **against verified drive times, not the ones written in this repo** (−2 per broken day, −4 if the error is large enough to break the day's hard constraint). *Added 8/21: self-consistency is not the test. A day can be internally perfect and still be an hour and a half wrong, and only an outside source catches that*
+- Roads and lifts the plan drives on or rides are checked against current closures (−1 each unchecked)
 - No suggested activity violates a fixed constraint without a 🚫 triage flag (−2 each)
 - Arrival and departure days have explicit timelines, including the house exit (−1 each gap)
 
@@ -57,7 +58,7 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 ### 4. Meals — every slot has a plan (12)
 
 - Every breakfast/lunch/dinner slot Thu–Mon resolves to a venue, the house, or a stocked default (−1 per open slot)
-- Early starts (Sat 7 AM, Sun 6:30 AM) have a no-cooking answer (−2 if not)
+- Early starts (Sat 6:15 AM, Sun 6:00 AM) have a no-cooking answer (−2 if not) — *and nothing in Jackson is open before either, so "grab something on the way" doesn't count*
 - 13-top reality acknowledged: reservations flagged where needed, walk-in assumptions justified (−2 if not)
 - The grocery plan covers acquisition (who/how/when), incl. the 13-ribeye volume problem (−2 if not)
 
@@ -93,17 +94,17 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 ## Scorecard
 
-| Category | Points | 6/12 baseline | After 6/12 decisions | 8/4 re-grade | 8/15 found | 8/15 after | **8/20 found** | **8/20 after** |
-|---|---|---|---|---|---|---|---|---|
-| 1. Bookings & critical path | 20 | 18 | 20 | 20 | 17 | 20 | **19** | **20** |
-| 2. Schedule feasibility | 15 | 14 | 15 | 15 | 15 | 15 | **14** | **15** |
-| 3. Risk, safety & contingency | 15 | 14 | 15 | 15 | 13 | 15 | **15** | **15** |
-| 4. Meals | 12 | 10 | 12 | 12 | 11 | 12 | **11** | **12** |
-| 5. Money | 12 | 11 | 12 | 12 | 9 | 12 | **12** | **12** |
-| 6. Group coordination | 10 | 9 | 9 | 10 | 7 | 10 | **10** | **10** |
-| 7. Three layers in sync | 10 | 9 | 10 | 10 | 7 | 10 | **10** | **10** |
-| 8. Dashboard usability | 6 | 6 | 6 | 6 | 6 | 6 | **6** | **6** |
-| **Total** | **100** | **91** | **99** | **100** | **85** | **100** | **97** | **100** |
+| Category | Points | 6/12 baseline | After 6/12 decisions | 8/4 re-grade | 8/15 found | 8/15 after | 8/20 found | 8/20 after | **8/21 found** | **8/21 after** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1. Bookings & critical path | 20 | 18 | 20 | 20 | 17 | 20 | 19 | 20 | **17** | **20** |
+| 2. Schedule feasibility | 15 | 14 | 15 | 15 | 15 | 15 | 14 | 15 | **8** | **15** |
+| 3. Risk, safety & contingency | 15 | 14 | 15 | 15 | 13 | 15 | 15 | 15 | **15** | **15** |
+| 4. Meals | 12 | 10 | 12 | 12 | 11 | 12 | 11 | 12 | **12** | **12** |
+| 5. Money | 12 | 11 | 12 | 12 | 9 | 12 | 12 | 12 | **12** | **12** |
+| 6. Group coordination | 10 | 9 | 9 | 10 | 7 | 10 | 10 | 10 | **9** | **10** |
+| 7. Three layers in sync | 10 | 9 | 10 | 10 | 7 | 10 | 10 | 10 | **10** | **10** |
+| 8. Dashboard usability | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | **6** | **6** |
+| **Total** | **100** | **91** | **99** | **100** | **85** | **100** | **97** | **100** | **89** | **100** |
 
 ### What the baseline lost points for → what changed
 
@@ -260,3 +261,37 @@ Both Friday confirmations came in on the same day: **Teton Expeditions** for the
 **One thing left open on purpose:** Teton Expeditions' email doesn't mention a waiver either way. That's a question on the pre-trip list, not an assumption — and the default (there's one to sign on-site) is the safe reading.
 
 **Grade: 100/100.** The pass didn't add a plan; it removed a phantom drive, put an hour back on the clock that nobody had written down, and gave a vendor requirement an owner before it could become a parking-lot scramble.
+
+---
+
+### 8/21 re-grade — the outside world gets checked (found at 89, restored to 100)
+
+The previous six passes graded the plan against **itself**: is every open item owned, dated, defaulted; do the days' internal arithmetic close. That's most of what a rubric can do, and it had taken the plan to 100 three times running.
+
+This pass did something the rubric had never actually forced: **it checked the plan's factual claims against the operators, the park service, and a clock.** Nine claims went out; five came back wrong. That's the finding worth recording — a plan can be perfectly self-consistent, fully owned, comprehensively defaulted, and still be **wrong about the world**, and no amount of internal review will surface it. §2 in particular has been scoring "every day's timing arithmetic actually works" against *the drive times written in this repo*, which is circular whenever those numbers are guesses.
+
+**Found at 89 (−11).** Every deduction below is a fact the repo asserted that a five-minute check would have falsified — none of them are new developments.
+
+| # | Cat | Deduction | What was wrong |
+|---|---|---|---|
+| −4 | §2 | **Saturday's clock was built on drive times that are roughly half the real ones** | The table said the Yellowstone South Entrance was "~1 hr" away and Old Faithful "~30 min" past the gate. It is **~1 hr 30** from the house (which is in Teton Village, not Jackson — the table measured from the wrong place) and **~1 hr 15** gate to Old Faithful (39 miles at 45 mph). Old Faithful → house is **~2 hr 15**, not 1.5. On the old numbers a 7:00 departure gets home at 3:00; on the real ones it gets home at **4:35** — 55 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. This is the single largest defect any pass has found: the day *reads* fine, the internal arithmetic is self-consistent, and it doesn't work |
+| −2 | §2 | **Sunday's sunrise arithmetic was physically impossible** | "Leaving the house at 6:30 puts you at Schwabacher right at first light (~6:40)" — a ten-minute drive to a place **~45 minutes away**, on a morning when **sunrise is ~7:07**. Nobody had ever checked either number. The whole point of the block is the light, so this was a highlight quietly scheduled to be missed |
+| −2 | §1 | **A scheduled activity was closed before we arrive** | Thursday's afternoon plan rode on "the gondola at Teton Village." The **Bridger Gondola's 2026 season ends Sept 13**; we land the 17th. §1 explicitly grades *"anything the trip depends on that a vendor could simply not be running"* — and this had been carried through four passes as a live block, with the only flagged risk being the *tram/gondola confusion*, never whether either was operating |
+| −1 | §2 | **A road the plan drives on is closed** | **Moose-Wilson Road is shut Sep 8 – Nov 15, 2026** (NPS Phase II construction). It was a named Sunday wildlife stop, and — worse — it's the short route from Teton Village to Moose, so its closure quietly invalidated *every* park drive time in the repo, including the "~10 min" JAC→house figure the Explorer seat-count fallback leans on (it's **~30–35 min**) |
+| −1 | §6 | **A real cost was missing from the budget** | Sunday's plan is the tram to Corbet's Cabin. Tram tickets are **~$55/person** — potentially **~$715** across 13 — and the budget carried **no tram line at all**. §6 wants the all-in number to be honest; it was light by up to 5% of the on-the-ground total |
+| −1 | §1 | **A time-fence rotted past its deadline without being recorded** | The Cowboy Steakhouse 30-day window opened 8/17 and closed 8/18. As of 8/21 every document still described it in the future tense — *"the window opens 8/17"* — which is exactly the "an open item rots past its deadline" trigger this file names in its own re-grade instruction. The outcome (nobody called, the house steak nights stand) was the expected default; not recording that it *fired* leaves a live-looking item that will eat time on the Sep 10 call |
+
+**Restored to 100 by this pass:**
+
+- **Saturday was rebuilt on real numbers, and given a rule instead of a hope.** Departure moves to **6:15 AM**, and the day now carries one hard constraint — 🕐 **wheels rolling south out of West Thumb by 2:00 PM** — which lands the house at ~3:50, the grill lit at ~4:15, and everyone eating before the 5:30 kickoff. The full clock is in `/itinerary` and mirrored on the dashboard's route strip. It also resolved a contradiction nobody had noticed: `/itinerary` said "back by ~3 PM" while `/logistics` said "leave Yellowstone by ~3 PM" — two different instructions, ~2 hours apart.
+- **The Grand Prismatic overlook is described as what it is.** Every document treated it as a stop; it's a **1.6-mile round-trip walk** from the Fairy Falls lot (~1 hr for 13 guys), and that lot fills early. That hour was never on any clock.
+- **Sunday leaves at 6:00**, with the real sunrise (~7:07), the real drive (~45 min), and the closed road cut from the loop. A headlamp moved onto the packing list because the plan now genuinely involves standing on a dirt path in the dark.
+- **The gondola closure became an asset, not a hole.** Its 3:00–4:00 PM slot is now **the errand hour** — the home for the grocery run that five separate ⚠️ callouts across this repo had been trying to wedge into somebody's beer. It also permanently settles the tram-vs-gondola ambiguity that three passes flagged and none could close: only one lift is running, so the **tram is Sunday's**, and the ✅ **confirmed Aerial Tram season (May 16 – Oct 4, 8:30–5)** closes the "will it be operating?" open item that has been live since July. Only the purchase remains, and it's now in the budget.
+- **Bear spray stopped being a chore.** It was the most-flagged ⚠️ in the repo — "Thursday is the only window," repeated in five files. **Bear Aware staffs a kiosk at JAC baggage claim #3, June–October**: rent two canisters for **~$56 total**, return them to the same box Monday. It costs **zero minutes**, saves ~$44 against buying, and answers the question every version of this plan left dangling — *you can't fly home with bear spray*, so bought canisters get abandoned. A §3 safety item went from "must be squeezed into a schedule" to "happens while you wait for your bag."
+- **Two smaller checks paid off.** **Dornan's opens at 11:30** — Thursday's clock had us arriving 11:15 — and is open **daily 11:30–7 year-round**, which closes the standing "confirm fall hours" action on Sunday's dinner default. And **Cowboy Coffee has a drive-thru at 1007 S US-89** that opens at 6 AM, ~2 min from the boathouse and *on* the route in, versus the Town Square store which is a backtrack east past it — so Friday's tightest hour got a better answer and a 6:45 departure.
+- **The park fee got two true clarifications:** each $35 is a **7-day** pass, so Saturday's Grand Teton fee at Moran covers Sunday's Oxbow Bend (the $140 total is still right — it's 2 vehicles × 2 parks, not 4 entries), and **2026 introduced a $100 non-resident surcharge** worth one question in the chat.
+- **Sync:** the all-in number reads **$1,100–1,385** in both layers (tram added, bear spray reduced), the Decision Defaults table and the dashboard Crew tab match on all five closures, the maps generator carries the two closures plus the drive-thru and the Bear Aware kiosk (**83 places**, regenerated, `--check` clean), and the to-do checklist gained the three day-of timing items and a corrected count.
+
+**A rubric change this pass earned.** §2's criterion should be read as *"every day's timing arithmetic works **against verified drive times**"* — self-consistency is not the test. Same for §1's vendor criterion: *"has a named replacement"* is worth less than *"someone checked the operating calendar."* Four passes at 100 didn't catch a closed lift, a closed road, an impossible sunrise, or a two-hour error on the tightest day of the trip, because none of them looked outside the repo.
+
+**Grade: 100/100.** The plan's structure was never the problem — every one of these defects sat inside a well-owned, well-defaulted item. What this pass adds is that the numbers underneath the structure are now checked rather than assumed.

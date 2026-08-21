@@ -11,7 +11,7 @@
 | Slot | On this list? | Why |
 |---|---|---|
 | Thu dinner | ❌ | Bar crawl — Snake River Brewing has a full menu |
-| Fri breakfast | ❌ | Cowboy Coffee / Bunnery, to-go, on the way to the 7:45 AM check-in |
+| Fri breakfast | ❌ | **Cowboy Coffee drive-thru** (1007 S US-89, opens 6 AM), on the way to the 7:45 AM check-in |
 | Fri lunch | ❌ | Rafting — outfitter deli or Cutty's |
 | **Fri dinner** | ✅ | House. **Menu defaults to the fajita bar** (Module A) unless the Sep 10 call says otherwise — see the two modules below |
 | **Sat breakfast** | ⚠️ partial | Burrito stash, bought from a **vendor**, not the grocery store |
@@ -31,9 +31,9 @@
 1. **Friday dinner menu** — fajita bar vs. one-pot. This is the *only* part of the list that actually branches. Pick a module below. ✅ **Default: Module A, the fajita bar** — nobody has to decide anything for that to happen, and it's the branch that also feeds Saturday's cooler lunch.
 2. **Steak night: Saturday or Sunday?** — **does not change the list at all.** Same ribeyes, same sides, different night. Don't let this one hold up the shopping.
 
-A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes asks RMR on the 8/22 call, and you eyeball the grill yourself Thursday at check-in — see [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
+A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes asks RMR on the **8/22** call — **that's tomorrow as of this writing, and it's the last live August item** — and you eyeball the grill yourself Thursday at check-in. See [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
 
-**Also on this trip, not on this list:** **2 bear-spray canisters (~$50 each)**, one per vehicle. Sporting-goods stop, same run, same bill — ~$8/man split 13 ways.
+**Also on this trip, and ✅ no longer your problem:** bear spray. It came off this run entirely — the crew now **rents 2 canisters at the Bear Aware kiosk in JAC baggage claim** on arrival (~$56 total, returned Monday). Nothing to buy, no sporting-goods stop. *(If the kiosk is out, **Smith's and Albertsons both stock it** — one line on this cart, not a separate trip.)*
 
 ---
 
@@ -191,7 +191,7 @@ Psilos still owns the [in-person vs. pre-stock call](./dining.md#grocery-deliver
 | Produce you care about (avocados) | Pantry, seasoning, canned goods |
 | — | Breakfast, coffee, snacks |
 
-**The smart play:** pre-stock the bulk and drinks so the house is loaded when 13 guys walk in mid-afternoon Thursday, pick up the steaks in person, and keep Instacart as the Saturday restock button. That frees the tight Thursday window for bear spray, lunch downtown, and the Jackson Drug shake.
+**The smart play:** pre-stock the bulk and drinks so the house is loaded when 13 guys walk in mid-afternoon Thursday, pick up the steaks in person, and keep Instacart as the Saturday restock button. 🆕 **Thursday does now have a real 3:00–4:00 PM block for shopping** — the Bridger Gondola closed for the season on Sept 13, so its slot in the afternoon plan became the errand hour. Pre-stocking turns that hour into an early check-in instead.
 
 ---
 
@@ -200,4 +200,4 @@ Psilos still owns the [in-person vs. pre-stock call](./dining.md#grocery-deliver
 1. Steaks are **pre-ordered and waiting** at the butcher counter
 2. One guy on drinks + ice, one on the master list, one on the Friday module — **three carts, not thirteen guys wandering Smith's**
 3. **Ice goes in last**, and straight into the cooler
-4. Bear spray is **not** at the grocery store — that's a sporting-goods stop, same trip
+4. Bear spray is **off this list** — it's a rental at the JAC baggage-claim kiosk now. *(Backup: Smith's and Albertsons do carry it, so it's one line here if the kiosk falls through — it was never a separate sporting-goods trip.)*
