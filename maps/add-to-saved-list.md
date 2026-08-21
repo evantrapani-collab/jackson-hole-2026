@@ -32,7 +32,7 @@ current 19 pins — skip those.
 - [ ] [Cowboy Coffee Co. (Town Square)](https://www.google.com/maps/search/?api=1&query=Cowboy+Coffee+Co%2C+125+N+Cache+St%2C+Jackson%2C+WY) — The sit-down location, 6 AM-5 PM. ~5 min EAST PAST the boathouse — a backtrack on Friday morning. Use the drive-thru instead.
 - [ ] [Pearl Street Bagels](https://www.google.com/maps/search/?api=1&query=Pearl+Street+Bagels%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
 - [ ] [Picnic](https://www.google.com/maps/search/?api=1&query=Picnic%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
-- [ ] [Cutty's Bar & Grill](https://www.google.com/maps/search/?api=1&query=Cutty%27s+Bar+%26+Grill%2C+Wilson%2C+WY) _(already in your list)_ — Sunday Saints-game option (Hwy 22). Was the Friday lunch pick — now a ~10-min detour each way from the boathouse.
+- [ ] [Cutty's Bar & Grill](https://www.google.com/maps/search/?api=1&query=Cutty%27s+Bar+%26+Grill%2C+Wilson%2C+WY) _(already in your list)_ — Sunday Saints-game option (Hwy 22). Cut from Friday — a ~25-min round trip out of a ~45-min window.
 - [ ] [Dornan's Pizza Pasta Co.](https://www.google.com/maps/search/?api=1&query=Dornan%27s+Pizza+Pasta+Co%2C+Moose%2C+WY) — Deck pizza with full Teton views. Open daily 11:30 AM-7 PM year-round. ~12 min from JAC (Thu arrival lunch); ~35 min from the house (Sun 5 PM dinner).
 - [ ] [Corbet's Cabin (tram summit)](https://www.google.com/maps/search/?api=1&query=Corbet%27s+Cabin%2C+Teton+Village%2C+WY) — Waffles at 10,450 ft, top of the tram.
 - [ ] [Gun Barrel Steak & Game House](https://www.google.com/maps/search/?api=1&query=Gun+Barrel+Steak+and+Game+House%2C+Jackson%2C+WY) — Wild-game steakhouse; Thursday dinner alt.
@@ -54,7 +54,7 @@ current 19 pins — skip those.
 - [ ] [Bin22](https://www.google.com/maps/search/?api=1&query=Bin22%2C+Jackson%2C+WY) — Wine bar + tapas; too small for 13 — pre-dinner stop.
 - [ ] [Coe Tavern](https://www.google.com/maps/search/?api=1&query=Coe+Tavern%2C+Jackson%2C+WY) — Rooftop drinks + snacks; pre-dinner stop.
 - [ ] [Roadhouse Brewing Co.](https://www.google.com/maps/search/?api=1&query=Roadhouse+Brewing+Co%2C+Jackson%2C+WY) — Big enough to seat all 13 without a reservation — top Saints-game option; great happy hour Thursday.
-- [ ] [Sidewinders Tavern](https://www.google.com/maps/search/?api=1&query=Sidewinders+Tavern%2C+Jackson%2C+WY) — Sports tavern at 945 W Broadway — next door to the Friday boathouse, so it's the free lunch-hour recon for the Sunday game (Jeremy rec).
+- [ ] [Sidewinders Tavern](https://www.google.com/maps/search/?api=1&query=Sidewinders+Tavern%2C+Jackson%2C+WY) — Sports tavern next door to the Friday boathouse. 30+ TVs, 24 taps, opens 11:30 AM, no reservations. Friday's lunch upgrade and the best-equipped Saints-game room in town.
 - [ ] [The Verge](https://www.google.com/maps/search/?api=1&query=The+Verge%2C+Jackson%2C+WY) — Liquor in front, dive bar in back (AJAX rec). Bar-crawl flavor, not a dinner.
 - [ ] [D.O.G.](https://www.google.com/maps/search/?api=1&query=D.O.G.%2C+Jackson%2C+WY) — Friend's burrito pick; bulk-order option for the early-start stash.
 - [ ] [Creekside Market & Deli](https://www.google.com/maps/search/?api=1&query=Creekside+Market+and+Deli%2C+Jackson%2C+WY) — Sandwiches before heading into the parks.

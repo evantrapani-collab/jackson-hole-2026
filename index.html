@@ -124,11 +124,8 @@
   /* Show the panel whose tab radio is checked. */
   #t-overview:checked   ~ main #overview,
   #t-itinerary:checked  ~ main #itinerary,
-  #t-gameday:checked    ~ main #gameday,
   #t-crew:checked       ~ main #crew,
-  #t-money:checked      ~ main #money,
   #t-eat:checked        ~ main #eat,
-  #t-activities:checked ~ main #activities,
   #t-groc:checked       ~ main #groc,
   #t-packing:checked    ~ main #packing,
   #t-logistics:checked  ~ main #logistics,
@@ -138,11 +135,8 @@
   /* Light up the tab whose radio is checked. */
   #t-overview:checked   ~ nav label[for="t-overview"],
   #t-itinerary:checked  ~ nav label[for="t-itinerary"],
-  #t-gameday:checked    ~ nav label[for="t-gameday"],
   #t-crew:checked       ~ nav label[for="t-crew"],
-  #t-money:checked      ~ nav label[for="t-money"],
   #t-eat:checked        ~ nav label[for="t-eat"],
-  #t-activities:checked ~ nav label[for="t-activities"],
   #t-groc:checked       ~ nav label[for="t-groc"],
   #t-packing:checked    ~ nav label[for="t-packing"],
   #t-logistics:checked  ~ nav label[for="t-logistics"],
@@ -154,11 +148,9 @@
   /* Keyboard focus ring on the active tab (radios are the focus target). */
   #t-overview:focus-visible   ~ nav label[for="t-overview"],
   #t-itinerary:focus-visible  ~ nav label[for="t-itinerary"],
-  #t-gameday:focus-visible    ~ nav label[for="t-gameday"],
   #t-crew:focus-visible       ~ nav label[for="t-crew"],
-  #t-money:focus-visible      ~ nav label[for="t-money"],
   #t-eat:focus-visible        ~ nav label[for="t-eat"],
-  #t-activities:focus-visible ~ nav label[for="t-activities"],
+  #t-groc:focus-visible       ~ nav label[for="t-groc"],
   #t-packing:focus-visible    ~ nav label[for="t-packing"],
   #t-logistics:focus-visible  ~ nav label[for="t-logistics"],
   #t-maps:focus-visible       ~ nav label[for="t-maps"],
@@ -333,11 +325,8 @@
      top of <body> so the :checked ~ rules can reach <nav> and <main>. -->
 <input class="tab-state" type="radio" name="tab" id="t-overview" checked>
 <input class="tab-state" type="radio" name="tab" id="t-itinerary">
-<input class="tab-state" type="radio" name="tab" id="t-gameday">
 <input class="tab-state" type="radio" name="tab" id="t-crew">
-<input class="tab-state" type="radio" name="tab" id="t-money">
 <input class="tab-state" type="radio" name="tab" id="t-eat">
-<input class="tab-state" type="radio" name="tab" id="t-activities">
 <input class="tab-state" type="radio" name="tab" id="t-groc">
 <input class="tab-state" type="radio" name="tab" id="t-packing">
 <input class="tab-state" type="radio" name="tab" id="t-logistics">
@@ -357,7 +346,7 @@
   <div class="wrap hero-inner">
     <div class="eyebrow">Sep 17–21, 2026 · 13 Guys · Teton Village</div>
     <h1>Jackson Hole <span class="amp">&amp;</span> Yellowstone</h1>
-    <p class="sub">Trip HQ — itinerary, crew, money, packing &amp; game day. Save it to your phone; it works offline.</p>
+    <p class="sub">Trip HQ — the whole trip on one page. Save it to your phone; it works offline.</p>
     <!-- Static fallback shows with no JS; the script upgrades it to a live timer. -->
     <div class="countdown" id="countdown" aria-live="polite">
       <div class="cd-box" style="min-width:auto;padding:11px 20px;"><div class="cd-num" style="font-size:clamp(16px,4.6vw,22px);">Sep 17–21, 2026</div><div class="cd-lab">Wheels down Sep 17</div></div>
@@ -365,7 +354,6 @@
     <div class="cd-msg" id="cdMsg"></div>
     <!-- Deadline milestones. JS crosses off the past ones and highlights the next. -->
     <div class="miles" id="miles">
-      <span class="mile" data-when="2026-08-18"><span class="md">Aug 17–18</span> Steakhouse window opens 🥩</span>
       <span class="mile" data-when="2026-08-22"><span class="md">Aug 22</span> The RMR call ☎️</span>
       <span class="mile" data-when="2026-09-07"><span class="md">Sep 7</span> Buy tram tickets (~$55) + park pass</span>
       <span class="mile" data-when="2026-09-10"><span class="md">Sep 10</span> Late-cancel rule ⭐</span>
@@ -386,11 +374,8 @@
     <div class="tabs-row">
       <label class="tab" for="t-overview">Overview</label>
       <label class="tab" for="t-itinerary">Itinerary</label>
-      <label class="tab" for="t-gameday">Game Day</label>
-      <label class="tab" for="t-crew">Crew</label>
-      <label class="tab" for="t-money">Money</label>
+      <label class="tab" for="t-crew">Crew &amp; Money</label>
       <label class="tab" for="t-eat">Eat &amp; Drink</label>
-      <label class="tab" for="t-activities">Activities</label>
       <label class="tab" for="t-groc">Groceries</label>
       <label class="tab" for="t-packing">Packing</label>
       <label class="tab" for="t-logistics">Logistics</label>
@@ -427,12 +412,12 @@
       <div class="card">
         <h3>✅ Locked In</h3>
         <ul class="clean">
-          <li><span class="pill ok">Paid</span> <b>$784.14/man — everyone is settled up (8/15)</b> <span class="faint">$10,193.82 collected; Drewes is whole</span></li>
+          <li><span class="pill ok">Paid</span> <b>$784.14/man — all 13 settled</b> <span class="faint">Drewes is whole</span></li>
           <li><span class="pill ok">Booked</span> Airbnb — Montreux House <span class="faint">(paid; check-in 4 PM)</span></li>
           <li><span class="pill ok">Booked</span> Flights — American Airlines</li>
           <li><span class="pill ok">Booked</span> Fri safari + rafting — <b>Teton Expeditions</b> + <b>JHWW</b> <span class="faint">(two outfitters, one address — no separate collect)</span></li>
           <li><span class="pill ok">Booked</span> 2 rental SUVs — Explorer + Expedition (JAC)</li>
-          <li><span class="pill ok">Locked</span> Fri dinner — the house <span class="faint">(6/30 fence passed)</span></li>
+          <li><span class="pill ok">Locked</span> Fri dinner — the house</li>
           <li><span class="pill ok">Decided</span> Explorer 3rd row — sorted at the counter, not pre-verified</li>
           <li><span class="pill ok">Decided</span> Every open call has a written default <span class="faint">(Crew tab)</span></li>
           <li><span class="pill ok">Solved</span> 🐻 Bear spray — <b>rented at the JAC baggage-claim kiosk</b> <span class="faint">(~$56 total, returned Monday — no stop, no purchase)</span></li>
@@ -457,7 +442,7 @@
       <div class="card">
         <h3>⏳ Next Deadlines</h3>
         <ul class="clean">
-          <li><span class="pill ok">Done</span> 💵 <b>Money is settled — everyone paid Drewes (8/15).</b> <span class="faint">$784.14 × 13 = $10,193.82 collected. The Gunter $250 question closed with it. Nothing left to send.</span></li>
+          <li><span class="pill ok">Done</span> 💵 <b>Money is settled.</b> <span class="faint">$784.14/man collected from all 13. Nothing left to send.</span></li>
           <li><span class="pill ok">Closed</span> 🥩 <b>Cowboy Steakhouse / Snake River Grill — the 30-day window opened 8/17 and passed with nobody calling.</b> <span class="faint">The default fired: house steak nights stand, which was already the crew's call. There is no sit-down western dinner booked and no way to book one now — if the crew wants one on the ground it's a walk-in split across two tables (Gun Barrel, Snake River Brewing, Roadhouse). Don't reopen this on the Sep 10 call.</span></li>
           <li><span class="pill warn">8/22</span> ⏰ <b>The RMR call — the last live August item</b>. ✅ check-in answered (<b>4 PM</b>); still open: checkout, a cot for Ciolino, the grill + propane. <span class="faint">Drewes makes it — he's the guest of record. Early check-in is asked for but not promised, and may cost.</span> <span class="due" data-due="2026-08-22"></span></li>
           <li><span class="pill warn">9/7</span> 🚡 <b>Buy tram tickets (~$55/person)</b> — ✅ <b>the tram itself is confirmed running</b>, May 16 – Oct 4, 8:30 AM–5 PM, Corbet's Cabin open. <span class="faint">The old "will it even be operating?" risk is closed; only the purchase is left. Also ask the chat if anyone owns an America the Beautiful pass.</span> <span class="due" data-due="2026-09-07"></span></li>
@@ -497,7 +482,7 @@
           <li><span class="t">10:30 AM</span> — <span class="d">🐻 <b>Rent 2 bear-spray canisters at the Bear Aware kiosk</b>, next to <b>baggage claim #3</b>, while the drivers are at the rental counter. <b>$16 for the first 2 days, $4/day after, capped at $28 each — ~$56 total.</b> Drop them in the same kiosk's after-hours box Monday. <span class="faint">Costs zero minutes, ~$44 cheaper than buying, and you can't fly home with bought canisters. Backup: Smith's and Albertsons both stock it.</span></span></li>
           <li><span class="t">11:30 AM</span> — <span class="d">🍕 <b>Dornan's</b> (Moose) — <b>~12 min from JAC</b>, opposite direction from town. ⚠️ <b>They open at 11:30</b>, so don't roll up at 11:15. Pizza, beer, straight-on Tetons. Decompress and let everyone adjust to 6,200 ft before anyone drives into Jackson</span></li>
           <li><span class="t">~1:25 PM</span> — <span class="d">🍺 <b>Brewery in town</b> — Austin's rec, <b>Snake River Brewing</b> (great outdoor space, seats 13 without a reservation). It was stop 1 of the night crawl; this moves it to daylight, so the crawl starts at the Silver Dollar instead</span></li>
-          <li><span class="t">3:00 PM</span> — <span class="d">🛒 <b>The errand hour</b> — Smith's or Albertsons: groceries, ice, propane exchange if the tank's a question. <span class="faint">This block used to be "the gondola." <b>The Bridger Gondola closes for the season Sep 13</b> and we land the 17th, so that stop doesn't exist — and the hour went to the errand that never had a home. If the house is pre-stocked, this shrinks to ice and drinks and you get to the house early.</span></span></li>
+          <li><span class="t">3:00 PM</span> — <span class="d">🛒 <b>The errand hour</b> — Smith's or Albertsons: groceries, ice, propane exchange if the tank's a question. <span class="faint">If the house is pre-stocked, this shrinks to ice and drinks and you get to the house early.</span></span></li>
           <li><span class="t">4:00 PM</span> — <span class="d">✅ <b>Check in at Montreux House</b> (confirmed time). Drop bags, shower, and <b>check the grill</b> — burner test, heft the propane tank, while there's still a day of runway. <span class="faint">Early check-in is asked for but not promised, and RMR may charge for it — build the day for 4 PM</span></span></li>
           <li><span class="t">🚡</span> — <span class="d"><b>The lift question is settled.</b> The gondola is closed for the season; the <b>tram</b> (10,450 ft summit, Corbet's waffles) runs to <b>Oct 4</b> and belongs to <b>Sunday afternoon</b>. There is no longer any way to ride the wrong one, or pay twice for the same view</span></li>
           <li><span class="t">Evening</span> — <span class="d">Night out: Silver Dollar → Million Dollar Cowboy Bar (downtown) → drive back → Mangy Moose (walkable from the house)</span></li>
@@ -520,11 +505,11 @@
           <li><span class="t">En route</span> — <span class="d">☕ <b>Cowboy Coffee — the DRIVE-THRU at 1007 S US-89</b>, opens <b>6 AM</b>, ~2 min from the boathouse right where WY-22 meets the highway. You pass it coming in. <span class="faint"><b>Not</b> the Town Square store — that's ~5 min <i>east past</i> 945 W Broadway, so it's a backtrack, and 13 guys queuing indoors at 7:15 is exactly how a 7:45 check-in slips. The Bunnery is off Friday for the same reason — save it for Monday.</span></span></li>
           <li><span class="t">7:45 AM</span> — <span class="d"><b>Check in — 15 min prior, in writing.</b> 945 W Broadway, Jackson</span></li>
           <li><span class="t">8:00 AM</span> — <span class="d"><b>Teton Expeditions</b> half-day Grand Teton sunrise safari — party of 13 confirmed, <b>4 hours</b>, back ~noon. <b>Dress in layers</b> — you'll be out of the van at the spotting scope. Bring binoculars. 🚫 <b>Written no-alcohol policy</b></span></li>
-          <li><span class="t">~12:00 PM</span> — <span class="d"><b>Lunch — ~45 min, in the boathouse lot.</b> Outfitter deli (default, zero travel) · <b>Sidewinders next door</b> (and it doubles as the Sunday game recon) · Cutty's in Wilson is now a ~25-min round trip out of the window</span></li>
+          <li><span class="t">~12:00 PM</span> — <span class="d"><b>Lunch — ~45 min, in the boathouse lot.</b> ⚠️ <b>JHWW does not feed the whitewater trip</b> (that's their scenic float). <b>Pack sandwiches Thursday</b> and eat on a tailgate — or walk into <b>Sidewinders</b> next door (opens 11:30) and tell them you're on the 1:00 boat</span></li>
           <li><span class="t">12:30 PM</span> — <span class="d">Rafting check-in (30 min early). ⚠️ <b>Waivers get signed online <i>before</i> today</b> — 13 guys doing paperwork in a parking lot is how a 12:30 check-in becomes a 1:00 launch</span></li>
           <li><span class="t">1:00 PM</span> — <span class="d"><b>Jackson Hole Whitewater "Classic Raft"</b> — "8 Miles of Smiles," Class 2–3; ends ~4:30. No alcohol on van or boat; shoes must attach; wetsuit $5 if the weather says so. ☎️ 307-733-1007</span></li>
           <li><span class="t">PM</span> — <span class="d">Pick up the <b>breakfast-burrito batch</b> (~18–20) for the weekend early starts → fridge</span></li>
-          <li><span class="t">Evening</span> — <span class="d">Dinner — the house (✅ locked; the 6/30 booking fence passed). Low-key off the grocery stock</span></li>
+          <li><span class="t">Evening</span> — <span class="d">Dinner — the house. Low-key off the grocery stock</span></li>
           <li><span class="t">💵</span> — <span class="d"><b>Tip both guides</b> — safari + rafting are <b>two separate outfits</b>, so that's two tips. ~$20–40/person across the day. Cash</span></li>
         </ul>
       </div>
@@ -538,7 +523,8 @@
       </summary>
       <div class="day-body">
         <div class="note"><b>Don't try to "do" Yellowstone.</b> Pick the 2–3 stops below and enjoy them rather than racing a loop. No cell service in the park — maps downloaded before you go.</div>
-        <div class="note"><b>⏱️ The drive times on this page were wrong — corrected 8/21.</b> It said the South Entrance was "~1 hr from Jackson" and Old Faithful "~30 min" past it. Real: <b>~1 hr 30</b> from the house to the gate, <b>~1 hr 15</b> gate to Old Faithful, <b>~2 hr 15</b> Old Faithful home. Old numbers → home at 3:00. Real numbers → home at <b>4:35</b>, 55 minutes before kickoff, with 13 raw ribeyes. <b>Fix: leave at 6:15, and hold a hard 2:00 PM turnaround.</b></div>
+        <div class="note">❄️ <b>Check Craig Pass before you roll</b> (nps.gov/yell). The West Thumb → Old Faithful segment tops 8,262 ft and is the first park road to shut for snow — <b>and we cross it twice</b>, so a closure strands us on the far side. Unlikely (September averages 1.3&quot; of snow) but free to check. <b>If it's closed, swap to a Grand Teton morning</b> — an hour closer, no new plan, back well before kickoff.</div>
+        <div class="note">🕐 <b>Two numbers run this day: leave at 6:15, and roll south out of West Thumb at 2:00 PM.</b> It's ~1 hr 30 to the gate, ~1 hr 15 more to Old Faithful, and ~1 hr 50 back from West Thumb. Hold the 2:00 and you're home 3:50, grill lit 4:15, eating before kickoff.</div>
         <div class="route" aria-label="Saturday drive plan">
           <div class="rt-stop"><div class="re">🏠</div><div class="rn">House</div><div class="rs">roll 6:15 AM</div></div>
           <div class="rt-leg">~1 hr 30</div>
@@ -575,7 +561,7 @@
       </summary>
       <div class="day-body">
         <div class="note">The 11 AM kickoff frees the dawn window — <b>use it</b>. September is peak elk rut; this is the can't-miss Wyoming morning.</div>
-        <div class="note">⚠️ <b>Two corrections, both pushing the alarm earlier (8/21).</b> <b>1.</b> This page said "leave at 6:30, be at Schwabacher at first light (~6:40)" — a 10-minute drive to a place that is <b>~45 minutes away</b>. Real: <b>sunrise ~7:07</b>, usable light from ~6:40, and the peaks catch alpenglow before the valley does. <b>2.</b> The <b>Moose-Wilson Road is CLOSED Sep 8 → Nov 15, 2026</b> (NPS construction, Rockefeller Preserve ↔ Moose) — that's the back way from Teton Village, so everything routes through Jackson, ~10 min longer each way.</div>
+        <div class="note">🌅 <b>Leave at 6:00.</b> Sunrise is ~7:07 and Schwabacher is <b>~45 min out</b> — the Moose-Wilson back way is closed until Nov 15, so everything routes through Jackson. 6:00 gets you set up in the dark. 6:30 gets you there after the shot.</div>
         <ul class="tl">
           <li><span class="t">6:00 AM</span> — <span class="d"><b>Roll out</b> — 6:15 at the absolute latest. 6:00 → Schwabacher ~6:45, set up in the dark, own the light. <b>6:30 does not work.</b> Burritos from the stash; nothing's open. <b>Bring a headlamp</b></span></li>
           <li><span class="t">~6:45</span> — <span class="d"><b>Schwabacher Landing</b> — beaver ponds mirroring the Tetons; the signature sunrise. Last mile is dirt, take it slow in the dark</span></li>
@@ -584,7 +570,7 @@
           <li><span class="t">🚫</span> — <span class="d"><b>Moose-Wilson Road is cut.</b> It was on this list for the moose and the bears; it's closed for construction until Nov 15. The Teton Village end still reaches the Rockefeller Preserve via Granite Canyon, but there's no through-drive to Moose and it's not worth a dead-end detour with a kickoff waiting</span></li>
           <li><span class="t">11:00 AM MT</span> — <span class="d">Saints @ Baltimore (CBS, noon CT) — <b>house cookout by default</b>; Snake River / Roadhouse are the upgrade if the Thu/Fri recon likes them</span></li>
           <li><span class="t">⚠️</span> — <span class="d"><b>Possible steak night</b> — idea on the table to move the ribeyes here. Note the 11 AM kickoff makes it a night grill, not a game grill, and it would void the Dornan's dinner default (Saturday then drops to the house off grocery stock). Undecided; the default is that it stays Saturday</span></li>
-          <li><span class="t">Afternoon</span> — <span class="d">🚡 <b>Tram to 10,450 ft + Corbet's Cabin waffles</b> — walkable from the house. ✅ <b>Confirmed running: May 16 – Oct 4, 2026, 8:30 AM–5 PM.</b> The game ends ~2:15, so the window is wide. <b>~$55/person — buy online by 9/7</b>; that's the only action left. <span class="faint">If nobody buys tickets, the afternoon is downtown Jackson + the early Dornan's already on the day.</span></span></li>
+          <li><span class="t">2:30 PM</span> — <span class="d">🚡 <b>Tram to 10,450 ft + Corbet's Cabin waffles</b> — walkable from the house. Running May 16 – Oct 4, 8:30 AM–5 PM. <b>~$55/person — buy online by 9/7.</b> ⏱️ <b>Back-to-back with dinner:</b> up 2:30 → down 3:40 → leave the house 4:15 → Dornan's 4:50. <b>Last tram down is 5:00</b>, so no dawdling at the top. <span class="faint">No tickets? The afternoon is downtown Jackson + the early Dornan's already on the day.</span></span></li>
           <li><span class="t">~4:30 PM</span> — <span class="d">Leave the Village for dinner — ⚠️ <b>Dornan's is ~35 min each way now</b>, not 25, with Moose-Wilson closed</span></li>
           <li><span class="t">~5:00 PM</span> — <span class="d">Dinner — <b>early Dornan's</b> in Moose, pizza + the Teton view. ✅ <b>Hours confirmed: open daily 11:30 AM–7 PM, year-round</b>, so a 5 PM sitting is safe. Backup: the house</span></li>
         </ul>
@@ -627,40 +613,39 @@
         </tbody>
       </table>
     </div>
-  </section>
 
-  <!-- ============ GAME DAY ============ -->
-  <section class="panel" id="gameday">
-    <div class="section-h">🏈 The Slate</div>
+    <div class="section-h">🎯 Sunday Afternoon Window — The Real Choices</div>
     <div class="card">
-      <div class="game">
-        <div class="when"><div class="mt">5:30</div><div class="ct">PM MT · Sat</div></div>
-        <div class="who"><div class="t">LSU vs. Ole Miss</div><div class="muted">Lane Kiffin's return to Oxford · 6:30 CT</div></div>
-        <div class="net">ABC</div>
-      </div>
-      <div class="note">Back at the house by ~3 PM from Yellowstone. <b>Grill 24 oz bone-in ribeyes</b> during the game. Grill captain still unassigned — see To-Do.</div>
-    </div>
-    <div class="card">
-      <div class="game">
-        <div class="when"><div class="mt">11:00</div><div class="ct">AM MT · Sun</div></div>
-        <div class="who"><div class="t">Saints @ Baltimore Ravens</div><div class="muted">Road game, late-morning watch · noon CT</div></div>
-        <div class="net">CBS</div>
-      </div>
-      <div class="note">✅ <b>Default: the house cookout</b> — it owns the TV, the full Sunday slate (RedZone and the late window, not just the Saints), needs no reservation and no 13-top anywhere, and puts nobody in a car after an 11 AM kickoff. The <b>upgrade</b>, if Psilos's Thu/Fri recon likes the setup: <b>Snake River Brewing</b> or <b>Roadhouse</b> — the two big enough to seat all 13 on a walk-in (Melvin's space is bad; Still West plays more like a restaurant). <b>Cutty's</b> (Hwy 22, ~10 min) and <b>Eleanor's</b> are the other options. If the recon never happens, the day still has an answer.</div>
-    </div>
-    <div class="card">
-      <h3>📺 Watch Plan</h3>
       <ul class="clean">
-        <li><b>Sat:</b> House — ribeye night (default), kickoff 5:30 MT on ABC</li>
-        <li><b>Sun:</b> 11 AM MT kickoff frees the dawn window — sunrise wildlife drive first, Saints after, at the house by default</li>
-        <li class="faint">⚠️ Steak night may move Sat → Sun — undecided; the 11 AM kickoff means a night grill, and Saturday would drop to the house off grocery stock</li>
-        <li class="faint">Who Dat — Monday 11:47 AM departure means Sunday night stays reasonable</li>
+        <li>🚡 <b>Tram + Corbet's Cabin waffles</b> — Rendezvous Mountain summit (10,450 ft), no hiking required; try the brown sugar &amp; butter. Walkable from the house. <span class="faint">Confirm fall operating dates + buy tickets online by <b>9/7</b>; if it isn't running, Sunday afternoon defaults to downtown Jackson + early Dornan's</span></li>
+        <li>🚫 <b>Bridger Gondola — CLOSED for the season before we arrive.</b> The mid-mountain lift runs <b>June 6 – Sept 13, 2026</b>; we land <b>Sept 17</b>. Thursday's "gondola" stop no longer exists — that hour became the grocery run. <b>Upside: there's now no way to ride the wrong lift.</b> The tram is Sunday's, unambiguously</li>
+        <li>🍕 <b>Dornan's deck</b> in Moose — pizza + beer with a straight-on Teton view; flows into the early-dinner default</li>
+        <li>🛍️ <b>Downtown Jackson</b> — antler arches, western shops; friend rec: <b>Spirits &amp; Spice</b> + a Pearl Street sloshie</li>
+        <li>🖼️ <b>National Museum of Wildlife Art</b> — world-class, overlooks the elk refuge; also <b>the</b> indoor move if weather scrubs anything</li>
       </ul>
     </div>
+
+    <div class="section-h">🦌 Wildlife Cheat Sheet (the Sunday drive hits the stars)</div>
+    <div class="card">
+      <ul class="clean">
+        <li>⭐ <b>Schwabacher Landing</b> — glassy beaver ponds mirroring the Tetons; go at first light, don't skip</li>
+        <li>⭐ <b>Oxbow Bend</b> — moose, herons, otters; often a bull elk bugling at dawn</li>
+        <li>⭐ <b>Mormon Row / Antelope Flats</b> — bison, pronghorn, coyotes against the barns</li>
+        <li>🚧 <b>Moose-Wilson Road — CLOSED Sep 8 → Nov 15, 2026</b> (NPS construction, Rockefeller Preserve ↔ Moose). Cut from Sunday's loop — <b>and it's why every park drive now goes the long way through Jackson</b>, ~10 min more each way</li>
+        <li><b>Willow Flats</b> (Jackson Lake Lodge) — moose hotspot if you're up north</li>
+        <li><b>National Elk Refuge</b> — September is early for the winter herds, but worth a look from town</li>
+      </ul>
+    </div>
+
   </section>
 
   <!-- ============ CREW ============ -->
   <section class="panel" id="crew">
+    <div class="section-h">💵 Money — settled</div>
+    <div class="card">
+      <div class="note">✅ <b>Nothing left to send.</b> <b>$784.14 per man</b> — lodging + van tour + rafting, all in — <b>collected from all 13.</b> From here the only money is on the ground: food, drinks, tips, gas, park entry. Per-person estimates are on the <b>Logistics</b> tab.</div>
+    </div>
+
     <div class="section-h">The Crew — 13 Locked</div>
     <div class="card">
       <div class="roster">
@@ -714,15 +699,15 @@
           <tr><td><b>Friday dinner menu</b></td><td>Sep 10 grocery call</td><td><b>Fajita/taco bar</b> — its leftovers are Saturday's cooler lunch, a one-pot's aren't</td></tr>
           <tr><td><b>Steak night — Sat or Sun</b></td><td>Sep 10 call</td><td><b>Stays Saturday.</b> If it moves, Saturday drops to pasta/leftovers at the house and Dornan's is void</td></tr>
           <tr><td><b>Grill captain</b></td><td>Sep 10 call</td><td><b>Psilos lights it.</b> 13 bone-in ribeyes is two batches — hold batch one in a 200°F oven</td></tr>
-          <tr><td><b>Friday waivers</b> <span class="pill warn">new</span></td><td>whoever forwards the JHWW email · 9/10</td><td><b>Thirteen guys fill out forms on their phones in the boathouse lot at 12:15.</b> Nobody misses the boat over it — it just eats a lunch break that's only ~45 minutes to begin with</td></tr>
-          <tr><td><b>Friday lunch</b> <span class="pill warn">new</span></td><td>Sep 10 call, or day-of</td><td><b>The outfitter's deli lunch</b> at 945 W Broadway. Both trips leave from there, so the default costs zero travel. <b>Sidewinders is next door</b> if the group wants a table; Cutty's is now a ~25-min round trip out of a ~60-min window</td></tr>
+          <tr><td><b>Friday waivers</b></td><td>whoever forwards the JHWW email · 9/10</td><td><b>Thirteen guys fill out forms on their phones in the boathouse lot at 12:15.</b> Nobody misses the boat over it — it just eats a lunch break that's only ~45 minutes to begin with</td></tr>
+          <tr><td><b>Friday lunch</b></td><td>rides the Thursday grocery run</td><td><b>Sandwiches packed Thursday</b>, eaten in the boathouse lot. The old "outfitter deli" default <b>didn't exist</b> — JHWW feeds scenic floats, not whitewater. <b>Sidewinders next door</b> is the upgrade if the group wants a table</td></tr>
           <tr><td><b>Sunday Saints venue</b></td><td>Thu/Fri recon</td><td><b>House cookout</b> — owns the TV and the whole slate, no 13-top anywhere. Snake River / Roadhouse are the upgrade. ✅ <b>The recon is free now:</b> Sidewinders is next door to Friday's boathouse</td></tr>
           <tr><td><b>Park pass</b></td><td>ask the chat · 9/7</td><td><b>Pay at the gate:</b> 2 vehicles × 2 parks × $35 = <b>$140</b> vs. $160 for two passes. Only buy if someone already owns one. <b>Each $35 is good 7 days</b>, so Saturday's Grand Teton fee also covers Sunday — keep the receipt</td></tr>
           <tr><td><s><b>Bear spray</b></s> ✅ <b>CLOSED 8/21</b></td><td>—</td><td><b>Rented at the JAC kiosk, not bought.</b> Bear Aware staffs baggage claim #3 Jun–Oct: 2 canisters, ~$56 total, returned to the same box Monday. Zero minutes, ~$44 cheaper, and no canisters to abandon (you can't fly with them). Backup: Smith's and Albertsons both stock it</td></tr>
           <tr><td><b>Thursday DDs</b></td><td>said out loud before you leave</td><td><b>Hardie + Schick</b> — the only two on the rental agreements, so the only two insured to drive. Add drivers at the JAC counter to rotate</td></tr>
           <tr><td><b>Tram tickets</b> <span class="faint">(~$55/pp)</span></td><td>9/7</td><td>✅ <b>The tram is confirmed running — May 16 to Oct 4, 8:30–5, Corbet's open.</b> So the only remaining risk is nobody buying tickets, and then Sunday afternoon is <b>downtown Jackson + early Dornan's</b> — no empty block</td></tr>
-          <tr><td><b>Thursday afternoon</b> — Dornan's → brewery → <b>errand hour</b> → 4 PM check-in</td><td>Drewes's plan · 8/15, rebuilt 8/21</td><td><b>This is the shape now, and it's self-contained.</b> The gondola closed for the season 9/13, so its 3–4 PM slot became <b>the grocery run</b> — the errand that had no home. <b>Bear spray is off the list entirely</b> (rented at JAC on arrival). Only knock-on left: Thursday's Dornan's means <b>Sunday eats there twice</b> — fine, but decide it on purpose</td></tr>
-          <tr><td><b>Saturday's turnaround</b> <span class="pill warn">new</span></td><td>nobody — it's a rule</td><td><b>Wheels rolling south out of West Thumb at 2:00 PM</b>, whatever's unseen. Real drive times put the house 1 hr 50 from there: 2:00 → home 3:50 → grill lit 4:15 → eating before the 5:30 kickoff. Leave at 3:00 instead and you're home at 4:45 with 13 raw ribeyes</td></tr>
+          <tr><td><b>Thursday afternoon</b> — Dornan's → brewery → <b>errand hour</b> → 4 PM check-in</td><td>Drewes's plan</td><td><b>This is the shape, and it's self-contained.</b> Groceries own the 3–4 PM block; bear spray is rented at JAC on arrival. Only knock-on: Thursday's Dornan's means <b>Sunday eats there twice</b> — fine, but decide it on purpose</td></tr>
+          <tr><td><b>Saturday's turnaround</b></td><td>nobody — it's a rule</td><td><b>Wheels rolling south out of West Thumb at 2:00 PM</b>, whatever's unseen. It's 1 hr 50 home from there: 2:00 → home 3:50 → grill lit 4:15 → eating before the 5:30 kickoff</td></tr>
         </tbody>
       </table>
     </div>
@@ -755,90 +740,6 @@
     </div>
   </section>
 
-  <!-- ============ MONEY ============ -->
-  <section class="panel" id="money">
-    <div class="section-h">What Everyone Owes</div>
-    <div class="card scroll-x">
-      <table class="tbl">
-        <thead><tr><th>Item</th><th class="num">Per Person</th><th>Due</th><th>Pay To</th></tr></thead>
-        <tbody>
-          <tr><td><b>Lodging + van tour + rafting</b><br><span class="faint">One combined number — final, posted 8/10</span></td><td class="num"><b>$784.14</b></td><td><span class="pill ok">Paid by all 13</span></td><td><b>@DrewesPT</b> Venmo</td></tr>
-          <tr><td>Flights (own booking)</td><td class="num">—</td><td><span class="pill ok">Booked</span></td><td>—</td></tr>
-        </tbody>
-      </table>
-      <div class="note">✅ <b>Done — everyone is paid up (8/15).</b> <b>$784.14 per man</b>, lodging + van tour + rafting all in, <b>× 13 = $10,193.82, fully collected.</b> Drewes is whole on the VRBO and the outfitter. This closed the old ~$556 Airbnb + ~$300 rafting split, the ~$56-vs-~$100 balance question, <b>and</b> the two $250s Austin and Solak sent Gunter instead of Drewes back in March. Nobody double-paid; nobody's short. From here the only money is on the ground.</div>
-    </div>
-
-    <div class="section-h">The Ledger — settled ✅</div>
-    <div class="card scroll-x">
-      <table class="tbl">
-        <thead><tr><th>Man</th><th>Status</th></tr></thead>
-        <tbody>
-          <tr><td>Drewes</td><td class="muted">— collected; fronted the VRBO + the outfitter</td></tr>
-          <tr><td>Psilos</td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Hardie</td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Schick</td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Evan <span class="faint">(in full 8/11)</span></td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Levy</td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Shrub <span class="faint">(Schaubhut — in full 8/11)</span></td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Mitternight</td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Solak</td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Austin <span class="faint">(Comeaux)</span></td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Hasney <span class="faint">(in full 8/11)</span></td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Fulham</td><td><b>✅ Paid</b></td></tr>
-          <tr><td>Ciolino <span class="faint">(in full 8/11)</span></td><td><b>✅ Paid</b></td></tr>
-        </tbody>
-      </table>
-      <div class="note"><b>Check on the totals:</b> 13 × $784.14 = <b>$10,193.82</b> in fixed trip costs, <b>all of it collected as of 8/15</b>.<br><br>The two $250s that went to <b>Gunter</b> instead of Drewes back in March — the one line in this ledger that wasn't a clean number for months — closed out when everyone squared up. Nobody double-paid; nobody's short.</div>
-    </div>
-
-    <div class="section-h">Shared Costs</div>
-    <div class="card grid-tight">
-      <div class="stat"><div class="v">$7,230</div><div class="l">Airbnb total</div></div>
-      <div class="stat"><div class="v">$0</div><div class="l">Still owed — all 13 paid</div></div>
-      <div class="stat"><div class="v">$10,194</div><div class="l">Fixed costs, all 13</div></div>
-      <div class="stat"><div class="v">$1,100–1,390</div><div class="l">All-in per person (+ flights)</div></div>
-    </div>
-
-    <div class="section-h">On-the-Ground Estimates (per person)</div>
-    <div class="card scroll-x">
-      <table class="tbl">
-        <thead><tr><th>Category</th><th class="num">Estimate</th><th>Notes</th></tr></thead>
-        <tbody>
-          <tr><td>Food &amp; drink</td><td class="num">$150–250</td><td class="muted">Bars Thu night, meals, drinks</td></tr>
-          <tr><td>Ribeyes (Sat grill)</td><td class="num">$50–80</td><td class="muted">24 oz bone-in + sides; split the grocery run</td></tr>
-          <tr><td>Guide tips (Fri)</td><td class="num">$20–40</td><td class="muted">Van tour <b>+</b> rafting guides; bring cash</td></tr>
-          <tr><td>🚡 <b>Tram ticket (Sun)</b> <span class="pill warn">new</span></td><td class="num">~$55</td><td class="muted"><b>This line was missing from the budget.</b> Corbet's Cabin sightseeing ticket; buy online by 9/7. Skippable — but if all 13 ride, that's ~$715</td></tr>
-          <tr><td>Bear spray <span class="faint">(was ~$8)</span></td><td class="num">~$4</td><td class="muted"><b>Now a rental:</b> 2 canisters at the Bear Aware kiosk in JAC baggage claim — capped at $28 each, ~$56 total ÷ 13. Returned Monday</td></tr>
-          <tr><td>Wetsuit rental</td><td class="num">$5</td><td class="muted">Optional; weather call</td></tr>
-          <tr><td>Park entry</td><td class="num">~$11</td><td class="muted">Default is the gate: 2 vehicles × 2 parks × $35 = $140 split 13 ways (two ATB passes would be $160). Each $35 is a <b>7-day</b> pass — Saturday's Grand Teton fee covers Sunday too</td></tr>
-          <tr><td>Gas / transport</td><td class="num">$30–60</td><td class="muted">Split across vehicles</td></tr>
-          <tr><td>Incidentals</td><td class="num">$50–100</td><td class="muted">Tips, souvenirs, extra drinks</td></tr>
-        </tbody>
-      </table>
-    </div>
-
-    <div class="section-h">Booking Tracker</div>
-    <div class="card scroll-x">
-      <table class="tbl">
-        <thead><tr><th>Item</th><th>Provider</th><th class="num">Amount</th><th>Status</th></tr></thead>
-        <tbody>
-          <tr><td>Airbnb</td><td class="muted">Airbnb — Montreux House</td><td class="num">$7,229.82</td><td><span class="pill ok">Booked</span></td></tr>
-          <tr><td>Fri rafting — 1 PM</td><td class="muted">Jackson Hole Whitewater</td><td class="num">In the $784.14</td><td><span class="pill ok">Booked</span></td></tr>
-          <tr><td>Fri safari — 8 AM</td><td class="muted">Teton Expeditions <span class="faint">(under Psilos)</span></td><td class="num">In the $784.14</td><td><span class="pill ok">Booked</span></td></tr>
-          <tr><td>Flights</td><td class="muted">American Airlines</td><td class="num">varies</td><td><span class="pill ok">Booked</span></td></tr>
-          <tr><td>SUV #1 — Explorer</td><td class="muted">Jason Hardie</td><td class="num">—</td><td><span class="pill ok">Booked</span></td></tr>
-          <tr><td>SUV #2 — Expedition</td><td class="muted">Joe Schick</td><td class="num">—</td><td><span class="pill ok">Booked</span></td></tr>
-          <tr><td>Groceries / ribeyes</td><td class="muted">Smith's or Albertsons (Psilos)</td><td class="num">~$100/person</td><td><span class="pill warn">Method call pending</span></td></tr>
-          <tr><td>Bear spray — 2 canisters <span class="pill warn">new</span></td><td class="muted">Bear Aware kiosk, JAC baggage claim</td><td class="num">~$56 total</td><td><span class="pill ok">Rental — pick up Thu, drop Mon</span></td></tr>
-          <tr><td>Tram tickets (Sun) <span class="pill warn">new</span></td><td class="muted">jacksonhole.com, online</td><td class="num">~$55/person</td><td><span class="pill warn">Buy by 9/7</span></td></tr>
-          <tr><td>Park entry</td><td class="muted">NPS — at the gate</td><td class="num">~$140 total</td><td><span class="pill ok">Default — no pass</span></td></tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="note">💵 <b>Bring some cash.</b> Friday's guide tips (~$20–40/person across the van-tour + rafting guides) want it, and a couple of town spots (<b>Pica's</b>, <b>Nora's</b>) are cash-only — hit an ATM.</div>
-  </section>
-
   <!-- ============ EAT & DRINK ============ -->
   <section class="panel" id="eat">
     <div class="section-h">On the Plan</div>
@@ -846,15 +747,15 @@
       <table class="tbl">
         <thead><tr><th>When</th><th>Spot</th><th>Notes</th></tr></thead>
         <tbody>
-          <tr><td>Thu lunch</td><td><b>Dornan's (Moose)</b> <span class="pill warn">new</span></td><td class="muted">~12 min from JAC — the arrival stop: pizza, beer, Tetons, acclimate to 6,200 ft. ⚠️ <b>Opens 11:30</b> — don't roll up at 11:15</td></tr>
+          <tr><td>Thu lunch</td><td><b>Dornan's (Moose)</b></td><td class="muted">~12 min from JAC — the arrival stop: pizza, beer, Tetons, acclimate to 6,200 ft. ⚠️ <b>Opens 11:30</b> — don't roll up at 11:15</td></tr>
           <tr><td>Thu</td><td>Jackson Drug</td><td class="muted">Huckleberry shake on the square. ⚠️ Squeezed by the new afternoon plan — grab it while you're in town at the brewery, or Sunday</td></tr>
           <tr><td>Thu night</td><td>Snake River Brewing</td><td class="muted">First stop; craft brewery, great food</td></tr>
           <tr><td>Thu night</td><td>Silver Dollar Bar</td><td class="muted">Classic western bar — 2,000+ silver dollars in the bar top</td></tr>
           <tr><td>Thu night</td><td>Million Dollar Cowboy Bar</td><td class="muted">Saddle stools, live country — the move</td></tr>
           <tr><td>Thu night</td><td>Mangy Moose</td><td class="muted">Walkable from the house; last stop</td></tr>
           <tr><td>Fri AM</td><td>Cowboy Coffee — <b>the drive-thru</b></td><td class="muted"><b>1007 S US-89, opens 6 AM</b>, ~2 min from the boathouse and on the route in. Two SUVs, two orders, nobody gets out. Leave the house <b>6:45</b>. <i>Not the Town Square store — that's a backtrack east past the boathouse; same for the Bunnery</i></td></tr>
-          <tr><td>Fri lunch</td><td><b>Outfitter deli (default)</b> <span class="pill warn">new</span></td><td class="muted">~45-min window at 945 W Broadway between the safari and the boat. <b>Sidewinders is next door</b> (and doubles as the Sunday game recon); <b>Cutty's is now a ~25-min round trip</b> out of that window</td></tr>
-          <tr><td>Fri dinner</td><td>House ✅ locked</td><td class="muted">6/30 booking fence passed — house it is. Menu defaults to the <b>fajita bar</b> if nobody picks by 9/10</td></tr>
+          <tr><td>Fri lunch</td><td><b>Packed sandwiches</b> ⚠️</td><td class="muted"><b>JHWW doesn't feed this trip</b> — lunch comes with their scenic float, not the whitewater. Pack it Thursday; eat in the lot. <b>Sidewinders next door</b> (opens 11:30) is the upgrade</td></tr>
+          <tr><td>Fri dinner</td><td>House ✅ locked</td><td class="muted">Menu defaults to the <b>fajita bar</b> if nobody picks by 9/10</td></tr>
           <tr><td>Sat/Sun AM</td><td>Breakfast burritos (house stash)</td><td class="muted">Reheat for the <b>6:15 AM</b> + <b>6:00 AM</b> starts. Nothing in Jackson is open before either — this stash is load-bearing now, not optional</td></tr>
           <tr><td>Sat lunch</td><td>Cooler lunch <span class="pill warn">plan it</span></td><td class="muted">Packed Friday night, eaten at the <b>West Thumb picnic tables</b> — see the card below</td></tr>
           <tr><td>Sat dinner</td><td>House grill — steak night <span class="pill warn">default</span></td><td class="muted">24 oz bone-in ribeyes during the LSU game — <b>may move to Sunday</b>; if it does, this drops to the house off grocery stock</td></tr>
@@ -933,8 +834,8 @@
           <tr><td>Thai Me Up</td><td class="muted">Thai</td><td class="muted">Beloved locals' spot</td></tr>
           <tr><td>Merry Piglets / Hand Fire Pizza</td><td class="muted">Casual downtown</td><td class="muted">Lunch/dinner backups near the square</td></tr>
           <tr><td>Roadhouse Brewing</td><td class="muted">Brewery</td><td class="muted">Great happy hour, good beer + solid food; Thu-crawl alternate and a Saints-game option</td></tr>
-          <tr><td><b>Sidewinders</b> <span class="pill warn">new</span></td><td class="muted">Sports tavern</td><td class="muted"><b>945 W Broadway</b> — west end of town, on the Teton Village side (~15–20 min from the house). Good food + drinks, reasonable prices, Guy Fieri shot a show there. <b>Closest game-watching option to the house</b> — and it's <b>next door to Friday's boathouse</b>, so the recon is a lunch stop we're already parked at</td></tr>
-          <tr><td><b>The Verge</b> <span class="pill warn">new</span></td><td class="muted">Dive bar</td><td class="muted">Liquor in front, dive bar in back. Thursday-crawl flavor, not a dinner</td></tr>
+          <tr><td><b>Sidewinders</b></td><td class="muted">Sports tavern</td><td class="muted"><b>945 W Broadway</b>, ~20 min from the house. <b>30+ TVs, 24 taps, opens 11:30, no reservations.</b> Best-equipped game room anyone found — and it's <b>next door to Friday's boathouse</b>, so lunch there is a free look</td></tr>
+          <tr><td><b>The Verge</b></td><td class="muted">Dive bar</td><td class="muted">Liquor in front, dive bar in back. Thursday-crawl flavor, not a dinner</td></tr>
           <tr><td>Pearl Street sloshie</td><td class="muted">Quick hit</td><td class="muted">Friend's favorite; downtown alongside the Jackson Drug shake</td></tr>
           <tr><td>Creekside Market</td><td class="muted">Sandwiches</td><td class="muted">Grab-and-go before heading into the parks</td></tr>
         </tbody>
@@ -955,92 +856,17 @@
           <li><b>Night with a twist</b> — Jackson Hole Playhouse (dinner + Western melodrama) eats a whole evening; our nights are spoken for</li>
           <li>🚫 <b>Doesn't fit</b> — Jackson Hole Rodeo (season ended Sep 7), Saturday Farmers Market (we're in Yellowstone), Snow King concerts (summer only)</li>
         </ul>
-        <div class="note"><b>Friday-dinner candidates — closed 6/30, the house won:</b> Local + Gather were the top 13-top candidates, with The Bistro, Figs, Kampai/Bin22 (splinter-size), Coe Tavern (pre-dinner), Snake River Grill (books months out). Kept for reference / next trip. Confirm shoulder-season hours before counting on any in-park spot.</div>
-        <div class="note"><b>Reservations call (8/11):</b> Cowboy Steakhouse and Snake River Grill only take reservations ~30 days out; we were 37 days out — a week too early. Chris D. is fine skipping a group reservation and sticking with house steak nights + casual spots on the fly. Expect <b>splitting into 2 tables</b> anywhere without a reservation; Snake River Brewing and Roadhouse are big enough for the full group to usually walk in together.</div>
+        <div class="note"><b>No group reservation anywhere — the house steak nights stand.</b> Expect to <b>split into 2 tables</b> at any walk-in; Snake River Brewing, Roadhouse and Sidewinders are big enough to usually seat all 13 together.</div>
         <div class="note">✅ <b>CLOSED — the window opened 8/17 and passed with nobody calling.</b> The default fired, and it's the outcome the crew had already chosen: <b>the house steak nights stand.</b> Don't reopen this on the Sep 10 call.<br><br>What it leaves, honestly: <b>there is no sit-down western dinner on this trip and no way to book one now.</b> If the crew decides on the ground that it wants one, the answer is a <b>walk-in split across two tables</b> — <b>Gun Barrel</b> is the best western option, <b>Snake River Brewing</b> and <b>Roadhouse</b> are the two big enough to seat all 13 together. Go early, not at 7:30 on a September Saturday: <b>"shoulder season" now starts in October and September is one of Jackson's busier months.</b><br><br><i>For next trip: the 30-day line is the whole game, and <b>Snake River Grill's private room</b> (Austin's brother-in-law) is the one thing anyone found that makes a 13-top easy instead of awkward. Call them first.</i></div>
       </div>
     </details>
-  </section>
-
-  <!-- ============ ACTIVITIES ============ -->
-  <section class="panel" id="activities">
-    <div class="note"><b>The schedule is full</b> — Friday is booked dawn-to-dusk, Saturday is Yellowstone + LSU, Sunday is the dawn drive + Saints. What's genuinely open: the <b>Thursday midday gap</b> and the <b>Sunday afternoon window</b>. Everything else here is reference (or next trip).</div>
-
-    <div class="section-h">🎯 Sunday Afternoon Window — The Real Choices</div>
-    <div class="card">
-      <ul class="clean">
-        <li>🚡 <b>Tram + Corbet's Cabin waffles</b> — Rendezvous Mountain summit (10,450 ft), no hiking required; try the brown sugar &amp; butter. Walkable from the house. <span class="faint">Confirm fall operating dates + buy tickets online by <b>9/7</b>; if it isn't running, Sunday afternoon defaults to downtown Jackson + early Dornan's</span></li>
-        <li>🚫 <b>Bridger Gondola — CLOSED for the season before we arrive.</b> The mid-mountain lift runs <b>June 6 – Sept 13, 2026</b>; we land <b>Sept 17</b>. Thursday's "gondola" stop no longer exists — that hour became the grocery run. <b>Upside: there's now no way to ride the wrong lift.</b> The tram is Sunday's, unambiguously</li>
-        <li>🍕 <b>Dornan's deck</b> in Moose — pizza + beer with a straight-on Teton view; flows into the early-dinner default</li>
-        <li>🛍️ <b>Downtown Jackson</b> — antler arches, western shops; friend rec: <b>Spirits &amp; Spice</b> + a Pearl Street sloshie</li>
-        <li>🖼️ <b>National Museum of Wildlife Art</b> — world-class, overlooks the elk refuge; also <b>the</b> indoor move if weather scrubs anything</li>
-      </ul>
-    </div>
-
-    <div class="section-h">🌋 Yellowstone — What Fits Saturday</div>
-    <div class="card scroll-x">
-      <table class="tbl">
-        <thead><tr><th>Stop</th><th>Fits?</th><th>Notes</th></tr></thead>
-        <tbody>
-          <tr><td>Old Faithful</td><td><span class="pill ok">On the plan</span></td><td class="muted">~90-min cycle — check the predicted time; boardwalk loop is excellent</td></tr>
-          <tr><td>Grand Prismatic <b>overlook</b></td><td><span class="pill ok">1st stop</span></td><td class="muted">Fairy Falls trail — do it before Old Faithful, ahead of the crowd</td></tr>
-          <tr><td>Grand Prismatic <b>boardwalk</b></td><td><span class="pill warn">Skippable</span></td><td class="muted">If you do the overlook you can skip going close — a full stop's time back</td></tr>
-          <tr><td>Emerald Spring (Norris)</td><td><span class="pill stop">🚫 Next trip</span></td><td class="muted">Jeremy's favorite pool, but it's Norris — past our turnaround</td></tr>
-          <tr><td>West Thumb Geyser Basin</td><td><span class="pill ok">On the plan</span></td><td class="muted">Right on the way back; quick and worth it</td></tr>
-          <tr><td>Yellowstone Lake</td><td><span class="pill ok">En route</span></td><td class="muted">You drive its shore between West Thumb and the South Entrance</td></tr>
-          <tr><td>Grand Canyon of the Yellowstone</td><td><span class="pill stop">🚫 Next trip</span></td><td class="muted">Artist Point is iconic — but adding it blows the 3 PM return</td></tr>
-          <tr><td>Norris / Mammoth / Artists' Paintpots</td><td><span class="pill stop">🚫 Next trip</span></td><td class="muted">All well past the turnaround</td></tr>
-          <tr><td>Lamar Valley</td><td><span class="pill stop">🚫 Next trip</span></td><td class="muted">"America's Serengeti" — 3+ hrs one-way; Sunday's Teton dawn is the same show 20 min from the house</td></tr>
-          <tr><td>Hayden Valley / Mt. Washburn / Beartooth Hwy</td><td><span class="pill stop">🚫 Next trip</span></td><td class="muted">Too far / wrong exit</td></tr>
-          <tr><td>Boiling River</td><td><span class="pill stop">Closed</span></td><td class="muted">2022 flood destroyed the soaking area; no plans to reopen</td></tr>
-        </tbody>
-      </table>
-    </div>
-
-    <div class="section-h">🥾 Grand Teton Hikes — Reference Shelf</div>
-    <div class="card scroll-x">
-      <table class="tbl">
-        <thead><tr><th>Trail</th><th class="num">Distance</th><th>Difficulty</th><th>Highlights</th></tr></thead>
-        <tbody>
-          <tr><td>Jenny Lake Loop</td><td class="num">7.1 mi</td><td>Easy</td><td class="muted">Lake views, ferry option — before 8 AM beats the crowds</td></tr>
-          <tr><td>Hidden Falls &amp; Inspiration Pt</td><td class="num">9.7 mi RT</td><td>Moderate</td><td class="muted">Waterfall, panoramic views</td></tr>
-          <tr><td>Taggart &amp; Bradley Lakes</td><td class="num">5.9 mi</td><td>Easy–Mod</td><td class="muted">Quiet, great wildlife</td></tr>
-          <tr><td>Death Canyon</td><td class="num">8.5 mi RT</td><td>Moderate</td><td class="muted">Dramatic canyon walls</td></tr>
-          <tr><td>Cascade Canyon → Lake Solitude</td><td class="num">14.5 mi RT</td><td>Strenuous</td><td class="muted">Best fall colors, high alpine lake</td></tr>
-          <tr><td>Amphitheater Lake</td><td class="num">9.7 mi RT</td><td>Strenuous</td><td class="muted">Huge elevation gain, incredible views</td></tr>
-        </tbody>
-      </table>
-      <div class="note">On the water (also reference): the scenic Snake River float was triaged out — no open window. Jenny Lake kayak/canoe rentals and calm paddling at String Lake exist if a block ever frees up.</div>
-    </div>
-
-    <div class="section-h">🦌 Wildlife Cheat Sheet (the Sunday drive hits the stars)</div>
-    <div class="card">
-      <ul class="clean">
-        <li>⭐ <b>Schwabacher Landing</b> — glassy beaver ponds mirroring the Tetons; go at first light, don't skip</li>
-        <li>⭐ <b>Oxbow Bend</b> — moose, herons, otters; often a bull elk bugling at dawn</li>
-        <li>⭐ <b>Mormon Row / Antelope Flats</b> — bison, pronghorn, coyotes against the barns</li>
-        <li>🚧 <b>Moose-Wilson Road — CLOSED Sep 8 → Nov 15, 2026</b> (NPS construction, Rockefeller Preserve ↔ Moose). Cut from Sunday's loop — <b>and it's why every park drive now goes the long way through Jackson</b>, ~10 min more each way</li>
-        <li><b>Willow Flats</b> (Jackson Lake Lodge) — moose hotspot if you're up north</li>
-        <li><b>National Elk Refuge</b> — September is early for the winter herds, but worth a look from town</li>
-      </ul>
-    </div>
-
-    <div class="section-h">Booking Notes</div>
-    <div class="card">
-      <ul class="clean">
-        <li><span class="pill ok">Booked</span> Whitewater rafting — <b>Jackson Hole Whitewater</b>, Fri 1:00–4:30 PM · sunrise safari — <b>Teton Expeditions</b>, Fri 8 AM <span class="faint">(both at 945 W Broadway)</span></li>
-        <li><span class="pill warn">By 9/7</span> Tram — no reservation needed to ride, but buy tickets online + confirm fall dates (JHMR publishes them each summer). Fallback if it's closed: downtown Jackson + early Dornan's</li>
-        <li><span class="pill info">Only if trading a block</span> Horseback (friend rec: Spring Creek Ranch — book ahead) · fly fishing (September is prime; guide books early)</li>
-        <li><span class="pill stop">Dropped</span> Via Ferrata</li>
-      </ul>
-    </div>
   </section>
 
   <!-- ============ GROCERIES ============ -->
   <section class="panel" id="groc">
     <div class="section-h">Grocery List — 13 Guys</div>
     <div class="note"><b>Owner: Psilos.</b> Smith's (Kroger) or Albertsons, Jackson — Thursday on arrival, or pre-stocked. Check marks save on this device, so this works standing in the aisle with no signal.</div>
-    <div class="progress-lab"><span id="grocProgLab">0 of 60 got</span><button class="reset-btn" data-reset="groc">Reset</button></div>
+    <div class="progress-lab"><span id="grocProgLab">0 of 42 got</span><button class="reset-btn" data-reset="groc">Reset</button></div>
     <div class="progress"><span id="grocProg"></span></div>
 
     <div class="card">
@@ -1073,7 +899,7 @@
     <div class="section-h">🥩 Meat & Deli</div>
     <div class="card">
       <label class="check"><input type="checkbox" id="gr1"><span class="box"></span><span class="lab"><b>13 bone-in ribeyes, 24 oz</b> — pre-ordered at the butcher counter</span><span class="tag">butcher</span></label>
-      <label class="check"><input type="checkbox" id="gr2"><span class="box"></span><span class="lab">Deli turkey + ham, <b>3 lb</b> — Saturday cooler lunch</span></label>
+      <label class="check"><input type="checkbox" id="gr2"><span class="box"></span><span class="lab">Deli turkey + ham, <b>6 lb</b> — <b>two</b> cooler lunches: Fri at the boathouse + Sat at West Thumb</span></label>
       <label class="check"><input type="checkbox" id="gr3"><span class="box"></span><span class="lab">Sliced cheese, <b>1.5 lb</b></span></label>
       <label class="check"><input type="checkbox" id="gr4"><span class="box"></span><span class="lab">Chicken wings, <b>10 lb</b> — Sunday game spread</span></label>
       <label class="check"><input type="checkbox" id="gr5"><span class="box"></span><span class="lab">Andouille or smoked sausage, <b>3 lb</b> — Sunday spread</span></label>
@@ -1155,7 +981,7 @@
       <label class="check"><input type="checkbox" id="grA8"><span class="box"></span><span class="lab">Rice <b>3 lb</b> + black beans <b>×6</b></span></label>
       <label class="check"><input type="checkbox" id="grA9"><span class="box"></span><span class="lab">Fajita seasoning, <b>4 packets</b></span></label>
       <label class="check"><input type="checkbox" id="grA10"><span class="box"></span><span class="lab">Cilantro, extra limes</span></label>
-        <div class="note">✅ <b>Bonus: this feeds Saturday's cooler lunch.</b> Leftover meat + tortillas = Yellowstone wraps — skip the deli meat and rolls above and save ~$35.</div>
+        <div class="note">✅ <b>Bonus: this feeds Saturday's cooler lunch.</b> Leftover meat + tortillas = Yellowstone wraps — cut the deli line to 3 lb and save ~$18. ⚠️ <b>It can't feed Friday's lunch</b>, which happens before this dinner is cooked.</div>
       </div>
       <div class="card">
         <h3>🍲 Module B — One-Pot (Jambalaya)</h3>
@@ -1302,7 +1128,7 @@
         <ul class="clean">
           <li><b>Tier 0 — prevention:</b> all 13 load the trip in the AA app with push alerts; carry-on only if you can; sit toward the front of AA 468 — 43 min is a Skylink sprint</li>
           <li>⚠️ <b>Know who's exposed:</b> most of the crew (incl. Hardie + Schick) is on the group MSY→DFW→JAC ticket — AA rebooks them free and automatically. <b>A few guys booked separately and have no group protection</b>; their names are still TBD. Get them on paper — it's on the To-Do list</li>
-          <li><b>Tier 1 — missed it:</b> catch the same-day <b>~5:50 PM DFW→JAC nonstop</b>. All 13 rebook simultaneously in the app while one calls AA and one hits the gate desk. <b>Hardie + Schick get seats first</b> — they hold the rental cars</li>
+          <li><b>Tier 1 — missed it:</b> catch the same-day <b>evening DFW→JAC nonstop</b> (~5:50 PM). ✅ AA flies JAC <b>year-round, 2 nonstops a day</b> — but that also means the evening flight is the <b>last chance</b>, and 13 seats on it is a lot. All 13 rebook simultaneously in the app while one calls AA and one hits the gate desk. <b>Hardie + Schick get seats first</b> — they hold the rental cars</li>
           <li><b>Tier 2 — no JAC seats:</b> fly <b>DFW→SLC and drive (~5 hrs)</b>; one-way SUV rentals SLC→Jackson are routine. Even a 3 PM SLC landing makes dinner at the house</li>
           <li><b>Tier 3 — refuse this one:</b> overnighting at DFW. Rule of thumb: <b>before ~6 PM with no confirmed JAC seat, take the SLC routing. Drive before you sleep.</b></li>
           <li><b>Side effect:</b> beds are picked on arrival, and Ciolino has the floor spot by design — don't let a late-landing guy get bumped onto the couch on top of him</li>
@@ -1325,7 +1151,7 @@
     </div>
 
     <div class="section-h">Key Drive Times — rebuilt from the house</div>
-    <div class="note">⚠️ <b>This table was wrong in the direction that costs you the day (fixed 8/21).</b> It measured from <i>Jackson</i>, but we sleep in <i>Teton Village</i> — and it had the Yellowstone gate an hour from town with Old Faithful thirty minutes past it. Both are roughly double that.</div>
+    <div class="note">🚧 <b>All park drives go through Jackson</b> — the Moose-Wilson back way is closed Sep 8 → Nov 15. Times below are from the house.</div>
     <div class="note">🚧 <b>And the back way is closed.</b> The <b>Moose-Wilson Road is shut Sep 8 → Nov 15, 2026</b> (NPS Phase II construction) between the Rockefeller Preserve and Moose — the short hop from Teton Village to Moose. <b>Everything to the parks now goes WY-390 → WY-22 → the Y → US-26/89/191 north through Jackson</b>, ~10 min more each way.</div>
     <div class="card scroll-x">
       <table class="tbl">
@@ -1467,12 +1293,12 @@
   <section class="panel" id="todo">
     <div class="section-h">Open Items — Check It Off</div>
     <div class="note"><b>The full README list, in chronological order — work top to bottom.</b> Two ⭐ items gate the trip: paying Drewes, and the 9/10 late-cancel rule. <b>Everything else has a default that holds if it never gets done</b> — see <i>Decision Defaults</i> on the Crew tab. Check marks save on this device.</div>
-    <div class="progress-lab"><span id="todoProgLab">0 of 36 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
+    <div class="progress-lab"><span id="todoProgLab">0 of 28 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
     <div class="progress"><span id="todoProg"></span></div>
 
     <div class="section-h">🔴 Now (August) — ✅ the money is done; two calls left</div>
     <div class="card">
-      <div class="note">💵 ✅ <b>Pay Drewes — done (8/15).</b> All 13 settled; $10,193.82 collected; the Gunter $250 question closed with it. Nothing left to send.</div>
+      <div class="note">💵 ✅ <b>Money — done.</b> All 13 settled. Nothing left to send.</div>
       <label class="check"><input type="checkbox" id="td2" checked><span class="box"></span><span class="lab">✅ <b>Cowboy Steakhouse / Snake River Grill — window opened 8/17, closed 8/18, nobody called. Settled: the house steak nights stand.</b> That was already the crew's decision. Note what it means: <b>no sit-down western dinner is booked and none can be now</b> — if the crew wants one on the ground it's a walk-in split across two tables (<b>Gun Barrel</b>, Snake River Brewing, Roadhouse), and go early. Don't relitigate this on the Sep 10 call</span><span class="tag">closed 8/18</span></label>
       <label class="check"><input type="checkbox" id="td1"><span class="box"></span><span class="lab"><b>The RMR call.</b> ✅ Check-in answered — <b>4:00 PM</b>. Still open: <b>checkout time</b>, a rollaway/cot for Ciolino, and the grill + propane. ☎️ (307) 739-9050. Each has a default that holds if it never happens — see the Crew tab. <span class="faint">Early check-in: asked for, not promised, and RMR may charge for it</span></span><span class="tag">Drewes · 8/22</span></label>
     </div>
@@ -1495,14 +1321,14 @@
 
     <div class="section-h">1–2 Weeks Out (early September)</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="td9"><span class="box"></span><span class="lab">Verify the evening DFW→JAC nonstop (~5:50 PM) runs Thu Sep 17 — Tier 1 of the misconnect playbook</span><span class="tag">1–2 wk</span></label>
+      <label class="check"><input type="checkbox" id="td9"><span class="box"></span><span class="lab">✅ <b>Evening DFW→JAC nonstop exists</b> — AA flies JAC year-round, 2 a day. Just check the exact departure time in the app the week before</span><span class="tag">1–2 wk</span></label>
       <label class="check"><input type="checkbox" id="td9b"><span class="box"></span><span class="lab"><b>Name who is NOT on the group MSY→DFW→JAC itinerary</b> — they get no group rebooking protection if DFW blows up, and Friday's van tour is past its refund window regardless</span><span class="tag">1–2 wk</span></label>
       <label class="check"><input type="checkbox" id="td10"><span class="box"></span><span class="lab">Travel insurance — decide yes/no (trip-delay coverage = the DFW scenario). ⏰ CFAR riders needed buying within ~10–21 days of the first deposit — long gone; trip-delay/interruption/medical is still buyable and is the coverage that matches this trip</span><span class="tag">decide</span></label>
       <label class="check"><input type="checkbox" id="td11"><span class="box"></span><span class="lab">Park pass — <b>default: pay at the gate</b> ($140 for 2 vehicles × 2 parks, vs. $160 for two ATB passes). Only real action: ask the chat whether anyone already owns a pass</span><span class="tag">ask · 9/7</span></label>
-      <label class="check"><input type="checkbox" id="td12" checked><span class="box"></span><span class="lab">✅ 🐻 <b>Bear spray — closed 8/21: rent it at the airport.</b> <b>Bear Aware</b> staffs a kiosk at <b>JAC, baggage claim #3</b>, 7 days a week Jun–Oct. 2 canisters at <b>$16 first two days / $4 a day after, capped at $28 each — ~$56 total, ~$4/man</b>. Drop them in the same kiosk's after-hours box Monday. Zero minutes, ~$44 cheaper than buying, and <b>you can't fly home with bought canisters</b>. Backup: Smith's and Albertsons both stock it</span><span class="tag">solved</span></label>
+      <label class="check"><input type="checkbox" id="td12" checked><span class="box"></span><span class="lab">🐻 <b>Bear spray — rent 2 at the JAC kiosk</b> (Bear Aware, baggage claim #3, ~$28 each capped). Drop them in the same box Monday — you can't fly with them. Backup: Smith's and Albertsons stock it</span><span class="tag">solved</span></label>
       <label class="check"><input type="checkbox" id="td13"><span class="box"></span><span class="lab">✅ <b>Friday times — confirmed in writing (8/20).</b> Safari check-in <b>7:45</b>, departs <b>8:00</b>, runs 4 hrs; rafting <b>1:00–4:30</b>, check in 12:30 — all at <b>945 W Broadway</b>. Still worth asking Teton Expeditions: do they have their own waiver, and can they hand off straight to JHWW if the van runs long?</span><span class="tag">1–2 wk</span></label>
       <label class="check"><input type="checkbox" id="td14"><span class="box"></span><span class="lab">Wetsuit call — $5/person, weather-dependent</span><span class="tag">weather</span></label>
-      <label class="check"><input type="checkbox" id="td15"><span class="box"></span><span class="lab">Friday lunch — <b>outfitter deli (default)</b> / <b>Sidewinders next door</b> / Cutty's in Wilson. It's a ~45-min window in the boathouse lot now, not a drive between two places</span><span class="tag">decide</span></label>
+      <label class="check"><input type="checkbox" id="td15"><span class="box"></span><span class="lab">⚠️ <b>Friday lunch — pack sandwiches on the Thursday grocery run.</b> The old "outfitter deli" default <b>doesn't exist</b> (JHWW feeds their scenic float, not the whitewater trip). <b>Sidewinders next door</b>, opens 11:30, is the walk-in upgrade</span><span class="tag">Thu</span></label>
       <label class="check"><input type="checkbox" id="td16"><span class="box"></span><span class="lab">Tram: confirm late-Sept operating dates + buy tickets online. <b>If it's closed or nobody buys, Sunday afternoon is downtown Jackson + early Dornan's</b> — the day doesn't lose a block</span><span class="tag">by 9/7</span></label>
       <label class="check"><input type="checkbox" id="td17"><span class="box"></span><span class="lab">Confirm Dornan's fall hours (Sunday-dinner default; Moose runs shoulder-season schedules)</span><span class="tag">wk before</span></label>
       <label class="check"><input type="checkbox" id="td17b"><span class="box"></span><span class="lab"><b>Finalize the carpool / seat split across the two SUVs</b> — 3rd vehicle is ruled out, so tell everyone <b>soft duffels, not hard rollers</b>; Thursday and Monday are the tight legs</span><span class="tag">1–2 wk</span></label>
@@ -1515,7 +1341,7 @@
 
     <div class="section-h">On the Trip (Sep 17–21)</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="td23"><span class="box"></span><span class="lab">Thu — <b>run the afternoon plan:</b> land 10:19 → <b>rent 2 bear sprays at the baggage-claim kiosk</b> while the drivers get the SUVs → <b>Dornan's</b> (~12 min from JAC, <b>opens 11:30</b>) → <b>brewery in town</b> (Snake River) → <b>the errand hour, 3:00–4:00</b> → <b>4 PM check-in</b> → out for the night. ✅ Both of the things this plan used to leave homeless are now handled. ⚠️ The <b>DD job starts at lunch</b>, and <b>JAC → the house is ~30–35 min, not 10</b></span><span class="tag">Thu</span></label>
+      <label class="check"><input type="checkbox" id="td23"><span class="box"></span><span class="lab">Thu — <b>the afternoon:</b> land 10:19 → <b>rent 2 bear sprays at baggage claim</b> while the drivers get the SUVs → <b>Dornan's</b> (~12 min, opens 11:30) → <b>Snake River Brewing</b> → <b>errand hour 3:00–4:00</b> → <b>4 PM check-in</b>. ⚠️ The <b>DD job starts at lunch</b>; JAC → house is ~30–35 min</span><span class="tag">Thu</span></label>
       <label class="check"><input type="checkbox" id="td24"><span class="box"></span><span class="lab">Thu — say the DDs out loud before leaving for downtown. <b>Defaults to Hardie + Schick</b> (the only two on the rental agreements, so the only two insured to drive); add an authorized driver at the JAC counter that morning if you want to rotate. One leg needs it — downtown → Village, ~20 min; Mangy Moose is walkable</span><span class="tag">Thu</span></label>
       <label class="check"><input type="checkbox" id="td25"><span class="box"></span><span class="lab">Fri — <b>everything happens at 945 W Broadway.</b> Leave the house <b>~6:45 AM</b> and hit the <b>Cowboy Coffee drive-thru at 1007 S US-89</b> (opens 6 AM, ~2 min out, on your way in — <i>not</i> the Town Square store, which is a backtrack). <b>Check in 7:45</b> for the 8:00 Teton Expeditions safari, back ~noon, <b>rafting check-in 12:30</b>, on the water 1:00–4:30. <b>Two outfitters, two tips, no alcohol on either</b> — and don't be the guy whose waiver isn't signed</span><span class="tag">Fri</span></label>
       <label class="check"><input type="checkbox" id="td26"><span class="box"></span><span class="lab">Sat — <b>leave 6:15 AM, turn around at West Thumb at 2:00 PM sharp.</b> Those two numbers are what the LSU kickoff depends on; the corrected Yellowstone clock is on the Itinerary tab. The Grand Prismatic overlook is a <b>1.6-mile round-trip walk</b> — wear boots, and keep the entrance receipt (7-day pass, covers Sunday)</span><span class="tag">Sat</span></label>

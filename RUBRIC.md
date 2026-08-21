@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-08-21 — found at **89**, restored to 100 by that pass; see the 8/21 notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-08-21, second pass — found at **90**, restored to 100; see the notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -290,8 +290,59 @@ This pass did something the rubric had never actually forced: **it checked the p
 - **Bear spray stopped being a chore.** It was the most-flagged ⚠️ in the repo — "Thursday is the only window," repeated in five files. **Bear Aware staffs a kiosk at JAC baggage claim #3, June–October**: rent two canisters for **~$56 total**, return them to the same box Monday. It costs **zero minutes**, saves ~$44 against buying, and answers the question every version of this plan left dangling — *you can't fly home with bear spray*, so bought canisters get abandoned. A §3 safety item went from "must be squeezed into a schedule" to "happens while you wait for your bag."
 - **Two smaller checks paid off.** **Dornan's opens at 11:30** — Thursday's clock had us arriving 11:15 — and is open **daily 11:30–7 year-round**, which closes the standing "confirm fall hours" action on Sunday's dinner default. And **Cowboy Coffee has a drive-thru at 1007 S US-89** that opens at 6 AM, ~2 min from the boathouse and *on* the route in, versus the Town Square store which is a backtrack east past it — so Friday's tightest hour got a better answer and a 6:45 departure.
 - **The park fee got two true clarifications:** each $35 is a **7-day** pass, so Saturday's Grand Teton fee at Moran covers Sunday's Oxbow Bend (the $140 total is still right — it's 2 vehicles × 2 parks, not 4 entries), and **2026 introduced a $100 non-resident surcharge** worth one question in the chat.
-- **Sync:** the all-in number reads **$1,100–1,385** in both layers (tram added, bear spray reduced), the Decision Defaults table and the dashboard Crew tab match on all five closures, the maps generator carries the two closures plus the drive-thru and the Bear Aware kiosk (**83 places**, regenerated, `--check` clean), and the to-do checklist gained the three day-of timing items and a corrected count.
+- **Sync:** the all-in number reads **$1,100–1,390** in both layers (tram added, bear spray reduced), the Decision Defaults table and the dashboard Crew tab match on all five closures, the maps generator carries the two closures plus the drive-thru and the Bear Aware kiosk (**83 places**, regenerated, `--check` clean), and the to-do checklist gained the three day-of timing items and a corrected count.
 
 **A rubric change this pass earned.** §2's criterion should be read as *"every day's timing arithmetic works **against verified drive times**"* — self-consistency is not the test. Same for §1's vendor criterion: *"has a named replacement"* is worth less than *"someone checked the operating calendar."* Four passes at 100 didn't catch a closed lift, a closed road, an impossible sunrise, or a two-hour error on the tightest day of the trip, because none of them looked outside the repo.
 
 **Grade: 100/100.** The plan's structure was never the problem — every one of these defects sat inside a well-owned, well-defaulted item. What this pass adds is that the numbers underneath the structure are now checked rather than assumed.
+
+---
+
+### 8/21, second pass — a fictional default, and a site nobody could read
+
+Two findings, one of each kind the previous pass warned about.
+
+**Found at 90 (−10).**
+
+| # | Cat | Deduction | What was wrong |
+|---|---|---|---|
+| −4 | §4 | **Friday's lunch default was a meal nobody serves** | Every document carried *"the outfitter's deli lunch, eaten at 945 W Broadway"* as the zero-action default. JHWW **does** provide lunch — **on their scenic float trips.** We booked the **whitewater "Classic Raft"**; its inclusions are guide, paddles, splash gear and the shuttle. **No food.** The scenic float was triaged out of this trip in the spring and its lunch quietly stayed behind. Run §4's own zero-action test honestly and the answer was *13 guys with no lunch getting on a Class 2–3 river at 1:00 PM having last eaten at 6:45 AM.* A default that doesn't exist is worse than no default, because it stops anyone from looking |
+| −3 | §8 | **The dashboard had become a maintainer's document** | 12 tabs, three of them near-duplicates (Game Day restated kickoff times the Itinerary already had, in three places). ~30 lines of **correction archaeology** — *"this table was wrong," "the docs used to say ~1 hr"* — which is changelog, not trip content, and which I added in the previous pass. A **fully settled** money tab still carrying its per-man ledger, four "(in full 8/11)" datestamps, the Gunter $250 story told three times, and a historical cost-per-attendance table. Ten `new` pills dated across three different weeks, which means nothing reads as new. §8 grades whether 13 guys can *use* this on a phone; it had been graded on whether it was complete |
+| −2 | §3 | **The one weather event that breaks Saturday wasn't named** | §3 credits a weather-scrub plan, and the repo had one — "town fallback," the Wildlife Art museum. But the specific failure is **Craig Pass (8,262 ft)**, the West Thumb ↔ Old Faithful segment, which is the first park road NPS closes for early snow — **and our out-and-back crosses it twice.** A mid-morning closure strands the group on the far side with only the long way round the figure-eight. Low probability (September averages 1.3" of snow), high impact, free to check |
+| −1 | §1 | **An open item that a lookup could close** | *"Verify the evening DFW→JAC nonstop runs Thu Sep 17"* sat on the 1–2-weeks-out list on the theory that post-Labor-Day schedules thin out. AA flies JAC **year-round, 2 nonstops daily, 14 weekly** — the structural risk never existed |
+
+**Restored to 100:**
+
+- **Friday lunch has a real default:** sandwiches packed from the Thursday grocery run, eaten on a tailgate at the boathouse — zero travel, zero queue. It needed a genuine change to `grocery-list.md`, not just a word swap: **Friday's lunch cannot come from Friday's leftovers**, because Friday dinner happens after it, so the deli line doubles to 6 lb and the fajita module's "skip the deli meat" bonus is now correctly scoped to Saturday only. **Sidewinders** (next door, opens 11:30, **30+ TVs, 24 taps, no reservations**) is the named upgrade; **Cutty's is cut** — 25 minutes of a 45-minute window for a table available next door. The Sidewinders check also effectively pre-answers the Sunday game-venue recon: every brewery on the list was described as *"nobody's TV setup is great."*
+- **The site was cut, not extended.** **12 tabs → 9** (Game Day folded into Itinerary; Crew and Money merged; Activities' next-trip hike shelf and duplicated Yellowstone table dropped, its two live cards moved to Itinerary). All correction archaeology removed — the plan now states what to do, not what it used to say. The money tab is one sentence. All `new` pills gone. **~15KB and 260 lines out of `index.html`**, with panel/radio/label/CSS sets verified to match and a pre-existing missing `#t-groc` focus-visible selector fixed on the way through. `budget.md` lost its settled ledger, payment timeline and historical attendance table; four links to the removed ledger anchor were repointed, and a **pre-existing dead anchor** (`#monday-breakfast--use-what-is-left` vs. the actual `…-whats-left`) was found and fixed by a full link/anchor sweep.
+- **Craig Pass has a check and a replacement:** verify status at nps.gov/yell Friday night and again at 6 AM; if it's closed, **swap to a Grand Teton morning** — an hour closer, no new plan, back well before kickoff.
+- **Assorted:** the DFW item closes (with the honest caveat that *2 a day* makes the evening flight the last chance, and 13 seats on it is a lot); Sunday afternoon gets a clock because the tram and a 5 PM Dornan's are **back-to-back with no slack** (last tram down is 5:00); and JHWW's practical details are recorded — **your bus seat is your locker, the driver stays with the bus**, changing rooms at the shop, no cotton.
+
+**The rubric change this pass earns.** §8 should read *"a crew member can find what they need on a phone in under 15 seconds"* — not "the dashboard mirrors the markdown in full." Completeness and usability are in tension, and six passes of graded-for-completeness produced a document that mirrors beautifully and reads badly. **Length is now a defect, not a neutral.** Corollary: a review pass that only ever *adds* is not maintaining a plan, it's growing one.
+
+---
+
+## Verified external facts — checked 2026-08-21
+
+Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the two most recent passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
+
+| Fact | Value | Re-check at |
+|---|---|---|
+| Aerial Tram season | May 16 – Oct 4, 2026, 8:30–5 · ~$55/pp | jacksonhole.com |
+| Bridger Gondola season | **Ends Sept 13** — closed for our trip | jacksonhole.com |
+| Corbet's Cabin | 8:30–5, with the tram | jacksonhole.com |
+| Moose-Wilson Road | **Closed Sep 8 – Nov 15, 2026** | nps.gov/grte |
+| Craig Pass (West Thumb ↔ Old Faithful) | Open, but first to close for snow | nps.gov/yell — **check day-of** |
+| House → Yellowstone South Entrance | ~1 hr 30 | maps, day-of |
+| South Entrance → Old Faithful | 39 mi / ~1 hr 15 | NPS |
+| Grand Prismatic overlook | 1.6 mi round trip on foot from Fairy Falls lot | NPS |
+| Sunrise, Sun Sep 20 | ~7:07 AM (usable light ~6:40) | almanac |
+| Dornan's | 11:30 AM – 7 PM daily, year-round | (307) 733-2415 |
+| Cowboy Coffee drive-thru | 1007 S US-89, opens 6 AM | cowboycoffee.com |
+| Sidewinders | 11:30 AM – 9:30 PM, 30+ TVs, no reservations | (307) 734-5766 |
+| JHWW "Classic Raft" | **No lunch included** (that's their scenic float) | (307) 733-1007 |
+| Bear Aware kiosk, JAC | Baggage claim #3, Jun–Oct, ~$28/canister capped | bearaware.com |
+| Park entry | $35/vehicle/park, **7-day**; +$100 non-resident surcharge (2026) | nps.gov |
+| DFW→JAC nonstops | 2 daily, year-round | AA app |
+| LSU–Ole Miss | Sat 9/19, 5:30 PM MT, ABC | — |
+| Saints @ Ravens | Sun 9/20, 11:00 AM MT, CBS | — |

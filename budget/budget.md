@@ -5,39 +5,15 @@
 
 ---
 
-## What Everyone Owes — ✅ NOTHING. FULLY COLLECTED (8/15)
+## What Everyone Owes — ✅ nothing
 
-Drewes posted the final number on **8/10** — **$784.14 per man, lodging + van tour + rafting, all in** — and as of **8/15 every man has settled up.** Drewes is whole.
-
-> ### **✅ $784.14 × 13 = $10,193.82 — collected in full.**
-> Nothing left to send. From here the only money is on the ground: food, drinks, tips, gas, park entry.
-
-This closed the old "~$556 Airbnb + ~$300 rafting TBD" split, the ~$56-vs-$100 balance question, **and** the two $250s Austin and Solak sent Gunter instead of Drewes back in March — the one ambiguous line in this ledger for months. Nobody double-paid; nobody's short.
+> ### **$784.14 per man — lodging + van tour + rafting, all in. Collected from all 13.**
+> Nothing left to send. Drewes is whole on the VRBO and both outfitters. From here the only money is on the ground: food, drinks, tips, gas, park entry.
 
 | Item | Per Person | Status | Paid To |
 |---|---|---|---|
 | **Lodging + van tour + rafting (combined)** | **$784.14** | ✅ **Paid in full by all 13** | **@DrewesPT** Venmo |
 | Flights | varies | ✅ Booked | Own booking |
-
-### The ledger — settled
-
-| Man | Status |
-|---|---|
-| Drewes | — *(collected; fronted the VRBO + the outfitter)* |
-| Psilos | ✅ Paid |
-| Hardie | ✅ Paid |
-| Schick | ✅ Paid |
-| Evan | ✅ Paid *(in full 8/11)* |
-| Levy | ✅ Paid |
-| Shrub *(Schaubhut)* | ✅ Paid *(in full 8/11)* |
-| Mitternight | ✅ Paid |
-| Solak | ✅ Paid |
-| Austin *(Comeaux)* | ✅ Paid |
-| Hasney | ✅ Paid *(in full 8/11)* |
-| Fulham | ✅ Paid |
-| Ciolino | ✅ Paid *(in full 8/11)* |
-
-**Check on the totals:** 13 × $784.14 = **$10,193.82** in fixed trip costs, **all of it collected.**
 
 ---
 
@@ -46,31 +22,16 @@ This closed the old "~$556 Airbnb + ~$300 rafting TBD" split, the ~$56-vs-$100 b
 | | |
 |---|---|
 | **Total price** | $7,229.82 |
-| **Drewes paid to reserve** | $4,000 |
-| **Per-person deposit** | $500 to @DrewesPT on Venmo |
-| **Balance** | ✅ **Resolved 8/10** — rolled into the single **$784.14/man** lodging + tours number above |
-
-> The old open question here — was the remainder ~$56/person (at $556) or ~$100 (at Drewes's ~$600 quote)? — is **closed**, and so is the collection: one $784.14 figure, paid by all 13 as of 8/15. This section is history now, not an instruction.
-
-### Cost Per Person by Attendance
-
-Historical, for reference only — headcount is locked at 13 and the number is now $784.14 all-in.
-
-| Attendees | Airbnb Per Person |
-|---|---|
-| **13 (locked)** | **~$556** |
-| 12 | ~$600 |
-| 8 | ~$900 |
+| **Status** | ✅ **Paid in full** — folded into the single $784.14/man figure |
 
 ---
 
 ## Safari / Rafting ✅ BOOKED
 
 - Contract signed; private van + boat
-- **Two outfitters, one address** *(confirmations 8/20)*: **Teton Expeditions** runs the 8 AM Grand Teton sunrise safari (booked under **Chris Psilos**), **Jackson Hole Whitewater** runs the 1 PM raft — both out of 945 W Broadway. Money is unaffected; both were already inside the combined number
+- **Two outfitters, one address**: **Teton Expeditions** runs the 8 AM Grand Teton sunrise safari (booked under **Chris Psilos**), **Jackson Hole Whitewater** runs the 1 PM raft — both out of 945 W Broadway. Money is unaffected; both were already inside the combined number
 - Full refund if cancelled 7+ days out
 - **Payment:** ✅ **Settled** — never a separate collect. The tour + rafting are inside the **$784.14/man** figure, which all 13 have now paid.
-- Earlier ballpark from the chat: ~$165 rafting + ~$165 Teton tour, ~$300/day with group discount — consistent with the final combined number.
 
 ---
 
@@ -82,8 +43,8 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 | Food & Drink | $150–250 total | Bars Thu night, meals, drinks |
 | Ribeyes (Sat grill) | $50–80 | 24 oz bone-in + sides; split the grocery run |
 | Guide tips (Fri) | $20–40 | Van tour **+** rafting guides; bring cash |
-| **Tram ticket (Sun)** 🆕 | **~$55** | ⚠️ **This line was missing.** Sightseeing ticket to Corbet's Cabin, ~$55/person, bought online by 9/7. ✅ Tram confirmed running (May 16–Oct 4, 8:30–5). Skippable, but if all 13 ride it's **~$715** — the biggest single item nobody had counted |
-| Bear spray | **~$4** ⬇️ | 🆕 **Now a rental, not a purchase.** 2 canisters from the **Bear Aware kiosk at JAC baggage claim** — $16 for 2 days, $4/day after, **capped at $28 each** = ~$56 total ÷ 13. Was ~$8/man to buy at ~$50/canister, and you can't fly home with those |
+| **Tram ticket (Sun)** | **~$55** | Sightseeing ticket to Corbet's Cabin; buy online by 9/7. Tram runs May 16–Oct 4, 8:30–5. Skippable — if all 13 ride, that's ~$715 |
+| Bear spray | **~$4** | Rental, not a purchase: 2 canisters from the **Bear Aware kiosk at JAC baggage claim**, capped at $28 each = ~$56 ÷ 13. Returned Monday — you can't fly with them |
 | Rafting wetsuit rental | $5 | Optional; decide closer to the trip |
 | Park entry | ~$11 | **Default: pay at the gate** — 2 vehicles × 2 parks × $35 = $140 split 13 ways. Two ATB passes would be $160, so the pass only wins if someone already owns one. **Each $35 is a 7-day pass**, so Saturday's Grand Teton fee also covers Sunday |
 | Gas / transport | $30–60 | Split across vehicles |
@@ -122,12 +83,3 @@ Historical, for reference only — headcount is locked at 13 and the number is n
 | **Tram tickets (Sun)** | Jacksonhole.com, online | — | ~$55/person | 🆕 **Open** — buy by 9/7. Tram confirmed running May 16 – Oct 4 |
 
 ---
-
-## Payment Timeline
-
-| Date | Action |
-|---|---|
-| **8/10** ✅ | Drewes posted the final number: **$784.14/man**, lodging + tours combined |
-| **8/11** ✅ | Evan, Shrub, Hasney, and Ciolino paid in full |
-| **8/15** ✅ | **Everyone is paid up — Drewes has all $10,193.82.** The Gunter $250 question closed with it |
-| On the trip | Cash for guide tips (~$20–40) and the cash-only spots; everything else is per-man on the ground |
