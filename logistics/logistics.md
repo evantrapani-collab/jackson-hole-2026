@@ -204,59 +204,8 @@
 
 ## Pre-Trip Checklist
 
-> In chronological order — work top to bottom.
-
-### Now — Urgent (August) — **one live item left: the RMR call, due 8/22**
-- [x] Airbnb booked
-- [x] Rafting / van booked
-- [x] Book flights
-- [x] Send $500 deposit to @DrewesPT on Venmo
-- [x] Headcount locked at 13 (Dan Fulham confirmed)
-- [x] 2 SUVs booked (Jason Hardie + Joe Schick)
-- [x] **Decided: 2 rental cars is enough — no 3rd vehicle** (soft-sided bags recommended for the airport-transfer days)
-- [x] ✅ **Explorer 3rd row — decided: not verifying in advance.** We learn the seat count at the JAC counter Thursday and handle it there. Counter plan written up under *Getting Around* — the one case that doesn't self-solve is the park days
-- [x] Friday dinner venue — ✅ locked: the house (the 6/30 booking fence passed with no reservation, so the default holds — see `/dining`). Menu still open, see Aug → Sep 10
-- [ ] **The RMR call** *(Owner: Drewes — guest of record — by 8/22)*: ✅ check-in answered (**4 PM**); still open are **checkout time**, a rollaway/cot for Ciolino, and the grill/propane. Each has a default that holds if the call never happens
-
-### Now — 💵 money: ✅ done
-- [x] **$784.14/man — paid by all 13.** Covers lodging + van tour + rafting. Nothing left to send; see `/budget`
-- [x] ✅ **Cowboy Steakhouse / Snake River Grill — window opened 8/17 and closed. Nobody called, so the default fired: the house steak nights stand.** That was already the crew's decision; this just makes it final. No further action, and no 13-top sit-down on the schedule
-
-### August → Sep 10
-- [x] Room/bed assignments — ✅ decided: **picked on arrival**, not pre-assigned
-- [ ] **Ciolino packs an air mattress + pump** *(Owner: Ciolino — unconditional)*. The RMR rollaway question is an upgrade on this, not a substitute for it; 6 beds can't cover 13 and there's no big-box store in Jackson
-- [ ] **Grill + propane** — RMR on the phone, then eyeball it yourself Thursday at check-in. Dead tank → $25 exchange at Smith's; charcoal → 2 bags + a chimney; no grill → reverse-sear the ribeyes in the oven
-- [ ] Rafting **late-cancel rule** locked **by 9/10** (7-day refund cutoff) — the per-person number is settled ($784.14 all-in, collected up front), so what's left is who eats a drop-out's cost
-- [ ] **Friday dinner menu** — venue's locked (the house), but nobody's picked the food. Fajita/taco bar vs. one-pot — decide before handing Psilos a list; **defaults to the fajita bar** (its leftovers are Saturday's cooler lunch)
-- [ ] Groceries *(Owner: Chris Psilos)* — pick run vs. pre-stock + call the Smith's butcher to lock 13 ribeyes + full list (ice, paper goods, coffee, drinks, **bear spray on the same bill**) — see `/dining`
-- [ ] Sunday dinner — **default: early Dornan's (~5 PM)**, backup the house; only action is confirming fall hours the week before. Void if steak night moves to Sunday
-- [ ] **Steak night: Saturday (LSU) or Sunday (Saints)?** — doesn't change the grocery list, only the night. **Default: Saturday**, and if it moves, Saturday drops to the house off grocery stock. See `/dining`
-- [ ] **Grill captain — default: Psilos** (he owns the meat). Two batches of ribeyes, hold the first in a 200°F oven
-- [ ] **Sunday Saints venue — default: the house cookout**; breweries (Snake River, Roadhouse) are the upgrade if the Thu/Fri recon likes them
-
-### 1–2 Weeks Before
-- [x] ✅ **Evening DFW→JAC nonstop — confirmed it exists:** AA flies JAC year-round, **2 nonstops daily**. Just check the exact departure time in the app the week before
-- [ ] **Identify who is NOT on the group itinerary** — they have no group rebooking protection; make sure they know Friday's van tour is past its refund window
-- [ ] Decide travel insurance (yes/no)
-- [ ] **Tram — ✅ operating dates confirmed; just buy the tickets** *(by 9/7)*. JHMR runs the **Aerial Tram May 16 – Oct 4, 2026, 8:30 AM–5 PM**, Corbet's Cabin open — Sunday the 20th is safely inside it. **~$55/person**, buy online. *(The old "is it even running in late September" risk is closed. If nobody buys tickets, Sunday afternoon still defaults to downtown Jackson + the early Dornan's already on the day.)*
-- [x] ✅ **Bear spray — solved, and it costs nobody a stop:** rent 2 canisters at the **Bear Aware kiosk, JAC baggage claim #3** Thursday morning (~$28 each capped, ~$56 total), drop them in the same kiosk's box Monday. Fallback: Smith's/Albertsons both stock it
-- [ ] **All 13 sign the JHWW online waiver** — forward the confirmation email to the group *(and ask Teton Expeditions whether they have one too)*
-- [ ] Decide on wetsuit rentals (weather-dependent)
-- [x] ✅ **Friday lunch — sandwiches on the Thursday grocery list**; Sidewinders next door is the upgrade
-- [ ] Finalize carpool / seat split across the **two** SUVs (3rd vehicle ruled out)
-- [ ] Download offline maps for Yellowstone + the **Shaka Guide "Yellowstone National Park Tour"** audio tour (covers our South-Entrance loop; works offline)
-- [ ] Check Yellowstone road/trail conditions at NPS.gov
-- [ ] Print all confirmations + the Key Contacts table above (no cell service at the parks)
-- [ ] Write down emergency info (St. John's Health, Jackson)
-
-### On Arrival (Thursday)
-- [ ] **At baggage claim: rent 2 bear-spray canisters** at the Bear Aware kiosk (next to carousel #3) while Hardie and Schick are at the rental counter
-- [ ] **Grocery run, 3:00–4:00 PM** — Smith's or Albertsons in Jackson (ribeyes, sides, drinks, ice). This is the block the closed gondola freed up
-- [ ] **Check the grill at check-in** — burner test + heft the propane tank while there's still a day of runway
-- [ ] **Name the two DDs out loud before leaving for downtown** — defaults to Hardie + Schick (the only insured drivers); add authorized drivers at the JAC counter if you want to rotate
-- [ ] Confirm Saturday game plan for Yellowstone timing
-
-### Departure Day (Monday)
-- [ ] Fuel both SUVs the night before or en route (not at the airport lot)
-- [ ] **Return the 2 bear-spray canisters** to the Bear Aware kiosk / after-hours drop box at baggage claim — you can't fly with them
-- [ ] Return both rentals at JAC — build in ~20 min before the 11:47 AM flight
+> 📋 **The checklist lives in one place: [README → Open Items](../README.md#open-items)**, mirrored into the dashboard's **To-Do** tab.
+>
+> It used to be duplicated here in full — 43 items against the README's 40 — which meant two hand-maintained lists that could disagree about the same trip. They now don't, because there's only one.
+>
+> This file keeps the **reference** material the checklist points at: flights and the misconnect playbook, the Friday booking details, vehicles and drive times, park entry, key contacts, and safety.

@@ -183,7 +183,7 @@ Worth knowing, because it changes what you carry and what you wear:
 - Sunday already has a dinner default (early Dornan's) and Monday is a 10:15 AM airport call
 
 **Case for Sunday**
-- Saturday is the longest day of the trip (7 AM roll-out, ~8 hrs of driving/parks) — 13 ribeyes on arrival is real work at the end of it
+- Saturday is the longest day of the trip (**6:15 AM** roll-out, ~5 hrs of driving) — 13 ribeyes on arrival is real work at the end of it
 - Sunday's schedule is genuinely light after the 11 AM game — more time and more hands
 - Steaks become the last-night send-off rather than a post-Yellowstone scramble
 
@@ -211,90 +211,61 @@ Worth knowing, because it changes what you carry and what you wear:
 
 ---
 
-## "10 Must-Eat Spots" — saved list, triaged against our schedule
+## Everything else, triaged honestly
 
-> Pulled from a saved Jackson Hole must-eat list. Our days are tight (Fri booked dawn-to-dusk, Sat is Yellowstone + the LSU game, Sun is the sunrise drive + Saints game), so here's the honest fit on each.
+> Two saved lists (a "10 must-eat spots" roundup and a friend's photo list) plus the group chat's suggestions, merged and sorted by **verdict** rather than by who sent them — they overlapped heavily. Our days are tight: Friday is booked dawn-to-dusk, Saturday is Yellowstone + the LSU game, Sunday is the sunrise drive + Saints game.
 
-**Already on our plan**
-- ✅ **Corbet's Cabin** — waffles at the top of the tram, 10,000+ ft, unreal views. Already slotted for **Sunday afternoon** after the Saints game (walkable from the house at Teton Village).
-- ✅ **Dornan's Pizza & Pasta Co.** — deck pizza with full Teton views in Moose. Already our **Sunday lunch/early-dinner** idea (see above).
-- ◻️ **Million Dollar Cowboy** — we've got the **Cowboy Bar** Thursday night. The downstairs *Steakhouse* was the sit-down option; **its reservation window closed 8/18 unbooked** (below), so it's a walk-in-and-split proposition now, not a group dinner.
+**✅ Already on the plan**
 
-> **No group reservation anywhere — the house steak nights stand.** Expect to **split into 2 tables** at any walk-in; **Snake River Brewing, Roadhouse and Sidewinders** are the three big enough to usually seat all 13 together.
+Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Jackson Drug huckleberry shake (Thu downtown) · Silver Dollar + Million Dollar Cowboy Bar (Thu crawl) · Snake River Brewing (Thu) · Sidewinders (Fri lunch + Sun game) · Cowboy Coffee drive-thru (Fri AM) · whitewater rafting (Fri) · the tram (Sun).
 
-> ### ⏰ **CLOSED — the window opened 8/17 and passed. Nobody called.**
+**👍 Easy adds — no reservation, fit the existing days**
+
+| Spot | When it fits |
+|---|---|
+| **Roadhouse Brewery** | Thursday-crawl alternate; big enough to seat 13. Great happy hour *(Jeremy)* |
+| **The Verge** | Liquor store in front, dive bar in back *(AJAX)*. Crawl flavor, not a dinner |
+| **Pearl Street sloshie** | Quick downtown hit Thursday, alongside the Jackson Drug shake |
+| **D.O.G. / Hand Fire / Pearl Street Bagels / Picnic** | Breakfast-burrito vendors for the early-start stash |
+| **Merry Piglets** | Casual downtown Tex-Mex backup |
+| **The Bunnery** | Monday pre-flight bite only — it's on the square, the wrong way from the Village to JAC. ⚠️ **Not Friday** (see the coffee section) |
+| **Creekside Market** | Sandwiches for the parks — but a **Friday-afternoon pickup**, since nothing opens before a 6:15 AM Saturday roll-out |
+| **Healthy Being** | Smoothies if anyone needs a green reset; not a group stop |
+
+**🥩 Western sit-down — walk-in only now**
+
+> **There is no group reservation on this trip and no way to book one.** The Cowboy Steakhouse / Snake River Grill 30-day window opened and closed unbooked, which was the crew's chosen default. Don't relitigate it on the Sep 10 call.
 >
-> The 30-day line from Sep 17 landed on **8/17–8/18**. Nobody picked up the phone, which was always the most likely outcome and the one the crew had already chosen. **So it's settled: no group reservation anywhere, and the house steak nights stand.** This is now history, not a decision — don't reopen it, and don't let anyone spend the Sep 10 call relitigating it.
->
-> What that leaves, honestly: **there is no sit-down western dinner on this trip.** If the crew decides on the ground that it wants one, the answer is a walk-in split across two tables (Gun Barrel, Snake River Brewing, Roadhouse), not a 13-top. Kept below for the record and for next time:
->
-> - ⚠️ **"Shoulder season" now starts in *October* — September is one of their busier months.** That's straight from the Cowboy Steakhouse, and it undercuts the assumption running through these docs that late September is a quiet walk-in month. It doesn't change anything we've *booked*, but it does mean a 13-top walking into a good restaurant on a Saturday night in September is a worse bet than we'd been treating it as. (Good news for the tram and Dornan's hours, though — a busier September makes both *more* likely to be running full schedules.)
-> - 🏠 **Snake River Grill has a private room** *(Austin's brother-in-law)*. That's the single thing that makes a 13-top easy instead of awkward, and it's the only room anyone's turned up.
->
-> **Outcome: nobody called, and the house steak nights stand.** For next trip: the 30-day line is the whole game, and **Snake River Grill's private room is the reason to call them first** — it's the one thing anyone turned up that makes a 13-top easy instead of awkward.
+> If the crew wants a real western dinner on the ground, **walk in and split across two tables** — and go early, because **"shoulder season" now starts in October and September is one of Jackson's busier months.**
+> - **Gun Barrel Steak & Game House** — the best walk-in western option. *"Elk and bison and Joe Rogan-type meats"* (AJAX)
+> - **Snake River Brewing / Roadhouse / Sidewinders** — the three big enough to usually seat all 13 together
+> - *For next trip:* **Snake River Grill has a private room** (Austin's brother-in-law) — the one thing anyone found that makes a 13-top easy. Call them first, 30 days out.
 
-**Easy adds (low effort, fit the existing days)**
-- **Jackson Drug** — famous huckleberry shake, on the town square. Perfect quick hit **Thursday** while bar-hopping, or any time we're downtown. No reservation, no commitment.
-- **The Bunnery** — fresh pastries/breakfast on the square. Good grab-and-go **Friday morning** coffee/breakfast *on the way to the 7:45 check-in* (the outfitter tells you to eat on the way), or a relaxed Monday pre-flight bite.
-- **Leek's Pizzeria** — casual pizza at Leek's Marina on Jackson Lake, up near Colter Bay (~40 min north, in Grand Teton). Only makes sense if we end up that far north — otherwise Dornan's covers the pizza craving much closer.
-
-**Western steak dinner (alt to the house grill)**
-- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse. **Seconded by AJAX: "elk and bison and Joe Rogan-type meats."** A real sit-down western dinner. With the reservation window closed, this is the **best walk-in western option left** — expect to split into two tables, and go early rather than at 7:30 on a September Saturday. Thursday dinner is the natural slot, or Saturday if steak night moves to Sunday.
-
-**Scenic park dining — aspirational, hard to fit**
-- **Mural Room** (Jackson Lake Lodge) — big windows on Willow Flats + the Tetons; great but it's ~45–60 min north and usually wants a reservation. Tough to wedge in given the booked Fri/Sat/Sun.
-- **Jenny Lake Dining Room** (Jenny Lake Lodge, Grand Teton) — the upscale, jacket-optional special-occasion meal; pricey, reservations required, runs a short fall season. Realistically a "next trip" unless we want one nice dinner and book early.
-
-**Night out with a twist**
-- **Jackson Hole Playhouse** — dinner + a live Western musical/melodrama. Fun for a group, but it eats a whole evening and needs reservations. Our nights are mostly spoken for (Thu bars, Sat/Sun games) — flag it only if we want to trade a bar night for it.
-
-> **Action:** confirm fall hours for any in-park spot before counting on it (Mural Room, Jenny Lake, Leek's). **September is a busy month in Jackson, not a shoulder one** — the real risk is a full restaurant, not a closed one.
-
----
-
-## Friend's Recs (photo list) — triaged against our schedule
-
-> A friend's Jackson Hole list (breakfast/lunch/dinner spots + activities), run through the same honest filter: Friday is booked dawn-to-dusk, Saturday is Yellowstone + the LSU game, Sunday is the sunrise drive + Saints game.
-
-**Already on our plan**
-- ✅ **Jackson Drug** — the Thursday huckleberry-shake stop
-- ✅ **Silver Dollar** (live music) + **Million Dollar Cowboy Bar** (sit on the saddles) — both Thursday bar-crawl stops
-- ✅ **Whitewater rafting the Snake** — booked (JHWW, Friday 1 PM); the less-intense scenic float was already triaged out — no open window
-- ✅ **Tram to the top of the mountain** — Sunday afternoon, with Corbet's waffles at the summit
-- ✅ **Persephone Bakery** / **Snake River Grill** — already in the backup table below (friend confirms Snake River Grill books **months out** — not a spontaneous 13-top)
-- ◻️ **Horseback riding** — already an option in `/activities`; friend loved **Spring Creek Ranch** and says book in advance. Only fits if we trade away a slotted block
-
-**Easy adds (fit the existing days)**
-- **D.O.G.** — friend's burrito pick; added to the breakfast-burrito stash vendor list above
-- **Creekside Market** — "perfect to grab a sandwich before going into Grand Teton" — fits Sunday on the way to/from the wildlife drive, or stock the Saturday Yellowstone cooler if their hours beat the 7 AM roll-out
-- **Pearl Street sloshie** — friend's favorite; quick downtown hit Thursday alongside the Jackson Drug shake
-- **Roadhouse Brewery** — "great happy hour"; downtown, **good beer and solid food** (Jeremy). Thursday-crawl alternate, and one of the two breweries big enough for the whole group at the Saints game
-- **Sidewinders** — *(Jeremy)* at **945 W Broadway**, the west end of Jackson on the Teton Village side of town (~20 min from the house), good food and drinks at a reasonable price, and Guy Fieri shot a show there. **It's next door to the JHWW boathouse** — so we're parked there Friday anyway. ✅ **30+ TVs, 24 taps, open 11:30 AM–9:30 PM daily, no reservations.** That makes it both **Friday's lunch upgrade** and the best-equipped Saints-game room anyone has turned up
-- **The Verge** — *(AJAX)* liquor store in the front, dive bar in the back. Thursday-crawl flavor, not a dinner
-- **Merry Piglets / Hand Fire Pizza** — casual downtown lunch/dinner backups (Hand Fire is already on the burrito-vendor list)
-- **Healthy Being** — smoothies/juices; there if anyone needs a green reset, not a group stop
-- **Shop the square / Spirits & Spice** — see `/activities`; fits the Thursday midday gap or Sunday afternoon
-
-**Friday dinner is the house — decided.** The 13-top candidates (Local, Gather, The Bistro, Figs) are in git history if a future trip wants them.
-
-**Doesn't fit this trip**
-- 🚫 **Jackson Hole Rodeo** — friend's right that it sells out, but the season runs Memorial Day–Labor Day (2026: May 23 – Sep 7). We land Sep 17 — it's not running
-- 🚫 **Saturday Farmers Market** (Town Square, 8 AM–noon) — runs into late September, but our Saturday is Yellowstone 7 AM → ~3 PM, then the LSU game. No window
-- 🚫 **Snow King concert series** — summer series (June–August); over before we arrive
-
----
-
-## Other Jackson Options (if needed)
+**🍽️ Backups, if a plan falls through**
 
 | Spot | Vibe | Notes |
 |---|---|---|
-| **Dornan's Pizza Pasta Co.** | Casual, killer view | Moose, WY; deck pizza with full Teton views; near Schwabacher |
 | **Pica's Mexican Taqueria** | Cheap, legendary | Cash only; tiny; worth the wait |
-| **Snake River Grill** | Upscale | On the square; good for a nicer dinner |
 | **Persephone Bakery** | Breakfast/coffee | Best coffee in town; croissants |
-| **Cowboy Coffee Co.** | Coffee/breakfast | On the town square; early hours; burritos + sandwiches to go |
 | **Nora's Fish Creek Inn** | Diner breakfast | Cash only; iconic Wyoming diner |
 | **Thai Me Up** | Thai | Beloved locals' spot |
+| **Snake River Grill** | Upscale | On the square; books months out |
+
+**🌄 Aspirational — real, but they don't fit**
+
+- **Mural Room** (Jackson Lake Lodge) — Teton windows over Willow Flats; ~45–60 min north, wants a reservation
+- **Jenny Lake Dining Room** — the special-occasion meal; pricey, reservations required, short fall season
+- **Leek's Pizzeria** — Jackson Lake, ~40 min north; Dornan's covers pizza far closer
+- **Jackson Hole Playhouse** — dinner + a Western melodrama; eats a whole evening and needs a booking
+- **Horseback riding** — Spring Creek Ranch, book ahead *(friend rec)*; only fits if we trade away a slotted block
+
+> **Before counting on any in-park spot** (Mural Room, Jenny Lake, Leek's), confirm fall hours. The real risk in September is a **full** restaurant, not a closed one.
+
+**🚫 Not running while we're there**
+
+- **Jackson Hole Rodeo** — season ends Sep 7; we land Sep 17
+- **Town Square Farmers Market** — Saturdays 8 AM–noon, but our Saturday leaves at 6:15 for Yellowstone
+- **Snow King concert series** — June–August; over before we arrive
 
 ---
 
