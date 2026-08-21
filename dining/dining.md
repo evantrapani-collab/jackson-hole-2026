@@ -4,7 +4,7 @@
 
 | Meal | Spot | Day | Notes |
 |---|---|---|---|
-| **Thursday lunch** | **Dornan's (Moose)** 🆕 | Thu | ~12 min from JAC — the arrival stop: pizza, beer, Tetons, acclimate to 6,200 ft before town. ⚠️ **Opens 11:30 AM** — don't roll up at 11:15. *(Drewes's plan, 8/15)* |
+| **Thursday lunch** | **Dornan's (Moose)** 🆕 | Thu | ~12 min from JAC — the arrival stop: pizza, beer, Tetons, acclimate to 6,200 ft before town. ⚠️ **Opens 11:30 AM** — don't roll up at 11:15. *(Drewes's plan)* |
 | Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square. Grab it while you're downtown at the brewery, or Sunday afternoon |
 | Friday coffee | **Cowboy Coffee — the drive-thru** 🆕 | Fri AM | **1007 S US-89, opens 6 AM**, ~2 min from the boathouse and on the route in. Two SUVs, two orders, nobody gets out. **Leave the house 6:45** |
 | ~~Friday breakfast~~ | ~~The Bunnery~~ | ~~Fri AM~~ | 🚫 **Cut from Friday** — it's on the square, the wrong direction, and it's a sit-down bakery. Moved to Monday if anyone's running early |
@@ -143,7 +143,7 @@ Worth knowing, because it changes what you carry and what you wear:
   - Nobody's TV setup is great, but **Roadhouse and Snake River are the best bets** for actually watching the game
 - **Psilos's plan:** run a Thursday/Friday recon pass to check the real TV/seating situation before picking — LSU (the Ole Miss undercard) should be the easier of the two games to place
 - ✅ **Default: the house cookout.** It owns the TV, the full Sunday slate (RedZone and the late window, not just the Saints), needs no reservation and no 13-top anywhere, and doesn't put anyone in a car after an 11 AM kickoff. **Snake River Brewing or Roadhouse are the upgrade** if the recon likes their setup — but if the recon never happens, the day still has an answer
-- 🆕 **Sidewinders — and the recon is essentially pre-answered (8/21).** *(Jeremy, 8/15)* A sports tavern at the west end of town, **945 W Broadway — the same lot we're parked in for six hours on Friday.** The numbers settle the "whose TVs are best" question without anyone driving anywhere: **30+ flat-screens, 24 taps, indoor and outdoor seating, open 11:30 AM–9:30 PM daily.** Every brewery on this list was described as "nobody's TV setup is great." This one is built for it, and it's the closest option in town to the house
+- 🆕 **Sidewinders answers the recon before it happens** *(Jeremy)*. A sports tavern at **945 W Broadway — the same lot we're parked in for six hours on Friday**: **30+ TVs, 24 taps, indoor and outdoor seating, open 11:30 AM–9:30 PM daily.** Every brewery on this list was described as "nobody's TV setup is great." This one is built for it, and it's the closest option in town to the house
   - ⚠️ **No reservations, first come first served.** For 13 on an NFL Sunday that means **get there early**, not at 10:55
   - So the real Sunday choice is no longer *who has the TVs* — it's **house convenience vs. Sidewinders atmosphere.** The house still owns the full slate, zero driving and zero wait; Sidewinders owns the room. Both are fine answers, and Friday's lunch stop is a free look at the place before anyone commits
 - Monday 11:47 AM departure means Sunday night should stay reasonable
@@ -201,7 +201,7 @@ Worth knowing, because it changes what you carry and what you wear:
 
 ## Ribeye Night — the grocery side (night-agnostic)
 
-- **Steaks: start at Albertsons.** Local read (Austin's BIL, 8/15): **Albertsons is usually the one carrying Prime** — go there first for 13 × 24 oz bone-in, and fall back to **Smith's** or **Jackson Whole Grocer** if Albertsons is out of Prime that week. *(The note said "WF"; Jackson has no Whole Foods, and Jackson Whole Grocer is the store that fits — worth a look at the case either way.)* This flips the old "Smith's or Albertsons, whichever" guidance: **call the Albertsons butcher first.**
+- **Steaks: start at Albertsons** — local read (Austin's BIL) is that they're usually the one carrying **Prime**. Fall back to **Smith's** or **Jackson Whole Grocer**. *(Jackson has no Whole Foods.)* **Call the Albertsons butcher first.**
 - **Owner: Chris Psilos** — locks the butcher order and the buy vs. pre-stock method
 - Buy groceries **Thursday on arrival** so you're not scrambling Saturday after Yellowstone
 - **Grill captain — default: Psilos.** He owns the meat and has to be in the kitchen anyway; anybody takes the tongs off him by saying so out loud
@@ -239,7 +239,7 @@ Worth knowing, because it changes what you carry and what you wear:
 - **Leek's Pizzeria** — casual pizza at Leek's Marina on Jackson Lake, up near Colter Bay (~40 min north, in Grand Teton). Only makes sense if we end up that far north — otherwise Dornan's covers the pizza craving much closer.
 
 **Western steak dinner (alt to the house grill)**
-- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse. **Seconded by AJAX (8/15): "elk and bison and Joe Rogan-type meats."** A real sit-down western dinner. With the reservation window closed, this is the **best walk-in western option left** — expect to split into two tables, and go early rather than at 7:30 on a September Saturday. Thursday dinner is the natural slot, or Saturday if steak night moves to Sunday.
+- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse. **Seconded by AJAX: "elk and bison and Joe Rogan-type meats."** A real sit-down western dinner. With the reservation window closed, this is the **best walk-in western option left** — expect to split into two tables, and go early rather than at 7:30 on a September Saturday. Thursday dinner is the natural slot, or Saturday if steak night moves to Sunday.
 
 **Scenic park dining — aspirational, hard to fit**
 - **Mural Room** (Jackson Lake Lodge) — big windows on Willow Flats + the Tetons; great but it's ~45–60 min north and usually wants a reservation. Tough to wedge in given the booked Fri/Sat/Sun.
@@ -248,7 +248,7 @@ Worth knowing, because it changes what you carry and what you wear:
 **Night out with a twist**
 - **Jackson Hole Playhouse** — dinner + a live Western musical/melodrama. Fun for a group, but it eats a whole evening and needs reservations. Our nights are mostly spoken for (Thu bars, Sat/Sun games) — flag it only if we want to trade a bar night for it.
 
-> **Action:** confirm fall hours for any of these before counting on them — Moose and the in-park spots (Dornan's, Mural Room, Jenny Lake, Leek's) can run shortened schedules in late September. Temper that with the 8/15 correction, though: **September is a busy month in Jackson, not a shoulder one** — the real risk is a full restaurant, not a closed one.
+> **Action:** confirm fall hours for any in-park spot before counting on it (Mural Room, Jenny Lake, Leek's). **September is a busy month in Jackson, not a shoulder one** — the real risk is a full restaurant, not a closed one.
 
 ---
 
@@ -268,9 +268,9 @@ Worth knowing, because it changes what you carry and what you wear:
 - **D.O.G.** — friend's burrito pick; added to the breakfast-burrito stash vendor list above
 - **Creekside Market** — "perfect to grab a sandwich before going into Grand Teton" — fits Sunday on the way to/from the wildlife drive, or stock the Saturday Yellowstone cooler if their hours beat the 7 AM roll-out
 - **Pearl Street sloshie** — friend's favorite; quick downtown hit Thursday alongside the Jackson Drug shake
-- **Roadhouse Brewery** — "great happy hour"; downtown, **good beer and solid food** (Jeremy, 8/15). Thursday-crawl alternate, and one of the two breweries big enough for the whole group at the Saints game
-- **Sidewinders** — *(Jeremy, 8/15)* at **945 W Broadway**, the west end of Jackson on the Teton Village side of town (~20 min from the house), good food and drinks at a reasonable price, and Guy Fieri shot a show there. **It's next door to the JHWW boathouse** — so we're parked there Friday anyway. ✅ **Verified 8/21: 30+ TVs, 24 taps, open 11:30 AM–9:30 PM daily, no reservations.** That makes it both **Friday's lunch upgrade** and the best-equipped Saints-game room anyone has turned up
-- **The Verge** — *(AJAX, 8/15)* liquor store in the front, dive bar in the back. Thursday-crawl flavor, not a dinner
+- **Roadhouse Brewery** — "great happy hour"; downtown, **good beer and solid food** (Jeremy). Thursday-crawl alternate, and one of the two breweries big enough for the whole group at the Saints game
+- **Sidewinders** — *(Jeremy)* at **945 W Broadway**, the west end of Jackson on the Teton Village side of town (~20 min from the house), good food and drinks at a reasonable price, and Guy Fieri shot a show there. **It's next door to the JHWW boathouse** — so we're parked there Friday anyway. ✅ **30+ TVs, 24 taps, open 11:30 AM–9:30 PM daily, no reservations.** That makes it both **Friday's lunch upgrade** and the best-equipped Saints-game room anyone has turned up
+- **The Verge** — *(AJAX)* liquor store in the front, dive bar in the back. Thursday-crawl flavor, not a dinner
 - **Merry Piglets / Hand Fire Pizza** — casual downtown lunch/dinner backups (Hand Fire is already on the burrito-vendor list)
 - **Healthy Being** — smoothies/juices; there if anyone needs a green reset, not a group stop
 - **Shop the square / Spirits & Spice** — see `/activities`; fits the Thursday midday gap or Sunday afternoon

@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-08-21, second pass — found at **90**, restored to 100; see the notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-08-21, third pass — found at **94**, restored to 100; see the notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -346,3 +346,21 @@ Maintainer's ledger. These are the claims the plan *depends on* that live outsid
 | DFW→JAC nonstops | 2 daily, year-round | AA app |
 | LSU–Ole Miss | Sat 9/19, 5:30 PM MT, ABC | — |
 | Saints @ Ravens | Sun 9/20, 11:00 AM MT, CBS | — |
+
+---
+
+### 8/21, third pass — cold-eyes read of the README
+
+The previous pass cut the dashboard and left the README untouched. Read cold, the README had become the thing the dashboard just stopped being.
+
+**Found at 94 (−6).**
+
+| # | Cat | Deduction | What was wrong |
+|---|---|---|---|
+| −3 | §7 | **The same settled decision explained in four places** | Measured, not guessed: **bear spray — a solved, zero-effort item — appeared 39 times across 5 files** (README ×9, logistics ×8, itinerary ×5, dining ×1, dashboard ×16), with the full rent-vs-buy rationale written out in the README's Current Status, the 8/21 review section, the Decision Defaults table, *and* twice in Open Items. Moose-Wilson ×37, Sidewinders/lunch ×30. Every copy is a thing that can drift out of sync |
+| −2 | §8 | **A changelog had grown inside the README** | An entire `### 🔎 8/21 review — five things checked against the outside world` section, added by the previous pass, duplicating Decision Defaults and Open Items wholesale. Plus **8 completed `[x]` items still written as full paragraphs** — 6 of them over 200 characters — so ~40 lines of *finished* business sat inside a to-do list. Closed items need one line |
+| −1 | §7 | **Dated parentheticals as permanent furniture** | "(8/20)", "(new 8/21)", "(confirmed 8/15)", "moved in from 7:00 on 8/21", "🆕 Also 8/15" — 22 of them across the markdown. A reader in September does not care when a fact was learned. Attribution (*"Jeremy"*, *"Austin's BIL"*) is worth keeping; the datestamp never was |
+
+**Restored to 100:** the changelog section deleted; completed items collapsed to one line each; settled decisions reduced to one canonical explanation plus short pointers; all 22 datestamps stripped while keeping the names. **README: 32.6KB → 24.1KB (−26%)**, and the same sweep across dining, logistics, itinerary, budget and activities. The dashboard's last dated fragments went with them.
+
+**The rule this pass earns, and it generalises past this repo:** *the cost of a fact is the number of places it is written, not the number of words.* Two passes have now been spent deleting text that a previous pass added in good faith. The discipline that prevents a third is: **when a decision closes, delete its reasoning and keep its outcome.** The reasoning is what git history is for.

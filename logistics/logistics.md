@@ -53,14 +53,14 @@
 - **Airbnb (Montreux House)** — booked ✅
 - ✅ **Paid in full — $784.14/man**, lodging + van tour + rafting combined, collected from all 13. Nothing left to send. [`/budget`](../budget/budget.md)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
-- ✅ **Check-in is 4:00 PM** *(confirmed 8/15)*. That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** Drewes has planted the seed with RMR, but it depends on the cleaning crew and a Wednesday checkout, and **they may charge to lock it in early**. Play it by ear; build the day for 4 PM.
+- ✅ **Check-in is 4:00 PM.** That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** Drewes has planted the seed with RMR, but it depends on the cleaning crew and a Wednesday checkout, and **they may charge to lock it in early**. Play it by ear; build the day for 4 PM.
 - [ ] **Still to confirm on the RMR call** *(Owner: **Drewes**, by **8/22**)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino, and the grill + propane
 
 ---
 
 ## Friday Safari + Rafting — BOOKED ✅
 
-> ✅ **Both confirmations landed 8/20 — and they correct something these docs had wrong.** Friday is **two different outfitters**, not one: the morning safari is **Teton Expeditions**, the afternoon rafting is **Jackson Hole Whitewater**. The good news buried in that: **they operate out of the same building.** One address, all day, no repositioning at lunch.
+> **Friday is two outfitters at one address.** The morning safari is **Teton Expeditions**; the afternoon rafting is **Jackson Hole Whitewater**. Both operate out of the same building — one address, all day, no repositioning at lunch.
 
 | Detail | Info |
 |---|---|
@@ -123,7 +123,7 @@
 
 - **So: if you're at 12 seats, add a third small car at the JAC counter on Thursday.** The corrected drive time makes this *more* clearly right, not less — the "we'll just do a second run" escape hatch costs an hour each time, and Monday morning doesn't have an hour. Avis, Hertz, Enterprise and National all have in-terminal counters at JAC. Ballpark **$400–500 for the 4 days ÷ 13 ≈ $35/person** — noise against a ~$1,200 trip, and it un-pinches the luggage squeeze on both airport legs as a bonus.
 - **Hardie + Schick hit the rental counter before baggage claim** (already the plan) — that's the moment you learn the seat count, and the moment to add the third car. Don't wait until everyone's standing in the lot with bags.
-- ⚠️ **Don't count on quiet-season inventory.** We'd assumed mid-September was shoulder season at JAC; the Cowboy Steakhouse told us (8/15) that **shoulder season now starts in October and September is one of their busier months.** Restaurants aren't rental counters, but it's the same tourist curve — so treat a third car at JAC as *likely* available, not guaranteed. If nothing's on the lot, the fallback is renting from a Jackson agency in town during the Thursday midday window, and the fallback to *that* is a second run on the airport legs plus splitting the park days across two departures.
+- ⚠️ **Don't count on quiet-season inventory.** **Shoulder season now starts in October — September is one of Jackson's busier months.** So treat a third car at JAC as *likely* available, not guaranteed. If nothing's on the lot, the fallback is renting from a Jackson agency in town during the Thursday midday window, and the fallback to *that* is a second run on the airport legs plus splitting the park days across two departures.
 - ✅ **Decided: two SUVs only — no 3rd vehicle.** The crew is fine with the tight fit on the two airport-transfer days (13 guys + bags). Yellowstone day is daypacks only, so two is plenty there. A **cargo carrier** stays on the table only as the fallback if the Explorer's 3rd row doesn't check out.
 - Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze. Same goes for air mattresses — they pack down, but they're cargo.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive. **Saturday is ~230 miles round trip** — start it on a full tank, not a half one
@@ -219,7 +219,7 @@
 - [ ] **The RMR call** *(Owner: Drewes — guest of record — by 8/22)*: ✅ check-in answered (**4 PM**); still open are **checkout time**, a rollaway/cot for Ciolino, and the grill/propane. Each has a default that holds if the call never happens
 
 ### Now — 💵 money: ✅ done
-- [x] **$784.14/man — paid by all 13 (8/15).** Covers lodging + van tour + rafting; Drewes is whole on the VRBO and the outfitter. The Gunter $250 question closed with it. Ledger in `/budget`
+- [x] **$784.14/man — paid by all 13.** Covers lodging + van tour + rafting. Nothing left to send; see `/budget`
 - [x] ✅ **Cowboy Steakhouse / Snake River Grill — window opened 8/17 and closed. Nobody called, so the default fired: the house steak nights stand.** That was already the crew's decision; this just makes it final. No further action, and no 13-top sit-down on the schedule
 
 ### August → Sep 10

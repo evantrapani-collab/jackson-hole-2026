@@ -59,7 +59,7 @@
 | Mammoth Hot Springs | North | 🚫 too far | Colorful travertine terraces; constantly changing formations |
 | Artists' Paintpots | Central | 🚫 too far | Fun, accessible, less crowded |
 
-> **Jeremy Galiano's full route, and where ours diverges.** A frequent-visitor rec came in on 8/15 and it's the best routing advice we've gotten: *South Entrance → left toward Old Faithful → **Grand Prismatic overlook first** → back to Old Faithful for a couple of hours → then north past Grand Prismatic to Emerald Spring → the **canyon waterfalls** → back south to West Thumb.*
+> **Jeremy Galiano's full route, and where ours diverges.** The best routing advice we've gotten, from a frequent visitor: *South Entrance → left toward Old Faithful → **Grand Prismatic overlook first** → back to Old Faithful for a couple of hours → then north past Grand Prismatic to Emerald Spring → the **canyon waterfalls** → back south to West Thumb.*
 >
 > **We've adopted the first half exactly** — the overlook-first ordering and the skip-the-boardwalk tip are now the Saturday plan in `/itinerary`. **We can't take the second half.** Emerald Spring (Norris) and the canyon are both ~1.5–2 hrs *further* north from Old Faithful, and we're on a hard **2:00 PM** turnaround at West Thumb for the LSU game. Jeremy's route is a full day in the park; ours is a half day with a kickoff at the end of it. Everything past Grand Prismatic is next-trip.
 >
@@ -101,6 +101,6 @@
 ## Booking Notes
 
 - [x] Snake River **whitewater** rafting — booked ✅ (**Jackson Hole Whitewater**, "Classic Raft," Friday **1:00–4:30 PM**, 945 W Broadway; see `/logistics`). The *scenic* float is a separate product and there's no open window for it this trip
-- [x] Wildlife guide — covered ✅ by the Friday 8 AM Grand Teton sunrise safari. ⚠️ **It's booked with Teton Expeditions, not JHWW** *(confirmation 8/20 — these docs had it as one combined "JHWW van + boat" booking)*. Half day, **4 hours**, party of 13 confirmed, **check in 7:45 AM** — and it stages from the **same address as the rafting**, so Friday never leaves 945 W Broadway between trips
+- [x] Wildlife guide — covered ✅ by the Friday 8 AM Grand Teton sunrise safari. ⚠️ **It's booked with Teton Expeditions, not JHWW.** Half day, **4 hours**, party of 13 confirmed, **check in 7:45 AM** — and it stages from the **same address as the rafting**, so Friday never leaves 945 W Broadway between trips
 - [ ] **Teton Village tram — ✅ dates confirmed; only the tickets are open.** JHMR runs the Aerial Tram **May 16 – Oct 4, 2026, 8:30 AM–5 PM**, with Corbet's Cabin open at the summit — Sunday Sep 20 is safely inside the season, so the long-running "will it be running?" question is **closed**. No reservation needed to ride, but **buy tickets in advance online at ~$55/person** *(by **9/7**, before anyone flies)*. **If nobody buys tickets, Sunday afternoon still defaults to downtown Jackson plus the early Dornan's dinner already on the day** — the plan loses a highlight, not a block
 - [ ] Fishing guide — only if someone wants to trade away a slotted block (the schedule is full); September is prime season, so book early if so
