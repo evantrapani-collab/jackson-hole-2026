@@ -7,12 +7,13 @@ Tap a link → it opens the place in Google Maps → **Save** → pick
 Boxes marked _(already in your list)_ are the ones visible in your
 current 19 pins — skip those.
 
-**81 places total.**
+**83 places total.**
 
 ## Lodging & Logistics
 
 - [ ] [Montreux House (the Airbnb)](https://www.google.com/maps/search/?api=1&query=3720+Morley+Dr%2C+Teton+Village%2C+WY+83025) _(already in your list)_ — Booked. 5 BR / 6 beds for 13.
-- [ ] [Jackson Hole Airport (JAC)](https://www.google.com/maps/search/?api=1&query=Jackson+Hole+Airport%2C+WY) _(already in your list)_ — Fly in 10:19 AM Thu; depart 11:47 AM Mon. Rental pickup.
+- [ ] [Jackson Hole Airport (JAC)](https://www.google.com/maps/search/?api=1&query=Jackson+Hole+Airport%2C+WY) _(already in your list)_ — Fly in 10:19 AM Thu; depart 11:47 AM Mon. Rental pickup — AND bear-spray rental at the Bear Aware kiosk by baggage claim #3. ~30-35 min to the house (Moose-Wilson shortcut is closed).
+- [ ] [Bear Aware kiosk (JAC baggage claim)](https://www.google.com/maps/search/?api=1&query=Jackson+Hole+Airport%2C+WY) — Bear-spray RENTAL, next to baggage claim #3, staffed 7 days a week Jun-Oct. $16 first 2 days, $4/day after, capped at $28. Rent 2 (one per vehicle) Thursday; drop them in the after-hours box here Monday. You cannot fly with bear spray.
 - [ ] [St. John's Health (hospital)](https://www.google.com/maps/search/?api=1&query=St.+John%27s+Health%2C+625+E+Broadway%2C+Jackson%2C+WY) — Nearest 24-hr ER, ~25 min from the house.
 - [ ] [945 W Broadway (Fri boathouse)](https://www.google.com/maps/search/?api=1&query=945+W+Broadway+Ave%2C+Jackson%2C+WY+83001) — Both Friday trips stage here: Teton Expeditions safari (check in 7:45 AM) and Jackson Hole Whitewater rafting (check in 12:30). Hillside complex, next to Sidewinders. 307-733-1007.
 - [ ] [Smith's Food and Drug](https://www.google.com/maps/search/?api=1&query=Smith%27s+Food+and+Drug%2C+Jackson%2C+WY) — Grocery run on arrival (ribeyes, sides).
@@ -27,11 +28,12 @@ current 19 pins — skip those.
 - [ ] [Million Dollar Cowboy Bar](https://www.google.com/maps/search/?api=1&query=Million+Dollar+Cowboy+Bar%2C+Jackson%2C+WY) — Bar crawl stop 3 — saddle stools.
 - [ ] [Mangy Moose Saloon](https://www.google.com/maps/search/?api=1&query=Mangy+Moose%2C+Teton+Village%2C+WY) — Bar crawl last stop — walkable from the house.
 - [ ] [The Bunnery](https://www.google.com/maps/search/?api=1&query=The+Bunnery%2C+Jackson%2C+WY) — Pastries/coffee on the way to the 8 AM safari.
-- [ ] [Cowboy Coffee Co.](https://www.google.com/maps/search/?api=1&query=Cowboy+Coffee+Co%2C+Jackson%2C+WY) — The must-do coffee stop on the square; ~5 min from the boathouse — to-go, wheels up ~7 AM.
+- [ ] [Cowboy Coffee — DRIVE-THRU](https://www.google.com/maps/search/?api=1&query=1007+S+US-89%2C+Jackson%2C+WY+83001) — THE Friday stop: opens 6 AM, ~2 min from the boathouse, on the route in from Teton Village. Leave the house 6:45.
+- [ ] [Cowboy Coffee Co. (Town Square)](https://www.google.com/maps/search/?api=1&query=Cowboy+Coffee+Co%2C+125+N+Cache+St%2C+Jackson%2C+WY) — The sit-down location, 6 AM-5 PM. ~5 min EAST PAST the boathouse — a backtrack on Friday morning. Use the drive-thru instead.
 - [ ] [Pearl Street Bagels](https://www.google.com/maps/search/?api=1&query=Pearl+Street+Bagels%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
 - [ ] [Picnic](https://www.google.com/maps/search/?api=1&query=Picnic%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
 - [ ] [Cutty's Bar & Grill](https://www.google.com/maps/search/?api=1&query=Cutty%27s+Bar+%26+Grill%2C+Wilson%2C+WY) _(already in your list)_ — Sunday Saints-game option (Hwy 22). Was the Friday lunch pick — now a ~10-min detour each way from the boathouse.
-- [ ] [Dornan's Pizza Pasta Co.](https://www.google.com/maps/search/?api=1&query=Dornan%27s+Pizza+Pasta+Co%2C+Moose%2C+WY) — Deck pizza with full Teton views.
+- [ ] [Dornan's Pizza Pasta Co.](https://www.google.com/maps/search/?api=1&query=Dornan%27s+Pizza+Pasta+Co%2C+Moose%2C+WY) — Deck pizza with full Teton views. Open daily 11:30 AM-7 PM year-round. ~12 min from JAC (Thu arrival lunch); ~35 min from the house (Sun 5 PM dinner).
 - [ ] [Corbet's Cabin (tram summit)](https://www.google.com/maps/search/?api=1&query=Corbet%27s+Cabin%2C+Teton+Village%2C+WY) — Waffles at 10,450 ft, top of the tram.
 - [ ] [Gun Barrel Steak & Game House](https://www.google.com/maps/search/?api=1&query=Gun+Barrel+Steak+and+Game+House%2C+Jackson%2C+WY) — Wild-game steakhouse; Thursday dinner alt.
 - [ ] [Leek's Pizzeria](https://www.google.com/maps/search/?api=1&query=Leek%27s+Pizzeria%2C+Grand+Teton+National+Park%2C+WY) — Jackson Lake / Colter Bay; only if that far north.
@@ -72,25 +74,22 @@ current 19 pins — skip those.
 - [ ] [Lupine Meadows Trailhead](https://www.google.com/maps/search/?api=1&query=Lupine+Meadows+Trailhead%2C+Grand+Teton%2C+WY) — Access for Amphitheater Lake.
 - [ ] [String Lake](https://www.google.com/maps/search/?api=1&query=String+Lake%2C+Grand+Teton+National+Park%2C+WY) — Calm paddling; no motors.
 - [ ] [Oxbow Bend](https://www.google.com/maps/search/?api=1&query=Oxbow+Bend%2C+Grand+Teton+National+Park%2C+WY) — Moose/elk + classic Teton reflection.
-- [ ] [Schwabacher Landing](https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing%2C+Grand+Teton+National+Park%2C+WY) — The signature sunrise; first light ~6:40.
+- [ ] [Schwabacher Landing](https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing%2C+Grand+Teton+National+Park%2C+WY) — The signature sunrise. ~45 min from the house (Moose-Wilson is closed); sunrise ~7:07, so LEAVE AT 6:00. Last mile is dirt.
 - [ ] [Mormon Row Historic District](https://www.google.com/maps/search/?api=1&query=Mormon+Row+Historic+District%2C+WY) — Barns + bison against the Tetons.
 - [ ] [Antelope Flats Road](https://www.google.com/maps/search/?api=1&query=Antelope+Flats+Road%2C+Grand+Teton%2C+WY) — Pronghorn, bison, coyotes.
-- [ ] [Moose-Wilson Road](https://www.google.com/maps/search/?api=1&query=Moose-Wilson+Road%2C+Grand+Teton%2C+WY) — Moose and bears; drive slow.
+- [ ] [Moose-Wilson Road](https://www.google.com/maps/search/?api=1&query=Moose-Wilson+Road%2C+Grand+Teton%2C+WY) — 🚫 CLOSED Sep 8 - Nov 15, 2026 (NPS Phase II construction) between the Rockefeller Preserve and Moose. Cut from Sunday's loop — and it's why every park drive now goes the long way through Jackson.
 - [ ] [Jackson Lake Lodge (Willow Flats)](https://www.google.com/maps/search/?api=1&query=Jackson+Lake+Lodge%2C+WY) — Moose hotspot at Willow Flats.
-- [ ] [Jackson Hole Aerial Tram](https://www.google.com/maps/search/?api=1&query=Jackson+Hole+Aerial+Tram%2C+Teton+Village%2C+WY) — Rendezvous Mtn summit; Corbet's waffles up top.
+- [ ] [Jackson Hole Aerial Tram](https://www.google.com/maps/search/?api=1&query=Jackson+Hole+Aerial+Tram%2C+Teton+Village%2C+WY) — ✅ Running May 16-Oct 4, 2026, 8:30-5. Rendezvous Mtn summit (10,450 ft); Corbet's waffles up top. ~$55/person, buy online by 9/7. Walkable from the house.
+- [ ] [Bridger Gondola](https://www.google.com/maps/search/?api=1&query=Bridger+Gondola%2C+Teton+Village%2C+WY) — 🚫 Season ends Sep 13, 2026 — four days before we land. Thursday's lift stop is void; that hour is the grocery run now. The TRAM is the one that's running.
 - [ ] [Colter Bay Village](https://www.google.com/maps/search/?api=1&query=Colter+Bay+Village%2C+Grand+Teton+National+Park%2C+WY) _(already in your list)_ — Jackson Lake; near Leek's Marina.
-
-## Activities
-
-- [ ] [Bridger Gondola (Teton Village)](https://www.google.com/maps/search/?api=1&query=Bridger+Gondola%2C+Teton+Village%2C+WY) — Mid-mountain lift — the Thursday-afternoon ride, distinct from the summit tram.
 
 ## Yellowstone NP
 
-- [ ] [Yellowstone South Entrance](https://www.google.com/maps/search/?api=1&query=Yellowstone+South+Entrance%2C+WY) — ~1 hr from Jackson; our gate (unaffected by 2026 closures).
+- [ ] [Yellowstone South Entrance](https://www.google.com/maps/search/?api=1&query=Yellowstone+South+Entrance%2C+WY) — Our gate — ~1 hr 30 from the house, not 1 hr. Pay $35/vehicle here (7-day pass). Unaffected by the 2026 north-side bridge work.
 - [ ] [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful%2C+Yellowstone+National+Park%2C+WY) _(already in your list)_ — Check predicted eruption (~90-min cycle).
 - [ ] [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring%2C+Yellowstone%2C+WY) _(already in your list)_ — The boardwalk. If you do the overlook, you can skip going close to it.
-- [ ] [Fairy Falls Trailhead (overlook)](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Trailhead%2C+Yellowstone%2C+WY) — Grand Prismatic overlook — do this FIRST, then skip the boardwalk below.
-- [ ] [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — On the way back; quick and worth it.
+- [ ] [Fairy Falls Trailhead (overlook)](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Trailhead%2C+Yellowstone%2C+WY) — Grand Prismatic overlook — do this FIRST, then skip the boardwalk below. It's a HIKE: 0.8 mi each way, ~1 hr for 13 guys. Small lot, fills early.
+- [ ] [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Last stop + cooler lunch at the picnic tables. HARD RULE: wheels rolling south by 2:00 PM — it's ~1 hr 50 back to the house and kickoff is 5:30.
 - [ ] [Emerald Spring (Norris)](https://www.google.com/maps/search/?api=1&query=Emerald+Spring%2C+Norris+Geyser+Basin%2C+Yellowstone%2C+WY) — Jeremy's favorite pool — but it's Norris, well past our 3 PM turnaround.
 - [ ] [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Hottest, most active; Steamboat Geyser. Too far for our Sat window.
 - [ ] [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs%2C+Yellowstone%2C+WY) _(already in your list)_ — Travertine terraces (far north). Too far for our Sat window.

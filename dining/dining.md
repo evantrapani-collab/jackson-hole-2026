@@ -4,11 +4,11 @@
 
 | Meal | Spot | Day | Notes |
 |---|---|---|---|
-| **Thursday lunch** | **Dornan's (Moose)** 🆕 | Thu | ~8 min from JAC — the arrival stop: pizza, beer, Tetons, acclimate to 6,200 ft before town. *(Drewes's plan, 8/15)* |
-| Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square. ⚠️ **Squeezed by the new afternoon plan** — Dornan's → brewery → gondola → 4 PM check-in leaves no downtown-lunch window. Grab it while you're in town at the brewery, or Sunday afternoon |
-| Friday breakfast | The Bunnery | Fri AM | Pastries/coffee grab-and-go — **to-go only**; check-in is 7:45, so the house empties ~7:00 |
-| Friday coffee | Cowboy Coffee Co. | Fri AM | Town square, ~5 min from the 945 W Broadway boathouse — grab it **to-go** on the way to the 7:45 check-in; **a must** |
-| Early-start breakfast | Breakfast burritos (house stash) | Sat/Sun AM | Order a batch to keep at the house; reheat for the 7 AM Yellowstone + 6:30 AM wildlife-drive starts |
+| **Thursday lunch** | **Dornan's (Moose)** 🆕 | Thu | ~12 min from JAC — the arrival stop: pizza, beer, Tetons, acclimate to 6,200 ft before town. ⚠️ **Opens 11:30 AM** — don't roll up at 11:15. *(Drewes's plan, 8/15)* |
+| Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square. Grab it while you're downtown at the brewery, or Sunday afternoon |
+| Friday coffee | **Cowboy Coffee — the drive-thru** 🆕 | Fri AM | **1007 S US-89, opens 6 AM**, ~2 min from the boathouse and on the route in. Two SUVs, two orders, nobody gets out. **Leave the house 6:45** |
+| ~~Friday breakfast~~ | ~~The Bunnery~~ | ~~Fri AM~~ | 🚫 **Cut from Friday** — it's on the square, the wrong direction, and it's a sit-down bakery. Moved to Monday if anyone's running early |
+| Early-start breakfast | Breakfast burritos (house stash) | Sat/Sun AM | Order a batch to keep at the house; reheat for the **6:15 AM** Yellowstone + **6:00 AM** wildlife-drive starts |
 | Thursday bars | Snake River Brewing | Thu night | First stop; craft brewery, great food |
 | Thursday bars | Silver Dollar Bar & Grill | Thu night | Classic western bar; inlaid silver dollar bar top |
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
@@ -18,7 +18,7 @@
 | Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 burritos — see *Monday Breakfast* below |
 | Friday dinner | **House ✅ locked** — menu default: fajita bar | Friday | Venue locked; menu defaults to the fajita/taco bar if nobody picks by 9/10 — see *Friday Dinner Menu* below |
 | Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
-| Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose (confirm fall hours); backup is the house — reasonable night before the 11:47 AM flight |
+| Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose. ✅ **Hours confirmed: 11:30 AM–7 PM daily, year-round.** ⚠️ **~35 min each way now** (Moose-Wilson is closed) — leave the Village by 4:30. Backup is the house |
 | Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
 | Sunday game | **House cookout (default)** | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)**; Snake River Brewing / Roadhouse / Cutty's / Eleanor's are the upgrade if the Thu–Fri recon likes them |
@@ -49,33 +49,39 @@
 - Saddle bar stools, sawdust floor, live country music
 - Has to be done at least once
 
-## Cowboy Coffee Co. (Friday AM) — the must-do coffee stop
+## Cowboy Coffee Co. (Friday AM) — take the drive-thru, not the square
 
-- Local Jackson coffee roaster **right on the town square** (N Cache St) — **~5 minutes from the 945 W Broadway boathouse**, so it's the one stop that fits between leaving the house (~7:00) and the 7:45 safari check-in. To-go
-- Order coffee for the vans **to go**; they also do breakfast sandwiches/burritos if anyone wants food in hand
-- Pairs with — or replaces — the Bunnery stop Friday morning; pick whichever is the cleaner stop on the way out
-- Opens early — confirm exact hours, because the margin is thinner than it looks: **7:45 check-in** means leaving the house ~7:00, and this is the only stop in that hour
+> ✅ **Resolved: they have two locations, and only one of them works on this morning.**
+
+| Location | Hours | The call |
+|---|---|---|
+| **Drive-thru — 1007 S US-89** | **6 AM – 2 PM** | ✅ **This one.** ~2 min from 945 W Broadway, right where WY-22 hits the highway — **you drive past it coming in from Teton Village.** Two SUVs, two orders, nobody gets out of the car |
+| Town Square — 125 N Cache | 6 AM – 5 PM | ❌ Not Friday. It's ~5 min **east past** the boathouse, so it's a backtrack, and 13 guys queuing indoors at 7:15 is exactly how a 7:45 check-in slips |
+
+- **Leave the house ~6:45**, not 7:00. Village → boathouse is ~20 min; a 7:00 departure leaves ~25 minutes of slack for two vehicles, a coffee order and 13 guys. Fifteen minutes earlier is free
+- They do breakfast sandwiches and burritos too, if anyone wants food in hand for a 4-hour stand-around-in-the-cold safari
+- **The Bunnery is off Friday.** It's on the square (same backtrack) and it's a sit-down bakery. It's a fine **Monday** pre-flight bite if the group is running early — nothing more
 
 ## Breakfast Burritos for the Early Starts — house stash
 
-The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:30 AM** sunrise wildlife drive) don't leave time to cook or sit down. Plan: **have a batch of breakfast burritos already in the fridge** so guys can grab-heat-and-go in the dark.
+The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday 6:00 AM** sunrise wildlife drive — both moved earlier once the real drive times got checked) don't leave time to cook or sit down. Plan: **have a batch of breakfast burritos already in the fridge** so guys can grab-heat-and-go in the dark.
 
 - **Where:** Cowboy Coffee, Pearl Street Bagels, Picnic, D.O.G. ("miss these burritos" — a friend's rec), or Hand Fire all do solid breakfast burritos in/near Jackson — order a bulk batch (**plan ~1.5 per guy ≈ 18–20** for 13)
 - **When to get them:** easiest is a **pickup Friday afternoon/evening** (after rafting) so they're in the fridge before Saturday's alarm; or buy Thursday on the grocery run and freeze
 - **Delivery caveat:** restaurant delivery (DoorDash/Uber Eats) into **Teton Village** is thin — **call ahead and pick up** rather than counting on same-day delivery to the house
 - **Reheat:** wrap in foil → oven, or microwave; stash hot sauce/salsa at the house. Keep a few frozen as backup for Sunday
-- Cheap insurance against 13 hungry guys and a 6:30 AM departure with nothing open
+- Cheap insurance against 13 hungry guys and a 6 AM departure with nothing open. **The earlier start times make this stash load-bearing, not optional** — there is no coffee shop open at 6:00 on the road to Schwabacher
 
 ## Saturday Lunch — pack it
 
-> The one meal slot on this trip that never got an answer. Saturday is the tightest day: out at 7 AM, back by ~3 PM, with ~3 hours of driving inside that window. Lunch has to cost 20 minutes, not 60.
+> The one meal slot on this trip that never got an answer. Saturday is the tightest day: out at **6:15 AM**, home ~3:50 PM, with **~5 hours** of driving inside that window (the old docs said 3 — see the corrected clock in [`/itinerary`](../itinerary/itinerary.md)). Lunch has to cost 30 minutes, not 60.
 
 **Why not eat in the park:** the Old Faithful complex is the only real food between the South Entrance and the turnaround. At noon, in a group of 13, that's a line, a scramble for seats, and easily 45 minutes — spent at the exact hour you should be moving toward Grand Prismatic. It also costs park-concession prices for cafeteria food.
 
 **The plan: a cooler lunch, built Friday night.**
 - **Friday's dinner is the source** — a fajita/taco bar rolls straight into wraps; a one-pot doesn't, so if the menu lands on jambalaya/pasta, buy sandwich stuff on the Thursday grocery run instead
-- **Or grab-and-go:** **Creekside Market** in Jackson does exactly this (sandwiches for the park), but confirm they open early enough to beat a 7 AM roll-out — otherwise it's a Friday-afternoon stop alongside the burrito pickup
-- **Where to eat it:** **West Thumb** — it's the last stop on the way back, it's on Yellowstone Lake, and there are picnic tables. Best lunch view of the trip and it costs nothing
+- **Or grab-and-go:** **Creekside Market** in Jackson does exactly this (sandwiches for the park) — but **nothing in Jackson opens before a 6:15 AM roll-out**, so this is a **Friday-afternoon pickup** alongside the burritos, not a Saturday-morning stop. Don't plan a detour you can't make
+- **Where to eat it:** **West Thumb** — it's the last stop on the way back, it's on Yellowstone Lake, and there are picnic tables. Best lunch view of the trip and it costs nothing. 🕐 **Eat fast: wheels roll south at 2:00 PM sharp** — that's the number the 5:30 kickoff depends on
 - **Cooler goes in the Explorer** — it's already on the packing list; ice is already on the grocery list
 - ⚠️ **Store food properly in Yellowstone** — it's bear country and food storage is regulated. Cooler stays in the vehicle, never on a picnic table unattended
 
@@ -104,12 +110,13 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 
 ## Dornan's Pizza Pasta Co. (Moose) — the pizza + view spot
 
-- In **Moose, WY**, right at the Grand Teton park boundary on the Snake River — **~25 min from Teton Village**, basically next to Schwabacher Landing
+- In **Moose, WY**, right at the Grand Teton park boundary on the Snake River — **~35 min from Teton Village** (the ~25-min Moose-Wilson shortcut is closed until Nov 15), basically next to Schwabacher Landing
 - The draw is the **upstairs deck**: pizza, pasta, and beer with an unobstructed, straight-on view of the Tetons — one of the best casual views in the valley
 - Genuinely casual — boots, no reservations, big-group friendly; pair it with the adjacent **Dornan's Wine Shoppe** (deep list, surprisingly good)
-- **Best fit:** now **two** slots are in play — **(1) Thursday arrival lunch**, since it's ~8 min from JAC and check-in isn't until 4 PM (Drewes's plan), and **(2) Sunday lunch/early dinner** after the morning wildlife drive, when you're already on that side of the park. ⚠️ **Doing both means eating here twice** — fine if that's the call, but if Thursday happens, re-pick Sunday's dinner deliberately rather than by accident
-- Confirm fall hours before you go (Moose can run shorter fall schedules — though September is a busy month here, so a full schedule is likelier)
-- **~8 minutes from JAC**, in the opposite direction from town — which is what makes it a candidate for the Thursday arrival stop, not just Sunday
+- **Best fit:** **two** slots are in play — **(1) Thursday arrival lunch**, since it's ~12 min from JAC and check-in isn't until 4 PM (Drewes's plan), and **(2) Sunday early dinner** after the game. ⚠️ **Doing both means eating here twice** — fine if that's the call, but decide it on purpose. It's the best casual view in the valley and nobody has ever complained about a second round
+- ✅ **Hours confirmed — open daily 11:30 AM–7:00 PM, year-round.** Two consequences: **Thursday can't arrive before 11:30** (the old clock had us pulling in at 11:15), and **Sunday's ~5 PM default is safe** with margin. The long-standing "confirm fall hours" worry is down to a courtesy call the week before
+- **~12 minutes from JAC**, in the opposite direction from town — which is what makes it the Thursday arrival stop
+- ⚠️ **From the house it's ~35 min each way, not ~25.** The Moose-Wilson Road — the short hop from Teton Village to Moose — is **closed Sept 8 – Nov 15, 2026**, so Sunday's dinner is a ~70-minute round trip on top of the meal. Leave the Village by 4:30 for a 5 PM table
 
 ## Sunday Saints Game — Cutty's / Eleanor's / a Brewery / House Cookout
 
@@ -197,18 +204,20 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 **Already on our plan**
 - ✅ **Corbet's Cabin** — waffles at the top of the tram, 10,000+ ft, unreal views. Already slotted for **Sunday afternoon** after the Saints game (walkable from the house at Teton Village).
 - ✅ **Dornan's Pizza & Pasta Co.** — deck pizza with full Teton views in Moose. Already our **Sunday lunch/early-dinner** idea (see above).
-- ◻️ **Million Dollar Cowboy** — we've got the **Cowboy Bar** Thursday night. The downstairs *Steakhouse* is a sit-down option if anyone wants a western dinner instead of the house ribeyes.
+- ◻️ **Million Dollar Cowboy** — we've got the **Cowboy Bar** Thursday night. The downstairs *Steakhouse* was the sit-down option; **its reservation window closed 8/18 unbooked** (below), so it's a walk-in-and-split proposition now, not a group dinner.
 
 > **Reservations call (group chat, 8/11):** the Cowboy Steakhouse and Snake River Grill only take reservations **~30 days out**; as of 8/11 we're **37 days out** — a week too early to even try. Chris D. is fine passing on chasing a group reservation and sticking with house steak nights + casual spots on the fly. Practical effect: expect **splitting into 2 tables/groups** at any unreserved casual spot — Austin flags this as the norm for our size; **Snake River Brewing and Roadhouse Brewery are the two big enough that the full group can typically walk in and get seated together.**
 
-> ### ⏰ The window opens **8/17** — and two things changed the math
+> ### ⏰ **CLOSED — the window opened 8/17 and passed. Nobody called.**
 >
-> The 30-day line from Sep 17 lands on **8/17–8/18**. That's the week the phone works for our dates, and after it passes the option closes on its own.
+> The 30-day line from Sep 17 landed on **8/17–8/18**. Nobody picked up the phone, which was always the most likely outcome and the one the crew had already chosen. **So it's settled: no group reservation anywhere, and the house steak nights stand.** This is now history, not a decision — don't reopen it, and don't let anyone spend the Sep 10 call relitigating it.
+>
+> What that leaves, honestly: **there is no sit-down western dinner on this trip.** If the crew decides on the ground that it wants one, the answer is a walk-in split across two tables (Gun Barrel, Snake River Brewing, Roadhouse), not a 13-top. Kept below for the record and for next time:
 >
 > - ⚠️ **"Shoulder season" now starts in *October* — September is one of their busier months.** That's straight from the Cowboy Steakhouse, and it undercuts the assumption running through these docs that late September is a quiet walk-in month. It doesn't change anything we've *booked*, but it does mean a 13-top walking into a good restaurant on a Saturday night in September is a worse bet than we'd been treating it as. (Good news for the tram and Dornan's hours, though — a busier September makes both *more* likely to be running full schedules.)
 > - 🏠 **Snake River Grill has a private room** *(Austin's brother-in-law)*. That's the single thing that makes a 13-top easy instead of awkward, and it's the only room anyone's turned up.
 >
-> **Default: nobody calls, and the house steak nights stand** — that's already the crew's decision and it needs no action. But if anyone wants one real western sit-down (Thursday dinner, or the Saturday replacement if steak night moves to Sunday), **8/17 is the week to call**, and Snake River Grill's room is the reason to call them first.
+> **Outcome: nobody called, and the house steak nights stand.** For next trip: the 30-day line is the whole game, and **Snake River Grill's private room is the reason to call them first** — it's the one thing anyone turned up that makes a 13-top easy instead of awkward.
 
 **Easy adds (low effort, fit the existing days)**
 - **Jackson Drug** — famous huckleberry shake, on the town square. Perfect quick hit **Thursday** while bar-hopping, or any time we're downtown. No reservation, no commitment.
@@ -216,7 +225,7 @@ The two killer wake-ups (**Saturday 7 AM** roll-out for Yellowstone, **Sunday 6:
 - **Leek's Pizzeria** — casual pizza at Leek's Marina on Jackson Lake, up near Colter Bay (~40 min north, in Grand Teton). Only makes sense if we end up that far north — otherwise Dornan's covers the pizza craving much closer.
 
 **Western steak dinner (alt to the house grill)**
-- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse. **Seconded by AJAX (8/15): "elk and bison and Joe Rogan-type meats."** A real sit-down western dinner. Note: the 24 oz ribeye grill at the house already owns one night (Saturday by default), so Gun Barrel would be a **Thursday** dinner swap — or the Saturday replacement if steak night moves to Sunday, in which case it needs a 13-top reservation.
+- **Gun Barrel Steak & Game House** — classic Jackson wild-game/steakhouse. **Seconded by AJAX (8/15): "elk and bison and Joe Rogan-type meats."** A real sit-down western dinner. With the reservation window closed, this is the **best walk-in western option left** — expect to split into two tables, and go early rather than at 7:30 on a September Saturday. Thursday dinner is the natural slot, or Saturday if steak night moves to Sunday.
 
 **Scenic park dining — aspirational, hard to fit**
 - **Mural Room** (Jackson Lake Lodge) — big windows on Willow Flats + the Tetons; great but it's ~45–60 min north and usually wants a reservation. Tough to wedge in given the booked Fri/Sat/Sun.
@@ -287,8 +296,9 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 
 - **Friday — the house ✅ locked (6/30 fence passed).** After a dawn-to-dusk van tour + rafting day it's a low-key house dinner off the grocery stock. The decision rule was: book **Local** or **Gather** by **6/30** if the crew wanted the 13-top; no booking landed by the fence, so the house *is* the plan and nobody scrambles for a peak-fall table. (The candidate list below stays for reference/next trip.)
 - ⚠️ **Sunday dinner is contingent on the steak-night call above** — if the ribeyes move to Sunday, this default is void and **Saturday drops to the house off grocery stock** (see *Steak Night*). Both branches have a dinner; neither needs a booking.
-- **Sunday — early Dornan's (default), ~5 PM.** Pizza + the Teton view to close the last full day; **backup: the house.** Still confirm Dornan's hours the week before — but note that **September is a busy month here, not a shoulder one** (Cowboy Steakhouse, 8/15), so a full fall schedule is the likelier outcome. Monday's 11:47 AM flight wants a reasonable night.
-  - ⚠️ **If Dornan's becomes the Thursday arrival stop** (Drewes's idea — it's 8 min from JAC), decide whether it still owns Sunday or whether Sunday moves to the house / a Jackson spot.
+- **Sunday — early Dornan's (default), ~5 PM.** Pizza + the Teton view to close the last full day; **backup: the house.** ✅ **Hours confirmed: 11:30 AM–7 PM daily, year-round** — the old "will they even be open in the fall" question is closed. Monday's 11:47 AM flight wants a reasonable night, and a 5 PM sitting gets everyone home by 7:15.
+  - ⚠️ **Budget ~35 min each way** — the Moose-Wilson shortcut is closed until Nov 15, so leave the Village by 4:30.
+  - ⚠️ **Thursday's arrival stop is also Dornan's.** That's eating here twice. It's the best casual view in the valley so that's a defensible call — just make it deliberately, and know the alternative is the house or a Jackson spot.
 
 > **Cash:** a couple of these (Pica's, Nora's) are cash-only, and Friday's guide tips want cash too — hit an ATM.
 
@@ -316,7 +326,7 @@ Friend's dinner list, sized against 13 guys — all want advance reservations:
 There's no full-size grocery in Teton Village, so the alternative to driving into Jackson is delivery. For **13 guys**, the smart play is a **hybrid**: pre-stock the bulk so the house is loaded on arrival, call the butcher to lock the ribeyes, and keep an app on standby for mid-trip restocks.
 
 **Tier 1 — Pre-arrival stocking (recommended for the group)**
-Shoppers fill the fridge *before you walk in* — and with **check-in confirmed at 4:00 PM** and the afternoon now spoken for (Dornan's → brewery → gondola), this is the option that makes Thursday work without anyone pushing a cart. **This is the recommended play now, not just an option.**
+Shoppers fill the fridge *before you walk in*. With **check-in confirmed at 4:00 PM**, this buys back the 3:00–4:00 errand hour and gets 13 guys to the house early instead of standing in a checkout line. **Still the recommended play** — it just isn't load-bearing any more now that the hour exists.
 - **Jackson Hole Grocery Delivery (Snap Pea)** — built for vacation rentals; works with local property managers to stock before arrival; curated "vacation-ready" packages to speed up the list.
 - **Mountains of Groceries** — full personal-shopper service. Pricing: **$45/delivery + 30% of the food bill + 8% processing fee + sales tax** (the 30% adds up on a 13-person haul — price it first).
 - **RMR concierge** — our property manager (Rendezvous Mountain Rentals). No published grocery service, but they handle pre-arrival coordination and paid add-ons; a manager letting a shopper in early is exactly how pre-stock works. Ask directly: **(307) 739-9050 / lodging@rmrentals.com**.
@@ -327,4 +337,6 @@ Shoppers fill the fridge *before you walk in* — and with **check-in confirmed 
 **Tier 3 — In-person (still the move for the steaks)**
 - ⚠️ Delivery apps pull from shelf stock, so **13 × 24 oz bone-in ribeyes is risky to order via Instacart** — you can't guarantee a butcher cuts that volume. **Call the Smith's butcher counter ahead**, pick the steaks up in person (or have them set aside), and let delivery handle the bulky, low-risk stuff.
 
-> **Bottom line — Psilos owns the call:** pre-order a pre-stock (Snap Pea or Mountains of Groceries) for bulk + drinks, call the Smith's butcher to lock the ribeyes, keep Instacart as the mid-trip restock button. Frees up the tight Thursday window (bear spray + downtown lunch + Jackson Drug shake).
+> **Bottom line — Psilos owns the call:** pre-order a pre-stock (Snap Pea or Mountains of Groceries) for bulk + drinks, call the butcher to lock the ribeyes, keep Instacart as the mid-trip restock button.
+>
+> 🆕 **Thursday now has a real grocery block — 3:00–4:00 PM.** The closed gondola freed the hour, and **bear spray moved off this run entirely** (it's a rental at the JAC kiosk now — see [`/logistics`](../logistics/logistics.md#safety--emergency)). So the pre-stock is no longer *required* to make Thursday work; it's just the better play. If you pre-stock, that hour shrinks to ice and drinks and everyone gets to the house early.

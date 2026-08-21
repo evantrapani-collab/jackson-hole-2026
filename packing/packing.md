@@ -16,7 +16,7 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 
 ### Mid Layers
 - [ ] Fleece or mid-weight insulating jacket
-- [ ] Down or synthetic puffy jacket — essential; the Sunday 6:30 AM wildlife drive and Saturday 7 AM Yellowstone start will be in the 30s
+- [ ] Down or synthetic puffy jacket — **essential**; the **Sunday 6:00 AM** wildlife drive and **Saturday 6:15 AM** Yellowstone start will be in the 30s, in the dark, standing still at a riverbank
 
 ### Outer Layer
 - [ ] Waterproof rain jacket (hardshell or softshell) — must-have; afternoon thunderstorms are common
@@ -25,7 +25,7 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 - [ ] Hiking pants (zip-off optional but useful)
 - [ ] Quick-dry shorts (1–2 pairs)
 - [ ] Moisture-wicking t-shirts (3–4)
-- [ ] Hiking boots (broken in — do NOT bring new boots)
+- [ ] Hiking boots (broken in — do NOT bring new boots). **You will actually walk:** the Grand Prismatic overlook is a **1.6-mile round trip** on Saturday, plus the Upper Geyser Basin loop
 - [ ] Camp sandals / flip-flops for evenings
 
 ### Town / Evening
@@ -46,7 +46,7 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 ### Day Hiking
 - [ ] Daypack (20–30L)
 - [ ] Trekking poles (optional but helpful on longer hikes)
-- [ ] Headlamp + extra batteries
+- [ ] **Headlamp** + extra batteries — not optional now: Sunday means setting up at Schwabacher **before** the ~7:07 sunrise, on a dirt path, in the dark
 - [ ] Reusable water bottles or hydration reservoir (3L+ capacity for long hikes)
 - [ ] Water filter or purification tabs (for backcountry water)
 
@@ -56,7 +56,7 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 - [ ] Camera + telephoto lens if serious about wildlife photography
 
 ### Safety & Health
-- [ ] **Bear spray** — handled at the group level: buying **2+ canisters in Jackson on Thursday** (one per vehicle, ~$50 each); can't fly with it. See `/logistics`
+- [ ] **Bear spray** — ✅ handled at the group level, and it's now a **rental, not a purchase**: 2 canisters from the **Bear Aware kiosk at JAC baggage claim #3** on arrival (~$28 each capped), returned to the same kiosk Monday. **Don't bring your own — you can't fly with it.** See `/logistics`
 - [ ] First aid kit
 - [ ] Moleskin / blister treatment
 - [ ] Sunscreen (SPF 50+) — altitude sun is intense
@@ -86,6 +86,7 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 - [ ] Printed hotel/lodging confirmations (cell service is unreliable)
 - [ ] Activity booking confirmations — **two separate ones for Friday**: Teton Expeditions (8 AM safari) and Jackson Hole Whitewater (1 PM raft), both at 945 W Broadway
 - [ ] **Friday rafting waiver — signed online before you fly.** JHWW requires it from every party member; the confirmation email is forwardable
+- [ ] **Sunday tram ticket** (~$55) — bought online in advance; the tram runs May 16–Oct 4, so Sunday is safely in season
 - [ ] Travel insurance info (decide if you're getting it)
 - [ ] Emergency contacts written down — incl. **St. John's Health, Jackson** (nearest ER)
 - [ ] Cash — Friday guide tips + a couple cash-only spots (Pica's, Nora's)
@@ -94,7 +95,7 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 
 ## Notes
 
-- **Bear spray:** Do not pack in carry-on or checked luggage (FAA prohibited). The group buys canisters in Jackson on arrival Thursday — don't bring your own.
+- **Bear spray:** Do not pack in carry-on or checked luggage (FAA prohibited — and that's true going home too, which is exactly why we rent). The group picks up 2 rentals at the **Bear Aware kiosk in JAC baggage claim** on arrival Thursday and drops them back there Monday — don't bring your own, don't buy your own.
 - **Layers > warm clothes:** A puffy + rain jacket beats a single heavy coat for flexibility.
 - **Friday is the day that tests the layers.** Teton Expeditions says it outright: dress in layers, because the van stops and everyone gets out to use the spotting scope at 8 AM. Then you're on the water by 1 PM — so pack a **dry set of clothes for the afternoon** and remember the boat requires **shoes that attach to your feet** (no flip-flops). Binoculars earn their keep on this morning.
 - **Skip the umbrella:** Useless in mountain wind; a hood is always better.
