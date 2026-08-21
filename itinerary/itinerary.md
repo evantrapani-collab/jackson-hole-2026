@@ -96,7 +96,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 > | South Entrance → Old Faithful | ~30 min | **~1 hr 15** — it's **39 miles** at 45 mph |
 > | Old Faithful → the house | ~1 hr 30 | **~2 hrs 15** |
 >
-> Run the old numbers and a 7:00 AM departure gets you home at 3:00. Run the real ones and it gets you home at **4:35** — 55 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. That's the failure mode. **Two fixes, both cheap: leave at 6:15, and put a hard time on the turnaround.**
+> A 7:00 AM departure on these numbers gets you home at **4:35** — 55 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. **So: leave at 6:15, and hold a hard turnaround.**
 
 - **Leave at 6:15 AM** — not 7:00. It's ~1 hr 30 to the South Entrance from Teton Village, plus a few minutes at the gate
   - *Grab-and-go breakfast:* reheat the **breakfast-burrito stash** from the fridge (picked up Friday) — no time to cook, and nothing is open

@@ -94,173 +94,65 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 ## Scorecard
 
-| Category | Points | 6/12 baseline | After 6/12 decisions | 8/4 re-grade | 8/15 found | 8/15 after | 8/20 found | 8/20 after | **8/21 found** | **8/21 after** |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1. Bookings & critical path | 20 | 18 | 20 | 20 | 17 | 20 | 19 | 20 | **17** | **20** |
-| 2. Schedule feasibility | 15 | 14 | 15 | 15 | 15 | 15 | 14 | 15 | **8** | **15** |
-| 3. Risk, safety & contingency | 15 | 14 | 15 | 15 | 13 | 15 | 15 | 15 | **15** | **15** |
-| 4. Meals | 12 | 10 | 12 | 12 | 11 | 12 | 11 | 12 | **12** | **12** |
-| 5. Money | 12 | 11 | 12 | 12 | 9 | 12 | 12 | 12 | **12** | **12** |
-| 6. Group coordination | 10 | 9 | 9 | 10 | 7 | 10 | 10 | 10 | **9** | **10** |
-| 7. Three layers in sync | 10 | 9 | 10 | 10 | 7 | 10 | 10 | 10 | **10** | **10** |
-| 8. Dashboard usability | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | **6** | **6** |
-| **Total** | **100** | **91** | **99** | **100** | **85** | **100** | **97** | **100** | **89** | **100** |
+Current standing, and where the three 8/21 passes found gaps. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history.
 
-### What the baseline lost points for → what changed
+| Category | Points | 8/21 #1 | 8/21 #2 | 8/21 #3 | **Now** |
+|---|---|---|---|---|---|
+| 1. Bookings & critical path | 20 | 17 | 19 | 20 | **20** |
+| 2. Schedule feasibility | 15 | 8 | 15 | 15 | **15** |
+| 3. Risk, safety & contingency | 15 | 15 | 13 | 15 | **15** |
+| 4. Meals | 12 | 12 | 8 | 12 | **12** |
+| 5. Money | 12 | 12 | 12 | 12 | **12** |
+| 6. Group coordination | 10 | 9 | 10 | 10 | **10** |
+| 7. Three layers in sync | 10 | 10 | 10 | 6 | **10** |
+| 8. Dashboard usability | 6 | 6 | 3 | 4 | **6** |
+| **Total** | **100** | **89** | **90** | **94** | **100** |
 
-- **Meals (−2):** Friday and Sunday dinners were "TBD" with no default. → **Defaults decided**: Friday = house (book Local/Gather by **6/30** only if the crew wants the 13-top; after that the house *is* the plan). Sunday = early Dornan's ~5 PM, backup the house.
-- **Bookings (−1 recovered):** the Friday 13-top had no decision rule or expiry — now it has the 6/30 fence and a fallback that holds with zero action.
-- **Schedule (−1):** Monday had no house-exit time and checkout was never on the confirm list. → Out-by-~9:45 AM added; the host ask now covers check-in **and** checkout.
-- **Risk (−1):** no printable contacts card; weather fallback was just "town." → Key Contacts table added to `/logistics` + dashboard; National Museum of Wildlife Art named as the indoor scrub-day move.
-- **Money (−1):** no all-in number. → ≈ **$1,150–1,400 + flights** roll-up added to `/budget` + dashboard.
-- **Sync (−1):** dashboard Friday timeline listed the PM burrito pickup before the 11:30 AM lunch. → Reordered.
-
-### 6/12 crew decisions (post-refinement re-grade)
-
-- **Groceries have an owner: Chris Psilos** — the last ownerless load-bearing task. Bookings → 20/20 (the Friday 13-top stays unbooked, but per the scoring rules an owner + deadline + a default that holds with zero action scores full marks).
-- **Explorer planned as a 7-seater → 14 seats for 13** — the seat math now works on the planning estimate. Hardie's item shifts from "confirm the trim" to "verify the 3rd row is on the reservation," and it no longer gates the trip (only the rafting refund item keeps the ⭐).
-
-### 7/11 re-grade (expert-panel review pass)
-
-- **Friday dinner closed as designed:** the 6/30 booking fence passed with no reservation, so the house default held with zero action — the open item is checked off everywhere, not deleted. No point change (the decision rule already scored full marks).
-- **Sync fixes, no point change:** the "Now" buckets rolled June → July; the maps layer was brought back in line with the docs' triage — the permanently closed Boiling River pin removed, the far-side Yellowstone stops relabeled 🚫 "Next trip" instead of "If time," Yellowstone Lake marked as the en-route stop it is; the SLC drive time now reads ~5 hrs in both places; the dashboard's misconnect note points at `/logistics` where the playbook actually lives.
-- **Grade holds at 99** — the remaining point is still the real-world verification below, not a document gap.
-
-### 7/11 dashboard pass (same day, later)
-
-Dashboard-only sync + usability work; no plan content changed, so the grade holds at 99.
-
-- **Sync gaps closed:** the confirmed bed math (5 kings + 1 queen across 3 levels, 2 air mattresses for 13) now appears on the Crew tab, and the room/bed-assignments open item joined the To-Do tab — both were README/`/lodging` facts the dashboard never carried. The Money tab picked up the bring-cash note (guide tips + Pica's/Nora's), Logistics picked up the weather-scrub indoor move (National Museum of Wildlife Art) and the JHWW/Jeff contact row.
-- **Misconnect playbook mirrored:** the DFW Tier 0–3 summary now lives on the Logistics tab itself — the dashboard is exactly the thing you'd be holding at DFW, so pointing at `/logistics` wasn't enough.
-- **Usability:** the page now prints properly (light palette, all tabs shown, itinerary days auto-open) — the "print this" contacts card was previously unprintable in practice — and the pure-CSS tabs are keyboard-accessible (focusable radios + visible focus ring), still with zero JS required.
-
-### 7/11 dashboard overhaul (same day, third pass)
-
-Dashboard + maps-layer work; no plan facts changed, so the grade holds at 99.
-
-- **Maps drift closed:** `Cowboy Coffee Co.` (dining's "must-do coffee stop"), `Pearl Street Bagels`, and `Picnic` (both named burrito-stash vendors) were in the docs but missing from the `PLACES` list — added via `generate_places.py` and regenerated (76 places).
-- **Dashboard grew two tabs:** **Activities** (Sunday-afternoon choices, the Yellowstone fits-Saturday triage table, the hike reference shelf, wildlife cheat sheet, booking notes) and **Maps** (one-tap Google Maps links for every on-plan spot, grouped by day, using the same queries as the generated maps layer).
-- **Full mirrors, not excerpts:** the packing checklist now carries all 47 items from `/packing` (grouped), and the To-Do tab carries all 25 open README items with owner/deadline tags — previously both were partial.
-- **New surfaced-from-docs content:** who-owns-what board on Crew (named vs. open roles), on-the-ground estimates + booking tracker on Money, grocery-delivery tiers and backup-spots table on Eat & Drink, a Saturday route strip with drive times on Itinerary, getting-around + safety cards on Logistics.
-- **JS enhancements (still zero-JS functional):** deadline-aware countdown messages, a hero milestone strip (8/1 → 9/10 → 9/17), computed days-left chips, a TODAY badge on the itinerary during the trip, and last-tab memory (with the restored tab scrolled into view in the nav). Checklist storage keys versioned to `_v2` so grown lists don't mis-map old saved checkmarks.
-- **Sync now enforced, not just graded:** `generate_places.py --check` verifies the generated maps files match the `PLACES` list without rewriting them, and a new CI workflow (`maps-check.yml`) runs it on every push/PR — hand-edits to generated files or an unregenerated `PLACES` edit now fail loudly.
-
-### 8/4 re-grade (date-rot pass)
-
-First re-grade after a deadline actually passed. The rubric says to re-grade when an open item rots past its deadline — two did.
-
-**Found at 97 (−2 from 99):**
-- **−1 Money:** the 8/1 Airbnb balance came and went, and the *amount* had never been written down anywhere — every doc said "total minus deposit," which is not a number you can Venmo. §5 requires per-person amounts to be explicit.
-- **−1 Bookings:** Hardie's Explorer 3rd-row verification sat in a bucket labeled "Now (July)" into August. §1 requires a deadline, and a bucket that names a month that has ended is not one.
-
-**Restored to 99 by this pass:**
-- The balance is now a number in `/budget`, README, and the dashboard: **$7,229.82 − $6,500 (13 × $500) = $729.82 ≈ $56/person** — with the honest flag that Drewes quoted ~$600/person, so it may be ~$100 and someone has to ask him which.
-- The Explorer item got a hard date (**8/15**) and a ⭐ — it's the last open item that can still force a booking change, and Jackson rental inventory doesn't improve as September approaches.
-
-**Also closed this pass (no point change — these were below the deduction line but real):**
-- **Meals:** Saturday lunch had no answer at all and Monday breakfast had none either — §4 wants every slot Thu–Mon to resolve. Both now have plans (cooler lunch at West Thumb; hold burritos back for Monday). Caught only because §4 is enumerated by slot rather than judged by feel.
-- **Sync:** the tram confirmation and "name who isn't on the group itinerary" existed in `/logistics` and `/activities` but never reached README's Open Items — §7 drift. Both added.
-- **Travel insurance** now says what's actually still buyable in August (delay/interruption/medical, not CFAR) instead of implying the full menu is open.
-
-### 8/4, second pass — the last point closes (100/100)
-
-The crew called it: **the Explorer's 3rd row won't be verified in advance.** We find out at the JAC counter and make it work.
-
-That sounds like it should *cost* a point, and under a naive reading it would — the seat math stays unconfirmed until Thursday. But §6 says pending-external-info items can't score full marks *while open*, and this one is no longer open: it's decided. The rubric's own scoring rule (top of the file) is that it **does not penalize future human actions if the plan gives them an owner, a deadline, and a default that holds if the action never happens.** An owner (Hardie, at the counter), a moment (before baggage claim), and a default that holds with zero advance work (add a third car if it's 12 seats) is exactly that.
-
-What earned the point was writing the fallback down rather than leaving "we'll make it work" as a feeling:
-- The **worst case is named** — 5 + 7 = 12 seats for 13, one short.
-- The **two failure modes are separated**, which nobody had done: the airport legs are trivially fixable (JAC→house is ~10 min, do a second run), but **Saturday and Sunday are not** — all 13 have to move at once, 1.5 hrs out, and no amount of shuttling solves that. That distinction is the whole reason a third car might be needed, and it was invisible while the item was phrased as "verify the trim."
-- The **fix is priced** (~$400–500 ÷ 13 ≈ $35/person) so it's a shrug at the counter, not a debate.
-- The **decision moment is placed** — Hardie and Schick already hit the rental counter before baggage claim, so the seat count is known while there's still a counter to solve it at.
-
-**Grade: 100/100.** Every remaining open item now has an owner, a deadline, or a default that holds without anyone doing anything. The trip can still go sideways — that's trips — but it won't go sideways because of something this repo failed to say.
-
-*(The bed-math half of the old deduction closed earlier: the house is confirmed at 5 kings + 1 queen across 3 levels, and beds-on-arrival is a decision, not a gap.)*
+> Read across a row: every category has been the weak one at least once, and no pass found the same weakness twice. §2 collapsed to 8 when the drive times were checked against the world; §4 to 8 when a default turned out to be a meal nobody serves; §7 and §8 fell once the cost of *duplication* was scored rather than the completeness of each copy.
 
 ---
 
-### 8/15 re-grade — found at 85, restored to 100
+## Verified external facts — checked 2026-08-21
 
-Eleven days and a lot of group-chat traffic after the last pass: Drewes posted the final $784.14 number (8/10), four guys paid in full (8/11), the brewery recon and the reservations question landed. The plan got **more decided** in that window and **less finished**, which is the failure mode this rubric exists to catch.
+Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the two most recent passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
 
-**Found at 85 (−15).** Two of the deductions are new rot; most are gaps the 8/4 pass graded generously, and the rubric now has language that makes them unmissable.
-
-| # | Cat | Deduction | What was actually wrong |
-|---|---|---|---|
-| −3 | §1 | Three ownerless load-bearing tasks | Check-in/checkout, Ciolino's ⭐ sleeping surface, and the grill/propane check were all "someone should call." The dashboard was honest enough to tag one of them `needs owner`, which is a gap admitting to itself. The tram — the thing the whole Sunday afternoon rests on — had no date and no answer for "what if it isn't running" |
-| −2 | §3 | No DD plan | "Name designated drivers per SUV" had been in three documents since June without ever naming one. A plan to make a plan is not a plan, and this is the drinking-and-driving line item |
-| −1 | §4 | Friday menu had no zero-action default | The grocery list carried both branches, so Psilos was covered — but nobody had said which meal happens if the Sep 10 call never picks |
-| −2 | §5 | Two men's amounts weren't numbers | Austin and Solak each owed "**$784.14 — or $534.14** if the Gunter $250 counts." Nine days of it sitting there, one Venmo away from either double-paying or shorting the guy fronting $10k |
-| −1 | §5 | Stale money lines | `/lodging` still showed "**Balance due 8/1** — total minus $500 deposit"; `/logistics` still said Drewes "collects closer to the trip; final amount depends on headcount." Both superseded on 8/10 |
-| −3 | §6 | Three ownerless roles | Grill captain, park pass, bear spray. The README *named the problem out loud* — "six decisions still have no name attached… all pointed at the same Sep 10 call, which is how a call runs 90 minutes and decides nothing" — and then left all six pointed at that call. Naming a risk is not mitigating it |
-| −3 | §7 | Three number divergences | All-in per person read **$1,150–1,400** on the Overview tab and **$1,100–1,330** on the Money tab of the same page; the Crew tab still said the seat math "works once the 3rd row is verified" eleven days after we decided not to verify it; the Maps tab advertised a **76**-place file that the generator builds with **75** |
-
-**Restored to 100 by this pass.** One structural change did most of the work — a **Decision Defaults** table in the README, mirrored to the dashboard's Crew tab, that gives every open decision an owner, a date, and *what happens if nobody does anything*:
-
-- **The three ownerless calls became one owned call.** RMR only takes questions from the guest of record, so the check-in, cot, and grill questions route through **Drewes** by **8/22** — and each has a default that holds if the call never happens: the times we already assume, a mattress Ciolino packs regardless, and a grill you eyeball Thursday at check-in with an oven reverse-sear behind it. Ciolino's item **loses its ⭐** for the same reason the Explorer did: a fallback that needs no advance work isn't a gate.
-- **The DD gap closed on a fact nobody had written down.** Only Hardie and Schick are on the rental agreements, so they're the only two insured to drive those SUVs — the DD question was already answered by the contracts. Rotating means adding an authorized driver at the JAC counter, which is a 60-second ask you're standing in line for anyway.
-- **The $250 got a tiebreak instead of a conversation:** unsettled by 8/22 → send the full $784.14, because an overpayment comes back with one Venmo and a shortfall sits on the man who already paid the VRBO and the outfitter.
-- **Park pass stopped being a role and became arithmetic** — 2 vehicles × 2 parks × $35 = $140 against $160 for two passes, so the default is the gate and the only action left is one question in the chat. Bear spray stopped being a role by riding a trip someone already owns, at ~$8/man on the grocery bill.
-- **Both game-night branches got dinners.** Steak night stays Saturday; if it moves, Saturday drops to the house off grocery stock and Dornan's is void. Friday's menu defaults to the fajita bar — the branch whose leftovers *are* Saturday's cooler lunch.
-- **Sync:** the all-in number reads $1,100–1,330 in both places (and the estimate line was re-added correctly at ~$120–220 now that bear spray and park entry are per-man figures), the Crew tab matches the Explorer decision, the maps count reads 75, and the two breweries that became real Saints-game candidates got their `PLACES` entries updated and regenerated.
-
-**Grade: 100/100.** The test this pass was built around: *for every open item, if nobody does anything, what happens?* Ten items had no answer to that on 8/15. All ten have one now, and the Sep 10 call went from carrying the plan to confirming it.
-
-### 8/15, second pass — the money closes, a new fence opens
-
-Same day, after the crew's own updates landed: **everyone paid Drewes.** All 13 settled, $10,193.82 collected, and the Gunter $250 ambiguity — the §5 deduction from this morning — closed with it rather than by the 8/22 tiebreak rule. The rule did its job by existing: it stopped being needed. **Grade holds at 100**; §5's fix went from "a tiebreak that makes the number explicit" to "the number is paid," which is strictly better.
-
-Three things the same batch of notes surfaced, and what the rubric did with them:
-
-- **A new time-fence, caught by §1.** The Cowboy Steakhouse books **30 days out**, so the window for our dates opens **8/17** and closes on its own. That's exactly the "books-out-months venue" criterion, and it was a day away from being missed. It's in Open Items with a date and a default (*nobody calls, house steak nights stand*) — and Snake River Grill's **private room** is now written down, since a room is the one thing that makes a 13-top easy.
-- **An assumption got falsified, which is worth more than a fix.** Late September isn't shoulder season here — **shoulder season now starts in October, and September is one of the busier months.** That assumption was load-bearing in four places: walk-in odds for a 13-top (worse than we thought), tram operating dates and Dornan's fall hours (*better* than we thought), and — the one that actually matters — **JAC rental inventory**, which is the fallback behind the whole Explorer seat-count plan. All four now read honestly. §2 and §3 hold because the *plans* didn't change; what changed is that they no longer rest on a wrong belief.
-- **Route advice adopted, and honestly triaged.** A frequent visitor's Yellowstone routing is now the Saturday plan — **Grand Prismatic overlook first, then skip the boardwalk** (which buys back a stop on our tightest day), then Old Faithful, then West Thumb. The half of his route we can't take (Emerald Spring, the canyon waterfalls) went into the 🚫 bucket with the drive-time reasoning, per the repo's triage-don't-delete convention. His offline audio-tour rec is now on the pre-trip list, which is a genuine fit for a park with no signal.
-
-One open decision was **added** rather than closed: Drewes's idea to open Thursday at **Dornan's** (~8 min from JAC) to decompress and acclimate before hitting town. It scores fine because it arrived with a default already attached — the current Thursday plan holds unless someone calls it — and with the knock-on named: if Dornan's happens Thursday, Sunday's dinner slot needs re-picking.
-
-### 8/15, third pass — check-in lands, and Thursday gets a real clock
-
-**Check-in is 4:00 PM, confirmed.** That answers a third of the RMR call and, more usefully, *sizes the day*: the gap from a 10:19 AM landing is **~5 hours**, not the "4–5" these docs had been guessing, and all thirteen guys' luggage rides along for it. Early check-in is asked for but not promised and may carry a charge — so it's recorded as a bonus, not a plan. §1 holds: the item narrows to checkout + cot + grill, each still carrying its default.
-
-Drewes's afternoon (**Dornan's → brewery in town → gondola at Teton Village → 4 PM check-in → out for the night**) went from *option with a default* to *the shape of the day*, and writing it as a clock is what surfaced three things a prose paragraph would have hidden:
-
-1. **Bear spray falls off the itinerary, and it's the one item that can't slip.** You can't fly with it and Friday is booked dawn-to-dusk, so Thursday is the only window — the new plan quietly deleted the stop that was carrying it. §3 would have taken −2 for a safety item with no place on the schedule; instead it has two written solves and a rule ("don't leave for Teton Village without a canister in each vehicle").
-2. **The DD job now starts at lunch.** Beer at Dornan's around 11:30, more at the brewery at 1:15, then two drives. The §3 fix from this morning — Hardie and Schick are the only insured drivers — was written for *one* leg at night. Under this plan it's a much bigger ask, and saying so is the honest version.
-3. **Two lifts, not one.** Thursday says "gondola," Sunday says "tram." At Teton Village those are different rides — the Bridger Gondola to mid-mountain and the Aerial Tram to the 10,450 ft summit where the Corbet's waffles are. If Thursday ends up on the tram, **Sunday's afternoon needs a different answer**. Same class of catch as the Dornan's double-booking: a plan can collide with itself, and §2's timing arithmetic won't catch it because nothing about the clock is wrong.
-
-**Grade holds at 100.** Nothing here was a deduction — the plan absorbed a confirmed fact and a new proposal without opening a gap, which is what the Decision Defaults structure was built to do. The clock table is the pattern worth reusing: *when a day's plan gets more than three moving parts, write the times down, because the seams only show up next to a clock.*
+| Fact | Value | Re-check at |
+|---|---|---|
+| Aerial Tram season | May 16 – Oct 4, 2026, 8:30–5 · ~$55/pp | jacksonhole.com |
+| Bridger Gondola season | **Ends Sept 13** — closed for our trip | jacksonhole.com |
+| Corbet's Cabin | 8:30–5, with the tram | jacksonhole.com |
+| Moose-Wilson Road | **Closed Sep 8 – Nov 15, 2026** | nps.gov/grte |
+| Craig Pass (West Thumb ↔ Old Faithful) | Open, but first to close for snow | nps.gov/yell — **check day-of** |
+| House → Yellowstone South Entrance | ~1 hr 30 | maps, day-of |
+| South Entrance → Old Faithful | 39 mi / ~1 hr 15 | NPS |
+| Grand Prismatic overlook | 1.6 mi round trip on foot from Fairy Falls lot | NPS |
+| Sunrise, Sun Sep 20 | ~7:07 AM (usable light ~6:40) | almanac |
+| Dornan's | 11:30 AM – 7 PM daily, year-round | (307) 733-2415 |
+| Cowboy Coffee drive-thru | 1007 S US-89, opens 6 AM | cowboycoffee.com |
+| Sidewinders | 11:30 AM – 9:30 PM, 30+ TVs, no reservations | (307) 734-5766 |
+| JHWW "Classic Raft" | **No lunch included** (that's their scenic float) | (307) 733-1007 |
+| Bear Aware kiosk, JAC | Baggage claim #3, Jun–Oct, ~$28/canister capped | bearaware.com |
+| Park entry | $35/vehicle/park, **7-day**; +$100 non-resident surcharge (2026) | nps.gov |
+| DFW→JAC nonstops | 2 daily, year-round | AA app |
+| LSU–Ole Miss | Sat 9/19, 5:30 PM MT, ABC | — |
+| Saints @ Ravens | Sun 9/20, 11:00 AM MT, CBS | — |
 
 ---
 
-### 8/20 re-grade — the Friday confirmations land (found at 97, restored to 100)
+---
 
-Both Friday confirmations came in on the same day: **Teton Expeditions** for the 8 AM Grand Teton sunrise safari (party of 13, 4 hours) and **Jackson Hole Whitewater** for the 1:00–4:30 PM "Classic Raft." Two facts in them reshaped the day, and one of them corrected these docs.
+## Re-grade log
 
-**What the confirmations changed, and what it didn't cost:**
+### Earlier re-grades — summarised
 
-- **Friday is two outfitters, not one.** Every document in this repo said "JHWW van + boat" — one vendor, one contract. It's two. **That costs nothing under §1**: the repo faithfully recorded what the crew believed, and a confirmation email is exactly the mechanism that corrects a belief. The plan didn't change; the names on it did. What it *does* change is real: **two tips, not one**, and two numbers to call on a dawn-to-dusk day.
-- **Both trips leave from the same building — 945 W Broadway.** This is a schedule fact the plan was working around without knowing it existed. Friday's midday reposition, which every version of these docs quietly assumed, doesn't exist.
+Ten passes ran between 6/12 and 8/20; the full write-ups are in git history. The short version: the plan reached 100 four separate times on **structure** — every open item owned, dated, and carrying a default that holds with zero action — and each later pass found that structure was necessary but not sufficient.
 
-**Found at 97 (−3).** All three are things the repo could have said before the email arrived, not things the email revealed:
-
-| # | Cat | Deduction | What was actually wrong |
-|---|---|---|---|
-| −1 | §1 | The outfitter contact row was a placeholder | The Key Contacts card — the printable one, for a trip with no cell service — carried *"number is on the signed contract, copy it here when printing"* for the single vendor running the only fully-booked day of the trip. A contacts card with a TODO in it is not a contacts card. **JHWW is 307-733-1007**; it's written down now, in both layers |
-| −1 | §2 | Friday had no arithmetic before 8:00 AM | §2 wants each day's timing to actually work. Friday's schedule started *at* the tour: no house departure, no drive time, no arrival buffer — while the same page told everyone to be 30 minutes early for the afternoon boat. The confirmation's **"15 minutes prior"** turns that into a real clock: **7:45 check-in → ~7:00 wheels up**, with coffee as the only stop that fits. That hour existed before the email; nobody had written it |
-| −1 | §4 | Friday lunch was a slot premised on a drive | The plan put lunch at *"Cutty's — between the van tour and the rafting put-in."* There is no *between*; both trips stage from the same lot. The slot had a venue but the wrong shape — a ~45-minute window in a parking lot, not a stop on a route |
-
-**Restored to 100 by this pass:**
-
-- **The day is now clocked end to end** — leave ~7:00, check in 7:45, safari 8:00–~noon, lunch, raft check-in 12:30, water 1:00–4:30 — in `/itinerary`, the dashboard's Friday block, and both Key Times tables. The flagged risk is the honest one: **getting 13 guys out the door by 7 is harder than the drive.**
-- **Friday lunch got re-decided against the real constraint.** Default is the **outfitter deli** (zero travel, nobody misses the boat); **Sidewinders is next door** in the same complex; **Cutty's is now a ~25-min round trip out of a ~60-min window** and is relabeled a Sunday option. Free win: Sidewinders was already on the Sunday game-venue recon list, and we're parked next to it for six hours — **the recon is now a lunch stop**, not a separate errand.
-- **A new open item, with a default:** JHWW requires **every party member to sign the online waiver before arrival**, and says the confirmation email can be forwarded. It carries an owner (whoever holds the confirmation), a date (**9/10**, riding along with the call everything else points at), and a zero-action default — *thirteen guys filling out forms in the boathouse lot at 12:15, out of a ~45-minute lunch break.* Per §1 that scores full marks: it's a cost, not a gate. **No new ⭐** — the rafting late-cancel rule is still the only one.
-- **The no-alcohol rule got bigger and is stated as such.** Teton Expeditions bans it outright in writing; JHWW's rule covers the van and the boat. Friday's only drinking window is the lunch hour, and it's the hour before a Class 2–3 river. Worth saying plainly to a group whose Thursday is a bar crawl.
-- **Sync + maps:** the boathouse is a new `PLACES` entry (**81 places**, regenerated, `--check` clean), Sidewinders' and Cutty's entries were corrected to match their real geography, and the Teton Expeditions / JHWW split now reads identically in the README, `/itinerary`, `/logistics`, `/dining`, `/activities`, `/budget`, `/packing` and `index.html`.
-
-**One thing left open on purpose:** Teton Expeditions' email doesn't mention a waiver either way. That's a question on the pre-trip list, not an assumption — and the default (there's one to sign on-site) is the safe reading.
-
-**Grade: 100/100.** The pass didn't add a plan; it removed a phantom drive, put an hour back on the clock that nobody had written down, and gave a vendor requirement an owner before it could become a parking-lot scramble.
+| Pass | Found at | The lesson it added |
+|---|---|---|
+| 6/12 – 7/11 (×4) | 82 → 100 | Decisions need an owner and a deadline, not just a discussion |
+| 8/4 (×2) | 97 → 100 | Deadlines rot; a date that has passed is a defect |
+| 8/15 (×3) | 85 → 100 | A decision pointed only at a future call is still open — it needs a zero-action default |
+| 8/20 | 97 → 100 | Confirmations can correct the plan, not just confirm it (two outfitters, one address) |
 
 ---
 
@@ -298,6 +190,8 @@ This pass did something the rubric had never actually forced: **it checked the p
 
 ---
 
+---
+
 ### 8/21, second pass — a fictional default, and a site nobody could read
 
 Two findings, one of each kind the previous pass warned about.
@@ -321,31 +215,6 @@ Two findings, one of each kind the previous pass warned about.
 **The rubric change this pass earns.** §8 should read *"a crew member can find what they need on a phone in under 15 seconds"* — not "the dashboard mirrors the markdown in full." Completeness and usability are in tension, and six passes of graded-for-completeness produced a document that mirrors beautifully and reads badly. **Length is now a defect, not a neutral.** Corollary: a review pass that only ever *adds* is not maintaining a plan, it's growing one.
 
 ---
-
-## Verified external facts — checked 2026-08-21
-
-Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the two most recent passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
-
-| Fact | Value | Re-check at |
-|---|---|---|
-| Aerial Tram season | May 16 – Oct 4, 2026, 8:30–5 · ~$55/pp | jacksonhole.com |
-| Bridger Gondola season | **Ends Sept 13** — closed for our trip | jacksonhole.com |
-| Corbet's Cabin | 8:30–5, with the tram | jacksonhole.com |
-| Moose-Wilson Road | **Closed Sep 8 – Nov 15, 2026** | nps.gov/grte |
-| Craig Pass (West Thumb ↔ Old Faithful) | Open, but first to close for snow | nps.gov/yell — **check day-of** |
-| House → Yellowstone South Entrance | ~1 hr 30 | maps, day-of |
-| South Entrance → Old Faithful | 39 mi / ~1 hr 15 | NPS |
-| Grand Prismatic overlook | 1.6 mi round trip on foot from Fairy Falls lot | NPS |
-| Sunrise, Sun Sep 20 | ~7:07 AM (usable light ~6:40) | almanac |
-| Dornan's | 11:30 AM – 7 PM daily, year-round | (307) 733-2415 |
-| Cowboy Coffee drive-thru | 1007 S US-89, opens 6 AM | cowboycoffee.com |
-| Sidewinders | 11:30 AM – 9:30 PM, 30+ TVs, no reservations | (307) 734-5766 |
-| JHWW "Classic Raft" | **No lunch included** (that's their scenic float) | (307) 733-1007 |
-| Bear Aware kiosk, JAC | Baggage claim #3, Jun–Oct, ~$28/canister capped | bearaware.com |
-| Park entry | $35/vehicle/park, **7-day**; +$100 non-resident surcharge (2026) | nps.gov |
-| DFW→JAC nonstops | 2 daily, year-round | AA app |
-| LSU–Ole Miss | Sat 9/19, 5:30 PM MT, ABC | — |
-| Saints @ Ravens | Sun 9/20, 11:00 AM MT, CBS | — |
 
 ---
 
