@@ -42,9 +42,7 @@
 
 ## Yellowstone National Park
 
-> **Reality check for our Saturday:** we enter via the **South Entrance** and have to hold a **2:00 PM turnaround at West Thumb** to make the 5:30 LSU kickoff. That makes the lower-left corner of the park (Old Faithful / Grand Prismatic / West Thumb) the realistic range — they're the itinerary's 2–3 stops. Everything flagged 🚫 below is solid reference for a future trip, but it's 2.5–4 hrs **one-way** from the South Entrance and doesn't fit this one.
->
-> ⏱️ **And the range is tighter than these docs used to say.** The South Entrance is **~1 hr 30 from the house** (not "~1 hr from Jackson") and Old Faithful is **~1 hr 15 past the gate** (not 30 min). That's ~1 hr 20 of driving we didn't have on the books. The corrected clock, and the 6:15 AM departure that makes it work, are in [`/itinerary`](../itinerary/itinerary.md).
+> **Reality check for our Saturday:** we enter via the **South Entrance** and have to hold a **2:00 PM turnaround at West Thumb** to make the 5:30 LSU kickoff. South Entrance is **~1 hr 30 from the house**; Old Faithful is **~1 hr 15 past the gate**. That makes the lower-left corner of the park (Old Faithful / Grand Prismatic / West Thumb) the realistic range — they're the itinerary's 2–3 stops, and the clock behind them is in [`/itinerary`](../itinerary/itinerary.md). Everything flagged 🚫 below is solid reference for a future trip, but it's 2.5–4 hrs **one-way** from the South Entrance and doesn't fit this one.
 
 ### Must-See Thermal Features
 
@@ -59,11 +57,9 @@
 | Mammoth Hot Springs | North | 🚫 too far | Colorful travertine terraces; constantly changing formations |
 | Artists' Paintpots | Central | 🚫 too far | Fun, accessible, less crowded |
 
-> **Jeremy Galiano's full route, and where ours diverges.** The best routing advice we've gotten, from a frequent visitor: *South Entrance → left toward Old Faithful → **Grand Prismatic overlook first** → back to Old Faithful for a couple of hours → then north past Grand Prismatic to Emerald Spring → the **canyon waterfalls** → back south to West Thumb.*
+> **Jeremy Galiano's route** (a frequent visitor): *South Entrance → Grand Prismatic overlook first → back to Old Faithful → north to Emerald Spring + the canyon waterfalls → south to West Thumb.* **We've adopted the first half** — overlook-first, skip the boardwalk — as the Saturday plan in `/itinerary`. **We can't take the second half**: Emerald Spring and the canyon are ~1.5–2 hrs further north, and we're on a hard 2:00 PM turnaround at West Thumb for the LSU game. Next trip.
 >
-> **We've adopted the first half exactly** — the overlook-first ordering and the skip-the-boardwalk tip are now the Saturday plan in `/itinerary`. **We can't take the second half.** Emerald Spring (Norris) and the canyon are both ~1.5–2 hrs *further* north from Old Faithful, and we're on a hard **2:00 PM** turnaround at West Thumb for the LSU game. Jeremy's route is a full day in the park; ours is a half day with a kickoff at the end of it. Everything past Grand Prismatic is next-trip.
->
-> 🎧 He also passed the **Shaka Guide "Yellowstone National Park Tour"** audio driving tour — it covers this South-Entrance loop and **runs offline once downloaded**, which is exactly right for a park with no cell service. Download it before Saturday.
+> 🎧 His other tip: the **Shaka Guide "Yellowstone National Park Tour"** audio driving tour covers this South-Entrance loop and **runs offline once downloaded** — download it before Saturday.
 
 ### Wildlife
 

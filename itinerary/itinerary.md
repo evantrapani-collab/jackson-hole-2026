@@ -86,17 +86,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 
 > **Don't try to "do" Yellowstone.** It is **~2 hrs 45 min each way** from the house to Old Faithful. Pick a few stops and enjoy them rather than racing a loop.
 
-> ### ⏱️ The drive times in these docs were wrong — here's the honest clock
->
-> This page used to say "South Entrance is ~1 hr from Jackson" and the drive-time table said "Yellowstone South → Old Faithful ~30 min." Both are optimistic by a lot, and Saturday is the one day of this trip where being an hour off actually costs you something.
->
-> | Leg | What the docs said | Real |
-> |---|---|---|
-> | Teton Village → Yellowstone South Entrance | "~1 hr" (and from *Jackson*, not the house) | **~1 hr 30** — 65 mi, and the Moose-Wilson shortcut is closed (below) |
-> | South Entrance → Old Faithful | ~30 min | **~1 hr 15** — it's **39 miles** at 45 mph |
-> | Old Faithful → the house | ~1 hr 30 | **~2 hrs 15** |
->
-> A 7:00 AM departure on these numbers gets you home at **4:35** — 55 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. **So: leave at 6:15, and hold a hard turnaround.**
+> ⏱️ **The honest clock:** Teton Village → South Entrance **~1 hr 30** (65 mi, Moose-Wilson shortcut closed) · South Entrance → Old Faithful **~1 hr 15** (39 mi) · Old Faithful → the house **~2 hrs 15**. That's why the departure is **6:15 AM** with a hard turnaround — a 7:00 start gets you home at 4:35, only 55 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches.
 
 - **Leave at 6:15 AM** — not 7:00. It's ~1 hr 30 to the South Entrance from Teton Village, plus a few minutes at the gate
   - *Grab-and-go breakfast:* reheat the **breakfast-burrito stash** from the fridge (picked up Friday) — no time to cook, and nothing is open
@@ -145,11 +135,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 
 > **The 11 AM kickoff frees the dawn window — use it.** September is peak elk rut; this is the can't-miss Wyoming morning.
 
-> ⚠️ **Two corrections to this morning, and they push the alarm earlier.**
->
-> **1. The old arithmetic was impossible.** This page said "leave the house at 6:30, be at Schwabacher at first light (~6:40)" — that's a 10-minute drive to a place that is **~45 minutes away**. Real numbers: **sunrise Sunday is ~7:07 AM**, first usable light (civil twilight) is **~6:40**, and the peaks catch alpenglow **before** the valley does. Leaving at 6:30 puts you in the parking lot at 7:15 — after the shot.
->
-> **2. The shortcut is closed.** The **Moose-Wilson Road is shut between the Laurance S. Rockefeller Preserve and Moose from Sept 8 to Nov 15, 2026** (NPS Phase II construction). That's the back way from Teton Village into the park, and we can't use it. Everything now goes **WY-390 → WY-22 → the Y → US-26/89/191 north through Jackson**, which is ~10 min longer each way and the reason Schwabacher is 45 minutes out, not 25.
+> ⏰ **Leave at 6:00 AM, 6:15 at the absolute latest.** Schwabacher is **~45 min out** — not 25; the Moose-Wilson shortcut is closed (Sept 8–Nov 15), so it's WY-390 → WY-22 → US-26/89/191 through Jackson. Sunrise is ~7:07 AM, and the peaks catch alpenglow **before** the valley does — a 6:30 departure lands after the shot.
 
 - **6:00–9:30 AM — Sunrise wildlife drive** (best light + animal activity of the trip)
   - **Leave the house at 6:00**, 6:15 at the absolute latest. 6:00 → Schwabacher ~6:45, set up in the dark, and you own the light. 6:15 works. 6:30 does not

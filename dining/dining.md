@@ -25,29 +25,12 @@
 
 ---
 
-## Snake River Brewing (Thursday)
+## Thursday Bar Crawl — in order
 
-- Jackson's best known craft brewery
-- Full menu — burgers, pub food, solid everything
-- Good first stop; sets the tone without being too much
-
-## Silver Dollar Bar & Grill (Thursday)
-
-- Inside the historic Wort Hotel, right on the town square
-- Named for the **2,000+ uncirculated silver dollars inlaid in the bar top** — a Jackson classic
-- Easy second stop on the walk toward the Cowboy Bar
-
-## Mangy Moose (Thursday)
-
-- Iconic Jackson bar and restaurant at Teton Village
-- Live music most nights; big, fun, loud
-- Classic après/night-out spot
-
-## Million Dollar Cowboy Bar (Thursday)
-
-- On the town square
-- Saddle bar stools, sawdust floor, live country music
-- Has to be done at least once
+1. **Snake River Brewing** — Jackson's best-known craft brewery; full pub menu. Good first stop, sets the tone without being too much.
+2. **Silver Dollar Bar & Grill** — inside the historic Wort Hotel on the town square; named for the 2,000+ uncirculated silver dollars inlaid in the bar top.
+3. **Million Dollar Cowboy Bar** — on the square; saddle bar stools, sawdust floor, live country music. Has to be done at least once.
+4. **Mangy Moose** — at Teton Village, walkable from the house; live music most nights. Natural last stop.
 
 ## Cowboy Coffee Co. (Friday AM) — take the drive-thru, not the square
 
@@ -234,9 +217,7 @@ Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Ja
 
 **🥩 Western sit-down — walk-in only now**
 
-> **There is no group reservation on this trip and no way to book one.** The Cowboy Steakhouse / Snake River Grill 30-day window opened and closed unbooked, which was the crew's chosen default. Don't relitigate it on the Sep 10 call.
->
-> If the crew wants a real western dinner on the ground, **walk in and split across two tables** — and go early, because **"shoulder season" now starts in October and September is one of Jackson's busier months.**
+> **No group reservation — the Cowboy Steakhouse / Snake River Grill window closed 8/18 unbooked.** House steak nights stand. If the crew wants a real western dinner on the ground, **walk in and split across two tables** — go early, since "shoulder season" now starts in October and September is one of Jackson's busier months.
 > - **Gun Barrel Steak & Game House** — the best walk-in western option. *"Elk and bison and Joe Rogan-type meats"* (AJAX)
 > - **Snake River Brewing / Roadhouse / Sidewinders** — the three big enough to usually seat all 13 together
 > - *For next trip:* **Snake River Grill has a private room** (Austin's brother-in-law) — the one thing anyone found that makes a 13-top easy. Call them first, 30 days out.

@@ -132,21 +132,19 @@
 
 ### Key Drive Times — rebuilt from the house, not from town
 
-> ⚠️ **This table used to be wrong in the direction that costs you the day.** It measured from *Jackson*, but we sleep in *Teton Village*, and it had Yellowstone's South Entrance an hour from town and Old Faithful thirty minutes past it. Real numbers below; the Saturday clock in [`/itinerary`](../itinerary/itinerary.md) is rebuilt on them.
->
-> 🚧 **And the back way is closed.** The **Moose-Wilson Road is shut between the Laurance S. Rockefeller Preserve and Moose from Sept 8 to Nov 15, 2026** (NPS Phase II construction — new Teton Park roundabout). That's the short hop from Teton Village to Moose. **Everything to the parks now goes WY-390 → WY-22 → the Y → US-26/89/191 north through Jackson**, which adds ~10 min each way to every park leg.
+> 🚧 **Moose-Wilson Road is closed Sept 8 – Nov 15, 2026** (Rockefeller Preserve ↔ Moose, NPS Phase II construction) — that's the short hop from Teton Village to Moose. Every drive to the parks now goes **WY-390 → WY-22 → the Y → US-26/89/191 through Jackson**, ~10 min more each way. Times below are from the house; the Saturday clock in [`/itinerary`](../itinerary/itinerary.md) is built on them.
 
 | Route | Time | Note |
 |---|---|---|
-| **JAC → House (Teton Village)** | **~30–35 min** | ⚠️ **Not "~10 min."** The 13-mile short way is Moose-Wilson — **closed**. The open route is 22 mi south through Jackson, out WY-22, north on WY-390 |
+| **JAC → House (Teton Village)** | **~30–35 min** | The 13-mile short way (Moose-Wilson) is **closed**. Open route is 22 mi south through Jackson, out WY-22, north on WY-390 |
 | House → downtown Jackson | ~20 min | WY-390 → WY-22 → the Y |
 | House → **945 W Broadway** (Fri boathouse) | ~20 min | Right at the Y end of Broadway — you don't drive through town |
 | House → Moose / Dornan's | **~35 min** | Was ~25 via Moose-Wilson. **That road is closed** |
 | House → Schwabacher Landing | **~45 min** | Sunday's sunrise stop. Sunrise ~7:07 → **leave 6:00** |
-| House → **Yellowstone South Entrance** | **~1 hr 30** | 65 mi. *Old table said "~1 hr from Jackson"* |
-| **South Entrance → Old Faithful** | **~1 hr 15** | **39 miles** at 45 mph. *Old table said 30 min* |
+| House → **Yellowstone South Entrance** | **~1 hr 30** | 65 mi |
+| **South Entrance → Old Faithful** | **~1 hr 15** | **39 miles** at 45 mph |
 | Old Faithful → West Thumb | ~40 min | 17 mi over Craig Pass |
-| **Old Faithful → the house** | **~2 hrs 15** | *Old table said 1.5 hrs* |
+| **Old Faithful → the house** | **~2 hrs 15** | |
 | JAC → Dornan's (Moose) | ~12 min | Thursday's arrival stop |
 | SLC → Jackson (if routing through Salt Lake) | ~5 hrs | Misconnect Tier 2 |
 
