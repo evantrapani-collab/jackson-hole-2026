@@ -12,7 +12,7 @@
 |---|---|---|
 | Thu dinner | ❌ | Bar crawl — Snake River Brewing has a full menu |
 | Fri breakfast | ❌ | **Cowboy Coffee drive-thru** (1007 S US-89, opens 6 AM), on the way to the 7:45 AM check-in |
-| Fri lunch | ❌ | Rafting — outfitter deli or Cutty's |
+| **Fri lunch** | ✅ | ⚠️ **Newly on the list.** JHWW feeds their *scenic float*, not our whitewater trip — so Friday's lunch is sandwiches, packed Thursday |
 | **Fri dinner** | ✅ | House. **Menu defaults to the fajita bar** (Module A) unless the Sep 10 call says otherwise — see the two modules below |
 | **Sat breakfast** | ⚠️ partial | Burrito stash, bought from a **vendor**, not the grocery store |
 | **Sat lunch** | ✅ | Cooler lunch, eaten at West Thumb |
@@ -32,6 +32,8 @@
 2. **Steak night: Saturday or Sunday?** — **does not change the list at all.** Same ribeyes, same sides, different night. Don't let this one hold up the shopping.
 
 A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes asks RMR on the **8/22** call — **that's tomorrow as of this writing, and it's the last live August item** — and you eyeball the grill yourself Thursday at check-in. See [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
+
+> ⚠️ **Friday lunch is new to this list.** It can't come from Friday's leftovers — Friday dinner happens *after* it. Buy for **two** cooler lunches, not one: Friday at the boathouse and Saturday at West Thumb.
 
 **Also on this trip, and ✅ no longer your problem:** bear spray. It came off this run entirely — the crew now **rents 2 canisters at the Bear Aware kiosk in JAC baggage claim** on arrival (~$56 total, returned Monday). Nothing to buy, no sporting-goods stop. *(If the kiosk is out, **Smith's and Albertsons both stock it** — one line on this cart, not a separate trip.)*
 
@@ -57,7 +59,7 @@ Everything below is **shared regardless of the Friday menu**. Then add one modul
 ### 🥩 Meat & Deli
 
 - [ ] **13 bone-in ribeyes, 24 oz** — butcher counter, pre-ordered (see above)
-- [ ] Deli turkey + ham, **3 lb total** — Saturday cooler lunch
+- [ ] Deli turkey + ham, **6 lb total** — **two** cooler lunches: Friday at the boathouse + Saturday at West Thumb
 - [ ] Sliced cheese, **1.5 lb** — same
 - [ ] Chicken wings, **10 lb** — Sunday game spread
 - [ ] Andouille or smoked sausage, **3 lb** — Sunday game spread
@@ -141,7 +143,7 @@ Everything below is **shared regardless of the Friday menu**. Then add one modul
 - [ ] Fajita seasoning, **4 packets**
 - [ ] Cilantro, extra limes
 
-✅ **Bonus: this module feeds Saturday's cooler lunch.** Leftover fajita meat + tortillas = wraps for Yellowstone, so you can skip the deli meat and rolls above and save ~$35.
+✅ **Bonus: this module feeds Saturday's cooler lunch.** Leftover fajita meat + tortillas = wraps for Yellowstone — so cut the deli line back to **3 lb** (Friday's lunch still needs it) and save ~$18. ⚠️ **It cannot feed Friday's lunch**, which happens before this dinner is cooked.
 
 ### 🍲 Module B — One-Pot (Jambalaya)
 
@@ -156,7 +158,7 @@ Everything below is **shared regardless of the Friday menu**. Then add one modul
 - [ ] Creole seasoning, bay leaves, thyme
 - [ ] French bread, **3 loaves**
 
-⚠️ **If you pick B, keep the deli meat + rolls above** — jambalaya doesn't travel into a cooler the way fajita leftovers do, so Saturday's lunch has to come from somewhere.
+⚠️ **If you pick B, keep the full 6 lb of deli meat + rolls above** — jambalaya doesn't travel into a cooler the way fajita leftovers do, so both Friday's and Saturday's lunches come off the deli line.
 
 ---
 

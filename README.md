@@ -2,7 +2,7 @@
 
 Trip planning hub for everything related to the trip.
 
-> 📱 **[Open the Trip HQ dashboard →](./index.html)** — a single, offline-capable page with a deadline-aware live countdown, the full itinerary (with a Saturday drive-plan strip), game-day times, the crew + who-owns-what board, money, activities triage, one-tap **Maps** links for every on-plan spot, a **checkable grocery list** you can work through in the aisle offline, and check-off packing/to-do lists that mirror this README in full. Open `index.html` in any browser and "Add to Home Screen" so it works when cell service vanishes in Yellowstone.
+> 📱 **[Open the Trip HQ dashboard →](./index.html)** — the whole trip on one offline page: live countdown, day-by-day itinerary, who-owns-what, and check-off lists for groceries, packing and to-dos. Open `index.html` in any browser and "Add to Home Screen" so it works when cell service vanishes in Yellowstone.
 
 ## Trip at a Glance
 
@@ -16,8 +16,8 @@ Trip planning hub for everything related to the trip.
 
 ## Current Status
 
-- ✅ **MONEY IS DONE (8/15) — everyone is paid up to Drewes.** $784.14/man × 13 = **$10,193.82, fully collected**; the Gunter $250 question closed with it. Nothing left to send. Ledger in [`/budget`](./budget/budget.md#the-ledger--settled)
-- ✅ Airbnb booked and paid — the old 8/1 balance question is closed, folded into the $784.14
+- ✅ **Money is done — $784.14/man, collected from all 13.** Nothing left to send. [`/budget`](./budget/budget.md)
+- ✅ Airbnb booked and paid
 - ✅ Flights booked (American Airlines)
 - ✅ Rafting + safari booked — also inside the $784.14, no separate collect. **Both confirmations are now in hand (8/20)** — see the 🆕 bullet below, because they corrected who we're actually booked with
 - ✅ Headcount locked at 13 (Dan Fulham confirmed)
@@ -26,7 +26,6 @@ Trip planning hub for everything related to the trip.
 - ✅ Groceries have an owner — **Chris Psilos**
 - ✅ **Check-in is 4:00 PM** (confirmed 8/15) — a ~5-hour gap off the 10:19 AM landing, which is why Thursday afternoon now has a written shape. Early check-in is asked for but not promised (and may cost)
 - ✅ **Beds picked on arrival** — no pre-assignment; **Brad Ciolino is the 13th man / floor sleeper**, and **he packs an air mattress + pump regardless** of what RMR says about a rollaway
-- ✅ **The Gunter $250 question is closed** — Austin and Solak's March payments went to Gunter instead of Drewes; it sorted out when everyone squared up. Nobody double-paid, nobody's short
 - ✅ **Explorer 3rd row — decided: we don't verify it, we sort it at the JAC counter.** Assume the seats are there. If they're not, the fallback is a third small car on the spot (~$35/person) — written up in Open Items so nobody improvises it Thursday
 - ⚠️ **Steak night may move to Sunday** (Saints) instead of Saturday (LSU) — raised, not decided; default holds
 - ⚠️ **Friday dinner menu still open** — the house venue is locked, but nobody's picked what's cooked (default: fajita bar)
@@ -35,7 +34,7 @@ Trip planning hub for everything related to the trip.
 - 🆕 Also 8/15: **Sidewinders** (sports tavern near Teton Village) joins the Sunday game-venue recon, and the **Saturday Yellowstone route reorders** to hit the Grand Prismatic overlook *first*
 - 🆕 **Friday's two confirmations landed (8/20) — and Friday is simpler than we'd written it.** Three things changed:
   1. **It's two outfitters, not one.** The morning is **Teton Expeditions** (half-day Grand Teton sunrise safari, party of 13 confirmed, 8:00 AM, **4 hours**); the afternoon is **Jackson Hole Whitewater** ("Classic Raft," **1:00–4:30 PM**). These docs had both as one "JHWW van + boat" booking. Two outfits also means **two guide tips**. The Teton Expeditions booking is under **Chris (Psilos)**
-  2. **Both leave from the same building — 945 W Broadway, Jackson** (the boathouse in the Hillside complex, **next to Sidewinders**). **Nobody repositions at midday**, and the Sunday game-venue recon on Sidewinders is now free: we're parked next to it for six hours. Lunch becomes a ~45-min window in that lot, which makes the **outfitter deli** the low-risk pick and **Cutty's in Wilson a detour** — see [`/dining`](./dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)
+  2. **Both leave from the same building — 945 W Broadway, Jackson** (the boathouse in the Hillside complex, **next to Sidewinders**). **Nobody repositions at midday.** Lunch is a ~45-min window in that lot — **pack it Thursday**, or walk into Sidewinders next door — see [`/dining`](./dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)
   3. **The morning starts earlier than the schedule said.** Teton Expeditions wants everyone there **15 minutes prior — 7:45 AM** — which means **wheels up from the house ~6:45** (moved in from 7:00 on 8/21) with **drive-thru** coffee, not a leisurely stop. ⚠️ **New to-do: every man signs JHWW's online waiver before arrival** (the email forwards), and **both outfitters ban alcohol outright** — Teton Expeditions puts it in red
 - ✅ Times, address and the arrival rule are now confirmed **in writing** — the old "confirm the exact departure time with the outfitter" item is closed
 - ⛔️ Via Ferrata — dropped, not doing it
@@ -64,7 +63,7 @@ Trip planning hub for everything related to the trip.
 | **Steak night — Sat or Sun** | Sep 10 call | **Stays Saturday.** If it moves, Saturday drops to pasta/leftovers at the house (no reservation needed) and the Dornan's default is void |
 | **Grill captain** | Sep 10 call | **Psilos lights it** — he owns the meat. 13 bone-in ribeyes is two batches on any home grill; hold batch one in a 200°F oven |
 | **Friday waivers** *(new 8/20)* | whoever forwards the JHWW email · **9/10** | **Thirteen guys fill out forms on their phones in the boathouse parking lot at 12:15.** Nobody misses the boat over it — but it eats the lunch break, which is already only ~45 minutes |
-| **Friday lunch** *(reshaped 8/20)* | Sep 10 call, or day-of | **The outfitter's deli lunch**, eaten at 945 W Broadway. Both trips leave from there, so the default costs zero travel. **Sidewinders is next door** if the group wants a table (and it doubles as the Sunday recon); Cutty's is now a ~25-min round trip out of a ~60-min window |
+| **Friday lunch** ⚠️ | rides the Thursday grocery run | **Sandwiches packed Thursday**, eaten in the boathouse lot. ⚠️ The old "outfitter deli" default **doesn't exist** — JHWW feeds scenic floats, not whitewater. **Sidewinders next door** (opens 11:30, 30+ TVs) is the upgrade if the group wants a table |
 | **Sunday Saints venue** | Thu/Fri recon | **House cookout** — owns the TV and the whole NFL slate, no reservation, no 13-top problem. Snake River Brewing or Roadhouse are the upgrade if the recon likes their setup. ✅ **The recon got easier:** Sidewinders is next door to Friday's boathouse, so eating lunch there answers this for free |
 | **Park pass** | ask in the group chat · **9/7** | **Pay at the gate.** 2 vehicles × 2 parks × $35 = **$140**; two America the Beautiful passes = $160. Only worth buying if someone already owns one |
 | ~~**Bear spray**~~ ✅ **CLOSED 8/21** | — | **Rented at the JAC kiosk, not bought.** Bear Aware staffs baggage claim #3 June–Oct: 2 canisters, ~$56 total, returned to the same box Monday. Zero minutes, ~$44 cheaper, and no canisters to abandon at the house. Backup: Smith's and Albertsons both stock it |
@@ -80,9 +79,8 @@ Trip planning hub for everything related to the trip.
 > 📅 **As of 8/21 there is exactly one live August item: the RMR call, due tomorrow (8/22).** The Cowboy Steakhouse window opened and closed on its own over the weekend; bear spray and the tram both closed on 8/21. Everything else is September.
 
 **🔴 Now (August)**
-- [x] ✅ **PAY DREWES — DONE (8/15). Everyone is paid up.** $784.14/man covering **lodging + van tour + rafting**, × 13 = **$10,193.82**, fully collected. Drewes is whole on the VRBO and the outfitter. The Gunter $250 question closed with it — nobody double-paid, nobody's short. Ledger: [`/budget`](./budget/budget.md#the-ledger--settled)
+- [x] ✅ **Money — done.** $784.14/man (lodging + van tour + rafting), collected from all 13. [`/budget`](./budget/budget.md)
 - [x] ✅ **Cowboy Steakhouse / Snake River Grill — window opened 8/17, closed 8/18, nobody called. Settled: the house steak nights stand.** That was already the crew's decision, so nothing was lost — but note what it means going forward: **there is no sit-down western dinner booked on this trip, and no way to book one now.** If the crew wants one on the ground, the honest answer is a walk-in split across two tables — **Gun Barrel** is the best western option, **Snake River Brewing** and **Roadhouse** are the two big enough to seat 13 together. Don't spend the Sep 10 call relitigating this. *(For next time: Snake River Grill's private room is the one thing anyone found that makes a 13-top easy — call them first, 30 days out.)*
-- [x] ✅ **The old 8/1 Airbnb balance question — closed.** It was ~$56 vs. ~$100/person depending on which quote Drewes was collecting to; moot now that lodging and tours are one $784.14 figure with deposits netted off
 - [x] ✅ **Explorer 3rd row — decided: not verifying in advance.** We find out at the JAC counter and make it work. *(Closed as a decision, not a gap — but see the counter plan below, because the worst case doesn't sort itself out.)*
 
 > **If the Explorer turns out to be a 5-seater** (the whole reason this was open): that's 5 + 7 = **12 seats for 13 guys**. Two things to know so nobody's improvising at the counter with 13 tired guys behind them:
@@ -92,10 +90,6 @@ Trip planning hub for everything related to the trip.
 
 - [ ] ⏰ **The RMR call — DUE TOMORROW (8/22), and it's the last live August item** *(Owner: **Drewes** — he's the guest of record, so RMR takes questions from him)*. ✅ **Check-in answered: 4:00 PM.** Still open: **(1) checkout time** — sets the Monday exit (plan: out by ~9:45 AM for the 11:47 flight either way); **(2) a sleeping surface for Ciolino** — sofa bed, cot, or rollaway; **(3) the grill + propane**. ☎️ **(307) 739-9050 · lodging@rmrentals.com**. Each has a default that holds if the call never happens — see *Decision Defaults* above
   - ⏳ **Early check-in:** Drewes has already asked. It hinges on the cleaning crew and a Wednesday checkout, and **RMR may charge to lock it in early** — so it's a bonus, not a plan. Build Thursday for 4 PM
-
-**By Aug 1 — window closed**
-> ✅ **The 8/1 Airbnb balance is superseded** — Drewes replaced it on 8/10 with the single **$784.14/man** lodging + tours number, which lives in *Now* above. Not a second checkbox.
-- [x] **By 8/1** — ✅ confirmed what Montreux House sleeps: **5 BR / 6 beds (5 kings + 1 queen)** across 3 levels (full layout in [`/lodging`](./lodging/lodging.md#sleeping-13)). 6 beds max 12 even fully shared → **bring 2 air mattresses** for 13
 
 **August → Sep 10**
 - [x] ✅ **Room/bed assignments — decided: pick on arrival**, no pre-assigned roster
@@ -110,11 +104,11 @@ Trip planning hub for everything related to the trip.
 - [ ] Pick Sunday Saints venue — Cutty's / Eleanor's / house / a brewery. Snake River Brewing and Roadhouse look like the best bets (space + seating); Thu/Fri recon planned to check TVs before deciding (Saints @ Ravens, 11 AM MT / noon CT, CBS — confirmed). **Default: the house cookout** — it owns the TV, the full NFL slate, and needs no 13-top anywhere
 - [x] ✅ **Sunday dinner — default locked and now verified: early Dornan's (~5 PM)**, backup the house. **Hours confirmed 8/21: open daily 11:30 AM–7:00 PM, year-round**, so the long-standing "confirm fall hours" action is closed down to a courtesy call. ⚠️ Two live caveats: **it's ~35 min each way now** (Moose-Wilson closed — leave the Village by 4:30), and it's **void if steak night moves to Sunday**
 - [ ] **Saturday lunch in Yellowstone — nobody's answered this.** Every other meal Thu–Mon has a plan; this one doesn't. Old Faithful's food court with 13 guys at noon is a 45-minute hole in a day already racing a **2:00 PM turnaround at West Thumb**. **Pack a cooler lunch Friday night** (Friday's dinner leftovers wrap up perfectly, or grab sandwiches at Creekside Market) and eat it at West Thumb on the way back. See [`/dining`](./dining/dining.md#saturday-lunch--pack-it)
-- [ ] **Monday breakfast** — out the door ~9:45 for an 11:47 flight, so this is coffee + whatever's left at the house, not a sit-down. Keep 2–3 burritos back from the stash for it; JAC's terminal food is thin. See [`/dining`](./dining/dining.md#monday-breakfast--use-what-is-left)
+- [ ] **Monday breakfast** — out the door ~9:45 for an 11:47 flight, so this is coffee + whatever's left at the house, not a sit-down. Keep 2–3 burritos back from the stash for it; JAC's terminal food is thin. See [`/dining`](./dining/dining.md#monday-breakfast--use-whats-left)
 - [ ] **Early-start breakfast** — order a batch of breakfast burritos (~18–20) to stash at the house for the **Sat 6:15 AM** Yellowstone + **Sun 6:00 AM** wildlife-drive starts (both moved earlier on 8/21 — see the review above, and note there is now *nothing* open in Jackson before either departure); **pick up Friday after rafting** (Teton Village delivery is thin). See [`/dining`](./dining/dining.md#breakfast-burritos-for-the-early-starts--house-stash)
 
 **1–2 weeks out (early September)**
-- [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) runs Thu Sep 17** — Tier 1 of the [DFW misconnect playbook](./logistics/logistics.md#if-the-dfw-connection-blows-up--misconnect-playbook) (43-min connection); if it's not in the schedule, the fallback is fly-to-SLC-and-drive (~5 hrs)
+- [x] ✅ **Evening DFW→JAC nonstop — it exists.** AA flies JAC **year-round, 2 nonstops daily**, so the [misconnect playbook's](./logistics/logistics.md#if-the-dfw-connection-blows-up--misconnect-playbook) Tier 1 holds. Only leftover: check the exact evening departure time in the app the week before
 - [ ] **Identify who is NOT on the group MSY→DFW→JAC itinerary** — a few guys booked separately (names still TBD). They get **no group rebooking protection** if DFW blows up, and they need to know Friday's van tour is past its refund window either way. Get the names on paper; it's currently in [`/logistics`](./logistics/logistics.md) only
 - [ ] **Tram — ✅ dates confirmed 8/21; just buy the tickets** *(by **9/7**, before anyone flies)*: JHMR runs the **Aerial Tram May 16 – Oct 4, 2026, 8:30 AM–5 PM**, with **Corbet's Cabin** open at the summit. Sunday Sep 20 is comfortably in season, so the "is it even running?" question that's been open since July is **closed**. Remaining action is one purchase: **~$55/person online** *(and that ~$55 is now carried in [`/budget`](./budget/budget.md) — it wasn't before)*. **If nobody buys, Sunday afternoon defaults to downtown Jackson + the early Dornan's dinner** already on the day — no empty block. See [`/activities`](./activities/activities.md#booking-notes)
 - [ ] **Travel insurance** — decide yes/no (it's on the packing checklist but never settled). Trip-delay coverage is exactly the DFW 43-min-connection scenario — see the misconnect playbook. ⏰ **Note what's already gone:** "cancel for any reason" riders almost always require purchase within 10–21 days of the *first* trip deposit, which was months ago. What's still buyable now is trip-delay / interruption / medical — which is the coverage that actually matches this trip's risk, so the decision is still worth making, just don't expect CFAR
@@ -122,7 +116,7 @@ Trip planning hub for everything related to the trip.
 - [x] ✅ **Bear spray — closed 8/21: rent it at the airport, don't buy it in town.** **Bear Aware** staffs a kiosk at **JAC, next to baggage claim #3**, seven days a week June–October. Two canisters (one per vehicle) at **$16 for the first two days / $4/day after, capped at $28 each — ~$56 total, ~$4/man.** Return them to the **after-hours drop box at the same kiosk** Monday morning. It costs **zero minutes** (you're at that carousel anyway), it's ~$44 cheaper than buying, and it answers the part nobody had: **you can't fly home with bear spray, so bought canisters get abandoned.** *(Backup if the kiosk is out: **Smith's and Albertsons both stock it** — one line on the errand-hour cart, never a separate sporting-goods trip.)*
 - [x] ✅ **Confirm the exact Friday departure / check-in times — done (8/20, in writing):** safari check-in **7:45 AM**, departs **8:00**, runs **4 hours**; rafting **1:00–4:30 PM**, check in **12:30**. Both at **945 W Broadway**
 - [ ] Decide wetsuit rentals ($5/person, weather-dependent)
-- [ ] **Pick Friday lunch** — outfitter deli (default) / **Sidewinders next door** / Cutty's in Wilson. It's a ~45-min window in the boathouse lot now, not a drive between two places. See [`/dining`](./dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)
+- [ ] ⚠️ **Friday lunch — the old default was a meal nobody serves.** JHWW includes lunch on **scenic floats**, not on the whitewater trip we booked. **New default: sandwiches on the Thursday grocery list**, eaten in the boathouse lot. **Sidewinders next door** (opens 11:30) is the upgrade. See [`/dining`](./dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)
 - [ ] **Ask Teton Expeditions whether they have their own waiver** — JHWW's is confirmed; theirs isn't mentioned either way
 - [ ] **Finalize the carpool / seat split across the two SUVs** — 3rd vehicle is ruled out, so tell everyone to bring **soft duffels, not hard rollers** (Thursday and Monday are the tight legs)
 - [ ] Download offline maps for Yellowstone (no cell service) — **and the Shaka Guide "Yellowstone National Park Tour"** audio driving tour, which narrates our exact South-Entrance loop and works offline once downloaded (rec from Jeremy Galiano, 8/15)
@@ -130,7 +124,6 @@ Trip planning hub for everything related to the trip.
 - [ ] Print all confirmations + the [Key Contacts table](./logistics/logistics.md#key-contacts--print-this-no-cell-service-in-the-parks)
 - [ ] **Emergency info** — write down the nearest hospital: **St. John's Health, 625 E Broadway, Jackson** (~25 min from the house). It's a rafting + hiking trip; have it on paper since there's no cell service in the parks
 - [ ] **Guide gratuities** — Friday is a full-day van tour **+** private rafting trip; budget ~$20–40/person in tips across both guides. Expected, and easy to forget on the river. Bring **cash** (a few spots in town are cash-only too)
-- [x] ✅ Rafting balance — no separate collect; it's inside the $784.14 Drewes posted 8/10
 
 **On the trip (Sep 17–21)**
 - [ ] **Thu — run the afternoon plan** *(Drewes, 8/15; rebuilt 8/21)*: land 10:19 → **rent 2 bear sprays at the baggage-claim kiosk while Hardie and Schick get the SUVs** → **Dornan's** (~12 min from JAC — pizza, beer, Tetons, and a chance to adjust to 6,200 ft; **they open at 11:30**) → **the brewery in town Austin recommended** (Snake River Brewing) → **the errand hour, 3:00–4:00** → **4 PM check-in** → out for the night. Full clock in [`/itinerary`](./itinerary/itinerary.md).

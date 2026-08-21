@@ -30,7 +30,7 @@
 - Sit toward the front of AA 468 — the 43 minutes is a Skylink sprint, not a coffee stop
 
 **Tier 1 — missed it; catch the same-day evening nonstop**
-- DFW→JAC typically has a **second nonstop ~5:50 PM (lands ~7:45 PM)** — but post-Labor-Day schedules thin out, so **verify it's running Thu Sep 17** (on the 1–2-weeks-out list)
+- ✅ **The backup flight exists.** AA runs **2 nonstops a day DFW→JAC, 14 a week, year-round** — the old worry that post-Labor-Day schedules thin out doesn't apply. The second one is the evening departure (~5:50 PM, lands ~7:45). **Confirm the exact time in the app the week before**; the structural risk is closed, but *2 a day* also means the evening flight is the last chance, and 13 seats on it is a lot
 - The race is seats, not rebooking: everyone on the group ticket rebooks **simultaneously in the AA app** while one guy calls AA and another hits the gate desk. Take whatever's there; split across flights if needed
 - **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations and are on the group itinerary, so they misconnect together. An advance party grabs the SUVs, checks into the house, and triggers the grocery **delivery** fallback (see `/dining`)
 - Cost of this outcome: the Thursday midday window and most of the bar crawl. Friday untouched. Bear spray moves to Friday evening
@@ -51,7 +51,7 @@
 ## Lodging
 
 - **Airbnb (Montreux House)** — booked ✅
-- ✅ **Paid in full — $784.14/man**, lodging **+ van tour + rafting** combined, collected from all 13 by **8/15**. Nothing left to send. Ledger in [`/budget`](../budget/budget.md#the-ledger--settled)
+- ✅ **Paid in full — $784.14/man**, lodging + van tour + rafting combined, collected from all 13. Nothing left to send. [`/budget`](../budget/budget.md)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
 - ✅ **Check-in is 4:00 PM** *(confirmed 8/15)*. That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** Drewes has planted the seed with RMR, but it depends on the cleaning crew and a Wednesday checkout, and **they may charge to lock it in early**. Play it by ear; build the day for 4 PM.
 - [ ] **Still to confirm on the RMR call** *(Owner: **Drewes**, by **8/22**)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino, and the grill + propane
@@ -68,7 +68,7 @@
 | **Morning** | **Teton Expeditions** — half-day Grand Teton sunrise safari, **party of 13 confirmed, 9/18 8:00 AM**, **4 hours** (back ~noon). **Be there 15 min prior — 7:45 AM** |
 | **Afternoon** | **Jackson Hole Whitewater** — "Classic Raft" (8 Miles of Smiles, Class 2–3), **1:00–4:30 PM**, private boat. Check in 12:30 (30 min early) |
 | **JHWW phone** | **307-733-1007** |
-| Payment | ✅ **Paid** — never a separate collect. Both are inside the **$784.14/man** figure, settled by all 13 on 8/15; ledger in [`/budget`](../budget/budget.md#the-ledger--settled) |
+| Payment | ✅ **Paid** — never a separate collect; both sit inside the **$784.14/man** figure |
 | Cancellation | Full refund if cancelled 7+ days out |
 
 > 📇 **Name on the bookings:** the Teton Expeditions confirmation is addressed to **Chris** — i.e. **Psilos**, not Drewes, is the contact of record for the morning safari. Worth knowing before somebody calls the wrong outfitter about the wrong trip on Friday morning.
@@ -82,17 +82,18 @@
 - **Wetsuits:** Available to rent on-site — $5/person (3-piece suit); decide closer to the trip based on weather
 - **Arrival:** **7:45 AM** for the safari (confirmed); **30 min early** for rafting (contract)
 - **Before you go:** ☕ **Cowboy Coffee's drive-thru at 1007 S US-89** — opens **6 AM**, sits ~2 min from the boathouse right where WY-22 meets the highway, and you pass it on the way in. **Not the Town Square store** (125 N Cache): that one is ~5 min *east past* 945 W Broadway, so it's a backtrack, and 13 guys queuing indoors at 7:15 is how a 7:45 check-in slips. **Leave the house ~6:45**, not 7:00
-- **Lunch — a ~60-minute window in the boathouse lot** (see [`/dining`](../dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)):
-  - Option A: Deli-style lunch supplied by the outfitter — zero travel, the low-risk default
-  - Option B: **Sidewinders** — next door in the same complex, and it doubles as the **Sunday game-venue recon**
-  - Option C: **Cutty's** (Wilson) — ~10 min west each way, which eats half the window. Weaker now that both trips share an address
+- **Lunch — a ~45-minute window in the boathouse lot** (see [`/dining`](../dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)):
+  - ⚠️ **JHWW does not feed this trip.** Lunch comes with their **scenic float**; we booked the **whitewater "Classic Raft"** — guide, paddles, splash gear, shuttle, no food
+  - ✅ **Default: sandwiches packed Thursday**, eaten on a tailgate. Zero travel, zero queue
+  - **Upgrade: Sidewinders**, next door, opens **11:30 AM**, 30+ TVs — walk in and say you're on the 1:00 boat. No reservations, so it's a gamble on a 45-min turn for 13
+  - 🚫 **Cutty's is out** — ~25 min of the window in the car for a table you could have next door
 - **Two outfitters = two tips.** Cash, ~$20–40/person across both
 
 ### Reminders (don't need to decide now)
 
 - [ ] **Waivers signed by all 13** — forward the JHWW email to the group
 - [ ] Wetsuit rentals — decide closer to the trip ($5/person)
-- [ ] Lunch preference — outfitter deli, Sidewinders next door, or Cutty's?
+- [x] ✅ **Lunch — settled: pack it Thursday** (JHWW feeds scenic floats, not whitewater). Sidewinders next door is the walk-in upgrade
 - [ ] ✅ Times confirmed in writing (7:45 check-in / 8:00 safari / 1:00 rafting). Still open: whether **Teton Expeditions has its own waiver**, and whether the safari can hand off directly to JHWW if the van runs long
 
 ---
@@ -234,14 +235,14 @@
 - [ ] **Sunday Saints venue — default: the house cookout**; breweries (Snake River, Roadhouse) are the upgrade if the Thu/Fri recon likes them
 
 ### 1–2 Weeks Before
-- [ ] **Verify the evening DFW→JAC nonstop (~5:50 PM) is running Thu Sep 17** — it's Tier 1 of the misconnect playbook above; if it's not in the schedule, the fallback is fly-to-SLC-and-drive
+- [x] ✅ **Evening DFW→JAC nonstop — confirmed it exists:** AA flies JAC year-round, **2 nonstops daily**. Just check the exact departure time in the app the week before
 - [ ] **Identify who is NOT on the group itinerary** — they have no group rebooking protection; make sure they know Friday's van tour is past its refund window
 - [ ] Decide travel insurance (yes/no)
 - [ ] **Tram — ✅ operating dates confirmed; just buy the tickets** *(by 9/7)*. JHMR runs the **Aerial Tram May 16 – Oct 4, 2026, 8:30 AM–5 PM**, Corbet's Cabin open — Sunday the 20th is safely inside it. **~$55/person**, buy online. *(The old "is it even running in late September" risk is closed. If nobody buys tickets, Sunday afternoon still defaults to downtown Jackson + the early Dornan's already on the day.)*
 - [x] ✅ **Bear spray — solved, and it costs nobody a stop:** rent 2 canisters at the **Bear Aware kiosk, JAC baggage claim #3** Thursday morning (~$28 each capped, ~$56 total), drop them in the same kiosk's box Monday. Fallback: Smith's/Albertsons both stock it
 - [ ] **All 13 sign the JHWW online waiver** — forward the confirmation email to the group *(and ask Teton Expeditions whether they have one too)*
 - [ ] Decide on wetsuit rentals (weather-dependent)
-- [ ] Decide on Friday lunch (outfitter deli / Sidewinders next door / Cutty's)
+- [x] ✅ **Friday lunch — sandwiches on the Thursday grocery list**; Sidewinders next door is the upgrade
 - [ ] Finalize carpool / seat split across the **two** SUVs (3rd vehicle ruled out)
 - [ ] Download offline maps for Yellowstone + the **Shaka Guide "Yellowstone National Park Tour"** audio tour (covers our South-Entrance loop; works offline)
 - [ ] Check Yellowstone road/trail conditions at NPS.gov
