@@ -63,7 +63,6 @@
 | **Total on the ground** | **≈ $1,100–1,390** |
 | Flights | + each person's own booking |
 
-> 🆕 **What moved (8/21 review):** the **tram ticket (~$55/person) was never in this budget** and it's on the Sunday plan — added above. Working against it, **bear spray dropped from ~$8 to ~$4/man** by switching from buying two canisters to renting them at the airport kiosk. Net effect on the all-in number: **+$56 at the top end** ($1,330 → $1,390), and now it's honest.
 
 ---
 

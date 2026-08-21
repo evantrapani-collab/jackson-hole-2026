@@ -8,14 +8,12 @@
 ## Thursday, Sep 17 — Arrival + Hit the Town
 
 - Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
-- ✅ **Check-in is 4:00 PM** *(confirmed with RMR, 8/15)*. That's a **~5-hour gap** with 13 guys and all the bags in two SUVs — longer than the "4–5 hours" this page used to assume, and the whole reason the afternoon needs a shape.
+- ✅ **Check-in is 4:00 PM** *(confirmed with RMR)*. That's a **~5-hour gap** with 13 guys and all the bags in two SUVs — longer than the "4–5 hours" this page used to assume, and the whole reason the afternoon needs a shape.
   - ⏳ **Early check-in: asked for, not promised.** Drewes has already planted the seed with RMR. It hinges on the cleaning crew and whether anyone checked out Wednesday, and **they may charge for locking it in early** — so it's a play-it-by-ear bonus, not something to build the day around. **Plan for 4 PM; be pleasantly surprised.**
 
-### The afternoon — Drewes's plan (8/15), rebuilt around one closure
+### The afternoon
 
-> 🚡 **The gondola is out — and that's good news.** JHMR runs the **Bridger Gondola June 6 – Sept 13, 2026**. We land Sept 17, four days after it shuts for the season. So Thursday's third stop doesn't exist.
->
-> **What replaces it is the errand hour this plan never had.** Groceries and bear spray have been homeless in every version of this afternoon — now they own the 3:00–4:00 block instead of being squeezed into somebody's beer. And it settles the lift question for good: **the tram is Sunday's, full stop.** Two different rides, only one of them running, no risk of paying twice for the same view.
+> 🚡 **No lift on Thursday** — the Bridger Gondola's season ends Sept 13 and we land the 17th. **The tram is Sunday's.** The 3:00–4:00 block is the grocery run instead.
 
 Land → **Dornan's** → **brewery in town** → **the errand hour** → **check in** → out for the night. Rough clock, so you can see the seams:
 
@@ -48,7 +46,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 
 > **Booked dawn-to-dusk — no free morning.** The 8 AM safari *is* your Tetons morning.
 >
-> ✅ **Both confirmations are in (8/20), and together they answer the day's biggest open question: it all happens at one address.** The morning tour is **Teton Expeditions** — a different outfit than the rafting, which is **Jackson Hole Whitewater**, and not the single "JHWW van + boat" these docs assumed. But **both stage from the same building: 945 W Broadway, Jackson** (the boathouse in the Hillside complex, next door to Sidewinders). **Nobody repositions midday.** The van brings you back to the boat.
+> **It all happens at one address.** The morning tour is **Teton Expeditions**; the rafting is **Jackson Hole Whitewater**. Both stage from **945 W Broadway** (the boathouse in the Hillside complex, next door to Sidewinders). **Nobody repositions midday** — the van brings you back to the boat.
 
 | Time | What | Where |
 |---|---|---|

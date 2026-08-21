@@ -13,7 +13,7 @@
 | **Bathrooms** | 5 private |
 | **Airbnb listing** | airbnb.com/rooms/52569336 |
 | **Total** | $7,229.82 (≈$556/person at 13) |
-| **Check-in / checkout** | ✅ **Check-in 4:00 PM** (confirmed 8/15). Checkout still to confirm — plan on out by ~9:45 AM Monday for the 11:47 flight |
+| **Check-in / checkout** | ✅ **Check-in 4:00 PM.** Checkout still to confirm — plan on out by ~9:45 AM Monday for the 11:47 flight |
 | **Balance due** | ✅ **Paid in full** — inside the $784.14/man figure |
 
 ### Location Notes
