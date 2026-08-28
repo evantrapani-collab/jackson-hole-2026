@@ -10,7 +10,7 @@
 | Hidden Falls & Inspiration Point | 9.7 mi RT | Moderate | Waterfall, panoramic views |
 | Cascade Canyon to Lake Solitude | 14.5 mi RT | Strenuous | Best fall colors, high alpine lake |
 | Taggart & Bradley Lakes Loop | 5.9 mi | Easy–Moderate | Quiet, great wildlife |
-| Death Canyon | 8.5 mi RT | Moderate | Dramatic canyon walls |
+| Death Canyon | 8.5 mi RT | Moderate | 🚫 **Trailhead closed all 2026** — Death Canyon Road and its trailhead are shut for the season's construction; the canyon is only reachable on foot from the LSR Preserve, Granite Canyon or Teton Village, which makes it a much longer day. Next trip |
 | Amphitheater Lake | 9.7 mi RT | Strenuous | Huge elevation gain, incredible views |
 
 ### On the Water

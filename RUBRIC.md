@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-08-21, third pass — found at **94**, restored to 100; see the notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-08-28 — found at **95**, restored to 100; see the notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -112,17 +112,20 @@ Current standing, and where the three 8/21 passes found gaps. Earlier columns li
 
 ---
 
-## Verified external facts — checked 2026-08-21
+## Verified external facts — re-checked 2026-08-28
 
 Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the two most recent passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
 
 | Fact | Value | Re-check at |
 |---|---|---|
-| Aerial Tram season | May 16 – Oct 4, 2026, 8:30–5 · ~$55/pp | jacksonhole.com |
+| Aerial Tram season | May 16 – Oct 4, 2026, 8:30–5 · $54 adult | jacksonhole.com |
 | Bridger Gondola season | **Ends Sept 13** — closed for our trip | jacksonhole.com |
 | Corbet's Cabin | 8:30–5, with the tram | jacksonhole.com |
-| Moose-Wilson Road | **Closed Sep 8 – Nov 15, 2026** | nps.gov/grte |
-| Craig Pass (West Thumb ↔ Old Faithful) | Open, but first to close for snow | nps.gov/yell — **check day-of** |
+| Moose-Wilson Road | **Closed Sep 8 – Nov 15, 2026** (shuts end of day 9/7, Moose ↔ LSR Preserve). LSR Preserve still reachable from the **Granite Canyon entrance** | nps.gov/grte |
+| Death Canyon Road + Trailhead | **Closed all 2026 season** | nps.gov/grte |
+| Teton-area fire restrictions | Stage 1 in force **Jul 22 → lifted Aug 26, 2026**; danger now moderate. Stage 1 bans charcoal, allows propane | Teton Interagency Fire |
+| Old Faithful overpass work | Jul 20 – ~Aug 14, 2026 — **finished before the trip** | nps.gov/yell |
+| Craig Pass (West Thumb ↔ Old Faithful) | **Scheduled open May 8 – Oct 31, 2026**; still first to close for snow | nps.gov/yell — **check day-of** |
 | House → Yellowstone South Entrance | ~1 hr 30 | maps, day-of |
 | South Entrance → Old Faithful | 39 mi / ~1 hr 15 | NPS |
 | Grand Prismatic overlook | 1.6 mi round trip on foot from Fairy Falls lot | NPS |
@@ -134,8 +137,8 @@ Maintainer's ledger. These are the claims the plan *depends on* that live outsid
 | Bear Aware kiosk, JAC | Baggage claim #3, Jun–Oct, ~$28/canister capped | bearaware.com |
 | Park entry | $35/vehicle/park, **7-day**; +$100 non-resident surcharge (2026) | nps.gov |
 | DFW→JAC nonstops | 2 daily, year-round | AA app |
-| LSU–Ole Miss | Sat 9/19, 5:30 PM MT, ABC | — |
-| Saints @ Ravens | Sun 9/20, 11:00 AM MT, CBS | — |
+| LSU–Ole Miss | Sat 9/19, 5:30 PM MT (6:30 CT), ABC — re-confirmed 8/28 | — |
+| Saints @ Ravens | Sun 9/20, 11:00 AM MT (noon CT), CBS — re-confirmed 8/28 | — |
 
 ---
 
@@ -233,3 +236,27 @@ The previous pass cut the dashboard and left the README untouched. Read cold, th
 **Restored to 100:** the changelog section deleted; completed items collapsed to one line each; settled decisions reduced to one canonical explanation plus short pointers; all 22 datestamps stripped while keeping the names. **README: 32.6KB → 24.1KB (−26%)**, and the same sweep across dining, logistics, itinerary, budget and activities. The dashboard's last dated fragments went with them.
 
 **The rule this pass earns, and it generalises past this repo:** *the cost of a fact is the number of places it is written, not the number of words.* Two passes have now been spent deleting text that a previous pass added in good faith. The discipline that prevents a third is: **when a decision closes, delete its reasoning and keep its outcome.** The reasoning is what git history is for.
+
+---
+
+---
+
+### 8/28 re-grade — the calendar moved and the docs didn't
+
+Six days on from the last pass, with nothing about the trip changed except the date. **Found at 95 (−5)** — and four of the five deductions are the same failure in different clothes: *documents written in a tense that expired.*
+
+| # | Cat | Deduction | What was wrong |
+|---|---|---|---|
+| −2 | §1 | **A deadline rotted past its date without being recorded** | The RMR call was due **8/22**. As of 8/28 the README still read *"DUE TOMORROW (8/22), and it's the last live August item,"* the dashboard still showed a live warn pill, and `grocery-list.md` still said *"that's tomorrow as of this writing."* This is the exact defect the 8/4 pass named — *deadlines rot; a date that has passed is a defect* — recurring on a different item |
+| −1 | §3 | **A fallback that a public-lands rule can void** | The grill contingency has always been *"charcoal → 2 bags + a chimney."* Nobody had checked fire restrictions. **Teton-area Stage 1 restrictions were in force Jul 22 – Aug 26**, and Stage 1 bans charcoal while explicitly permitting propane — so for five weeks of planning, the written fallback was the one option that would have been illegal. They're lifted now, and the fall forecast is warm and dry |
+| −1 | §8 | **The list broke its own promise of chronological order** | Open Items says *"in chronological order — work top to bottom,"* and the two **9/7** items (tram tickets, the park-pass question) sat below a block of **9/10** items in both layers, because the buckets were named for a month that's ending |
+| −1 | §7 | **Dashboard drift on three settled facts** | The to-do tab still asked to *"confirm late-Sept tram operating dates"* and *"confirm Dornan's fall hours"* — both confirmed and closed in the markdown weeks ago; its intro claimed **two** ⭐ gating items where the README says one; and the zero-JS progress label read **"0 of 28 done"** against **36** checkboxes, 3 of them pre-checked |
+
+**Restored to 100:**
+
+- **The 8/22 fence is recorded as blown, and what fired is written down.** Its three questions — checkout, Ciolino's surface, the grill — each had a default, and those defaults are now simply *the plan*: ~10 AM checkout, an air mattress in Ciolino's bag, the grill eyeballed Thursday. What's left is one email, not another call, and the docs say so in all five places it appears.
+- **The buckets are named for fences, not months:** *Now — by 9/7* → *By Sep 10* → *The week before* → *On the trip*, with the tram and park-pass items moved up where they belong. Same order on the dashboard.
+- **The charcoal branch carries its condition.** Fire restrictions are checked, dated, and written into both the grocery list and the grill-check section: *if Stage 1 comes back, propane is legal and charcoal isn't.*
+- **The dated ledger above was re-run against the outside world.** Everything load-bearing held: Moose-Wilson (closes end of day 9/7, LSR Preserve still reachable via Granite Canyon), the tram (May 16 – Oct 4, $54), both kickoffs, the $35/7-day park fee and the 2026 non-resident surcharge. Three facts are new: **Craig Pass is scheduled open through Oct 31** (so a September closure would be snow, not the season — worth knowing when you make the day-of check), the **Old Faithful overpass work finished in August**, and **Death Canyon Road and its trailhead are closed for all of 2026**, which puts a 🚫 on a reference hike and a note on its map pin.
+
+**The rule this pass earns:** *a plan is written in a tense, and tense expires.* Every "tomorrow," "this week," "the last live item" is a fact with a shelf life, and the cheapest possible review — read the docs on a date nobody wrote them for — catches it. Worth doing on a fixed cadence, not only when something changes.

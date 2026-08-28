@@ -31,7 +31,7 @@
 1. **Friday dinner menu** — fajita bar vs. one-pot. This is the *only* part of the list that actually branches. Pick a module below. ✅ **Default: Module A, the fajita bar** — nobody has to decide anything for that to happen, and it's the branch that also feeds Saturday's cooler lunch.
 2. **Steak night: Saturday or Sunday?** — **does not change the list at all.** Same ribeyes, same sides, different night. Don't let this one hold up the shopping.
 
-A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes asks RMR on the **8/22** call — **that's tomorrow as of this writing, and it's the last live August item** — and you eyeball the grill yourself Thursday at check-in. See [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
+A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes's 8/22 RMR call came and went, so **the answer now arrives Thursday at check-in when you eyeball the grill yourself** — buy the charcoal on the Friday burrito run if you need it, not before. See [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
 
 > ⚠️ **Friday lunch is new to this list.** It can't come from Friday's leftovers — Friday dinner happens *after* it. Buy for **two** cooler lunches, not one: Friday at the boathouse and Saturday at West Thumb.
 
@@ -122,7 +122,7 @@ Everything below is **shared regardless of the Friday menu**. Then add one modul
 - [ ] Dish soap + dishwasher pods
 - [ ] Gallon ziplocs — cooler lunch, leftovers
 - [ ] Sunscreen / lip balm if anyone forgot *(they did)*
-- [ ] ⚠️ **Charcoal (2 bags) + chimney starter** — **only if the grill turns out to be charcoal.** Skip if it's gas and the tank's full; if the tank's low, a **~$25 propane exchange** is at the same Smith's/Albertsons
+- [ ] ⚠️ **Charcoal (2 bags) + chimney starter** — **only if the grill turns out to be charcoal, and only if fire restrictions are off** (Stage 1 bans charcoal, not propane; the Teton-area order lifted 8/26). Skip if it's gas and the tank's full; if the tank's low, a **~$25 propane exchange** is at the same Smith's/Albertsons
 
 ---
 

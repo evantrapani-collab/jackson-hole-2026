@@ -83,7 +83,7 @@ PLACES = [
     ("Hidden Falls & Inspiration Point", "Grand Teton NP", "Optional hike", "Inspiration Point, Grand Teton National Park, WY", False, "Waterfall + panorama off Jenny Lake."),
     ("Cascade Canyon Trailhead", "Grand Teton NP", "Optional hike", "Cascade Canyon Trailhead, Grand Teton, WY", False, "To Lake Solitude; best fall colors."),
     ("Taggart Lake Trailhead", "Grand Teton NP", "Optional hike", "Taggart Lake Trailhead, Grand Teton, WY", False, "Taggart & Bradley Lakes loop."),
-    ("Death Canyon Trailhead", "Grand Teton NP", "Optional hike", "Death Canyon Trailhead, Grand Teton, WY", False, "Dramatic canyon walls."),
+    ("Death Canyon Trailhead", "Grand Teton NP", "Optional hike", "Death Canyon Trailhead, Grand Teton, WY", False, "CLOSED all 2026 season - road + trailhead shut for construction."),
     ("Lupine Meadows Trailhead", "Grand Teton NP", "Optional hike", "Lupine Meadows Trailhead, Grand Teton, WY", False, "Access for Amphitheater Lake."),
     ("String Lake", "Grand Teton NP", "Optional", "String Lake, Grand Teton National Park, WY", False, "Calm paddling; no motors."),
     ("Oxbow Bend", "Grand Teton NP", "Sun sunrise", "Oxbow Bend, Grand Teton National Park, WY", False, "Moose/elk + classic Teton reflection."),

@@ -54,7 +54,7 @@
 - ✅ **Paid in full — $784.14/man**, lodging + van tour + rafting combined, collected from all 13. Nothing left to send. [`/budget`](../budget/budget.md)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
 - ✅ **Check-in is 4:00 PM.** That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** Drewes has planted the seed with RMR, but it depends on the cleaning crew and a Wednesday checkout, and **they may charge to lock it in early**. Play it by ear; build the day for 4 PM.
-- [ ] **Still to confirm on the RMR call** *(Owner: **Drewes**, by **8/22**)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino, and the grill + propane
+- [ ] **Still unanswered by RMR — the 8/22 fence passed, so the defaults hold** *(Owner: **Drewes**, guest of record — now one email, not another call)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino (he packs an air mattress either way), and the grill + propane (eyeballed Thursday at check-in)
 
 ---
 

@@ -70,7 +70,7 @@ current 19 pins — skip those.
 - [ ] [Hidden Falls & Inspiration Point](https://www.google.com/maps/search/?api=1&query=Inspiration+Point%2C+Grand+Teton+National+Park%2C+WY) — Waterfall + panorama off Jenny Lake.
 - [ ] [Cascade Canyon Trailhead](https://www.google.com/maps/search/?api=1&query=Cascade+Canyon+Trailhead%2C+Grand+Teton%2C+WY) — To Lake Solitude; best fall colors.
 - [ ] [Taggart Lake Trailhead](https://www.google.com/maps/search/?api=1&query=Taggart+Lake+Trailhead%2C+Grand+Teton%2C+WY) — Taggart & Bradley Lakes loop.
-- [ ] [Death Canyon Trailhead](https://www.google.com/maps/search/?api=1&query=Death+Canyon+Trailhead%2C+Grand+Teton%2C+WY) — Dramatic canyon walls.
+- [ ] [Death Canyon Trailhead](https://www.google.com/maps/search/?api=1&query=Death+Canyon+Trailhead%2C+Grand+Teton%2C+WY) — CLOSED all 2026 season - road + trailhead shut for construction.
 - [ ] [Lupine Meadows Trailhead](https://www.google.com/maps/search/?api=1&query=Lupine+Meadows+Trailhead%2C+Grand+Teton%2C+WY) — Access for Amphitheater Lake.
 - [ ] [String Lake](https://www.google.com/maps/search/?api=1&query=String+Lake%2C+Grand+Teton+National+Park%2C+WY) — Calm paddling; no motors.
 - [ ] [Oxbow Bend](https://www.google.com/maps/search/?api=1&query=Oxbow+Bend%2C+Grand+Teton+National+Park%2C+WY) — Moose/elk + classic Teton reflection.

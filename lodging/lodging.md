@@ -61,4 +61,4 @@ Note: 4 of the 6 beds (8 people) are on the **Lower Level** — the Junior Suite
 
 - [x] ✅ **Room/bed assignments — decided: sort on arrival**, no pre-assignment
 - [ ] **Ciolino packs an air mattress + pump** *(Owner: Brad Ciolino — unconditional)*. A second one is cheap insurance if anyone else would rather not share a king; 6 beds only reach 12 with every bed doubled up
-- [ ] **Drewes asks RMR about a rollaway/cot/sofa bed** *(by 8/22, same call as check-in times + the grill)* — an upgrade on the mattress, not a dependency
+- [ ] **Drewes asks RMR about a rollaway/cot/sofa bed** *(the 8/22 fence passed — it rides the same one email as checkout + the grill)* — an upgrade on the mattress, not a dependency

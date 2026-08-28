@@ -166,12 +166,12 @@ Worth knowing, because it changes what you carry and what you wear:
 
 > Two ribeye nights (Sat default, maybe Sun) both assume a working grill. Nobody's confirmed the house has one, or that the propane tank is full. A dead tank under 13 raw ribeyes is the single easiest way this trip goes sideways.
 
-- [ ] **Drewes asks RMR (307-739-9050)** on the check-in call: what's the grill (gas/charcoal?), and is the propane tank full or does someone need to swap it in Jackson
+- [ ] **Drewes emails RMR (307-739-9050 · lodging@rmrentals.com)**: what's the grill (gas/charcoal?), and is the propane tank full or does someone need to swap it in Jackson. *The 8/22 call fence passed, so this is a nice-to-know now — the Thursday check below is the one that protects the night*
 - [ ] **Check it yourself Thursday at check-in** — lid up, burner test, heft the tank. This is the one that actually protects the night: Thursday leaves a full day of runway, Saturday at 4 PM leaves none
 - **If the tank's dead:** propane exchange at Smith's or Albertsons in Jackson, ~$25 — a 40-minute round trip Thursday or Friday
-- **If it's charcoal:** 2 bags + a chimney starter on the Thursday grocery run (or the Friday burrito pickup)
+- **If it's charcoal:** 2 bags + a chimney starter on the Thursday grocery run (or the Friday burrito pickup). ⚠️ **Check fire restrictions first** — Teton-area Stage 1 ran Jul 22 → **lifted 8/26**, and while they're on, **a propane grill is legal and charcoal is not**. If they're back in September, the gas grill or the oven is the whole answer
 - **If there's no working grill at all:** the ribeyes **reverse-sear in the house oven** — 250°F until they're 10° shy, then a screaming cast-iron sear in batches. Worse steak, but not a lost night, and it needs nothing you can't buy at Smith's
-- Fold the call into the same one as the Ciolino sleeping-surface and check-in questions — one call to RMR covers all three
+- Fold it into the same email as the Ciolino sleeping-surface and checkout questions — one message to RMR covers all three, and all three already have defaults
 
 ## Steak Night — Saturday (default) or Sunday?
 
