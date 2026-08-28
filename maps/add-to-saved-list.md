@@ -16,8 +16,8 @@ current 19 pins — skip those.
 - [ ] [Bear Aware kiosk (JAC baggage claim)](https://www.google.com/maps/search/?api=1&query=Jackson+Hole+Airport%2C+WY) — Bear-spray RENTAL, next to baggage claim #3, staffed 7 days a week Jun-Oct. $16 first 2 days, $4/day after, capped at $28. Rent 2 (one per vehicle) Thursday; drop them in the after-hours box here Monday. You cannot fly with bear spray.
 - [ ] [St. John's Health (hospital)](https://www.google.com/maps/search/?api=1&query=St.+John%27s+Health%2C+625+E+Broadway%2C+Jackson%2C+WY) — Nearest 24-hr ER, ~25 min from the house.
 - [ ] [945 W Broadway (Fri boathouse)](https://www.google.com/maps/search/?api=1&query=945+W+Broadway+Ave%2C+Jackson%2C+WY+83001) — Both Friday trips stage here: Teton Expeditions safari (check in 7:45 AM) and Jackson Hole Whitewater rafting (check in 12:30). Hillside complex, next to Sidewinders. 307-733-1007.
-- [ ] [Smith's Food and Drug](https://www.google.com/maps/search/?api=1&query=Smith%27s+Food+and+Drug%2C+Jackson%2C+WY) — Grocery run on arrival (ribeyes, sides).
-- [ ] [Albertsons](https://www.google.com/maps/search/?api=1&query=Albertsons%2C+Jackson%2C+WY) — Grocery alternative to Smith's.
+- [ ] [Smith's Food and Drug](https://www.google.com/maps/search/?api=1&query=Smith%27s+Food+and+Drug%2C+Jackson%2C+WY) — Grocery run on arrival (sides, drinks, ice). Butcher BACKUP if Albertsons can't cut 13 ribeyes.
+- [ ] [Albertsons](https://www.google.com/maps/search/?api=1&query=Albertsons%2C+Jackson%2C+WY) — Call THIS butcher counter for the 13 bone-in ribeyes — usually the one carrying Prime. Also a full grocery alternative to Smith's.
 - [ ] [Jackson Whole Grocer](https://www.google.com/maps/search/?api=1&query=Jackson+Whole+Grocer%2C+Jackson%2C+WY) — Third grocery/butcher option if Albertsons and Smith's are out of Prime.
 
 ## Food & Drink
@@ -90,11 +90,11 @@ current 19 pins — skip those.
 - [ ] [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring%2C+Yellowstone%2C+WY) _(already in your list)_ — The boardwalk. If you do the overlook, you can skip going close to it.
 - [ ] [Fairy Falls Trailhead (overlook)](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Trailhead%2C+Yellowstone%2C+WY) — Grand Prismatic overlook — do this FIRST, then skip the boardwalk below. It's a HIKE: 0.8 mi each way, ~1 hr for 13 guys. Small lot, fills early.
 - [ ] [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Last stop + cooler lunch at the picnic tables. HARD RULE: wheels rolling south by 2:00 PM — it's ~1 hr 50 back to the house and kickoff is 5:30.
-- [ ] [Emerald Spring (Norris)](https://www.google.com/maps/search/?api=1&query=Emerald+Spring%2C+Norris+Geyser+Basin%2C+Yellowstone%2C+WY) — Jeremy's favorite pool — but it's Norris, well past our 3 PM turnaround.
+- [ ] [Emerald Spring (Norris)](https://www.google.com/maps/search/?api=1&query=Emerald+Spring%2C+Norris+Geyser+Basin%2C+Yellowstone%2C+WY) — Jeremy's favorite pool — but it's Norris, well past our 2:00 PM West Thumb turnaround.
 - [ ] [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Hottest, most active; Steamboat Geyser. Too far for our Sat window.
 - [ ] [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs%2C+Yellowstone%2C+WY) _(already in your list)_ — Travertine terraces (far north). Too far for our Sat window.
 - [ ] [Artists' Paintpots](https://www.google.com/maps/search/?api=1&query=Artists+Paintpots%2C+Yellowstone%2C+WY) — Accessible, less crowded. Too far for our Sat window.
-- [ ] [Grand Canyon of the Yellowstone](https://www.google.com/maps/search/?api=1&query=Grand+Canyon+of+the+Yellowstone%2C+WY) _(already in your list)_ — Artist Point is the iconic view. Adding it blows the 3 PM return.
+- [ ] [Grand Canyon of the Yellowstone](https://www.google.com/maps/search/?api=1&query=Grand+Canyon+of+the+Yellowstone%2C+WY) _(already in your list)_ — Artist Point is the iconic view. Adding it blows the 2:00 PM West Thumb turnaround.
 - [ ] [Lamar Valley](https://www.google.com/maps/search/?api=1&query=Lamar+Valley%2C+Yellowstone+National+Park%2C+WY) — 'America's Serengeti'; wolves, bison (far NE) — 3+ hrs one-way.
 - [ ] [Hayden Valley](https://www.google.com/maps/search/?api=1&query=Hayden+Valley%2C+Yellowstone+National+Park%2C+WY) — Bison, grizzlies; well past our West Thumb turnaround.
 - [ ] [Yellowstone Lake](https://www.google.com/maps/search/?api=1&query=Yellowstone+Lake%2C+WY) — Osprey, eagles, cutthroat trout; you drive its shore between West Thumb and the South Entrance.

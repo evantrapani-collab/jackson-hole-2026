@@ -31,7 +31,7 @@
 1. **Friday dinner menu** — fajita bar vs. one-pot. This is the *only* part of the list that actually branches. Pick a module below. ✅ **Default: Module A, the fajita bar** — nobody has to decide anything for that to happen, and it's the branch that also feeds Saturday's cooler lunch.
 2. **Steak night: Saturday or Sunday?** — **does not change the list at all.** Same ribeyes, same sides, different night. Don't let this one hold up the shopping.
 
-A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes asks RMR on the **8/22** call — **that's tomorrow as of this writing, and it's the last live August item** — and you eyeball the grill yourself Thursday at check-in. See [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
+A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes asks RMR on the **9/7** call — and you eyeball the grill yourself Thursday at check-in, which is the check that actually protects the night. See [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
 
 > ⚠️ **Friday lunch is new to this list.** It can't come from Friday's leftovers — Friday dinner happens *after* it. Buy for **two** cooler lunches, not one: Friday at the boathouse and Saturday at West Thumb.
 
@@ -43,9 +43,9 @@ A third one changes a single line item: **the grill check** (gas or charcoal?). 
 
 > This is the one item you cannot leave to shelf stock or a delivery app. **13 × 24 oz bone-in ribeyes is ~19.5 lbs of steak** and no grocery meat case in a resort town has that sitting out on a Thursday afternoon.
 
-- [ ] **Call the Smith's butcher counter ahead** — ask them to cut and hold **13 bone-in ribeyes, 24 oz each (~1.5 lb)**
+- [ ] **Call the Albertsons butcher counter ahead** — ask them to cut and hold **13 bone-in ribeyes, 24 oz each (~1.5 lb)**. They're usually the one carrying **Prime**; **Smith's** and **Jackson Whole Grocer** are the backups
 - [ ] Give them the **pickup day (Thursday)** and a name
-- [ ] Ask what they've got if they can't do 13 — 20 oz × 13 is a fine fallback; splitting across Smith's *and* Albertsons is the backup
+- [ ] Ask what they've got if they can't do 13 — 20 oz × 13 is a fine fallback; splitting across Albertsons *and* Smith's is the backup
 - [ ] **Pick these up in person.** Delivery apps pull from shelf stock — this is the one line that has to be a human at a counter
 
 **Timing note:** buying Thursday works whether steak night lands Saturday or Sunday. Refrigerate — **do not freeze bone-in ribeyes** for a two-day hold.
@@ -200,6 +200,6 @@ Psilos still owns the [in-person vs. pre-stock call](./dining.md#grocery-deliver
 ## Thursday, at the store — the short version
 
 1. Steaks are **pre-ordered and waiting** at the butcher counter
-2. One guy on drinks + ice, one on the master list, one on the Friday module — **three carts, not thirteen guys wandering Smith's**
+2. One guy on drinks + ice, one on the master list, one on the Friday module — **three carts, not thirteen guys wandering the store**
 3. **Ice goes in last**, and straight into the cooler
 4. Bear spray is **off this list** — it's a rental at the JAC baggage-claim kiosk now. *(Backup: Smith's and Albertsons do carry it, so it's one line here if the kiosk falls through — it was never a separate sporting-goods trip.)*
