@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-08-21, third pass — found at **94**, restored to 100; see the notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-08-28 — found at **88**, restored to 100; see the notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -81,6 +81,7 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 - Every plan fact appears identically in markdown and `index.html` (−1 per divergence)
 - **Any number that appears in two places matches in both** (−1 per mismatched figure). This is the cheapest deduction to earn and the easiest to miss: totals, ranges, per-person amounts, place counts, item counts. A figure quoted in prose ("the full 76-place file") counts as one of the two places
+- **When a fact is corrected, the old value is gone from every file** — grep the string you replaced and confirm zero hits before calling it fixed (−1 per survivor). A canonical copy being right is not the same as the wrong copy being gone
 - `/maps` regenerated whenever places change; no hand-edits to generated files (−2 per violation)
 - Open Items (README) ↔ To-Do tab (dashboard) match (−1 per drift)
 
@@ -94,27 +95,29 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 ## Scorecard
 
-Current standing, and where the three 8/21 passes found gaps. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history.
+Current standing, and where the four most recent passes found gaps. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history.
 
-| Category | Points | 8/21 #1 | 8/21 #2 | 8/21 #3 | **Now** |
-|---|---|---|---|---|---|
-| 1. Bookings & critical path | 20 | 17 | 19 | 20 | **20** |
-| 2. Schedule feasibility | 15 | 8 | 15 | 15 | **15** |
-| 3. Risk, safety & contingency | 15 | 15 | 13 | 15 | **15** |
-| 4. Meals | 12 | 12 | 8 | 12 | **12** |
-| 5. Money | 12 | 12 | 12 | 12 | **12** |
-| 6. Group coordination | 10 | 9 | 10 | 10 | **10** |
-| 7. Three layers in sync | 10 | 10 | 10 | 6 | **10** |
-| 8. Dashboard usability | 6 | 6 | 3 | 4 | **6** |
-| **Total** | **100** | **89** | **90** | **94** | **100** |
+| Category | Points | 8/21 #1 | 8/21 #2 | 8/21 #3 | 8/28 found | **Now** |
+|---|---|---|---|---|---|---|
+| 1. Bookings & critical path | 20 | 17 | 19 | 20 | 18 | **20** |
+| 2. Schedule feasibility | 15 | 8 | 15 | 15 | 15 | **15** |
+| 3. Risk, safety & contingency | 15 | 15 | 13 | 15 | 15 | **15** |
+| 4. Meals | 12 | 12 | 8 | 12 | 9 | **12** |
+| 5. Money | 12 | 12 | 12 | 12 | 12 | **12** |
+| 6. Group coordination | 10 | 9 | 10 | 10 | 10 | **10** |
+| 7. Three layers in sync | 10 | 10 | 10 | 6 | 6 | **10** |
+| 8. Dashboard usability | 6 | 6 | 3 | 4 | 3 | **6** |
+| **Total** | **100** | **89** | **90** | **94** | **88** | **100** |
 
-> Read across a row: every category has been the weak one at least once, and no pass found the same weakness twice. §2 collapsed to 8 when the drive times were checked against the world; §4 to 8 when a default turned out to be a meal nobody serves; §7 and §8 fell once the cost of *duplication* was scored rather than the completeness of each copy.
+> Read across a row: every category has been the weak one at least once. §2 collapsed to 8 when the drive times were checked against the world; §4 to 8 when a default turned out to be a meal nobody serves; §7 and §8 fell once the cost of *duplication* was scored rather than the completeness of each copy. **8/28 is the first pass to find the same weaknesses twice** — §4's fictional lunch and §7's stale drive times, still alive in copies the earlier fixes never reached. Hence §7's new grep test.
 
 ---
 
-## Verified external facts — checked 2026-08-21
+## Verified external facts — checked 2026-08-21, re-checked 2026-08-28
 
-Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the two most recent passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
+Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the 8/21 passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
+
+**Re-verified 8/28 and unchanged:** the Aerial Tram season, the Bridger Gondola's Sept 13 close, the Moose-Wilson closure, Dornan's hours, Sidewinders, both kickoff times/networks, and Sunday's sunrise. The park-service pages (Craig Pass status, road conditions) still want a day-of check — that one can't be pre-verified.
 
 | Fact | Value | Re-check at |
 |---|---|---|
@@ -145,7 +148,7 @@ Maintainer's ledger. These are the claims the plan *depends on* that live outsid
 
 ### Earlier re-grades — summarised
 
-Ten passes ran between 6/12 and 8/20; the full write-ups are in git history. The short version: the plan reached 100 four separate times on **structure** — every open item owned, dated, and carrying a default that holds with zero action — and each later pass found that structure was necessary but not sufficient.
+Thirteen passes ran between 6/12 and 8/21; the full write-ups are in git history. The short version: the plan reached 100 seven separate times on **structure** — every open item owned, dated, and carrying a default that holds with zero action — and each later pass found that structure was necessary but not sufficient.
 
 | Pass | Found at | The lesson it added |
 |---|---|---|
@@ -153,83 +156,33 @@ Ten passes ran between 6/12 and 8/20; the full write-ups are in git history. The
 | 8/4 (×2) | 97 → 100 | Deadlines rot; a date that has passed is a defect |
 | 8/15 (×3) | 85 → 100 | A decision pointed only at a future call is still open — it needs a zero-action default |
 | 8/20 | 97 → 100 | Confirmations can correct the plan, not just confirm it (two outfitters, one address) |
+| 8/21 #1 | 89 → 100 | **Self-consistency is not the test.** Checking nine claims against the operators, the NPS and a clock returned five wrong: the Yellowstone legs understated by half, an impossible sunrise, a lift closed for the season, a closed road, a missing $715 budget line. §1 and §2 were rewritten to grade against *verified* facts |
+| 8/21 #2 | 90 → 100 | **A default that doesn't exist is worse than none** (JHWW feeds scenic floats, not whitewater — Friday had no lunch), and **length is a defect, not a neutral**: 12 tabs → 9, ~15KB out of the dashboard |
+| 8/21 #3 | 94 → 100 | **The cost of a fact is the number of places it is written.** Bear spray appeared 39 times across 5 files. When a decision closes, delete its reasoning and keep its outcome |
 
 ---
 
-### 8/21 re-grade — the outside world gets checked (found at 89, restored to 100)
+### 8/28 re-grade — the copies drift, and a deadline rots (found at 88, restored to 100)
 
-The previous six passes graded the plan against **itself**: is every open item owned, dated, defaulted; do the days' internal arithmetic close. That's most of what a rubric can do, and it had taken the plan to 100 three times running.
+The 8/21 passes fixed the *canonical* statement of five facts. This pass asked a narrower question: **did every copy get fixed?** Mostly, but not everywhere — and the copies that didn't are all in `index.html`, which is the layer the crew actually reads on a phone.
 
-This pass did something the rubric had never actually forced: **it checked the plan's factual claims against the operators, the park service, and a clock.** Nine claims went out; five came back wrong. That's the finding worth recording — a plan can be perfectly self-consistent, fully owned, comprehensively defaulted, and still be **wrong about the world**, and no amount of internal review will surface it. §2 in particular has been scoring "every day's timing arithmetic actually works" against *the drive times written in this repo*, which is circular whenever those numbers are guesses.
-
-**Found at 89 (−11).** Every deduction below is a fact the repo asserted that a five-minute check would have falsified — none of them are new developments.
+**Found at 88 (−12).**
 
 | # | Cat | Deduction | What was wrong |
 |---|---|---|---|
-| −4 | §2 | **Saturday's clock was built on drive times that are roughly half the real ones** | The table said the Yellowstone South Entrance was "~1 hr" away and Old Faithful "~30 min" past the gate. It is **~1 hr 30** from the house (which is in Teton Village, not Jackson — the table measured from the wrong place) and **~1 hr 15** gate to Old Faithful (39 miles at 45 mph). Old Faithful → house is **~2 hr 15**, not 1.5. On the old numbers a 7:00 departure gets home at 3:00; on the real ones it gets home at **4:35** — 55 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. This is the single largest defect any pass has found: the day *reads* fine, the internal arithmetic is self-consistent, and it doesn't work |
-| −2 | §2 | **Sunday's sunrise arithmetic was physically impossible** | "Leaving the house at 6:30 puts you at Schwabacher right at first light (~6:40)" — a ten-minute drive to a place **~45 minutes away**, on a morning when **sunrise is ~7:07**. Nobody had ever checked either number. The whole point of the block is the light, so this was a highlight quietly scheduled to be missed |
-| −2 | §1 | **A scheduled activity was closed before we arrive** | Thursday's afternoon plan rode on "the gondola at Teton Village." The **Bridger Gondola's 2026 season ends Sept 13**; we land the 17th. §1 explicitly grades *"anything the trip depends on that a vendor could simply not be running"* — and this had been carried through four passes as a live block, with the only flagged risk being the *tram/gondola confusion*, never whether either was operating |
-| −1 | §2 | **A road the plan drives on is closed** | **Moose-Wilson Road is shut Sep 8 – Nov 15, 2026** (NPS Phase II construction). It was a named Sunday wildlife stop, and — worse — it's the short route from Teton Village to Moose, so its closure quietly invalidated *every* park drive time in the repo, including the "~10 min" JAC→house figure the Explorer seat-count fallback leans on (it's **~30–35 min**) |
-| −1 | §6 | **A real cost was missing from the budget** | Sunday's plan is the tram to Corbet's Cabin. Tram tickets are **~$55/person** — potentially **~$715** across 13 — and the budget carried **no tram line at all**. §6 wants the all-in number to be honest; it was light by up to 5% of the on-the-ground total |
-| −1 | §1 | **A time-fence rotted past its deadline without being recorded** | The Cowboy Steakhouse 30-day window opened 8/17 and closed 8/18. As of 8/21 every document still described it in the future tense — *"the window opens 8/17"* — which is exactly the "an open item rots past its deadline" trigger this file names in its own re-grade instruction. The outcome (nobody called, the house steak nights stand) was the expected default; not recording that it *fired* leaves a live-looking item that will eat time on the Sep 10 call |
-
-**Restored to 100 by this pass:**
-
-- **Saturday was rebuilt on real numbers, and given a rule instead of a hope.** Departure moves to **6:15 AM**, and the day now carries one hard constraint — 🕐 **wheels rolling south out of West Thumb by 2:00 PM** — which lands the house at ~3:50, the grill lit at ~4:15, and everyone eating before the 5:30 kickoff. The full clock is in `/itinerary` and mirrored on the dashboard's route strip. It also resolved a contradiction nobody had noticed: `/itinerary` said "back by ~3 PM" while `/logistics` said "leave Yellowstone by ~3 PM" — two different instructions, ~2 hours apart.
-- **The Grand Prismatic overlook is described as what it is.** Every document treated it as a stop; it's a **1.6-mile round-trip walk** from the Fairy Falls lot (~1 hr for 13 guys), and that lot fills early. That hour was never on any clock.
-- **Sunday leaves at 6:00**, with the real sunrise (~7:07), the real drive (~45 min), and the closed road cut from the loop. A headlamp moved onto the packing list because the plan now genuinely involves standing on a dirt path in the dark.
-- **The gondola closure became an asset, not a hole.** Its 3:00–4:00 PM slot is now **the errand hour** — the home for the grocery run that five separate ⚠️ callouts across this repo had been trying to wedge into somebody's beer. It also permanently settles the tram-vs-gondola ambiguity that three passes flagged and none could close: only one lift is running, so the **tram is Sunday's**, and the ✅ **confirmed Aerial Tram season (May 16 – Oct 4, 8:30–5)** closes the "will it be operating?" open item that has been live since July. Only the purchase remains, and it's now in the budget.
-- **Bear spray stopped being a chore.** It was the most-flagged ⚠️ in the repo — "Thursday is the only window," repeated in five files. **Bear Aware staffs a kiosk at JAC baggage claim #3, June–October**: rent two canisters for **~$56 total**, return them to the same box Monday. It costs **zero minutes**, saves ~$44 against buying, and answers the question every version of this plan left dangling — *you can't fly home with bear spray*, so bought canisters get abandoned. A §3 safety item went from "must be squeezed into a schedule" to "happens while you wait for your bag."
-- **Two smaller checks paid off.** **Dornan's opens at 11:30** — Thursday's clock had us arriving 11:15 — and is open **daily 11:30–7 year-round**, which closes the standing "confirm fall hours" action on Sunday's dinner default. And **Cowboy Coffee has a drive-thru at 1007 S US-89** that opens at 6 AM, ~2 min from the boathouse and *on* the route in, versus the Town Square store which is a backtrack east past it — so Friday's tightest hour got a better answer and a 6:45 departure.
-- **The park fee got two true clarifications:** each $35 is a **7-day** pass, so Saturday's Grand Teton fee at Moran covers Sunday's Oxbow Bend (the $140 total is still right — it's 2 vehicles × 2 parks, not 4 entries), and **2026 introduced a $100 non-resident surcharge** worth one question in the chat.
-- **Sync:** the all-in number reads **$1,100–1,390** in both layers (tram added, bear spray reduced), the Decision Defaults table and the dashboard Crew tab match on all five closures, the maps generator carries the two closures plus the drive-thru and the Bear Aware kiosk (**83 places**, regenerated, `--check` clean), and the to-do checklist gained the three day-of timing items and a corrected count.
-
-**A rubric change this pass earned.** §2's criterion should be read as *"every day's timing arithmetic works **against verified drive times**"* — self-consistency is not the test. Same for §1's vendor criterion: *"has a named replacement"* is worth less than *"someone checked the operating calendar."* Four passes at 100 didn't catch a closed lift, a closed road, an impossible sunrise, or a two-hour error on the tightest day of the trip, because none of them looked outside the repo.
-
-**Grade: 100/100.** The plan's structure was never the problem — every one of these defects sat inside a well-owned, well-defaulted item. What this pass adds is that the numbers underneath the structure are now checked rather than assumed.
-
----
-
----
-
-### 8/21, second pass — a fictional default, and a site nobody could read
-
-Two findings, one of each kind the previous pass warned about.
-
-**Found at 90 (−10).**
-
-| # | Cat | Deduction | What was wrong |
-|---|---|---|---|
-| −4 | §4 | **Friday's lunch default was a meal nobody serves** | Every document carried *"the outfitter's deli lunch, eaten at 945 W Broadway"* as the zero-action default. JHWW **does** provide lunch — **on their scenic float trips.** We booked the **whitewater "Classic Raft"**; its inclusions are guide, paddles, splash gear and the shuttle. **No food.** The scenic float was triaged out of this trip in the spring and its lunch quietly stayed behind. Run §4's own zero-action test honestly and the answer was *13 guys with no lunch getting on a Class 2–3 river at 1:00 PM having last eaten at 6:45 AM.* A default that doesn't exist is worse than no default, because it stops anyone from looking |
-| −3 | §8 | **The dashboard had become a maintainer's document** | 12 tabs, three of them near-duplicates (Game Day restated kickoff times the Itinerary already had, in three places). ~30 lines of **correction archaeology** — *"this table was wrong," "the docs used to say ~1 hr"* — which is changelog, not trip content, and which I added in the previous pass. A **fully settled** money tab still carrying its per-man ledger, four "(in full 8/11)" datestamps, the Gunter $250 story told three times, and a historical cost-per-attendance table. Ten `new` pills dated across three different weeks, which means nothing reads as new. §8 grades whether 13 guys can *use* this on a phone; it had been graded on whether it was complete |
-| −2 | §3 | **The one weather event that breaks Saturday wasn't named** | §3 credits a weather-scrub plan, and the repo had one — "town fallback," the Wildlife Art museum. But the specific failure is **Craig Pass (8,262 ft)**, the West Thumb ↔ Old Faithful segment, which is the first park road NPS closes for early snow — **and our out-and-back crosses it twice.** A mid-morning closure strands the group on the far side with only the long way round the figure-eight. Low probability (September averages 1.3" of snow), high impact, free to check |
-| −1 | §1 | **An open item that a lookup could close** | *"Verify the evening DFW→JAC nonstop runs Thu Sep 17"* sat on the 1–2-weeks-out list on the theory that post-Labor-Day schedules thin out. AA flies JAC **year-round, 2 nonstops daily, 14 weekly** — the structural risk never existed |
+| −4 | §7 | **Four facts that disagree with themselves across the layers** | (1) **The butcher.** `dining.md` says *"start at Albertsons — usually the one carrying Prime… call the Albertsons butcher first,"* and eleven lines later *"call the Smith's butcher counter ahead."* The dashboard contradicted itself the same way, and the README and grocery list both said Smith's. Psilos has exactly one call to make and the plan named two different stores. (2) **The corrected drive time didn't reach two files:** `lodging.md` still read *"Yellowstone is ~1 hr north via Hwy 89"* and the dashboard's Maps tab still labelled the South Entrance *"~1 hr from Jackson"* — the precise claim the 8/21 pass took −4 for. (3) **Old Faithful → the house was listed at ~2 hr 15** in a table whose own two legs (40 min to West Thumb + 1 hr 50 home) sum to **~2 hr 30**. (4) **The old Yellowstone clock survived in three places** — *"back from Yellowstone ~3 PM," "a 7 AM–3 PM Yellowstone day," "Yellowstone 7 AM → ~3 PM"* — against the real 6:15 AM–3:50 PM |
+| −3 | §8 | **The dashboard re-opened four questions the markdown had closed** | The tram's operating dates are confirmed (May 16 – Oct 4) in five places — and the dashboard still said *"Confirm fall operating dates… if it isn't running"* in the Sunday-afternoon card **and** in the To-Do list. Dornan's hours are confirmed year-round — and the dashboard still said *"confirm fall hours"* on the dinner row **and** carried a whole extra to-do item, *"Confirm Dornan's fall hours,"* that exists in no README. Plus a pointer to a **"Game Day" tab that was deleted on 8/21**, and a *"Sun lunch — Dornan's"* row that the same page's own Sunday clock makes impossible (the 11 AM game runs to ~2:15, the tram takes 2:30–3:40, and Dornan's is the 5 PM dinner) |
+| −3 | §4 | **The fictional lunch came back — in the layer people read** | The dashboard's Groceries tab still opened with *"Friday breakfast is Cowboy Coffee and lunch is the rafting outfitter."* That is the exact default §4 scored **−4** for on 8/21, alive in the one place a crew member checks while standing in an aisle — and directly contradicted by a line further down the same tab (*"two cooler lunches: Fri at the boathouse + Sat at West Thumb"*) |
+| −2 | §1 | **A load-bearing deadline rotted, and every layer still spoke of it in the future tense** | The RMR call was due **8/22**. As of 8/28 the README said *"DUE TOMORROW (8/22)"* and *"the last live August item,"* the grocery list said *"that's tomorrow as of this writing,"* and the dashboard's countdown nudge pointed at a date that had passed. This is the defect the 8/4 passes named — *a date that has passed is a defect* — and the only reason it cost 2 points rather than more is that all three of the call's questions carry defaults that held when it slipped |
 
 **Restored to 100:**
 
-- **Friday lunch has a real default:** sandwiches packed from the Thursday grocery run, eaten on a tailgate at the boathouse — zero travel, zero queue. It needed a genuine change to `grocery-list.md`, not just a word swap: **Friday's lunch cannot come from Friday's leftovers**, because Friday dinner happens after it, so the deli line doubles to 6 lb and the fajita module's "skip the deli meat" bonus is now correctly scoped to Saturday only. **Sidewinders** (next door, opens 11:30, **30+ TVs, 24 taps, no reservations**) is the named upgrade; **Cutty's is cut** — 25 minutes of a 45-minute window for a table available next door. The Sidewinders check also effectively pre-answers the Sunday game-venue recon: every brewery on the list was described as *"nobody's TV setup is great."*
-- **The site was cut, not extended.** **12 tabs → 9** (Game Day folded into Itinerary; Crew and Money merged; Activities' next-trip hike shelf and duplicated Yellowstone table dropped, its two live cards moved to Itinerary). All correction archaeology removed — the plan now states what to do, not what it used to say. The money tab is one sentence. All `new` pills gone. **~15KB and 260 lines out of `index.html`**, with panel/radio/label/CSS sets verified to match and a pre-existing missing `#t-groc` focus-visible selector fixed on the way through. `budget.md` lost its settled ledger, payment timeline and historical attendance table; four links to the removed ledger anchor were repointed, and a **pre-existing dead anchor** (`#monday-breakfast--use-what-is-left` vs. the actual `…-whats-left`) was found and fixed by a full link/anchor sweep.
-- **Craig Pass has a check and a replacement:** verify status at nps.gov/yell Friday night and again at 6 AM; if it's closed, **swap to a Grand Teton morning** — an hour closer, no new plan, back well before kickoff.
-- **Assorted:** the DFW item closes (with the honest caveat that *2 a day* makes the evening flight the last chance, and 13 seats on it is a lot); Sunday afternoon gets a clock because the tram and a 5 PM Dornan's are **back-to-back with no slack** (last tram down is 5:00); and JHWW's practical details are recorded — **your bus seat is your locker, the driver stays with the bus**, changing rooms at the shop, no cotton.
+- **One butcher.** Albertsons everywhere (it's the sourced Prime read), Smith's and Jackson Whole Grocer as the named backups — in `dining.md`, `grocery-list.md`, the README, the dashboard, and the `maps` generator's store pins, which were regenerated.
+- **The rotted deadline is honest rather than hidden.** The RMR call moved to the existing **9/7** batch, labelled *"slipped its 8/22 date"* rather than silently re-dated. The README's `🔴 Now (August)` bucket became `✅ Closed in August`, a live `🔴 Now — through Sep 10` bucket holds the call, the milestone strip and the countdown nudge follow, and the dashboard's To-Do mirrors all of it.
+- **Every surviving copy of a corrected fact was fixed:** both "~1 hr" drive times, the three stale Yellowstone return times, and Old Faithful → the house (now ~2 hr 30, with its two legs shown so it can't drift from them again). The one derived claim that moved with it — *"a 7:00 AM departure gets you home at 4:35"* — is now **~4:50**, which is a stronger argument for the 6:15 departure, not a weaker one.
+- **Four closed questions stay closed**, the dead Game-Day pointer is gone, the impossible Sunday lunch became what Sunday's lunch actually is (the 11 AM game spread, already on the grocery list), and the ⭐ count on the To-Do tab matches the README's — **one**, not two.
+- **Re-checked against the outside world, not the repo** (per §1/§2): the Aerial Tram's **May 16 – Oct 4, 8:30–5** season, the Bridger Gondola ending **Sept 13**, **Moose-Wilson closed Sep 8 – Nov 15**, Dornan's **11:30–7 daily**, Sidewinders **11:30–9:30 with 30+ TVs**, **LSU–Ole Miss 6:30 CT / ABC**, **Saints @ Ravens noon CT / CBS**, and Sunday's **~7:07 sunrise / ~6:40 civil twilight**. All eight hold. The ledger above is re-dated accordingly.
 
-**The rubric change this pass earns.** §8 should read *"a crew member can find what they need on a phone in under 15 seconds"* — not "the dashboard mirrors the markdown in full." Completeness and usability are in tension, and six passes of graded-for-completeness produced a document that mirrors beautifully and reads badly. **Length is now a defect, not a neutral.** Corollary: a review pass that only ever *adds* is not maintaining a plan, it's growing one.
+**The rule this pass earns.** The previous three passes each fixed a fact. None of them ran the cheapest possible check afterwards: **grep the old wrong value.** Every deduction here would have been caught by searching the repo for the string the correction replaced — *"~1 hr from Jackson," "~3 PM," "Smith's butcher," "confirm fall hours," "the rafting outfitter."* So §7 gains an operational test: **when you correct a fact, search for the old value and confirm zero hits before you call it fixed.** A correction is not done when the canonical copy is right; it's done when the wrong one is gone.
 
----
-
----
-
-### 8/21, third pass — cold-eyes read of the README
-
-The previous pass cut the dashboard and left the README untouched. Read cold, the README had become the thing the dashboard just stopped being.
-
-**Found at 94 (−6).**
-
-| # | Cat | Deduction | What was wrong |
-|---|---|---|---|
-| −3 | §7 | **The same settled decision explained in four places** | Measured, not guessed: **bear spray — a solved, zero-effort item — appeared 39 times across 5 files** (README ×9, logistics ×8, itinerary ×5, dining ×1, dashboard ×16), with the full rent-vs-buy rationale written out in the README's Current Status, the 8/21 review section, the Decision Defaults table, *and* twice in Open Items. Moose-Wilson ×37, Sidewinders/lunch ×30. Every copy is a thing that can drift out of sync |
-| −2 | §8 | **A changelog had grown inside the README** | An entire `### 🔎 8/21 review — five things checked against the outside world` section, added by the previous pass, duplicating Decision Defaults and Open Items wholesale. Plus **8 completed `[x]` items still written as full paragraphs** — 6 of them over 200 characters — so ~40 lines of *finished* business sat inside a to-do list. Closed items need one line |
-| −1 | §7 | **Dated parentheticals as permanent furniture** | "(8/20)", "(new 8/21)", "(confirmed 8/15)", "moved in from 7:00 on 8/21", "🆕 Also 8/15" — 22 of them across the markdown. A reader in September does not care when a fact was learned. Attribution (*"Jeremy"*, *"Austin's BIL"*) is worth keeping; the datestamp never was |
-
-**Restored to 100:** the changelog section deleted; completed items collapsed to one line each; settled decisions reduced to one canonical explanation plus short pointers; all 22 datestamps stripped while keeping the names. **README: 32.6KB → 24.1KB (−26%)**, and the same sweep across dining, logistics, itinerary, budget and activities. The dashboard's last dated fragments went with them.
-
-**The rule this pass earns, and it generalises past this repo:** *the cost of a fact is the number of places it is written, not the number of words.* Two passes have now been spent deleting text that a previous pass added in good faith. The discipline that prevents a third is: **when a decision closes, delete its reasoning and keep its outcome.** The reasoning is what git history is for.
+**Grade: 100/100.**

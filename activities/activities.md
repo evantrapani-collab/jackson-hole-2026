@@ -93,7 +93,7 @@
 ### From the friend's rec list — doesn't fit this trip
 
 - 🚫 **Jackson Hole Rodeo** — sells out in advance like she says, but the season is Memorial Day–Labor Day (2026: May 23 – Sep 7). We land Sep 17 — not running
-- 🚫 **Town Square Farmers Market** — Saturdays 8 AM–noon into late September, but our Saturday is Yellowstone 7 AM → ~3 PM, then the LSU game
+- 🚫 **Town Square Farmers Market** — Saturdays 8 AM–noon into late September, but our Saturday is Yellowstone 6:15 AM → ~3:50 PM, then the LSU game
 - 🚫 **Snow King concert series** — June–August summer series; finished before we arrive
 
 ---

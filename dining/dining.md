@@ -17,7 +17,6 @@
 | Saturday lunch | **Cooler lunch, packed Friday night** ⚠️ | Saturday | In-park; eat at West Thumb on the way back — see *Saturday Lunch* below |
 | Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 burritos — see *Monday Breakfast* below |
 | Friday dinner | **House ✅ locked** — menu default: fajita bar | Friday | Venue locked; menu defaults to the fajita/taco bar if nobody picks by 9/10 — see *Friday Dinner Menu* below |
-| Sunday lunch (idea) | Dornan's Pizza Pasta Co. | Sunday | Moose, WY — pizza + beer on a deck with full-on Teton views |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose. ✅ **Hours confirmed: 11:30 AM–7 PM daily, year-round.** ⚠️ **~35 min each way now** (Moose-Wilson is closed) — leave the Village by 4:30. Backup is the house |
 | Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
@@ -179,7 +178,7 @@ Worth knowing, because it changes what you carry and what you wear:
 
 **Case for Saturday (status quo)**
 - Kickoff is **5:30 PM MT** — a normal dinner hour, and the grill is the evening's whole plan
-- Back from Yellowstone ~3 PM, so there's a 2.5-hr runway to fire the grill
+- Back from Yellowstone ~3:50 PM if the 2:00 turnaround holds — a ~1.5-hr runway to shower and fire the grill
 - Sunday already has a dinner default (early Dornan's) and Monday is a 10:15 AM airport call
 
 **Case for Sunday**
@@ -196,7 +195,7 @@ Worth knowing, because it changes what you carry and what you wear:
 **Decision:** fold into the **Sep 10 grocery/butcher call** with Psilos. **Default: it stays Saturday** — nobody has to do anything for that to happen.
 
 **If it does move to Sunday, the two knock-on slots already have answers** so the switch can't leave a hole:
-- **Saturday dinner → the house, off grocery stock** (Friday's leftovers, pasta, or the sides that were already bought for the steaks). No reservation, no 13-top, nobody driving back into town after a 7 AM–3 PM Yellowstone day. Gun Barrel is the upgrade *only* if someone books a 13-top in advance
+- **Saturday dinner → the house, off grocery stock** (Friday's leftovers, pasta, or the sides that were already bought for the steaks). No reservation, no 13-top, nobody driving back into town after a 6:15 AM–3:50 PM Yellowstone day. Gun Barrel is the upgrade *only* if someone books a 13-top in advance
 - **Sunday dinner → the Dornan's default is void**, and the ribeyes are that night's dinner instead. Don't try to keep both
 
 ## Ribeye Night — the grocery side (night-agnostic)
@@ -312,7 +311,7 @@ Shoppers fill the fridge *before you walk in*. With **check-in confirmed at 4:00
 - **Instacart** delivers to Teton Village from **Smith's** and **Albertsons** — as fast as ~1 hr, windows ~9 AM–midnight, fees from $3.99 on $35+. Great for drinks, sides, snacks, and a Saturday/Sunday restock without anyone leaving the house.
 
 **Tier 3 — In-person (still the move for the steaks)**
-- ⚠️ Delivery apps pull from shelf stock, so **13 × 24 oz bone-in ribeyes is risky to order via Instacart** — you can't guarantee a butcher cuts that volume. **Call the Smith's butcher counter ahead**, pick the steaks up in person (or have them set aside), and let delivery handle the bulky, low-risk stuff.
+- ⚠️ Delivery apps pull from shelf stock, so **13 × 24 oz bone-in ribeyes is risky to order via Instacart** — you can't guarantee a butcher cuts that volume. **Call the Albertsons butcher counter ahead**, pick the steaks up in person (or have them set aside), and let delivery handle the bulky, low-risk stuff.
 
 > **Bottom line — Psilos owns the call:** pre-order a pre-stock (Snap Pea or Mountains of Groceries) for bulk + drinks, call the butcher to lock the ribeyes, keep Instacart as the mid-trip restock button.
 >

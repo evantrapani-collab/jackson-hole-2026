@@ -22,9 +22,9 @@ Teton Village is at the base of the ski mountain, about **20 minutes from downto
 
 - **Mangy Moose** is right in Teton Village — basically walking distance from the house
 - **Thursday night:** drive into Jackson for Snake River Brewing + Cowboy Bar, then end at Mangy Moose on the way back
-- **Friday rafting:** Teton Village puts you closer to the Snake River put-in than downtown Jackson would
+- **Friday's boathouse** (945 W Broadway, at the Y end of Broadway) is **~20 min** — you never drive through town
 - **Grand Teton NP** entrances are just north — great staging point
-- **Yellowstone** is ~1 hr north via Hwy 89
+- **Yellowstone's South Entrance** is **~1 hr 30** north via US-26/89/191 — see the drive-time table in [`/logistics`](../logistics/logistics.md#key-drive-times--rebuilt-from-the-house-not-from-town)
 
 ### Sleeping 13
 
@@ -61,4 +61,4 @@ Note: 4 of the 6 beds (8 people) are on the **Lower Level** — the Junior Suite
 
 - [x] ✅ **Room/bed assignments — decided: sort on arrival**, no pre-assignment
 - [ ] **Ciolino packs an air mattress + pump** *(Owner: Brad Ciolino — unconditional)*. A second one is cheap insurance if anyone else would rather not share a king; 6 beds only reach 12 with every bed doubled up
-- [ ] **Drewes asks RMR about a rollaway/cot/sofa bed** *(by 8/22, same call as check-in times + the grill)* — an upgrade on the mattress, not a dependency
+- [ ] **Drewes asks RMR about a rollaway/cot/sofa bed** *(by **9/7** — slipped from 8/22; same call as checkout times + the grill)* — an upgrade on the mattress, not a dependency

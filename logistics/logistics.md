@@ -54,7 +54,7 @@
 - ✅ **Paid in full — $784.14/man**, lodging + van tour + rafting combined, collected from all 13. Nothing left to send. [`/budget`](../budget/budget.md)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
 - ✅ **Check-in is 4:00 PM.** That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** Drewes has planted the seed with RMR, but it depends on the cleaning crew and a Wednesday checkout, and **they may charge to lock it in early**. Play it by ear; build the day for 4 PM.
-- [ ] **Still to confirm on the RMR call** *(Owner: **Drewes**, by **8/22**)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino, and the grill + propane
+- [ ] **Still to confirm on the RMR call** *(Owner: **Drewes**, by **9/7** — slipped from 8/22)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino, and the grill + propane
 
 ---
 
@@ -146,7 +146,7 @@
 | House → **Yellowstone South Entrance** | **~1 hr 30** | 65 mi. *Old table said "~1 hr from Jackson"* |
 | **South Entrance → Old Faithful** | **~1 hr 15** | **39 miles** at 45 mph. *Old table said 30 min* |
 | Old Faithful → West Thumb | ~40 min | 17 mi over Craig Pass |
-| **Old Faithful → the house** | **~2 hrs 15** | *Old table said 1.5 hrs* |
+| **Old Faithful → the house** | **~2 hrs 30** | 40 min to West Thumb + 1 hr 50 home. *Old table said 1.5 hrs* |
 | JAC → Dornan's (Moose) | ~12 min | Thursday's arrival stop |
 | SLC → Jackson (if routing through Salt Lake) | ~5 hrs | Misconnect Tier 2 |
 
