@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-08-28 — found at **88**, restored to 100; see the notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-08-30 — found at **97**, restored to 100; see the notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -184,5 +184,29 @@ The 8/21 passes fixed the *canonical* statement of five facts. This pass asked a
 - **Re-checked against the outside world, not the repo** (per §1/§2): the Aerial Tram's **May 16 – Oct 4, 8:30–5** season, the Bridger Gondola ending **Sept 13**, **Moose-Wilson closed Sep 8 – Nov 15**, Dornan's **11:30–7 daily**, Sidewinders **11:30–9:30 with 30+ TVs**, **LSU–Ole Miss 6:30 CT / ABC**, **Saints @ Ravens noon CT / CBS**, and Sunday's **~7:07 sunrise / ~6:40 civil twilight**. All eight hold. The ledger above is re-dated accordingly.
 
 **The rule this pass earns.** The previous three passes each fixed a fact. None of them ran the cheapest possible check afterwards: **grep the old wrong value.** Every deduction here would have been caught by searching the repo for the string the correction replaced — *"~1 hr from Jackson," "~3 PM," "Smith's butcher," "confirm fall hours," "the rafting outfitter."* So §7 gains an operational test: **when you correct a fact, search for the old value and confirm zero hits before you call it fixed.** A correction is not done when the canonical copy is right; it's done when the wrong one is gone.
+
+**Grade: 100/100.**
+
+---
+
+### 8/30 re-grade — the dashboard was a duplicate of itself (found at 97, restored to 100)
+
+No fact moved and no deadline rotted since 8/28; the eight external checks above still hold, so §1–§6 are unchanged. This pass graded **§8 only**: is the page the crew reads on a phone actually usable, or just complete?
+
+**Found at 97 (−3).**
+
+| # | Cat | Deduction | What was wrong |
+|---|---|---|---|
+| −2 | §8 | **An entire tab that was a copy of the other tabs** | The Overview tab restated the spine, the five days, the deadlines and the locked-in list — every one of which is stated better on the tab that owns it. It's the same defect as the 8/21 tab cull and the 8/21 #3 rule (*the cost of a fact is the number of places it is written*), one level up: not a duplicated fact, a duplicated **tab**. Meanwhile the day-by-day bullets had grown into paragraphs — a 6:15 AM alarm should not need four sentences of justification on the phone screen you read it from |
+| −1 | §8 | **A pointer to a table that doesn't exist** | The Crew & **Money** tab carried one line of money and said *"per-person estimates are on the Logistics tab."* They are not on the Logistics tab, and never were — they're in `/budget`. Same family as the dead "Game Day" pointer from 8/28: a cross-reference nobody followed |
+
+**Restored to 100:**
+
+- **Overview deleted; Itinerary is the landing tab.** Nothing unique was lost — the one number that only lived there (**≈$1,100–1,390 all in**) moved to the Money section, where it belongs.
+- **The Money half of Crew & Money is now actually money**: the per-person table from `/budget` (paid, food, tips/gas/entry, optional tram, all-in), and the broken Logistics pointer is gone.
+- **Every tab cut to what a phone can read**: itinerary bullets tightened to a line each, closed decisions reduced to their outcome (the Cowboy Steakhouse row and the two settled To-Do items came off the open lists and survive as one closing line), and the two duplicate Moose-Wilson notes on Logistics merged into one. `index.html` is **~26KB smaller** with no fact removed.
+- **Layers re-synced:** the README's Open Items and Decision Defaults match the dashboard item-for-item (**32 open items** in both), and the "what the docs used to say" corrections in `itinerary.md`, `logistics.md` and `activities.md` are gone — the corrected numbers stay, the changelog belongs to git.
+
+**The rule this pass earns.** Length is a defect (8/21 #2) and duplication is a defect (8/21 #3) — this pass adds that **the two compound**: a tab whose job is to summarize the other tabs is duplication *and* length, and it is always the first thing to cut. §8 gains a test: **if a section would be correct after deleting it, delete it.**
 
 **Grade: 100/100.**

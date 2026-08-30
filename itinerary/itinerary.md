@@ -8,8 +8,8 @@
 ## Thursday, Sep 17 — Arrival + Hit the Town
 
 - Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
-- ✅ **Check-in is 4:00 PM** *(confirmed with RMR)*. That's a **~5-hour gap** with 13 guys and all the bags in two SUVs — longer than the "4–5 hours" this page used to assume, and the whole reason the afternoon needs a shape.
-  - ⏳ **Early check-in: asked for, not promised.** Drewes has already planted the seed with RMR. It hinges on the cleaning crew and whether anyone checked out Wednesday, and **they may charge for locking it in early** — so it's a play-it-by-ear bonus, not something to build the day around. **Plan for 4 PM; be pleasantly surprised.**
+- ✅ **Check-in is 4:00 PM** *(confirmed with RMR)* — a **~5-hour gap** with 13 guys and all the bags in two SUVs, which is why the afternoon needs a shape.
+  - ⏳ **Early check-in is asked for, not promised**, and RMR may charge to lock it in. **Build the day for 4 PM.**
 
 ### The afternoon
 
@@ -86,17 +86,15 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 
 > **Don't try to "do" Yellowstone.** It is **~2 hrs 45 min each way** from the house to Old Faithful. Pick a few stops and enjoy them rather than racing a loop.
 
-> ### ⏱️ The drive times in these docs were wrong — here's the honest clock
+> ### ⏱️ The clock this day actually runs on
 >
-> This page used to say "South Entrance is ~1 hr from Jackson" and the drive-time table said "Yellowstone South → Old Faithful ~30 min." Both are optimistic by a lot, and Saturday is the one day of this trip where being an hour off actually costs you something.
+> | Leg | Time |
+> |---|---|
+> | Teton Village → Yellowstone South Entrance | **~1 hr 30** (65 mi; the Moose-Wilson shortcut is closed) |
+> | South Entrance → Old Faithful | **~1 hr 15** (39 miles at 45 mph) |
+> | Old Faithful → the house | **~2 hrs 30** |
 >
-> | Leg | What the docs said | Real |
-> |---|---|---|
-> | Teton Village → Yellowstone South Entrance | "~1 hr" (and from *Jackson*, not the house) | **~1 hr 30** — 65 mi, and the Moose-Wilson shortcut is closed (below) |
-> | South Entrance → Old Faithful | ~30 min | **~1 hr 15** — it's **39 miles** at 45 mph |
-> | Old Faithful → the house | ~1 hr 30 | **~2 hrs 30** |
->
-> A 7:00 AM departure on these numbers gets you home at **~4:50** — 40 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. **So: leave at 6:15, and hold a hard turnaround.**
+> A 7:00 AM departure on those numbers gets you home **~4:50** — 40 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. **So: leave at 6:15, and hold a hard turnaround.**
 
 - **Leave at 6:15 AM** — not 7:00. It's ~1 hr 30 to the South Entrance from Teton Village, plus a few minutes at the gate
   - *Grab-and-go breakfast:* reheat the **breakfast-burrito stash** from the fridge (picked up Friday) — no time to cook, and nothing is open
@@ -107,7 +105,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 - 🕐 **The rule that protects the kickoff: wheels rolling south out of West Thumb by 2:00 PM.** Everything else on this day is negotiable; that number isn't. 2:00 from West Thumb = home ~3:50 = grill lit by 4:15 = eating before kickoff. Anything you haven't seen by 2:00 is a next-trip stop, and there is no version of this day where "one more quick stop" is free
 - **The route — in this order** *(from Jeremy Galiano, who's driven it; it's a real improvement on doing Old Faithful first)*:
   1. **Drive past Old Faithful to the Grand Prismatic overlook first** (Fairy Falls trail). Coming in the South Entrance you go left toward Old Faithful and keep going ~10 min. Hitting the overlook early beats the midday crowd and the parking crunch
-     - ⚠️ **This is a hike, not a pull-off — nobody had written that down.** You park at the **Fairy Falls trailhead** and walk **0.8 mi each way (1.6 mi round trip)**, flat old service road then a short climb up switchbacks to the platform. Budget **~1 hour** for 13 guys with phones out. Boots on, not flip-flops
+     - ⚠️ **This is a hike, not a pull-off.** Park at the **Fairy Falls trailhead** and walk **0.8 mi each way (1.6 mi round trip)** — flat service road, then switchbacks up to the platform. Budget **~1 hour** for 13 guys with phones out. Boots on
      - ⚠️ **That lot is small and fills early** — before 9 AM in peak season. Mid-September is lighter, but this is the reason we leave at 6:15: arriving ~9:15 means parking; arriving at 10:30 means circling
   2. **Skip the boardwalk right at Grand Prismatic** — Jeremy's tip, and it's the one that buys us the day: *if you do the overlook, you don't need to go close to it.* That's a whole stop's worth of time back on the tightest day of the trip
   3. **Backtrack to Old Faithful** and give it ~2 hours — check the predicted eruption time (posted at the visitor center; the NPS app needs a signal and you'll only have one in the developed area) so 13 guys aren't standing around, and walk the Upper Geyser Basin loop while you wait
@@ -145,11 +143,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 
 > **The 11 AM kickoff frees the dawn window — use it.** September is peak elk rut; this is the can't-miss Wyoming morning.
 
-> ⚠️ **Two corrections to this morning, and they push the alarm earlier.**
->
-> **1. The old arithmetic was impossible.** This page said "leave the house at 6:30, be at Schwabacher at first light (~6:40)" — that's a 10-minute drive to a place that is **~45 minutes away**. Real numbers: **sunrise Sunday is ~7:07 AM**, first usable light (civil twilight) is **~6:40**, and the peaks catch alpenglow **before** the valley does. Leaving at 6:30 puts you in the parking lot at 7:15 — after the shot.
->
-> **2. The shortcut is closed.** The **Moose-Wilson Road is shut between the Laurance S. Rockefeller Preserve and Moose from Sept 8 to Nov 15, 2026** (NPS Phase II construction). That's the back way from Teton Village into the park, and we can't use it. Everything now goes **WY-390 → WY-22 → the Y → US-26/89/191 north through Jackson**, which is ~10 min longer each way and the reason Schwabacher is 45 minutes out, not 25.
+> 🌅 **Leave at 6:00 — the arithmetic is tighter than it looks.** **Sunrise is ~7:07 AM**, first usable light is **~6:40**, and the peaks catch alpenglow before the valley does. **Schwabacher is ~45 minutes out**, not 25: the **Moose-Wilson Road is closed Sept 8 – Nov 15, 2026** (NPS Phase II construction), so everything goes **WY-390 → WY-22 → the Y → US-26/89/191 north through Jackson**. Leaving at 6:30 puts you in the parking lot at 7:15 — after the shot.
 
 - **6:00–9:30 AM — Sunrise wildlife drive** (best light + animal activity of the trip)
   - **Leave the house at 6:00**, 6:15 at the absolute latest. 6:00 → Schwabacher ~6:45, set up in the dark, and you own the light. 6:15 works. 6:30 does not

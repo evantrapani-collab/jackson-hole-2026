@@ -143,10 +143,10 @@
 | House → **945 W Broadway** (Fri boathouse) | ~20 min | Right at the Y end of Broadway — you don't drive through town |
 | House → Moose / Dornan's | **~35 min** | Was ~25 via Moose-Wilson. **That road is closed** |
 | House → Schwabacher Landing | **~45 min** | Sunday's sunrise stop. Sunrise ~7:07 → **leave 6:00** |
-| House → **Yellowstone South Entrance** | **~1 hr 30** | 65 mi. *Old table said "~1 hr from Jackson"* |
-| **South Entrance → Old Faithful** | **~1 hr 15** | **39 miles** at 45 mph. *Old table said 30 min* |
+| House → **Yellowstone South Entrance** | **~1 hr 30** | 65 mi |
+| **South Entrance → Old Faithful** | **~1 hr 15** | **39 miles** at 45 mph |
 | Old Faithful → West Thumb | ~40 min | 17 mi over Craig Pass |
-| **Old Faithful → the house** | **~2 hrs 30** | 40 min to West Thumb + 1 hr 50 home. *Old table said 1.5 hrs* |
+| **Old Faithful → the house** | **~2 hrs 30** | 40 min to West Thumb + 1 hr 50 home |
 | JAC → Dornan's (Moose) | ~12 min | Thursday's arrival stop |
 | SLC → Jackson (if routing through Salt Lake) | ~5 hrs | Misconnect Tier 2 |
 

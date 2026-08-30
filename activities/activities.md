@@ -44,7 +44,7 @@
 
 > **Reality check for our Saturday:** we enter via the **South Entrance** and have to hold a **2:00 PM turnaround at West Thumb** to make the 5:30 LSU kickoff. That makes the lower-left corner of the park (Old Faithful / Grand Prismatic / West Thumb) the realistic range — they're the itinerary's 2–3 stops. Everything flagged 🚫 below is solid reference for a future trip, but it's 2.5–4 hrs **one-way** from the South Entrance and doesn't fit this one.
 >
-> ⏱️ **And the range is tighter than these docs used to say.** The South Entrance is **~1 hr 30 from the house** (not "~1 hr from Jackson") and Old Faithful is **~1 hr 15 past the gate** (not 30 min). That's ~1 hr 20 of driving we didn't have on the books. The corrected clock, and the 6:15 AM departure that makes it work, are in [`/itinerary`](../itinerary/itinerary.md).
+> ⏱️ **The range is tight.** The South Entrance is **~1 hr 30 from the house** and Old Faithful is **~1 hr 15 past the gate** — the full clock, and the 6:15 AM departure that makes it work, are in [`/itinerary`](../itinerary/itinerary.md).
 
 ### Must-See Thermal Features
 
