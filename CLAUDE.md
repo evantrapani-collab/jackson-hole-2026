@@ -24,7 +24,7 @@ Trip-planning repo for a 13-person Jackson Hole / Yellowstone trip, **Sep 17–2
   - Saturday: Yellowstone via the **South Entrance only**, leaving **6:15 AM** with a hard **2:00 PM turnaround at West Thumb** (home ~3:50) for the 5:30 PM LSU game. Anything past Old Faithful / West Thumb doesn't fit.
   - Sunday: **6:00 AM** wildlife drive (sunrise ~7:07; Schwabacher is ~45 min out), Saints game at 11 AM MT.
   - Headcount is **locked at 13**; lodging is booked (Montreux House, Teton Village).
-- Every open decision carries a **default that holds with zero action** (README → *Decision Defaults*, mirrored on the dashboard's Crew tab). When you add an open item, add what happens if nobody does anything.
+- Every open decision carries a **default that holds with zero action** (README → *Decision Defaults*, mirrored at the bottom of the dashboard's To-Do tab). When you add an open item, add what happens if nobody does anything.
 - `RUBRIC.md` is a **maintainer's scorecard, not trip content** — re-grade it when plan content changes materially, but never link it or quote a score from `index.html` or the README.
 - Reference content that doesn't fit the schedule stays in the docs but gets triaged honestly (the 🚫 flags in `activities.md`, and `dining.md` → *Everything else, triaged honestly*) rather than deleted. Sort it by **verdict**, not by who suggested it — three lists of the same restaurants is how that section got to 90 lines.
 - **When a decision closes, delete its reasoning and keep its outcome.** Git history is the changelog; the docs are the plan. A closed item is one line, not a paragraph, and the cost of a fact is the number of places it's written — not the number of words.

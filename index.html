@@ -191,7 +191,6 @@
 
   /* Show the panel whose tab radio is checked. */
   #t-itinerary:checked  ~ main #itinerary,
-  #t-crew:checked       ~ main #crew,
   #t-eat:checked        ~ main #eat,
   #t-groc:checked       ~ main #groc,
   #t-packing:checked    ~ main #packing,
@@ -201,7 +200,6 @@
 
   /* Light up the tab whose radio is checked. */
   #t-itinerary:checked  ~ nav label[for="t-itinerary"],
-  #t-crew:checked       ~ nav label[for="t-crew"],
   #t-eat:checked        ~ nav label[for="t-eat"],
   #t-groc:checked       ~ nav label[for="t-groc"],
   #t-packing:checked    ~ nav label[for="t-packing"],
@@ -214,7 +212,6 @@
 
   /* Keyboard focus ring on the active tab (radios are the focus target). */
   #t-itinerary:focus-visible  ~ nav label[for="t-itinerary"],
-  #t-crew:focus-visible       ~ nav label[for="t-crew"],
   #t-eat:focus-visible        ~ nav label[for="t-eat"],
   #t-groc:focus-visible       ~ nav label[for="t-groc"],
   #t-packing:focus-visible    ~ nav label[for="t-packing"],
@@ -455,7 +452,6 @@
 <!-- Tab state: one radio per tab. Itinerary is the default. These sit at the
      top of <body> so the :checked ~ rules can reach <nav> and <main>. -->
 <input class="tab-state" type="radio" name="tab" id="t-itinerary" checked>
-<input class="tab-state" type="radio" name="tab" id="t-crew">
 <input class="tab-state" type="radio" name="tab" id="t-eat">
 <input class="tab-state" type="radio" name="tab" id="t-groc">
 <input class="tab-state" type="radio" name="tab" id="t-packing">
@@ -525,7 +521,6 @@
   <div class="wrap">
     <div class="tabs-row">
       <label class="tab" for="t-itinerary">Itinerary</label>
-      <label class="tab" for="t-crew">Crew &amp; Money</label>
       <label class="tab" for="t-eat">Eat &amp; Drink</label>
       <label class="tab" for="t-groc">Groceries</label>
       <label class="tab" for="t-packing">Packing</label>
@@ -706,103 +701,6 @@
       </ul>
     </div>
 
-  </section>
-
-  <!-- ============ CREW ============ -->
-  <section class="panel" id="crew">
-    <div class="section-h">💵 Money</div>
-    <div class="card scroll-x">
-      <div class="note">✅ <b>Settled — nothing left to send.</b> <b>$784.14 per man</b> — lodging + safari + rafting, all in — collected from all 13. Everything below is money you spend on the ground.</div>
-      <table class="tbl">
-        <thead><tr><th>Per person</th><th class="num">Est.</th></tr></thead>
-        <tbody>
-          <tr><td>Lodging + safari + rafting <span class="faint">(paid to Drewes)</span></td><td class="num"><b>$784.14</b> ✅</td></tr>
-          <tr><td>Food, drink &amp; the ribeyes <span class="faint">(~$100 of it is the grocery run)</span></td><td class="num">~$200–330</td></tr>
-          <tr><td>Tips, gas, park entry, bear spray, incidentals</td><td class="num">~$115–220</td></tr>
-          <tr><td>Tram + Corbet's waffles <span class="faint">(Sunday, optional)</span></td><td class="num">~$0–55</td></tr>
-          <tr><td><b>All in, on the ground</b></td><td class="num"><b>≈$1,100–1,390</b></td></tr>
-          <tr><td>Flights</td><td class="num muted">each man's own booking</td></tr>
-        </tbody>
-      </table>
-      <div class="note"><b>Bring cash.</b> Friday is two guide tips (~$20–40 total), and Pica's and Nora's are cash-only. Full breakdown in <b>/budget</b>.</div>
-    </div>
-
-    <div class="section-h">The Crew — 13 Locked</div>
-    <div class="card">
-      <div class="roster">
-        <span class="guy"><span class="avatar" style="background:#f5b942">DR</span>Drewes</span>
-        <span class="guy"><span class="avatar" style="background:#e88a3c">PS</span>Psilos</span>
-        <span class="guy"><span class="avatar" style="background:#e2604a">HA</span>Hardie</span>
-        <span class="guy"><span class="avatar" style="background:#4fa67e">SC</span>Schick</span>
-        <span class="guy"><span class="avatar" style="background:#6fb7e0">TR</span>Trapani</span>
-        <span class="guy"><span class="avatar" style="background:#d96a8a">LE</span>Levy</span>
-        <span class="guy"><span class="avatar" style="background:#b58cf0">SH</span>Shrub</span>
-        <span class="guy"><span class="avatar" style="background:#f5b942">MI</span>Mitternight</span>
-        <span class="guy"><span class="avatar" style="background:#e88a3c">SO</span>Solak</span>
-        <span class="guy"><span class="avatar" style="background:#e2604a">CO</span>Comeaux</span>
-        <span class="guy"><span class="avatar" style="background:#4fa67e">HA</span>Hasney</span>
-        <span class="guy"><span class="avatar" style="background:#6fb7e0">FU</span>Fulham</span>
-        <span class="guy"><span class="avatar" style="background:#d96a8a">CI</span>Ciolino</span>
-      </div>
-    </div>
-
-    <div class="section-h">Who Owns What</div>
-    <div class="card scroll-x">
-      <table class="tbl">
-        <thead><tr><th>Job</th><th>Owner</th><th>Status</th></tr></thead>
-        <tbody>
-          <tr><td>Money hub — the $784.14/man</td><td><b>Drewes</b> <span class="faint">(@DrewesPT)</span></td><td><span class="pill ok">Collected</span></td></tr>
-          <tr><td>⭐ Rafting late-cancel rule</td><td><b>Drewes</b></td><td><span class="pill warn">By 9/10</span></td></tr>
-          <tr><td>The RMR call — checkout, Ciolino's cot, grill + propane</td><td><b>Drewes</b> <span class="faint">(guest of record)</span></td><td><span class="pill warn">By 9/7</span></td></tr>
-          <tr><td>Friday waivers — forward the JHWW email to all 13</td><td><b>Whoever holds the confirmation</b></td><td><span class="pill warn">By 9/10</span></td></tr>
-          <tr><td>Teton Expeditions booking <span class="faint">(the 8 AM safari)</span></td><td><b>Psilos</b> <span class="faint">(in his name)</span></td><td><span class="pill ok">Booked</span></td></tr>
-          <tr><td>Groceries + the Albertsons butcher call</td><td><b>Psilos</b></td><td><span class="pill ok">Named</span></td></tr>
-          <tr><td>Grill captain — 13 ribeyes</td><td><b>Psilos</b> <span class="faint">(he owns the meat)</span></td><td><span class="pill ok">Default</span></td></tr>
-          <tr><td>Explorer SUV · Expedition SUV</td><td><b>Hardie</b> · <b>Schick</b></td><td><span class="pill ok">Booked</span></td></tr>
-          <tr><td>Thursday DDs — the downtown → Village hop</td><td><b>Hardie + Schick</b> <span class="faint">(only insured drivers)</span></td><td><span class="pill ok">Default</span></td></tr>
-          <tr><td>Bear spray — 2 canisters, rented at JAC</td><td><b>Whoever's at baggage claim</b> <span class="faint">(kiosk by carousel #3)</span></td><td><span class="pill ok">Solved</span></td></tr>
-          <tr><td>Ciolino's sleeping surface</td><td><b>Ciolino</b> <span class="faint">(packs a mattress regardless)</span></td><td><span class="pill ok">Default</span></td></tr>
-          <tr><td>Park pass</td><td class="muted">Nobody needed</td><td><span class="pill ok">Pay at the gate</span></td></tr>
-        </tbody>
-      </table>
-      <div class="note"><b>Hardie (Explorer) and Schick (Expedition) are the driver-leads</b> — they hold the rental agreements, so they're the only two insured to drive, and each owns departure times for his car. Herding 13 guys is the main thing that blows up a schedule. <b>Explorer as a 7-seater = 14 seats for 13</b>, an estimate we settle at the JAC counter Thursday rather than in advance <span class="faint">(if it's 12, add a third small car there — see Logistics)</span>.</div>
-    </div>
-
-    <div class="section-h">🧭 Decision Defaults — what happens if nobody does anything</div>
-    <div class="card scroll-x">
-      <div class="note">Every open call has a default that holds with <b>zero action</b>. The Sep 10 call is for <i>changing</i> defaults, not inventing them.</div>
-      <table class="tbl">
-        <thead><tr><th>Open decision</th><th>Owner / by when</th><th>If nobody acts</th></tr></thead>
-        <tbody>
-          <tr><td><b>The RMR call</b> — checkout, Ciolino's cot, grill + propane <span class="faint">(check-in answered: 4 PM)</span></td><td><b>Drewes</b> · 9/7</td><td><b>~10 AM checkout</b>, which the Monday exit already assumes. Ciolino packs a mattress regardless; the grill gets eyeballed Thursday</td></tr>
-          <tr><td><b>Friday dinner menu</b></td><td>Sep 10 grocery call</td><td><b>Fajita/taco bar</b> — its leftovers are Saturday's cooler lunch, a one-pot's aren't</td></tr>
-          <tr><td><b>Steak night — Sat or Sun</b></td><td>Sep 10 call</td><td><b>Stays Saturday.</b> If it moves, Saturday is the house off grocery stock and Dornan's is void</td></tr>
-          <tr><td><b>Grill captain</b></td><td>Sep 10 call</td><td><b>Psilos lights it.</b> Two batches — hold the first in a 200°F oven</td></tr>
-          <tr><td><b>Friday waivers</b></td><td>whoever forwards the JHWW email · 9/10</td><td><b>Thirteen guys on their phones in the boathouse lot at 12:15.</b> Nobody misses the boat — it just eats a ~45-min lunch</td></tr>
-          <tr><td><b>Friday lunch</b></td><td>rides the Thursday grocery run</td><td><b>Sandwiches packed Thursday</b>, eaten in the lot. <b>Sidewinders next door</b> is the upgrade</td></tr>
-          <tr><td><b>Sunday Saints venue</b></td><td>Thu/Fri recon</td><td><b>House cookout</b> — owns the TV and the whole slate, no 13-top anywhere. Sidewinders is next door to Friday's boathouse, so the recon is free</td></tr>
-          <tr><td><b>Park pass</b></td><td>ask the chat · 9/7</td><td><b>Pay at the gate:</b> $140 for 2 vehicles × 2 parks vs. $160 for two passes. Each $35 is good 7 days — keep the receipt</td></tr>
-          <tr><td><b>Thursday DDs</b></td><td>said out loud before you leave</td><td><b>Hardie + Schick</b> — the only two insured to drive. Add drivers at the JAC counter to rotate</td></tr>
-          <tr><td><b>Tram tickets</b> <span class="faint">(~$55/pp)</span></td><td>9/7</td><td><b>Downtown Jackson + early Dornan's</b> — no empty block. <span class="faint">The tram itself is confirmed running</span></td></tr>
-          <tr><td><b>Saturday's turnaround</b></td><td>nobody — it's a rule</td><td><b>Wheels rolling south out of West Thumb at 2:00 PM</b>, whatever's unseen</td></tr>
-        </tbody>
-      </table>
-    </div>
-
-    <div class="section-h">🛏️ Sleeping 13 — Montreux House</div>
-    <div class="card scroll-x">
-      <table class="tbl">
-        <thead><tr><th>Level</th><th>Room</th><th>Bed(s)</th></tr></thead>
-        <tbody>
-          <tr><td>Upper</td><td>Master Bedroom</td><td>1 king</td></tr>
-          <tr><td>Main</td><td>Guest Bedroom</td><td>1 queen</td></tr>
-          <tr><td>Lower</td><td>Guest Bedroom 1</td><td>1 king</td></tr>
-          <tr><td>Lower</td><td>Guest Bedroom 2</td><td>1 king</td></tr>
-          <tr><td>Lower</td><td>Junior Suite</td><td>2 kings <span class="faint">(biggest room — the overflow spot)</span></td></tr>
-        </tbody>
-      </table>
-      <div class="note"><b>6 beds max out at 12 even fully shared, so Ciolino is the 13th man.</b> Beds are picked on arrival ✅. <b>Ciolino packs an air mattress + pump regardless</b> of what RMR says — there's no big-box store in Jackson to fix it on arrival. Drewes asks about a cot on the 9/7 call; if one turns up, the mattress stays in the bag. Full layout in <b>/lodging</b>.</div>
-    </div>
   </section>
 
   <!-- ============ EAT & DRINK ============ -->
@@ -1146,6 +1044,23 @@
 
   <!-- ============ LOGISTICS ============ -->
   <section class="panel" id="logistics">
+    <div class="section-h">💵 Money</div>
+    <div class="card scroll-x">
+      <div class="note">✅ <b>Settled — nothing left to send.</b> <b>$784.14 per man</b> — lodging + safari + rafting, all in — collected from all 13. Everything below is money you spend on the ground.</div>
+      <table class="tbl">
+        <thead><tr><th>Per person</th><th class="num">Est.</th></tr></thead>
+        <tbody>
+          <tr><td>Lodging + safari + rafting <span class="faint">(paid to Drewes)</span></td><td class="num"><b>$784.14</b> ✅</td></tr>
+          <tr><td>Food, drink &amp; the ribeyes <span class="faint">(~$100 of it is the grocery run)</span></td><td class="num">~$200–330</td></tr>
+          <tr><td>Tips, gas, park entry, bear spray, incidentals</td><td class="num">~$115–220</td></tr>
+          <tr><td>Tram + Corbet's waffles <span class="faint">(Sunday, optional)</span></td><td class="num">~$0–55</td></tr>
+          <tr><td><b>All in, on the ground</b></td><td class="num"><b>≈$1,100–1,390</b></td></tr>
+          <tr><td>Flights</td><td class="num muted">each man's own booking</td></tr>
+        </tbody>
+      </table>
+      <div class="note"><b>Bring cash.</b> Friday is two guide tips (~$20–40 total), and Pica's and Nora's are cash-only. Full breakdown in <b>/budget</b>.</div>
+    </div>
+
     <div class="section-h">✈️ Flights</div>
     <div class="card scroll-x">
       <table class="tbl">
@@ -1251,6 +1166,20 @@
       </ul>
     </div>
 
+    <div class="section-h">🛏️ Sleeping 13 — Montreux House</div>
+    <div class="card scroll-x">
+      <table class="tbl">
+        <thead><tr><th>Level</th><th>Room</th><th>Bed(s)</th></tr></thead>
+        <tbody>
+          <tr><td>Upper</td><td>Master Bedroom</td><td>1 king</td></tr>
+          <tr><td>Main</td><td>Guest Bedroom</td><td>1 queen</td></tr>
+          <tr><td>Lower</td><td>Guest Bedroom 1</td><td>1 king</td></tr>
+          <tr><td>Lower</td><td>Guest Bedroom 2</td><td>1 king</td></tr>
+          <tr><td>Lower</td><td>Junior Suite</td><td>2 kings <span class="faint">(biggest room — the overflow spot)</span></td></tr>
+        </tbody>
+      </table>
+      <div class="note"><b>6 beds max out at 12 even fully shared, so Ciolino is the 13th man.</b> Beds are picked on arrival ✅. <b>Ciolino packs an air mattress + pump regardless</b> of what RMR says — there's no big-box store in Jackson to fix it on arrival. Drewes asks about a cot on the 9/7 call; if one turns up, the mattress stays in the bag. Full layout in <b>/lodging</b>.</div>
+    </div>
     <div class="section-h">📇 Key Contacts — Print This</div>
     <div class="card scroll-x">
       <table class="tbl">
@@ -1330,7 +1259,7 @@
   <!-- ============ TO-DO ============ -->
   <section class="panel" id="todo">
     <div class="section-h">Open Items — Check It Off</div>
-    <div class="note"><b>The README list, in chronological order — work top to bottom.</b> One ⭐ item still gates the trip: the 9/10 late-cancel rule. Money is closed, and <b>everything else has a default that holds if it never gets done</b> — see <i>Decision Defaults</i> on the Crew tab. Check marks save on this device.</div>
+    <div class="note"><b>The README list, in chronological order — work top to bottom.</b> One ⭐ item still gates the trip: the 9/10 late-cancel rule. Money is closed, and <b>everything else has a default that holds if it never gets done</b> — see <i>Decision Defaults</i> at the bottom of this tab. Check marks save on this device.</div>
     <div class="progress-lab"><span id="todoProgLab">0 of 32 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
     <div class="progress"><span id="todoProg"></span></div>
 
@@ -1377,6 +1306,27 @@
       <label class="check"><input type="checkbox" id="td27"><span class="box"></span><span class="lab"><b>Sun</b> — <b>leave 6:00 for Schwabacher</b> (~45 min out, sunrise ~7:07). Loop is Schwabacher → Oxbow Bend → Mormon Row. Bring a headlamp</span><span class="tag">Sun</span></label>
       <label class="check"><input type="checkbox" id="td28"><span class="box"></span><span class="lab"><b>Mon</b> — <b>drop the 2 bear-spray canisters back at the JAC kiosk</b> (after-hours box) before the 11:47 flight. You can't fly with them</span><span class="tag">Mon</span></label>
     </div>
+    <div class="section-h">🧭 Decision Defaults — what happens if nobody does anything</div>
+    <div class="card scroll-x">
+      <div class="note">Every open call has a default that holds with <b>zero action</b>. The Sep 10 call is for <i>changing</i> defaults, not inventing them.</div>
+      <table class="tbl">
+        <thead><tr><th>Open decision</th><th>Owner / by when</th><th>If nobody acts</th></tr></thead>
+        <tbody>
+          <tr><td><b>The RMR call</b> — checkout, Ciolino's cot, grill + propane <span class="faint">(check-in answered: 4 PM)</span></td><td><b>Drewes</b> · 9/7</td><td><b>~10 AM checkout</b>, which the Monday exit already assumes. Ciolino packs a mattress regardless; the grill gets eyeballed Thursday</td></tr>
+          <tr><td><b>Friday dinner menu</b></td><td>Sep 10 grocery call</td><td><b>Fajita/taco bar</b> — its leftovers are Saturday's cooler lunch, a one-pot's aren't</td></tr>
+          <tr><td><b>Steak night — Sat or Sun</b></td><td>Sep 10 call</td><td><b>Stays Saturday.</b> If it moves, Saturday is the house off grocery stock and Dornan's is void</td></tr>
+          <tr><td><b>Grill captain</b></td><td>Sep 10 call</td><td><b>Psilos lights it.</b> Two batches — hold the first in a 200°F oven</td></tr>
+          <tr><td><b>Friday waivers</b></td><td>whoever forwards the JHWW email · 9/10</td><td><b>Thirteen guys on their phones in the boathouse lot at 12:15.</b> Nobody misses the boat — it just eats a ~45-min lunch</td></tr>
+          <tr><td><b>Friday lunch</b></td><td>rides the Thursday grocery run</td><td><b>Sandwiches packed Thursday</b>, eaten in the lot. <b>Sidewinders next door</b> is the upgrade</td></tr>
+          <tr><td><b>Sunday Saints venue</b></td><td>Thu/Fri recon</td><td><b>House cookout</b> — owns the TV and the whole slate, no 13-top anywhere. Sidewinders is next door to Friday's boathouse, so the recon is free</td></tr>
+          <tr><td><b>Park pass</b></td><td>ask the chat · 9/7</td><td><b>Pay at the gate:</b> $140 for 2 vehicles × 2 parks vs. $160 for two passes. Each $35 is good 7 days — keep the receipt</td></tr>
+          <tr><td><b>Thursday DDs</b></td><td>said out loud before you leave</td><td><b>Hardie + Schick</b> — the only two insured to drive. Add drivers at the JAC counter to rotate</td></tr>
+          <tr><td><b>Tram tickets</b> <span class="faint">(~$55/pp)</span></td><td>9/7</td><td><b>Downtown Jackson + early Dornan's</b> — no empty block. <span class="faint">The tram itself is confirmed running</span></td></tr>
+          <tr><td><b>Saturday's turnaround</b></td><td>nobody — it's a rule</td><td><b>Wheels rolling south out of West Thumb at 2:00 PM</b>, whatever's unseen</td></tr>
+        </tbody>
+      </table>
+    </div>
+
     <div class="faint" style="padding:0 4px 8px;">Closed in August: money ($784.14/man, all 13 settled) · the Cowboy Steakhouse / Snake River Grill 13-top (window passed — house steak nights stand) · bear spray (JAC rental) · the Explorer 3rd row (settled at the counter, not in advance).</div>
   </section>
 
