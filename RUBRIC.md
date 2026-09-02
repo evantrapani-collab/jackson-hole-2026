@@ -134,6 +134,8 @@ Maintainer's ledger. These are the claims the plan *depends on* that live outsid
 | Cowboy Coffee drive-thru | 1007 S US-89, opens 6 AM | cowboycoffee.com |
 | Sidewinders | 11:30 AM – 9:30 PM, 30+ TVs, no reservations | (307) 734-5766 |
 | JHWW "Classic Raft" | **No lunch included** (that's their scenic float) | (307) 733-1007 |
+| Parking, 945 W Broadway | **"Extremely limited"** per JHWW; shared with Barker-Ewing + Rendezvous River Sports; they suggest walking or a taxi | jhww.com/trip-info |
+| JHWW check-in windows | **30 min** before whitewater, **15 min** before a scenic float | jhww.com/trip-info |
 | Bear Aware kiosk, JAC | Baggage claim #3, Jun–Oct, ~$28/canister capped | bearaware.com |
 | Park entry | $35/vehicle/park, **7-day**; +$100 non-resident surcharge (2026) | nps.gov |
 | DFW→JAC nonstops | 2 daily, year-round | AA app |

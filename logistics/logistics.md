@@ -81,6 +81,7 @@
 - **Shoes (rafting):** Must attach to your feet — no sandals or flip flops
 - **Wetsuits:** Available to rent on-site — $5/person (3-piece suit); decide closer to the trip based on weather
 - **Arrival:** **7:45 AM** for the safari (confirmed); **30 min early** for rafting (contract)
+- 🅿️ **Parking is the one thing JHWW warns about — and we're their worst case.** Their trip-info page says parking at 945 W Broadway is **"extremely limited"**: walk over if you're staying close, and they suggest Uber or a taxi. Two problems for us — we're **20 min out in Teton Village** (walking isn't an option), and we need **two SUVs sitting in that lot from 7:45 AM to ~4:30 PM**, nine hours, not the two a normal party takes. It's also a **shared lot** — Barker-Ewing and Rendezvous River Sports check in at the same address. **Ask when you confirm Friday:** can two vehicles stay all day, and where's the overflow? *(Fallback if the answer is no: one driver drops 12 guys at check-in and parks off-site — everything Friday needs is on that block, so it costs one man 15 minutes, not the group.)*
 - **Before you go:** ☕ **Cowboy Coffee's drive-thru at 1007 S US-89** — opens **6 AM**, sits ~2 min from the boathouse right where WY-22 meets the highway, and you pass it on the way in. **Not the Town Square store** (125 N Cache): that one is ~5 min *east past* 945 W Broadway, so it's a backtrack, and 13 guys queuing indoors at 7:15 is how a 7:45 check-in slips. **Leave the house ~6:45**, not 7:00
 - **Lunch — a ~45-minute window in the boathouse lot** (see [`/dining`](../dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)):
   - ⚠️ **JHWW does not feed this trip.** Lunch comes with their **scenic float**; we booked the **whitewater "Classic Raft"** — guide, paddles, splash gear, shuttle, no food
@@ -93,6 +94,7 @@
 
 - [ ] **Waivers signed by all 13** — forward the JHWW email to the group
 - [ ] Wetsuit rentals — decide closer to the trip ($5/person)
+- [ ] 🅿️ **Ask about all-day parking for two SUVs** — JHWW calls the lot at 945 W Broadway "extremely limited"
 - [x] ✅ **Lunch — settled: pack it Thursday** (JHWW feeds scenic floats, not whitewater). Sidewinders next door is the walk-in upgrade
 - [ ] ✅ Times confirmed in writing (7:45 check-in / 8:00 safari / 1:00 rafting). Still open: whether **Teton Expeditions has its own waiver**, and whether the safari can hand off directly to JHWW if the van runs long
 
