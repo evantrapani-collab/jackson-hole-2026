@@ -113,11 +113,13 @@ Current standing, and where the four most recent passes found gaps. Earlier colu
 
 ---
 
-## Verified external facts — checked 2026-08-21, re-checked 2026-08-28
+## Verified external facts — checked 2026-08-21, re-checked 2026-08-28, 2026-09-04
 
 Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the 8/21 passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
 
 **Re-verified 8/28 and unchanged:** the Aerial Tram season, the Bridger Gondola's Sept 13 close, the Moose-Wilson closure, Dornan's hours, Sidewinders, both kickoff times/networks, and Sunday's sunrise. The park-service pages (Craig Pass status, road conditions) still want a day-of check — that one can't be pre-verified.
+
+**Re-verified 9/4 and unchanged:** the same list above, plus the Cowboy Coffee drive-thru hours, the Bear Aware kiosk pricing/season, and the 2026 non-resident surcharge — all against fresh sources, not the repo's own prior claim. One new wrinkle, informational only: NPS's 2026 release also flags intermittent Moose-Wilson delays and an LSR Preserve entrance-road closure both starting **Sep 23** — after we're home Sep 21, so nothing in the plan changes.
 
 | Fact | Value | Re-check at |
 |---|---|---|
