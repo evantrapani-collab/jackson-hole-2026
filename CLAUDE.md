@@ -15,6 +15,7 @@ Trip-planning repo for a 13-person Jackson Hole / Yellowstone trip, **Sep 17–2
    `--check` verifies the outputs match `PLACES` without rewriting them; CI runs it on every push/PR (`.github/workflows/maps-check.yml`).
 
 4. **`apple-touch-icon.png` is generated too.** It's the home-screen icon iOS uses when you "Add to Home Screen" (without it Safari draws a plain letter tile). Never hand-edit the PNG — change the art constants in `icons/generate_icon.py` and run `python3 icons/generate_icon.py` (`--check` verifies it's current). Keep it at the repo root: that's where Safari probes for it, and GitHub Pages publishes the root as-is.
+5. **`manifest.json` is Android/Chrome's version of the same icon fix** — it points "Add to Home Screen" at `apple-touch-icon.png` instead of a generic globe tile. It's a static file, not generated; if the app name or theme color in `index.html`'s `<head>` ever changes, update `manifest.json` to match by hand.
 
 ## Conventions
 
