@@ -43,9 +43,9 @@
 | Food & Drink | $150–250 total | Bars Thu night, meals, drinks |
 | Ribeyes (Sat grill) | $50–80 | 24 oz bone-in + sides; split the grocery run |
 | Guide tips (Fri) | $20–40 | Van tour **+** rafting guides; bring cash |
-| **Tram ticket (Sun)** | **~$55** | Sightseeing ticket to Corbet's Cabin; buy online by 9/7. Tram runs May 16–Oct 4, 8:30–5. Skippable — if all 13 ride, that's ~$715 |
+| **Tram ticket (Sun)** | **~$55** | Sightseeing ticket to Corbet's Cabin; ⏰ **tickets were due 9/7, still unbought** — buyable up to Sunday. Tram runs May 16–Oct 4, 8:30–5. Skippable — if all 13 ride, that's ~$715 |
 | Bear spray | **~$4** | Rental, not a purchase: 2 canisters from the **Bear Aware kiosk at JAC baggage claim**, capped at $28 each = ~$56 ÷ 13. Returned Monday — you can't fly with them |
-| Rafting wetsuit rental | $5 | Optional; decide closer to the trip |
+| Rafting wetsuit rental | $5 | Optional; **call it by 9/16 on the forecast. Default: nobody rents** |
 | Park entry | ~$11 | **Default: pay at the gate** — 2 vehicles × 2 parks × $35 = $140 split 13 ways. Two ATB passes would be $160, so the pass only wins if someone already owns one. **Each $35 is a 7-day pass**, so Saturday's Grand Teton fee also covers Sunday |
 | Gas / transport | $30–60 | Split across vehicles |
 | Incidentals | $50–100 | Tips, souvenirs, extra drinks |
@@ -79,6 +79,6 @@
 | Groceries / Ribeyes | Smith's or Albertsons, Jackson (Owner: Psilos) | — | ~$100/person | Open — method call pending (in-person vs. pre-stock). **Thursday now has a 3–4 PM block for it** (the gondola closure freed the hour) |
 | Park entry | NPS, at the gate | — | ~$140 total | Default — pay at the gates; no pass being bought. Each $35 is good 7 days |
 | **Bear spray (2 canisters)** | **Bear Aware kiosk, JAC baggage claim** | — | **~$56 total** | 🆕 **Rental** — pick up Thursday at carousel #3, drop in the same box Monday. Capped at $28/canister |
-| **Tram tickets (Sun)** | Jacksonhole.com, online | — | ~$55/person | 🆕 **Open** — buy by 9/7. Tram confirmed running May 16 – Oct 4 |
+| **Tram tickets (Sun)** | Jacksonhole.com, online | — | ~$55/person | ⏰ **Overdue** — was due 9/7, unbought. Tram confirmed running May 16 – Oct 4, so this is late, not lost |
 
 ---

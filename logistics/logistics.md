@@ -30,7 +30,7 @@
 - Sit toward the front of AA 468 — the 43 minutes is a Skylink sprint, not a coffee stop
 
 **Tier 1 — missed it; catch the same-day evening nonstop**
-- ✅ **The backup flight exists.** AA runs **2 nonstops a day DFW→JAC, 14 a week, year-round** — the old worry that post-Labor-Day schedules thin out doesn't apply. The second one is the evening departure (~5:50 PM, lands ~7:45). **Confirm the exact time in the app the week before**; the structural risk is closed, but *2 a day* also means the evening flight is the last chance, and 13 seats on it is a lot
+- ✅ **The backup flight exists.** AA runs **2 nonstops a day DFW→JAC, 14 a week, year-round** — the old worry that post-Labor-Day schedules thin out doesn't apply. The second one is the evening departure (~5:50 PM, lands ~7:45). **Confirm the exact time in the app by 9/14**; the structural risk is closed, but *2 a day* also means the evening flight is the last chance, and 13 seats on it is a lot
 - The race is seats, not rebooking: everyone on the group ticket rebooks **simultaneously in the AA app** while one guy calls AA and another hits the gate desk. Take whatever's there; split across flights if needed
 - **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations and are on the group itinerary, so they misconnect together. An advance party grabs the SUVs, checks into the house, and triggers the grocery **delivery** fallback (see `/dining`)
 - Cost of this outcome: the Thursday midday window and most of the bar crawl. Friday untouched. Bear spray moves to Friday evening
@@ -54,7 +54,7 @@
 - ✅ **Paid in full — $784.14/man**, lodging + van tour + rafting combined, collected from all 13. Nothing left to send. [`/budget`](../budget/budget.md)
 - **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
 - ✅ **Check-in is 4:00 PM.** That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** Drewes has planted the seed with RMR, but it depends on the cleaning crew and a Wednesday checkout, and **they may charge to lock it in early**. Play it by ear; build the day for 4 PM.
-- [ ] **Still to confirm on the RMR call** *(Owner: **Drewes**, by **9/7** — slipped from 8/22)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino, and the grill + propane
+- [ ] ⏰ **Still to confirm on the RMR call** *(Owner: **Drewes** — **overdue**, slipped 8/22 then 9/7)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino, and the grill + propane
 
 ---
 
@@ -79,7 +79,7 @@
 - 🚫 **No alcohol, all day, both operators.** Teton Expeditions puts it in red — *"NO ALCOHOL POLICY! Please leave it behind"* — and JHWW's no-alcohol rule covers the van and the boat. **The lunch hour between them is the only window**, and it's the hour before you get on a river
 - **Layers for the morning:** Teton Expeditions says dress in layers because *"we decide to get out and look through the spotting scope"* — cold, and out of the vehicle. Bring binoculars
 - **Shoes (rafting):** Must attach to your feet — no sandals or flip flops
-- **Wetsuits:** Available to rent on-site — $5/person (3-piece suit); decide closer to the trip based on weather
+- **Wetsuits:** Available to rent on-site — $5/person (3-piece suit). **Call it by 9/16 on Friday's forecast; default is nobody rents** — they're stocked at the shop, so it stays fixable at the 12:30 check-in
 - **Arrival:** **7:45 AM** for the safari (confirmed); **30 min early** for rafting (contract)
 - 🅿️ **Parking is the one thing JHWW warns about — and we're their worst case.** Their trip-info page says parking at 945 W Broadway is **"extremely limited"**: walk over if you're staying close, and they suggest Uber or a taxi. Two problems for us — we're **20 min out in Teton Village** (walking isn't an option), and we need **two SUVs sitting in that lot from 7:45 AM to ~4:30 PM**, nine hours, not the two a normal party takes. It's also a **shared lot** — Barker-Ewing and Rendezvous River Sports check in at the same address. **Ask when you confirm Friday:** can two vehicles stay all day, and where's the overflow? *(Fallback if the answer is no: one driver drops 12 guys at check-in and parks off-site — everything Friday needs is on that block, so it costs one man 15 minutes, not the group.)*
 - **Before you go:** ☕ **Cowboy Coffee's drive-thru at 1007 S US-89** — opens **6 AM**, sits ~2 min from the boathouse right where WY-22 meets the highway, and you pass it on the way in. **Not the Town Square store** (125 N Cache): that one is ~5 min *east past* 945 W Broadway, so it's a backtrack, and 13 guys queuing indoors at 7:15 is how a 7:45 check-in slips. **Leave the house ~6:45**, not 7:00
@@ -93,7 +93,7 @@
 ### Reminders (don't need to decide now)
 
 - [ ] **Waivers signed by all 13** — forward the JHWW email to the group
-- [ ] Wetsuit rentals — decide closer to the trip ($5/person)
+- [ ] **Wetsuit call — yes/no in the chat by 9/16** ($5/person, on Friday's forecast). **Default: nobody rents** — JHWW stocks them at the shop, so a cold morning is still fixable at the 12:30 check-in
 - [ ] 🅿️ **Ask about all-day parking for two SUVs** — JHWW calls the lot at 945 W Broadway "extremely limited"
 - [x] ✅ **Lunch — settled: pack it Thursday** (JHWW feeds scenic floats, not whitewater). Sidewinders next door is the walk-in upgrade
 - [ ] ✅ Times confirmed in writing (7:45 check-in / 8:00 safari / 1:00 rafting). Still open: whether **Teton Expeditions has its own waiver**, and whether the safari can hand off directly to JHWW if the van runs long
@@ -166,12 +166,12 @@
 | **Pay at the gate** | 2 vehicles × 2 parks × $35 | **$140** |
 | America the Beautiful | 2 passes × $80 (a pass covers one vehicle) | $160 |
 
-- So the only thing worth asking is: **does anybody already own an ATB pass?** One question in the group chat (**by 9/7**). If yes, that vehicle rides free and the other pays $70 at the gates
+- So the only thing worth asking is: **does anybody already own an ATB pass?** One question in the group chat — ⏰ **was due 9/7, still unasked**. If yes, that vehicle rides free and the other pays $70 at the gates
 - If someone does want to buy one anyway, grab it on Recreation.gov in advance rather than at the booth — the line at the South Entrance is the cost, not the $80
 - 🧾 **Each $35 is a 7-day pass — keep the receipt on the dash.** Heading north on Saturday you pass the **Moran entrance station** and pay Grand Teton's $35; that same receipt covers **Sunday's wildlife drive** (Oxbow Bend is the only Sunday stop past a station). Two parks, two fees, but **not four**
 - 🌐 **New for 2026 — a $100 non-resident surcharge.** Starting Jan 1, 2026 every visitor aged 16+ who is **not a U.S. resident** pays an extra **$100 per person** on top of the vehicle fee, unless they enter on an annual/America the Beautiful pass. Almost certainly irrelevant for 13 guys out of New Orleans — but if anyone on this trip isn't a U.S. resident, that's a $100 surprise at the South Entrance, so ask once rather than find out at the booth
 - **2026 note:** Yellowstone has bridge-construction delays at the **North and Northeast entrances** — not on our route. We use the **South Entrance**, which is unaffected.
-- [ ] **Ask the chat if anyone already has an ATB pass** *(by 9/7)* — that's the whole decision. Default is gate fees, and $140 comes out of the same pocket either way (~$11/man)
+- [ ] ⏰ **Ask the chat if anyone already has an ATB pass** *(was due 9/7 — overdue)* — that's the whole decision. Default is gate fees, and $140 comes out of the same pocket either way (~$11/man)
 
 ---
 
@@ -198,7 +198,8 @@
 - 🐻 **Bear spray — ✅ solved, and it moved off the grocery run.** **Bear Aware** staffs a kiosk at **JAC next to baggage claim #3**, seven days a week **June–October**. Rent **2 canisters** (one per vehicle) while you're waiting on bags Thursday morning: **$16 for the first two days, $4/day after, capped at $28 each — ~$56 total, ~$4/man.** Return them to the **after-hours drop box at the same kiosk** Monday morning.
   - **Why this beats buying:** it costs zero minutes (you're at that carousel anyway), it's ~$44 cheaper than two canisters at ~$50, it takes the single most-flagged ⚠️ off Thursday's schedule entirely, and it answers the thing nobody had answered — **you can't fly home with bear spray**, so bought canisters get abandoned at the house.
   - **Fallback:** **Smith's and Albertsons both stock bear spray**, so if the kiosk is out it's one line on the errand-hour cart, not a separate sporting-goods trip. Both parks' visitor centers sell it too.
-- **Travel insurance:** decide yes/no before the trip (on the packing checklist, not yet settled).
+- **Travel insurance:** each man decides **by 9/16** — it has to be bought before you fly. CFAR is long gone; trip-delay / interruption / medical still is. **Default: nobody buys.**
+- 🔥 **Fire and smoke — the September risk this file didn't carry.** Grand Teton's Stage 1 fire restrictions ended **Aug 31** with fire danger still high, and the **Fish Creek fire** shut **US-26/287 east of Moran toward Dubois** in early September with no published reopening. **It is not on our route** — every park drive goes north on US-89/191/287 to the South Entrance — but it's the first thing that would reroute us, and smoke is what would flatten Sunday's sunrise. Check it with Craig Pass, Friday night and again at 6 AM. *(Re-checked 9/8.)*
 - **Thursday night ride plan — DDs: Hardie and Schick (default).** Mangy Moose, the last stop, is in Teton Village and walkable from the house, so exactly **one leg needs a sober driver**: the **downtown Jackson → Teton Village drive (~20 min)** after the Cowboy Bar. The two of them are the only names on the rental agreements, which means they're the only two insured to drive those SUVs — that decides it by default. Anyone else who wants to take a shift has to be **added as an authorized driver at the JAC counter Thursday** (typically a small per-day fee), which is a 60-second ask while you're already standing there. Say the plan out loud at the house before you leave; late-night rideshare in Jackson is thin and expensive.
 - **Wyoming non-emergency / dispatch:** 911 for emergencies; rangers reachable at park visitor centers.
 
