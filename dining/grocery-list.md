@@ -31,7 +31,7 @@
 1. **Friday dinner menu** — fajita bar vs. one-pot. This is the *only* part of the list that actually branches. Pick a module below. ✅ **Default: Module A, the fajita bar** — nobody has to decide anything for that to happen, and it's the branch that also feeds Saturday's cooler lunch.
 2. **Steak night: Saturday or Sunday?** — **does not change the list at all.** Same ribeyes, same sides, different night. Don't let this one hold up the shopping.
 
-A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes asks RMR on the **9/7** call — and you eyeball the grill yourself Thursday at check-in, which is the check that actually protects the night. See [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
+A third one changes a single line item: **the grill check** (gas or charcoal?). If it's charcoal, add charcoal + a chimney starter. Drewes asks RMR on the call (⏰ overdue since 9/7) — and you eyeball the grill yourself Thursday at check-in, which is the check that actually protects the night. See [`dining.md`](./dining.md#grill-check--before-committing-to-ribeyes).
 
 > ⚠️ **Friday lunch is new to this list.** It can't come from Friday's leftovers — Friday dinner happens *after* it. Buy for **two** cooler lunches, not one: Friday at the boathouse and Saturday at West Thumb.
 

@@ -66,7 +66,8 @@
 The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday 6:00 AM** sunrise wildlife drive — both moved earlier once the real drive times got checked) don't leave time to cook or sit down. Plan: **have a batch of breakfast burritos already in the fridge** so guys can grab-heat-and-go in the dark.
 
 - **Where:** Cowboy Coffee, Pearl Street Bagels, Picnic, D.O.G. ("miss these burritos" — a friend's rec), or Hand Fire all do solid breakfast burritos in/near Jackson — order a bulk batch (**plan ~1.5 per guy ≈ 18–20** for 13)
-- **When to get them:** easiest is a **pickup Friday afternoon/evening** (after rafting) so they're in the fridge before Saturday's alarm; or buy Thursday on the grocery run and freeze
+- **When to get them:** ⚠️ **call the order in by 9/16** *(Owner: **Psilos** — he's already calling stores)*. Twenty burritos is a special order, not a walk-up, and the call can't happen from the raft. Then it's a **pickup Friday afternoon/evening** (after rafting) so they're in the fridge before Saturday's alarm
+- **Default if the call never happens:** **bagels, pastries and fruit off the Thursday grocery run** — both early starts still eat, it's just a worse breakfast. Don't let this slot go to "we'll figure it out at 6 AM," because nothing is open at 6 AM
 - **Delivery caveat:** restaurant delivery (DoorDash/Uber Eats) into **Teton Village** is thin — **call ahead and pick up** rather than counting on same-day delivery to the house
 - **Reheat:** wrap in foil → oven, or microwave; stash hot sauce/salsa at the house. Keep a few frozen as backup for Sunday
 - Cheap insurance against 13 hungry guys and a 6 AM departure with nothing open. **The earlier start times make this stash load-bearing, not optional** — there is no coffee shop open at 6:00 on the road to Schwabacher

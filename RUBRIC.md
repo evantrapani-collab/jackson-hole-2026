@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-08-30 — found at **97**, restored to 100; see the notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-09-08 — found at **87**, restored to 100; see the notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -35,6 +35,7 @@ Three rules of thumb that decide most edge cases:
 - Everything bookable is booked, or has an owner + deadline + written fallback (−2 each gap)
 - The trip-gating items (⭐) are flagged and tracked (−3 if not)
 - Anything time-fenced (refund cutoffs, books-out-months venues, shoulder-season operating dates) has its real deadline written down (−2 each)
+- **Every deadline is an absolute date** (−1 each). *Added 9/8: "the week before," "closer to the trip," "1–2 weeks out" rot without ever looking wrong — they were true when written and are still grammatical today, which is why nobody re-reads them. Convert on sight.*
 - Load-bearing tasks aren't ownerless (−1 each). *"Someone should call X" is ownerless. Where an institution will only talk to one person — the guest of record, the cardholder, the renter — the plan should say so and name him; that's not an assignment, it's a fact*
 - Anything the trip depends on that a vendor could simply not be running (a tram, a lift, a shoulder-season kitchen) **has had its operating calendar actually checked**, and has a named replacement for the block it fills (−2 if unchecked, −1 if checked but unreplaced). *Sharpened 8/21: three passes flagged the tram-vs-gondola ambiguity and none of them asked whether either was running. One was not.*
 
@@ -90,6 +91,7 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 - Works offline, zero-JS functional (−2 if not)
 - Timelines in chronological order, times labeled MT/CT correctly (−1 each defect)
 - Open items carry their owner/deadline tags (−1 if stripped)
+- **No unfinished item is ever rendered as finished** (−2). *Added 9/8: the milestone strip struck through a deadline nobody had met, because the script treated "past" as "done." Past and done are different states and the page has to show both — an overdue item goes red, not grey.*
 
 ---
 
@@ -97,23 +99,23 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 Current standing, and where the four most recent passes found gaps. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history.
 
-| Category | Points | 8/21 #1 | 8/21 #2 | 8/21 #3 | 8/28 found | **Now** |
+| Category | Points | 8/21 #3 | 8/28 found | 8/30 found | 9/8 found | **Now** |
 |---|---|---|---|---|---|---|
-| 1. Bookings & critical path | 20 | 17 | 19 | 20 | 18 | **20** |
-| 2. Schedule feasibility | 15 | 8 | 15 | 15 | 15 | **15** |
-| 3. Risk, safety & contingency | 15 | 15 | 13 | 15 | 15 | **15** |
-| 4. Meals | 12 | 12 | 8 | 12 | 9 | **12** |
+| 1. Bookings & critical path | 20 | 20 | 18 | 20 | 15 | **20** |
+| 2. Schedule feasibility | 15 | 15 | 15 | 15 | 15 | **15** |
+| 3. Risk, safety & contingency | 15 | 15 | 15 | 15 | 13 | **15** |
+| 4. Meals | 12 | 12 | 9 | 12 | 10 | **12** |
 | 5. Money | 12 | 12 | 12 | 12 | 12 | **12** |
-| 6. Group coordination | 10 | 9 | 10 | 10 | 10 | **10** |
-| 7. Three layers in sync | 10 | 10 | 10 | 6 | 6 | **10** |
-| 8. Dashboard usability | 6 | 6 | 3 | 4 | 3 | **6** |
-| **Total** | **100** | **89** | **90** | **94** | **88** | **100** |
+| 6. Group coordination | 10 | 10 | 10 | 10 | 8 | **10** |
+| 7. Three layers in sync | 10 | 6 | 6 | 10 | 10 | **10** |
+| 8. Dashboard usability | 6 | 4 | 3 | 3 | 4 | **6** |
+| **Total** | **100** | **94** | **88** | **97** | **87** | **100** |
 
-> Read across a row: every category has been the weak one at least once. §2 collapsed to 8 when the drive times were checked against the world; §4 to 8 when a default turned out to be a meal nobody serves; §7 and §8 fell once the cost of *duplication* was scored rather than the completeness of each copy. **8/28 is the first pass to find the same weaknesses twice** — §4's fictional lunch and §7's stale drive times, still alive in copies the earlier fixes never reached. Hence §7's new grep test.
+> Read across a row: every category has been the weak one at least once. §2 collapsed to 8 when the drive times were checked against the world; §4 to 8 when a default turned out to be a meal nobody serves; §7 and §8 fell once the cost of *duplication* was scored rather than the completeness of each copy. **8/28 was the first pass to find the same weaknesses twice**; **9/8 is the first to find the same weakness a third time** — §1's rotted deadline, now on its third date (8/22 → 9/7 → overdue), with §8 quietly rendering it as finished. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history.
 
 ---
 
-## Verified external facts — checked 2026-08-21, re-checked 2026-08-28, 2026-09-04
+## Verified external facts — checked 2026-08-21, re-checked 2026-08-28, 2026-09-04, 2026-09-08
 
 Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the 8/21 passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
 
@@ -121,13 +123,16 @@ Maintainer's ledger. These are the claims the plan *depends on* that live outsid
 
 **Re-verified 9/4 and unchanged:** the same list above, plus the Cowboy Coffee drive-thru hours, the Bear Aware kiosk pricing/season, and the 2026 non-resident surcharge — all against fresh sources, not the repo's own prior claim. One new wrinkle, informational only: NPS's 2026 release also flags intermittent Moose-Wilson delays and an LSR Preserve entrance-road closure both starting **Sep 23** — after we're home Sep 21, so nothing in the plan changes.
 
+**Re-verified 9/8, with one real addition.** Four load-bearing facts re-checked and unchanged: **LSU–Ole Miss, 6:30 CT on ABC**; **Saints @ Ravens, noon CT on CBS**; the **Aerial Tram, May 16 – Oct 4, last ride down 5 PM** *(one source lists the daily open as 9 AM rather than 8:30 — irrelevant to a 2:30 PM ride, and the 5 PM close, which is the half the Sunday clock leans on, is consistent everywhere)*; and **Craig Pass / South Entrance → West Thumb → Old Faithful, projected open through Oct 31**, weather permitting. **The addition is fire.** Grand Teton's Stage 1 fire restrictions ended **Aug 31** with fire danger still high, and the **Fish Creek fire** closed **US-26/287 east of Moran toward Dubois** in early September with no published reopening date. That road is *not* on our route — every park drive runs north on US-89/191/287 to the South Entrance — but it is the first thing that would reroute us, and smoke is what would flatten Sunday's sunrise. Until 9/8 the repo's only named park-day hazard was **snow**, on a trip that happens in the last week of fire season. It is now in the day-of check beside Craig Pass.
+
 | Fact | Value | Re-check at |
 |---|---|---|
 | Aerial Tram season | May 16 – Oct 4, 2026, 8:30–5 · ~$55/pp | jacksonhole.com |
 | Bridger Gondola season | **Ends Sept 13** — closed for our trip | jacksonhole.com |
 | Corbet's Cabin | 8:30–5, with the tram | jacksonhole.com |
 | Moose-Wilson Road | **Closed Sep 8 – Nov 15, 2026** | nps.gov/grte |
-| Craig Pass (West Thumb ↔ Old Faithful) | Open, but first to close for snow | nps.gov/yell — **check day-of** |
+| Craig Pass (West Thumb ↔ Old Faithful) | **Projected open through Oct 31**, weather permitting; first road to close for snow | nps.gov/yell — **check day-of** |
+| Regional fire / smoke | GTNP Stage 1 restrictions ended Aug 31, danger still high; **Fish Creek fire** closed US-26/287 east of Moran — **not our route** | nps.gov/grte + Teton Interagency Fire — **check day-of** |
 | House → Yellowstone South Entrance | ~1 hr 30 | maps, day-of |
 | South Entrance → Old Faithful | 39 mi / ~1 hr 15 | NPS |
 | Grand Prismatic overlook | 1.6 mi round trip on foot from Fairy Falls lot | NPS |
@@ -212,5 +217,36 @@ No fact moved and no deadline rotted since 8/28; the eight external checks above
 - **Layers re-synced:** the README's Open Items and Decision Defaults match the dashboard item-for-item (**32 open items** in both), and the "what the docs used to say" corrections in `itinerary.md`, `logistics.md` and `activities.md` are gone — the corrected numbers stay, the changelog belongs to git.
 
 **The rule this pass earns.** Length is a defect (8/21 #2) and duplication is a defect (8/21 #3) — this pass adds that **the two compound**: a tab whose job is to summarize the other tabs is duplication *and* length, and it is always the first thing to cut. §8 gains a test: **if a section would be correct after deleting it, delete it.**
+
+**Grade: 100/100.**
+
+
+---
+
+### 9/8 re-grade — a ten-expert panel, and the deadline rots a third time (found at 87, restored to 100)
+
+Ten reviewers, one repo: a program manager, a deadline/refund analyst, an aviation-disruption planner, an external-facts auditor, a Yellowstone field-ops reader, a food-and-beverage lead, a group-logistics lead, a mountain-weather-and-safety reader, a front-end engineer, and a devil's advocate. Nine days out from the trip, most of the plan held. What didn't, all pointed at the same thing: **the plan was written from a vantage point that has since moved.**
+
+**Found at 87 (−13).**
+
+| # | Cat | Deduction | What was wrong |
+|---|---|---|---|
+| −5 | §1 | **The deadline rotted a third time, and two load-bearing tasks had no owner** | The **9/7 batch** — the RMR call, the tram tickets, the park-pass question — passed on **9/7**, and on **9/8** every layer still spoke of it in the future tense: *"by 9/7," "buy by 9/7," "ask the chat by 9/7,"* in the README, `budget.md`, `logistics.md`, `activities.md`, `itinerary.md`, `lodging.md`, the dashboard, and the generated maps file. This is the defect the 8/4 passes named and the 8/28 pass took −2 for. It is now on its third date (8/22 → 9/7 → overdue). Separately, two tasks the plan calls load-bearing carried **no owner and no date**: the **breakfast-burrito order** (20 burritos is a special order, and "pick up Friday after rafting" assumes a call nobody was assigned) and the **soft-duffels-not-hard-rollers message**, which is worthless once people have packed |
+| −2 | §8 | **The dashboard rendered an unfinished deadline as finished** | The milestone strip crosses off any date in the past — so the **Sep 7** chip was struck through and faded to 45% opacity, which on a phone reads as *handled*. Nothing under it was done. The countdown nudge did the same thing in prose: past 9/8 it skipped straight to the 9/10 message and the overdue batch simply vanished from the page. The one layer the crew actually reads was telling them they were on schedule |
+| −2 | §3 | **The September risk the plan never named: fire** | Every park-day contingency in the repo was built around **snow** — Craig Pass, the 1.3-inch September average, the swap-to-Grand-Teton fallback. Meanwhile Grand Teton's Stage 1 fire restrictions had lifted Aug 31 with danger still high, and the **Fish Creek fire** had closed a highway one junction off our route. Smoke doesn't close a road to be dramatic; it just makes Schwabacher at 6:45 AM worthless, and nothing in the plan looked for it |
+| −2 | §4 | **The stash the plan calls "load-bearing" had no zero-action default** | Breakfast burritos feed the **Sat 6:15** and **Sun 6:00** departures, and the docs say outright that nothing in Jackson is open before either. But *"if nobody orders them"* had no written answer — which is precisely the §4 gap the fictional Friday lunch scored −4 for on 8/21, in the same shape: a meal slot resting on an action nobody owned |
+| −2 | §6 | **Relative deadlines went stale, and two decisions had neither a decider nor a default** | *"Check the DFW→JAC evening nonstop **the week before**"* and the whole **"1–2 weeks out (early September)"** bucket were written from August. It *is* early September; that bucket was now, and its label said later. And **wetsuits** (*"decide closer to the trip"*) and **travel insurance** (*"decide yes/no"*) each carried no owner, no date, and no default — insurance especially, since it stops being buyable the moment anyone boards |
+
+**Restored to 100:**
+
+- **The overdue batch is at the top of the list and labelled overdue**, in both layers and in every file that mentioned 9/7 — README, dashboard, `budget.md`, `logistics.md`, `activities.md`, `itinerary.md`, `lodging.md`, `grocery-list.md`, and the `maps` generator (regenerated, 83 places, `--check` clean). The tram and park-pass items moved *up* into the live bucket with the RMR call, since they were always the same batch.
+- **The buckets are re-anchored to the trip, not to August:** `🔴 Overdue + this week — through Fri 9/11` and `Final week — 9/12 to 9/16, before anyone flies`. Every relative deadline became a date: the AA nonstop check and the not-on-the-group-ticket names by **9/14**, the packing note by **9/14** (owner: Hardie + Schick), burritos by **9/16** (owner: Psilos), wetsuits and insurance by **9/16**.
+- **The one date with teeth is now written down: Fri 9/11.** Rafting is 9/18 and the refund needs 7+ days, so 9/11 — not the 9/10 buffer the plan kept quoting — is the last day a drop-out costs nobody anything. It has its own milestone chip.
+- **The dashboard stopped lying.** A milestone carrying open work (`data-open`) now renders **red and overdue** instead of struck through; the nudge ladder surfaces the 9/7 batch until 9/10, then the refund cutoff, then the final-week list. Two milestones added (9/11, 9/16). The footer says **Sep 8, 2026**, not "August."
+- **Three new defaults** — burritos → bagels and pastries off the Thursday run; wetsuits → nobody rents (JHWW stocks them at the shop, so it stays fixable at the 12:30 check-in); insurance → nobody buys — in the README table and the dashboard's, plus a **9/13 forecast check** that settles the wetsuit call, the layer question and Saturday's snow risk in one post.
+- **Fire is in the plan**, in `logistics.md`, `itinerary.md`, the README's *Key Dates*, and the Saturday card on the dashboard — folded into the existing Craig Pass check rather than made a new ritual.
+- **Re-verified against the outside world, not the repo:** both kickoff times and networks, the tram season and its 5 PM close, and Craig Pass open through Oct 31. Ledger re-dated.
+
+**The rule this pass earns.** 8/4 said a date that has passed is a defect. This pass adds the two ways that defect hides. First: **a relative deadline ("the week before," "closer to the trip," "1–2 weeks out") rots without ever looking wrong** — it was true when written and it is still grammatical today, which is exactly why nobody re-reads it. Convert every relative deadline to a date the moment it's written. Second, and worse: **a UI that computes "past" as "done" launders the rot.** The milestone strip struck through a deadline nobody met, and the crew's only view of the plan showed a clean line where three open items were. §8 gains a test: **the dashboard may never render an unfinished item as finished — past and done are different states, and the page has to show both.**
 
 **Grade: 100/100.**
