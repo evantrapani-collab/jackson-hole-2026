@@ -13,14 +13,14 @@
 | Thursday bars | Silver Dollar Bar & Grill | Thu night | Classic western bar; inlaid silver dollar bar top |
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
-| Friday lunch | **Packed sandwiches (default)** ⚠️ | Friday | ~45-min window at 945 W Broadway. **The old "outfitter deli" default doesn't exist** — JHWW feeds scenic floats, not whitewater. Pack it Thursday; **Sidewinders next door** is the upgrade |
+| Friday lunch | **Cutty's Bar & Grill** 🆕 | Friday | **1140 W WY-22 — ~3 min from the boathouse, and it's in Jackson, not Wilson.** Opens **11:30 AM**; cheesesteaks and pizza, food that moves. ⚠️ **Call ahead — (307) 201-1079, 13 heads.** Sidewinders next door is the fallback if the safari van runs late |
 | Saturday lunch | **Cooler lunch, packed Friday night** ⚠️ | Saturday | In-park; eat at West Thumb on the way back — see *Saturday Lunch* below |
 | Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 off the breakfast stash — see *Monday Breakfast* below |
 | Friday dinner | **Out** 🆕 | Friday | ✅ **Changed 9/9** — Psilos is shopping for two nights out, not a house dinner. **Default: Sidewinders**, same lot as the boathouse — see *Friday Dinner* below |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose. ✅ **Hours confirmed: 11:30 AM–7 PM daily, year-round.** ⚠️ **~35 min each way now** (Moose-Wilson is closed) — leave the Village by 4:30. Backup is the house |
 | Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes, **bought in person Friday evening** at Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
-| Sunday game | **House cookout (default)** | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)**; Snake River Brewing / Roadhouse / Cutty's / Eleanor's are the upgrade if the Thu–Fri recon likes them |
+| Sunday game | **House cookout (default)** | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)**; Snake River Brewing / Roadhouse / Sidewinders / Eleanor's are the upgrade if the Thu–Fri recon likes them. 🆕 **Cutty's gets scouted at Friday lunch** — but it's ~18 min from the Village, not ~10 |
 
 ---
 
@@ -95,20 +95,25 @@ The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday
 
 ## Friday Lunch — the window between the safari and the boat
 
-> ⚠️ **The old default — "the outfitter's deli lunch" — doesn't exist.** JHWW provides lunch on their **scenic float** trips. We booked the **"Classic Raft"** whitewater trip: guide, paddles, splash gear, shuttle. **No food.** Zero action used to mean 13 guys getting on a Class 2–3 river at 1:00 PM having last eaten a pastry at 6:45 AM.
+> ⚠️ **JHWW does not feed this trip.** Lunch comes with their **scenic float**; we booked the **"Classic Raft"** whitewater trip — guide, paddles, splash gear, shuttle, **no food.**
 
-**The new default: pack it Thursday.** Same trick that already solves Saturday.
+**The plan: Cutty's Bar & Grill.** 🆕 *(decided 9/9)*
+
+🔧 **The fact this repo had wrong: Cutty's is not in Wilson.** It's at **1140 W WY-22, Jackson — the Broadway/WY-22 junction**, the same corner the Cowboy Coffee drive-thru sits on. From 945 W Broadway that's **~1 mile, ~3 minutes each way** — not the ~10 each way this plan cut it over. **Open 11:30 AM–9:00 PM daily · (307) 201-1079.** Philly cheesesteaks on Amoroso rolls and Jersey-style pizza — food that comes out fast, which is most of why it fits.
 
 | Option | Travel | The call |
 |---|---|---|
-| **Sandwiches off Thursday's 4 PM delivery** 🆕 | none | ✅ **The default.** Built at the house Thursday night, eaten on a tailgate at 945 W Broadway. Zero travel, zero queue, zero chance of missing the boat — and it costs one line on an order Psilos is already placing |
-| **Sidewinders** | walk next door | ✅ **The upgrade, and it's a real one.** Same complex as the boathouse, **opens 11:30 AM**, 30+ TVs, 24 taps, big indoor and outdoor seating. **Walk in at noon and tell them you're on the 1:00 boat.** Risk: no reservations, first-come-first-served, and table service for 13 in 45 min is a genuine gamble |
-| ~~**Cutty's** (Wilson)~~ | ~10 min each way | 🚫 **Cut.** ~25 min of a ~60-min window in the car, for a table you could have next door. It only ever made sense when we thought the tour and the boat were in different places |
+| **Cutty's Bar & Grill** 🆕 | ~3 min each way | ✅ **The plan.** A real lunch, a bar and 13 seats for ~6 minutes of driving. Opens **11:30**, so it's serving before the van is back |
+| **Sidewinders** | walk next door | ✅ **The fallback, and a good one.** Same complex as the boathouse, opens 11:30, 30+ TVs. **This is where you go if the van isn't back by ~12:10** — zero drive, zero debate |
+| **Cooler sandwiches** | none | The backstop that needs no venue. The deli line is on the grocery order for Saturday anyway, so a few extra ride in the SUV for free |
 
-- ⚠️ **Build it Thursday night** — Friday morning leaves the house at 6:45 and there is no time to make thirteen sandwiches in the dark. See [`grocery-list.md`](./grocery-list.md)
-- If the safari runs long (good wildlife does that), **lunch is what compresses** — which is the whole argument for having it already in the cooler
-- 🍺 **Both outfitters ban alcohol**, so this hour is Friday's only drinking window — and it's the hour before a Class 2–3 river. Act accordingly
-- Cutty's stays on the board for **Sunday** (Saints game, Hwy 22)
+- ⏱️ **The constraint is no longer the drive — it's the 12:30 rafting check-in.** Van back ~12:00 → at Cutty's ~12:05 → out by ~12:35 → boathouse ~12:40 → on the water 1:00. It works, with ~10 minutes of slack, not 30
+- ☎️ **So call ahead: (307) 201-1079** — 13 coming off a van at noon, put the order in. They don't take reservations, but they do work with groups by phone. **This is the one action that turns a squeeze into a lunch**
+- ⚠️ **If the safari runs long, Cutty's is off.** Good wildlife runs long. **Not back by ~12:10 → Sidewinders next door**, and nobody relitigates it in the parking lot
+- 🆕 **This deletes a Thursday-night chore** — nobody builds thirteen sandwiches after the bar crawl. Saturday's cooler lunch still gets built Friday night
+- 🍺 **Both outfitters ban alcohol**, so this hour is Friday's only drinking window — and it's the hour before a Class 2–3 river. Cutty's is a bar; act accordingly
+- 🚻 **Change at the shop, not the restaurant** — JHWW has restrooms and changing rooms at 945 W Broadway. Eat in street clothes, come back, change
+- 💵 **~$20–25/man, ~$260–325 for 13** — and it takes ~$25 of deli and bread back off the grocery order
 
 ### What JHWW actually gives you at the boathouse
 
@@ -133,7 +138,7 @@ Worth knowing, because it changes what you carry and what you wear:
 ## Sunday Saints Game — Cutty's / Eleanor's / a Brewery / House Cookout
 
 - **Saints @ Baltimore, 11 AM MT kickoff (noon CT, CBS)** — it's a road game and a **late-morning** start, so watch first, then explore after
-- Options: Cutty's Bar & Grill (Hwy 22, ~10 min), Eleanor's, a brewery, or just watch at the house
+- Options: Cutty's Bar & Grill (**1140 W WY-22 — in Jackson, not Wilson; ~18 min from the Village**), Eleanor's, a brewery, or just watch at the house. 🆕 **Cutty's is now Friday's lunch stop**, so by Sunday it's a known room rather than a guess
 - **Brewery scouting** *(Austin)*:
   - **Snake River Brewing** — good beer, good seating, **awesome outdoor space**; big enough that the full group of 13–14 can roll in without a reservation
   - **Roadhouse Brewery** — decent beer/selection, spacious, good seating; also big enough for the whole group to walk in together
@@ -144,7 +149,7 @@ Worth knowing, because it changes what you carry and what you wear:
 - ✅ **Default: the house cookout.** It owns the TV, the full Sunday slate (RedZone and the late window, not just the Saints), needs no reservation and no 13-top anywhere, and doesn't put anyone in a car after an 11 AM kickoff. **Snake River Brewing or Roadhouse are the upgrade** if the recon likes their setup — but if the recon never happens, the day still has an answer
 - 🆕 **Sidewinders answers the recon before it happens** *(Jeremy)*. A sports tavern at **945 W Broadway — the same lot we're parked in for six hours on Friday**: **30+ TVs, 24 taps, indoor and outdoor seating, open 11:30 AM–9:30 PM daily.** Every brewery on this list was described as "nobody's TV setup is great." This one is built for it, and it's the closest option in town to the house
   - ⚠️ **No reservations, first come first served.** For 13 on an NFL Sunday that means **get there early**, not at 10:55
-  - So the real Sunday choice is no longer *who has the TVs* — it's **house convenience vs. Sidewinders atmosphere.** The house still owns the full slate, zero driving and zero wait; Sidewinders owns the room. Both are fine answers, and Friday's lunch stop is a free look at the place before anyone commits
+  - So the real Sunday choice is no longer *who has the TVs* — it's **house convenience vs. Sidewinders atmosphere.** The house still owns the full slate, zero driving and zero wait; Sidewinders owns the room. Both are fine answers, and **Friday's dinner default is Sidewinders**, so the room gets scouted the night before either way
 - Monday 11:47 AM departure means Sunday night should stay reasonable
 
 ---
@@ -155,7 +160,7 @@ Worth knowing, because it changes what you carry and what you wear:
 
 **Nobody has picked where, and 13 men off a river at 4:30 PM is not a reservation anyone will make at 5.** The zero-action answer has to be a walk-in:
 
-- ✅ **Default: Sidewinders, 945 W Broadway** — the **same lot the two SUVs have been parked in since 7:45 AM.** Zero repositioning, opens 11:30 and runs to 9:30, 24 taps, big indoor and outdoor seating. Walk out of the boathouse and in the door. It's also Friday's lunch stop, so the room is a known quantity by dinner
+- ✅ **Default: Sidewinders, 945 W Broadway** — the **same lot the two SUVs have been parked in since 7:45 AM.** Zero repositioning, opens 11:30 and runs to 9:30, 24 taps, big indoor and outdoor seating. Walk out of the boathouse and in the door. 🆕 **Friday lunch moved to Cutty's on 9/9**, so this is the trip's first look at the room — which also makes it the Sunday recon
 - **In-town alternates, on the way home:** Snake River Brewing, Roadhouse, or **Gun Barrel** if the crew wants the western steakhouse — all walk-in, all *"go early and expect two tables"*
 - **No-drive fallback: Mangy Moose**, Teton Village, walkable from the house — the answer if everyone wants to shower first
 - ⚠️ **This is the trip's only unbooked dinner for 13 on a Friday night.** Whoever's driving should call ahead from the takeout that afternoon and say a party of 13 is coming — it costs nothing and it's the difference between two tables and a 45-minute wait
@@ -217,7 +222,7 @@ Worth knowing, because it changes what you carry and what you wear:
 
 **✅ Already on the plan**
 
-Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Jackson Drug huckleberry shake (Thu downtown) · Silver Dollar + Million Dollar Cowboy Bar (Thu crawl) · Snake River Brewing (Thu) · Sidewinders (Fri lunch + Sun game) · Cowboy Coffee drive-thru (Fri AM) · whitewater rafting (Fri) · the tram (Sun).
+Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Jackson Drug huckleberry shake (Thu downtown) · Silver Dollar + Million Dollar Cowboy Bar (Thu crawl) · Snake River Brewing (Thu) · Cutty's (Fri lunch) · Sidewinders (Fri dinner + Sun game) · Cowboy Coffee drive-thru (Fri AM) · whitewater rafting (Fri) · the tram (Sun).
 
 **👍 Easy adds — no reservation, fit the existing days**
 
@@ -288,7 +293,7 @@ Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Ja
 1. 🚚 **A delivery landing at the house 4:00 PM Thursday** — beer, water, coffee, ~40 granola/protein bars, fruit, chips and dips, frozen breakfast sandwiches, late-night food, trash bags. ⚠️ **4 PM is check-in**, so somebody has to be at the door, and **a delivery substitutes** — check it against the list
 2. 🚗 **An in-person store run Friday evening**, on the way home from the boathouse: **the 13 ribeyes at the Albertsons butcher counter** (pre-ordered), the **burrito batch**, **ice**, the **TP restock**, and anything the delivery got wrong
 
-⚠️ **The order as written doesn't feed the house.** Sandwich makings for two cooler lunches, the steak sides and rub, the Sunday game spread, toilet paper, milk, paper plates and cups all need adding before it's submitted — the gap table is in [`grocery-list.md`](./grocery-list.md).
+⚠️ **The order as written doesn't feed the house.** Sandwich makings for Saturday's cooler lunch, the steak sides and rub, the Sunday game spread, toilet paper, milk, paper plates and cups all need adding before it's submitted — the gap table is in [`grocery-list.md`](./grocery-list.md).
 
 - **Instacart** is the mid-trip restock button — Teton Village delivery from Smith's or Albertsons, ~1 hr, fees from $3.99 on $35+. There's no full-size grocery in the Village
 - ⚠️ **Delivery apps pull from shelf stock**, which is exactly why the steaks are the one line that stays a human at a counter

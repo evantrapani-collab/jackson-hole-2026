@@ -45,7 +45,7 @@ PLACES = [
     ("Cowboy Coffee Co. (Town Square)", "Food & Drink", "Not Friday", "Cowboy Coffee Co, 125 N Cache St, Jackson, WY", False, "The sit-down location, 6 AM-5 PM. ~5 min EAST PAST the boathouse — a backtrack on Friday morning. Use the drive-thru instead."),
     ("Pearl Street Bagels", "Food & Drink", "Burrito stash", "Pearl Street Bagels, Jackson, WY", False, "Breakfast-burrito vendor option for the early-start stash."),
     ("Picnic", "Food & Drink", "Burrito stash", "Picnic, Jackson, WY", False, "Breakfast-burrito vendor option for the early-start stash."),
-    ("Cutty's Bar & Grill", "Food & Drink", "Sun", "Cutty's Bar & Grill, Wilson, WY", True, "Sunday Saints-game option (Hwy 22). Cut from Friday — a ~25-min round trip out of a ~45-min window."),
+    ("Cutty's Bar & Grill", "Food & Drink", "Fri lunch + Sun option", "Cutty's Bar & Grill, 1140 WY-22, Jackson, WY 83001", True, "FRIDAY LUNCH between the safari and the raft. 1140 W WY-22 at the Broadway/WY-22 junction — it is in JACKSON, not Wilson: ~1 mi / ~3 min from 945 W Broadway. Opens 11:30 AM-9 PM daily. Call ahead with 13 heads: 307-201-1079. Also a Sunday Saints-game option (~18 min from the Village)."),
     ("Dornan's Pizza Pasta Co.", "Food & Drink", "Thu + Sun", "Dornan's Pizza Pasta Co, Moose, WY", False, "Deck pizza with full Teton views. Open daily 11:30 AM-7 PM year-round. ~12 min from JAC (Thu arrival lunch); ~35 min from the house (Sun 5 PM dinner)."),
     ("Corbet's Cabin (tram summit)", "Food & Drink", "Sun PM", "Corbet's Cabin, Teton Village, WY", False, "Waffles at 10,450 ft, top of the tram."),
     ("Gun Barrel Steak & Game House", "Food & Drink", "Alt dinner", "Gun Barrel Steak and Game House, Jackson, WY", False, "Wild-game steakhouse; Thursday dinner alt."),
