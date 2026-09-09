@@ -115,7 +115,7 @@ Current standing, and where the four most recent passes found gaps. Earlier colu
 
 ---
 
-## Verified external facts — checked 2026-08-21, re-checked 2026-08-28, 2026-09-04, 2026-09-08
+## Verified external facts — checked 2026-08-21, re-checked 2026-08-28, 2026-09-04, 2026-09-08, 2026-09-09
 
 Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the 8/21 passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
 
@@ -140,6 +140,7 @@ Maintainer's ledger. These are the claims the plan *depends on* that live outsid
 | Dornan's | 11:30 AM – 7 PM daily, year-round | (307) 733-2415 |
 | Cowboy Coffee drive-thru | 1007 S US-89, opens 6 AM | cowboycoffee.com |
 | Sidewinders | 11:30 AM – 9:30 PM, 30+ TVs, no reservations | (307) 734-5766 |
+| **Cutty's Bar & Grill** 🆕 | **1140 W WY-22, Jackson — NOT Wilson** (Broadway/WY-22 junction, ~1 mi / ~3 min from 945 W Broadway) · **11:30 AM – 9:00 PM daily** · cheesesteaks + pizza · no reservations, takes group calls | **(307) 201-1079** |
 | JHWW "Classic Raft" | **No lunch included** (that's their scenic float) | (307) 733-1007 |
 | Parking, 945 W Broadway | **"Extremely limited"** per JHWW; shared with Barker-Ewing + Rendezvous River Sports; they suggest walking or a taxi | jhww.com/trip-info |
 | JHWW check-in windows | **30 min** before whitewater, **15 min** before a scenic float | jhww.com/trip-info |
@@ -148,6 +149,8 @@ Maintainer's ledger. These are the claims the plan *depends on* that live outsid
 | DFW→JAC nonstops | 2 daily, year-round | AA app |
 | LSU–Ole Miss | Sat 9/19, 5:30 PM MT, ABC | — |
 | Saints @ Ravens | Sun 9/20, 11:00 AM MT, CBS | — |
+
+**Checked 9/9 — the sixth wrong external fact, and this one *cost* the plan something.** Friday lunch moved to **Cutty's**, and checking it turned up that the repo had the restaurant **in the wrong town**: it is at **1140 W WY-22 in Jackson**, at the Broadway/WY-22 junction the Friday convoy already drives through — **~1 mi / ~3 min** from 945 W Broadway, not the "~10 min each way / ~25-min round trip" that got it struck out of the Friday-lunch table with a 🚫. Every prior finding in this ledger was a fact that made the plan *worse* than written (a longer drive, a closed lift, a lunch nobody serves). This is the first that made it **better** — a wrong address had eliminated the best option on the board. The rule in §7 (grep the old value) held: "Wilson" appeared in five files. ⚠️ **The Sunday figure was wrong in the same direction** — Cutty's is **~18 min from Teton Village**, not the "~10 min" the Saints-venue section claimed off the same bad address.
 
 ---
 
@@ -274,7 +277,7 @@ No pass found this one; the **group chat** did. Eight days out, Psilos posted th
 - **The steaks moved to a Friday-evening in-person buy** (a ~24-hour refrigerated hold for Saturday, picked up on the same trip as the burritos and the restock), and the Thursday 3:00–4:00 "errand hour" is honestly downgraded to slack in all three layers, since the delivery lands at 4.
 - **Layers re-synced:** README ↔ dashboard to-dos and Decision Defaults match item-for-item (34 open items in both), the Groceries tab was rebuilt (46 items, storage key bumped to `_v2` since the list changed), and `/maps` was regenerated — 83 places, `--check` clean — because the store pins said "Thu."
 
-⚠️ **Not re-verified this pass.** The external-fact ledger above still carries its **9/8** date: nothing in it was re-checked today, and this pass added no new outside claims. The Sidewinders hours it leans on (11:30 AM–9:30 PM, no reservations) are the 9/8 entry, not a fresh call.
+⚠️ **Partly re-verified.** The bulk of the external-fact ledger still carries its **9/8** date. The **9/9 addition is Cutty's** — address, town, hours and phone checked fresh against outside sources, which is how the "Wilson" error surfaced. The Sidewinders hours the fallback leans on (11:30 AM–9:30 PM, no reservations) are still the 9/8 entry, not a fresh call.
 
 **The rule this pass earns.** Every previous pass tested the plan against *the world* (drive times, operating calendars) or against *itself* (do the copies agree). This one came from neither: **the crew changed the plan in the group chat, and the repo was confidently, internally consistently wrong for as long as nobody read it back.** A trip doc's freshest input isn't a re-check — it's the thread the trip actually lives in. §7 gains a test: **when a decision is made where the crew talks, the repo is stale until the outcome and everything downstream of it is written down** — and the thing to hunt for is not the decision itself, which is easy, but the defaults that quietly depended on it.
 

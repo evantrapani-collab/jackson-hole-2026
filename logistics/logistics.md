@@ -83,11 +83,11 @@
 - **Arrival:** **7:45 AM** for the safari (confirmed); **30 min early** for rafting (contract)
 - 🅿️ **Parking is the one thing JHWW warns about — and we're their worst case.** Their trip-info page says parking at 945 W Broadway is **"extremely limited"**: walk over if you're staying close, and they suggest Uber or a taxi. Two problems for us — we're **20 min out in Teton Village** (walking isn't an option), and we need **two SUVs sitting in that lot from 7:45 AM to ~4:30 PM**, nine hours, not the two a normal party takes. It's also a **shared lot** — Barker-Ewing and Rendezvous River Sports check in at the same address. **Ask when you confirm Friday:** can two vehicles stay all day, and where's the overflow? *(Fallback if the answer is no: one driver drops 12 guys at check-in and parks off-site — everything Friday needs is on that block, so it costs one man 15 minutes, not the group.)*
 - **Before you go:** ☕ **Cowboy Coffee's drive-thru at 1007 S US-89** — opens **6 AM**, sits ~2 min from the boathouse right where WY-22 meets the highway, and you pass it on the way in. **Not the Town Square store** (125 N Cache): that one is ~5 min *east past* 945 W Broadway, so it's a backtrack, and 13 guys queuing indoors at 7:15 is how a 7:45 check-in slips. **Leave the house ~6:45**, not 7:00
-- **Lunch — a ~45-minute window in the boathouse lot** (see [`/dining`](../dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat)):
+- **Lunch — Cutty's, in the ~35-minute window between the van and the boat** 🆕 *(decided 9/9 — see [`/dining`](../dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat))*:
   - ⚠️ **JHWW does not feed this trip.** Lunch comes with their **scenic float**; we booked the **whitewater "Classic Raft"** — guide, paddles, splash gear, shuttle, no food
-  - ✅ **Default: sandwiches packed Thursday**, eaten on a tailgate. Zero travel, zero queue
-  - **Upgrade: Sidewinders**, next door, opens **11:30 AM**, 30+ TVs — walk in and say you're on the 1:00 boat. No reservations, so it's a gamble on a 45-min turn for 13
-  - 🚫 **Cutty's is out** — ~25 min of the window in the car for a table you could have next door
+  - ✅ **Cutty's Bar & Grill, 1140 W WY-22 · (307) 201-1079 · opens 11:30 AM.** **~1 mi / ~3 min** from the boathouse — it's at the Broadway/WY-22 junction **in Jackson, not Wilson**, which is the error that got it cut. Cheesesteaks and pizza; food that moves
+  - ☎️ **Call ahead with 13 heads and the order.** No reservations, but they take group calls. The clock: back ~12:00 → out ~12:35 → **12:30–12:40 check-in** → water at 1:00
+  - ⚠️ **Van not back by ~12:10 → Sidewinders next door**, zero drive. Spare sandwiches off Saturday's deli line are the backstop
 - **Two outfitters = two tips.** Cash, ~$20–40/person across both
 
 ### Reminders (don't need to decide now)
@@ -95,7 +95,7 @@
 - [ ] **Waivers signed by all 13** — forward the JHWW email to the group
 - [ ] **Wetsuit call — yes/no in the chat by 9/16** ($5/person, on Friday's forecast). **Default: nobody rents** — JHWW stocks them at the shop, so a cold morning is still fixable at the 12:30 check-in
 - [ ] 🅿️ **Ask about all-day parking for two SUVs** — JHWW calls the lot at 945 W Broadway "extremely limited"
-- [x] ✅ **Lunch — settled: pack it Thursday** (JHWW feeds scenic floats, not whitewater). Sidewinders next door is the walk-in upgrade
+- [x] ✅ **Lunch — settled 9/9: Cutty's, 1140 W WY-22** (~3 min out; JHWW feeds scenic floats, not whitewater). ☎️ **Call (307) 201-1079 with 13 heads**; Sidewinders next door is the fallback if the van runs late
 - [ ] ✅ Times confirmed in writing (7:45 check-in / 8:00 safari / 1:00 rafting). Still open: whether **Teton Expeditions has its own waiver**, and whether the safari can hand off directly to JHWW if the van runs long
 
 ---

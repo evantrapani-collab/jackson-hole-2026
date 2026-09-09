@@ -40,7 +40,7 @@
 | Category | Estimate | Notes |
 |---|---|---|
 | Flights | varies | Each person's own booking |
-| Food & Drink | $150–250 total | Bars Thu night, **dinner out Friday too** (the house dinner moved out 9/9, ~$45), the ~$92 grocery run, Sunday Dornan's |
+| Food & Drink | $150–250 total | Bars Thu night, **dinner out Friday too** (the house dinner moved out 9/9, ~$45), 🆕 **lunch out Friday at Cutty's (~$20–25, decided 9/9 — net ~+$18 after the deli it takes off the grocery order)**, the ~$92 grocery run, Sunday Dornan's |
 | Ribeyes (Sat grill) | $50–80 | 24 oz bone-in + sides; split the grocery run |
 | Guide tips (Fri) | $20–40 | Van tour **+** rafting guides; bring cash |
 | **Tram ticket (Sun)** | **~$55** | Sightseeing ticket to Corbet's Cabin; ⏰ **tickets were due 9/7, still unbought** — buyable up to Sunday. Tram runs May 16–Oct 4, 8:30–5. Skippable — if all 13 ride, that's ~$715 |

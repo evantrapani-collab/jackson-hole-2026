@@ -12,7 +12,7 @@
 |---|---|---|
 | Thu dinner | ❌ | Bar crawl — Snake River Brewing has a full menu |
 | Fri breakfast | ❌ | **Cowboy Coffee drive-thru** (1007 S US-89, opens 6 AM), on the way to the 7:45 AM check-in |
-| **Fri lunch** | ✅ | JHWW feeds their *scenic float*, not our whitewater trip — Friday's lunch is sandwiches, packed Thursday night |
+| Fri lunch | ❌ | 🆕 **Cutty's** (1140 W WY-22, ~3 min from the boathouse) — decided 9/9. A few spare sandwiches off the Saturday deli line are the late-van backstop |
 | Fri dinner | ❌ | 🆕 **Out** — Psilos is buying for two nights out, not three house dinners (9/9) |
 | **Sat breakfast** | ✅ | **Frozen breakfast sandwiches** are on the delivery order; the burrito batch is the upgrade, not the floor |
 | **Sat lunch** | ✅ | Cooler lunch, eaten at West Thumb |
@@ -22,7 +22,7 @@
 | Sun dinner | ❌ | Dornan's in Moose *(unless steak night moves here)* |
 | **Mon breakfast** | ✅ | Leftovers + coffee, out the door by 9:45 |
 
-**So the real shopping is:** two cooler lunches, one steak night, one game-day spread, breakfast for four mornings, snacks for two park days, and the drinks for the house.
+**So the real shopping is:** one cooler lunch, one steak night, one game-day spread, breakfast for four mornings, snacks for two park days, and the drinks for the house.
 
 ---
 
@@ -36,7 +36,7 @@ He's putting in a **grocery delivery for 4:00 PM on check-in day**, since the pl
 
 | Missing | Why it's load-bearing |
 |---|---|
-| ⚠️ **Deli meat, cheese, bread, condiments** | **Two** cooler lunches (Fri at the boathouse, Sat at West Thumb) and **no Friday-dinner leftovers any more** — the whole lunch plan rides on this line |
+| ⚠️ **Deli meat, cheese, bread, condiments** | **Saturday's** cooler lunch at West Thumb, plus a few spare as Friday's late-van backstop. **No Friday-dinner leftovers any more**, so this line is the only thing that feeds Saturday 🆕 *(Friday lunch moved to Cutty's 9/9 — one lunch, not two)* |
 | ⚠️ **Toilet paper** *(Fulham asked; Drewes is assuming the house has "a decent supply")* | 13 men, 4 days, nobody has counted the rolls. It's ~$12 and the Friday-evening run is the restock either way |
 | **Steak-night sides + the rub** | Potatoes, corn, salad, kosher salt, coarse pepper, garlic powder, butter |
 | **Sunday game spread** | Wings, sausage, buns, dip — the 11 AM kickoff *is* Sunday's lunch |
@@ -69,7 +69,7 @@ He's putting in a **grocery delivery for 4:00 PM on check-in day**, since the pl
 ### 🥩 Meat & Deli
 
 - [ ] **13 bone-in ribeyes, 24 oz** — butcher counter, picked up Friday evening (see above)
-- [ ] Deli turkey + ham, **6 lb total** — **two** cooler lunches: Friday at the boathouse + Saturday at West Thumb
+- [ ] Deli turkey + ham, **4 lb total** — Saturday's cooler lunch at West Thumb, plus a few spare as Friday's backstop 🆕 *(was 6 lb for two lunches; Friday is Cutty's now)*
 - [ ] Sliced cheese, **1.5 lb** — same
 - [ ] Chicken wings, **10 lb** — Sunday game spread
 - [ ] Andouille or smoked sausage, **3 lb** — Sunday game spread
@@ -86,7 +86,7 @@ He's putting in a **grocery delivery for 4:00 PM on check-in day**, since the pl
 
 ### 🍞 Bread & Bakery
 
-- [ ] Sandwich rolls or sliced bread, **3 loaves / 2 dozen rolls** — **both** cooler lunches
+- [ ] Sandwich rolls or sliced bread, **2 loaves / 1 dozen rolls** — Saturday's cooler lunch + the Friday backstop 🆕 *(was 3 / 2 dozen)*
 - [ ] Bagels or English muffins, **2 dozen** — Monday breakfast + backup
 - [ ] Hamburger buns, **1 pack** — game-day sausage
 
@@ -110,7 +110,7 @@ He's putting in a **grocery delivery for 4:00 PM on check-in day**, since the pl
 
 - [ ] **Kosher salt** (big box), **coarse black pepper**, **garlic powder** — the ribeye rub
 - [ ] Olive oil / cooking oil
-- [ ] Mayo, mustard, ketchup — the cooler lunches
+- [ ] Mayo, mustard, ketchup — the cooler lunch
 - [ ] Hot sauce — **2 bottles**, the breakfast sandwiches want it
 - [ ] BBQ sauce + wing sauce — Sunday
 - [ ] Sour cream, **2 large**
@@ -169,6 +169,6 @@ Not on this list, but real money:
 | **The 13 ribeyes** (butcher counter) | Drinks, water, ice-free bulk, paper goods |
 | Ice | Pantry, seasoning, canned goods |
 | Anything the delivery substituted or dropped | Breakfast, coffee, snacks, late-night food |
-| TP restock | Deli, bread and condiments for the lunches |
+| TP restock | Deli, bread and condiments for Saturday's lunch |
 
-**The shape of it:** the house is stocked when 13 guys walk in at 4 PM Thursday, the sandwiches for Friday get built that night, and Friday's drive home from the boathouse picks up the steaks, the burritos and whatever the delivery got wrong. 🆕 **Thursday's 3:00–4:00 errand hour is no longer a grocery run** — it's slack, and the only thing worth spending it on is ice.
+**The shape of it:** the house is stocked when 13 guys walk in at 4 PM Thursday, 🆕 **nobody builds sandwiches that night** (Friday lunch is Cutty's — Saturday's cooler gets built Friday evening instead), and Friday's drive home from the boathouse picks up the steaks, the burritos and whatever the delivery got wrong. 🆕 **Thursday's 3:00–4:00 errand hour is no longer a grocery run** — it's slack, and the only thing worth spending it on is ice.

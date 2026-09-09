@@ -24,7 +24,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 | ~1:25–3:00 | **Brewery in town** | Austin's rec — **Snake River Brewing** (great outdoor space, seats 13 without a reservation). Note this was stop 1 of the night crawl; this just moves it to daylight, and the crawl starts at the Silver Dollar instead |
 | **3:00–4:00** | **The errand hour** 🛒 | 🆕 **Not a grocery run any more** — the delivery lands at the house at 4. What's left worth doing: **ice**, and a propane exchange if the tank's a question. Otherwise it's slack, and you get to the house early |
 | **4:00–4:20** | **Montreux House** | Check in, drop bags, shower. 🚚 **The grocery delivery lands at 4:00** — somebody meets it and checks it against the list. **Check the grill while you're at it** — burner test, heft the propane tank (`/dining`) |
-| Evening | Downtown → Mangy Moose | The night crawl below. ⚠️ **Build Friday's sandwiches before you go out** — 6:45 AM is too early to make thirteen of them |
+| Evening | Downtown → Mangy Moose | The night crawl below. 🆕 **No sandwich duty tonight** — Friday lunch is Cutty's; Saturday's cooler gets built Friday evening |
 
 🐻 **Bear spray is solved at baggage claim — rent it, don't buy it.** **Bear Aware** runs a staffed kiosk at **JAC, next to baggage claim #3**, seven days a week June–October. **$16 for the first two days, $4/day after, capped at $28** per canister — so two canisters, one per vehicle, is **~$56 total (~$4/man)** against ~$100 to buy. You return them in the **after-hours drop box at that same kiosk** on Monday morning, which also deletes the question nobody had answered: what do you do with two canisters when you can't fly home with them? It costs **zero minutes** — you're standing at that carousel anyway. *(Fallback if the kiosk is closed or out: **Smith's and Albertsons both stock bear spray**, so it rides the same errand-hour cart — it was never a separate sporting-goods trip.)*
 
@@ -53,7 +53,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 | **~6:45 AM** | Leave the house (drive-thru coffee on the way) | Teton Village |
 | **7:45 AM** | **Check in — 15 min early, in writing** | 945 W Broadway |
 | 8:00 AM–~12:00 PM | Teton Expeditions sunrise safari (4 hrs) | Grand Teton NP |
-| ~12:00–12:30 PM | Lunch — same parking lot | 945 W Broadway |
+| ~12:00–12:35 PM | **Lunch — Cutty's Bar & Grill** 🆕 | 1140 W WY-22 (~3 min) |
 | **12:30 PM** | Rafting check-in (30 min early) | 945 W Broadway |
 | 1:00–4:30 PM | Snake River whitewater | Snake River Canyon |
 
@@ -66,11 +66,11 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
   - This covers the Tetons — there's no separate self-drive time built in
   - **Dress in layers.** Their words: it may be cold in the morning and *"we decide to get out and look through the spotting scope"* — so this is a stand-around-in-the-wind tour, not a sit-in-the-van one. Bring binoculars
   - 🚫 **Teton Expeditions has a written NO ALCOHOL policy — "please leave it behind."** Same rule as the boat. Combined with JHWW's, **Friday's only drinking window is the lunch hour between them**, and that's the hour right before you get on a river
-- **~12:00–12:30 PM — Lunch, in the boathouse parking lot.** ⚠️ **JHWW does not feed this trip** — lunch comes with their *scenic float*, not the whitewater "Classic Raft" we booked. See `/dining`:
-  - ✅ **Default: sandwiches packed Thursday**, eaten on a tailgate. Zero travel, zero queue, no chance of missing the boat
-  - **Upgrade: Sidewinders**, next door, opens **11:30 AM**, 30+ TVs. Walk in and tell them you're on the 1:00 boat. No reservations — table service for 13 in 45 min is the gamble
-  - 🚫 **Cutty's is out** — ~25 min of the window in the car
-  - 🚌 Useful: **your bus seat is your locker and the driver stays with the bus**, and there are **changing rooms at the shop** — so wallets, phones and dry clothes all have a home
+- **~12:00–12:35 PM — Lunch at Cutty's.** 🆕 *(decided 9/9)* ⚠️ **JHWW does not feed this trip** — lunch comes with their *scenic float*, not the whitewater "Classic Raft" we booked. See `/dining`:
+  - ✅ **Cutty's Bar & Grill, 1140 W WY-22** — **~1 mile / ~3 min** from the boathouse, at the Broadway/WY-22 junction you already pass on the way in. **It's in Jackson, not Wilson** — the old "~10 min each way" that got it cut was wrong. Opens **11:30 AM**, cheesesteaks and pizza, and it's a bar
+  - ☎️ **Call ahead — (307) 201-1079, 13 heads, order in.** No reservations, but they work with groups by phone. The binding constraint is the **12:30 check-in**, not the drive: back ~12:00 → seated ~12:05 → out ~12:35 → boathouse ~12:40
+  - ⚠️ **If the van isn't back by ~12:10, Cutty's is off** — **Sidewinders**, next door, opens 11:30, zero drive. Spare sandwiches off Saturday's deli line ride in the SUV as the last-ditch backstop
+  - 🚌 Useful: **your bus seat is your locker and the driver stays with the bus**, and there are **changing rooms at the shop** — so wallets, phones and dry clothes all have a home. Eat in street clothes, change when you're back
 - **12:30 PM — rafting check-in** (the contract says be at the put-in 30 min early)
 - **1:00–4:30 PM — Jackson Hole Whitewater, "Classic Raft"** ("8 Miles of Smiles," Class 2–3) — private boat, ends ~4:30 PM ✅ *times confirmed in writing*
   - ⚠️ **Waivers — every man signs online before arrival.** JHWW's confirmation is explicit about it and the email is forwardable to the whole party. 13 guys filling out forms on their phones in a parking lot is exactly how an on-time group turns into a late one. See *Open Items* in the README
