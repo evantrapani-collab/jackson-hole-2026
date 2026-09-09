@@ -31,8 +31,8 @@ PLACES = [
     ("Bear Aware kiosk (JAC baggage claim)", "Lodging & Logistics", "Thu pickup / Mon return", "Jackson Hole Airport, WY", False, "Bear-spray RENTAL, next to baggage claim #3, staffed 7 days a week Jun-Oct. $16 first 2 days, $4/day after, capped at $28. Rent 2 (one per vehicle) Thursday; drop them in the after-hours box here Monday. You cannot fly with bear spray."),
     ("St. John's Health (hospital)", "Lodging & Logistics", "Emergency", "St. John's Health, 625 E Broadway, Jackson, WY", False, "Nearest 24-hr ER, ~25 min from the house."),
     ("945 W Broadway (Fri boathouse)", "Lodging & Logistics", "Fri — all day", "945 W Broadway Ave, Jackson, WY 83001", False, "Both Friday trips stage here: Teton Expeditions safari (check in 7:45 AM) and Jackson Hole Whitewater rafting (check in 12:30). Hillside complex, next to Sidewinders. 307-733-1007."),
-    ("Smith's Food and Drug", "Lodging & Logistics", "Thu", "Smith's Food and Drug, Jackson, WY", False, "Grocery run on arrival (sides, drinks, ice). Butcher BACKUP if Albertsons can't cut 13 ribeyes."),
-    ("Albertsons", "Lodging & Logistics", "Thu", "Albertsons, Jackson, WY", False, "Call THIS butcher counter for the 13 bone-in ribeyes — usually the one carrying Prime. Also a full grocery alternative to Smith's."),
+    ("Smith's Food and Drug", "Lodging & Logistics", "Fri PM", "Smith's Food and Drug, Jackson, WY", False, "Backup store for the Friday-evening run (ice, restock). Butcher BACKUP if Albertsons can't cut 13 ribeyes."),
+    ("Albertsons", "Lodging & Logistics", "Fri PM", "Albertsons, Jackson, WY", False, "Friday-evening store run: pick up the 13 bone-in ribeyes here (call the butcher ahead — usually the one carrying Prime), plus ice and the restock."),
 
     # --- Food & Drink ---
     ("Jackson Drug", "Food & Drink", "Thu", "Jackson Drug, Jackson, WY", False, "Huckleberry shake on the town square."),
@@ -67,9 +67,9 @@ PLACES = [
     ("Bin22", "Food & Drink", "Splinter group", "Bin22, Jackson, WY", False, "Wine bar + tapas; too small for 13 — pre-dinner stop."),
     ("Coe Tavern", "Food & Drink", "Drinks", "Coe Tavern, Jackson, WY", False, "Rooftop drinks + snacks; pre-dinner stop."),
     ("Roadhouse Brewing Co.", "Food & Drink", "Sun game / Thu alt", "Roadhouse Brewing Co, Jackson, WY", False, "Big enough to seat all 13 without a reservation — top Saints-game option; great happy hour Thursday."),
-    ("Sidewinders Tavern", "Food & Drink", "Fri lunch / Sun game", "Sidewinders Tavern, Jackson, WY", False, "Sports tavern next door to the Friday boathouse. 30+ TVs, 24 taps, opens 11:30 AM, no reservations. Friday's lunch upgrade and the best-equipped Saints-game room in town."),
+    ("Sidewinders Tavern", "Food & Drink", "Fri lunch + dinner / Sun game", "Sidewinders Tavern, Jackson, WY", False, "Sports tavern next door to the Friday boathouse. 30+ TVs, 24 taps, opens 11:30 AM, no reservations. Friday's lunch upgrade, the default for Friday dinner now that the house meal is off, and the best-equipped Saints-game room in town."),
     ("The Verge", "Food & Drink", "Thu night alt", "The Verge, Jackson, WY", False, "Liquor in front, dive bar in back (AJAX rec). Bar-crawl flavor, not a dinner."),
-    ("Jackson Whole Grocer", "Lodging & Logistics", "Thu", "Jackson Whole Grocer, Jackson, WY", False, "Third grocery/butcher option if Albertsons and Smith's are out of Prime."),
+    ("Jackson Whole Grocer", "Lodging & Logistics", "Fri PM", "Jackson Whole Grocer, Jackson, WY", False, "Third grocery/butcher option if Albertsons and Smith's are out of Prime."),
     ("D.O.G.", "Food & Drink", "Burrito stash", "D.O.G., Jackson, WY", False, "Friend's burrito pick; bulk-order option for the early-start stash."),
     ("Creekside Market & Deli", "Food & Drink", "Sun / cooler", "Creekside Market and Deli, Jackson, WY", False, "Sandwiches before heading into the parks."),
     ("Pearl Street Market (sloshies)", "Food & Drink", "Thu", "Pearl Street Market, Jackson, WY", False, "Friend's sloshie favorite; downtown quick hit."),
@@ -93,7 +93,7 @@ PLACES = [
     ("Moose-Wilson Road", "Grand Teton NP", "🚫 CLOSED Sep 8-Nov 15", "Moose-Wilson Road, Grand Teton, WY", False, "🚫 CLOSED Sep 8 - Nov 15, 2026 (NPS Phase II construction) between the Rockefeller Preserve and Moose. Cut from Sunday's loop — and it's why every park drive now goes the long way through Jackson."),
     ("Jackson Lake Lodge (Willow Flats)", "Grand Teton NP", "Optional", "Jackson Lake Lodge, WY", False, "Moose hotspot at Willow Flats."),
     ("Jackson Hole Aerial Tram", "Grand Teton NP", "Sun PM", "Jackson Hole Aerial Tram, Teton Village, WY", False, "✅ Running May 16-Oct 4, 2026, 8:30-5. Rendezvous Mtn summit (10,450 ft); Corbet's waffles up top. ~$55/person; tickets were due 9/7 and are still unbought, but stay buyable up to Sunday. Walkable from the house."),
-    ("Bridger Gondola", "Grand Teton NP", "🚫 CLOSED Sep 13", "Bridger Gondola, Teton Village, WY", False, "🚫 Season ends Sep 13, 2026 — four days before we land. Thursday's lift stop is void; that hour is the grocery run now. The TRAM is the one that's running."),
+    ("Bridger Gondola", "Grand Teton NP", "🚫 CLOSED Sep 13", "Bridger Gondola, Teton Village, WY", False, "🚫 Season ends Sep 13, 2026 — four days before we land. Thursday's lift stop is void; that hour is slack now (groceries arrive as a 4 PM delivery). The TRAM is the one that's running."),
     ("Colter Bay Village", "Grand Teton NP", "If up north", "Colter Bay Village, Grand Teton National Park, WY", True, "Jackson Lake; near Leek's Marina."),
 
     # --- Yellowstone National Park ---

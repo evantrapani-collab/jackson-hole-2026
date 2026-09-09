@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-09-08 — found at **87**, restored to 100; see the notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-09-09 — found at **93**, restored to 100; see the notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -99,19 +99,19 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 Current standing, and where the four most recent passes found gaps. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history.
 
-| Category | Points | 8/21 #3 | 8/28 found | 8/30 found | 9/8 found | **Now** |
+| Category | Points | 8/28 found | 8/30 found | 9/8 found | 9/9 found | **Now** |
 |---|---|---|---|---|---|---|
-| 1. Bookings & critical path | 20 | 20 | 18 | 20 | 15 | **20** |
+| 1. Bookings & critical path | 20 | 18 | 20 | 15 | 18 | **20** |
 | 2. Schedule feasibility | 15 | 15 | 15 | 15 | 15 | **15** |
-| 3. Risk, safety & contingency | 15 | 15 | 15 | 15 | 13 | **15** |
-| 4. Meals | 12 | 12 | 9 | 12 | 10 | **12** |
-| 5. Money | 12 | 12 | 12 | 12 | 12 | **12** |
-| 6. Group coordination | 10 | 10 | 10 | 10 | 8 | **10** |
-| 7. Three layers in sync | 10 | 6 | 6 | 10 | 10 | **10** |
-| 8. Dashboard usability | 6 | 4 | 3 | 3 | 4 | **6** |
-| **Total** | **100** | **94** | **88** | **97** | **87** | **100** |
+| 3. Risk, safety & contingency | 15 | 15 | 15 | 13 | 15 | **15** |
+| 4. Meals | 12 | 9 | 12 | 10 | 8 | **12** |
+| 5. Money | 12 | 12 | 12 | 12 | 11 | **12** |
+| 6. Group coordination | 10 | 10 | 10 | 8 | 10 | **10** |
+| 7. Three layers in sync | 10 | 6 | 10 | 10 | 10 | **10** |
+| 8. Dashboard usability | 6 | 3 | 3 | 4 | 6 | **6** |
+| **Total** | **100** | **88** | **97** | **87** | **93** | **100** |
 
-> Read across a row: every category has been the weak one at least once. §2 collapsed to 8 when the drive times were checked against the world; §4 to 8 when a default turned out to be a meal nobody serves; §7 and §8 fell once the cost of *duplication* was scored rather than the completeness of each copy. **8/28 was the first pass to find the same weaknesses twice**; **9/8 is the first to find the same weakness a third time** — §1's rotted deadline, now on its third date (8/22 → 9/7 → overdue), with §8 quietly rendering it as finished. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history.
+> Read across a row: every category has been the weak one at least once. §2 collapsed to 8 when the drive times were checked against the world; §4 to 8 when a default turned out to be a meal nobody serves; §7 and §8 fell once the cost of *duplication* was scored rather than the completeness of each copy. **8/28 was the first pass to find the same weaknesses twice**; **9/8 is the first to find the same weakness a third time** — §1's rotted deadline, now on its third date (8/22 → 9/7 → overdue), with §8 quietly rendering it as finished. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history. **9/9 is the first pass whose findings came from the group chat rather than from a check** — the plan was internally perfect and eight days stale.
 
 ---
 
@@ -248,5 +248,34 @@ Ten reviewers, one repo: a program manager, a deadline/refund analyst, an aviati
 - **Re-verified against the outside world, not the repo:** both kickoff times and networks, the tram season and its 5 PM close, and Craig Pass open through Oct 31. Ledger re-dated.
 
 **The rule this pass earns.** 8/4 said a date that has passed is a defect. This pass adds the two ways that defect hides. First: **a relative deadline ("the week before," "closer to the trip," "1–2 weeks out") rots without ever looking wrong** — it was true when written and it is still grammatical today, which is exactly why nobody re-reads it. Convert every relative deadline to a date the moment it's written. Second, and worse: **a UI that computes "past" as "done" launders the rot.** The milestone strip struck through a deadline nobody met, and the crew's only view of the plan showed a clean line where three open items were. §8 gains a test: **the dashboard may never render an unfinished item as finished — past and done are different states, and the page has to show both.**
+
+**Grade: 100/100.**
+
+---
+
+### 9/9 re-grade — the crew changed the plan, and the repo didn't know yet (found at 93, restored to 100)
+
+No pass found this one; the **group chat** did. Eight days out, Psilos posted the grocery order he was about to place — **delivery at 4 PM on check-in day** — and one line inside it moved three meals: *"Plan is to eat out Thursday and Friday nights."* Every layer of this repo said Friday dinner was **the house, ✅ locked**, with a fajita bar as its zero-action default and its leftovers feeding Saturday's cooler lunch in Yellowstone.
+
+**Found at 93 (−7).**
+
+| # | Cat | Deduction | What was wrong |
+|---|---|---|---|
+| −4 | §4 | **Two meal slots rested on a dinner that isn't happening** | Friday dinner was documented as the house with a menu default; the man doing the shopping was buying for a night out. That leaves **Friday dinner with no venue** for 13 men who come off a river at 4:30 on a Friday night in September, and it silently breaks **Saturday's cooler lunch**, whose default was *"Friday's fajita leftovers wrap into Yellowstone sandwiches."* No fajitas, no leftovers, no lunch — on the day with a hard 2:00 PM turnaround |
+| −2 | §1 | **Two decisions were still shown as open that reality had closed** | *"Groceries: pick the method"* and *"Friday dinner menu"* both pointed at the Sep 10 call. Both were settled on 9/9 by the person who owns them — the method (delivery Thursday + an in-person store run Friday) and the menu (there is no menu). A decision the world has closed is not an open item; it's a stale one |
+| −1 | §5 | **The grocery cost was for a list nobody is buying** | ~$103/person assumed a Friday dinner module. The real shape is **~$92 of groceries plus a restaurant dinner** — a **~$30/person net increase**, which is worth writing down rather than discovering at a table for 13 |
+
+**Restored to 100:**
+
+- **Friday dinner has a venue with a zero-action default: Sidewinders**, in the boathouse's own lot at 945 W Broadway. The boat lands at 4:30 and the SUVs have been parked there since 7:45 — the default costs zero repositioning. Mangy Moose (walkable from the house) is the no-drive fallback, and the one real risk is named: **13 walk-ins on a Friday night**, so somebody calls ahead that afternoon.
+- **Both cooler lunches now come off the deli line**, in every layer — the Friday boathouse lunch and the Saturday West Thumb lunch, with the "leftovers" chain deleted rather than quietly left standing.
+- **The grocery order is written down as placed, with its gaps.** Psilos's ten lines cover drinks, car snacks and both early breakfasts; they cover **nothing that gets cooked or packed at the house**. The missing lines — deli/bread/condiments, steak sides and the rub, the Sunday spread, **toilet paper** (Fulham asked; nobody has counted what the house stocks), milk, paper plates and cups, PB crackers, trail mix, ice, foil, ziplocs, whiskey — are one to-do with an owner (**Trapani**) and a date (**9/11**, before he submits), and a default that holds if nobody posts it: the Friday-evening store run buys it all in person.
+- **A default got stronger, not weaker:** frozen breakfast sandwiches are on the order, so the **Sat 6:15** and **Sun 6:00** starts eat with zero further action. The burrito order stays as the *upgrade* — that slot no longer depends on a call happening.
+- **The steaks moved to a Friday-evening in-person buy** (a ~24-hour refrigerated hold for Saturday, picked up on the same trip as the burritos and the restock), and the Thursday 3:00–4:00 "errand hour" is honestly downgraded to slack in all three layers, since the delivery lands at 4.
+- **Layers re-synced:** README ↔ dashboard to-dos and Decision Defaults match item-for-item (34 open items in both), the Groceries tab was rebuilt (46 items, storage key bumped to `_v2` since the list changed), and `/maps` was regenerated — 83 places, `--check` clean — because the store pins said "Thu."
+
+⚠️ **Not re-verified this pass.** The external-fact ledger above still carries its **9/8** date: nothing in it was re-checked today, and this pass added no new outside claims. The Sidewinders hours it leans on (11:30 AM–9:30 PM, no reservations) are the 9/8 entry, not a fresh call.
+
+**The rule this pass earns.** Every previous pass tested the plan against *the world* (drive times, operating calendars) or against *itself* (do the copies agree). This one came from neither: **the crew changed the plan in the group chat, and the repo was confidently, internally consistently wrong for as long as nobody read it back.** A trip doc's freshest input isn't a re-check — it's the thread the trip actually lives in. §7 gains a test: **when a decision is made where the crew talks, the repo is stale until the outcome and everything downstream of it is written down** — and the thing to hunt for is not the decision itself, which is easy, but the defaults that quietly depended on it.
 
 **Grade: 100/100.**

@@ -13,7 +13,7 @@
 
 ### The afternoon
 
-> 🚡 **No lift on Thursday** — the Bridger Gondola's season ends Sept 13 and we land the 17th. **The tram is Sunday's.** The 3:00–4:00 block is the grocery run instead.
+> 🚡 **No lift on Thursday** — the Bridger Gondola's season ends Sept 13 and we land the 17th. **The tram is Sunday's.** 🆕 **The 3:00–4:00 block is no longer a grocery run** — Psilos's delivery lands at the house at 4 PM (9/9), so the hour is slack. Spend it on **ice** if you spend it on anything.
 
 Land → **Dornan's** → **brewery in town** → **the errand hour** → **check in** → out for the night. Rough clock, so you can see the seams:
 
@@ -22,9 +22,9 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 | 10:19–11:15 | JAC | Land. **Hardie + Schick to the rental counter before baggage claim**; everyone else pulls bags — and **rents the bear spray at the Bear Aware kiosk by baggage claim #3** while standing there (see below). Load two SUVs |
 | 11:30–1:00 | **Dornan's** (Moose) | **~12 min from JAC**, opposite direction from town. ⚠️ **They open at 11:30** — don't roll up at 11:15. Pizza, beer, straight-on Tetons. Decompress and let everyone adjust to 6,200 ft before anyone drives into Jackson |
 | ~1:25–3:00 | **Brewery in town** | Austin's rec — **Snake River Brewing** (great outdoor space, seats 13 without a reservation). Note this was stop 1 of the night crawl; this just moves it to daylight, and the crawl starts at the Silver Dollar instead |
-| **3:00–4:00** | **The errand hour** 🛒 | The block the gondola was holding. **Smith's or Albertsons** — groceries, ice, propane exchange if the tank's a question. If the house is pre-stocked, this shrinks to an ice-and-drinks run and you get to the house early |
-| **4:00–4:20** | **Montreux House** | Check in, drop bags, shower. **Check the grill while you're at it** — burner test, heft the propane tank (`/dining`) |
-| Evening | Downtown → Mangy Moose | The night crawl below |
+| **3:00–4:00** | **The errand hour** 🛒 | 🆕 **Not a grocery run any more** — the delivery lands at the house at 4. What's left worth doing: **ice**, and a propane exchange if the tank's a question. Otherwise it's slack, and you get to the house early |
+| **4:00–4:20** | **Montreux House** | Check in, drop bags, shower. 🚚 **The grocery delivery lands at 4:00** — somebody meets it and checks it against the list. **Check the grill while you're at it** — burner test, heft the propane tank (`/dining`) |
+| Evening | Downtown → Mangy Moose | The night crawl below. ⚠️ **Build Friday's sandwiches before you go out** — 6:45 AM is too early to make thirteen of them |
 
 🐻 **Bear spray is solved at baggage claim — rent it, don't buy it.** **Bear Aware** runs a staffed kiosk at **JAC, next to baggage claim #3**, seven days a week June–October. **$16 for the first two days, $4/day after, capped at $28** per canister — so two canisters, one per vehicle, is **~$56 total (~$4/man)** against ~$100 to buy. You return them in the **after-hours drop box at that same kiosk** on Monday morning, which also deletes the question nobody had answered: what do you do with two canisters when you can't fly home with them? It costs **zero minutes** — you're standing at that carousel anyway. *(Fallback if the kiosk is closed or out: **Smith's and Albertsons both stock bear spray**, so it rides the same errand-hour cart — it was never a separate sporting-goods trip.)*
 
@@ -78,8 +78,8 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
   - Wetsuit rental on-site: $5/person (3-piece) — **call it by 9/16 on the forecast; default is nobody rents**, and they're stocked at the shop either way
   - **No alcohol on the van or boat**
   - ☎️ **JHWW: 307-733-1007** — the day-of number if anything slips
-- **~4:45 PM — pick up the breakfast burritos on the way home** (~18–20, **held for you** — Psilos calls the order in by 9/16; 20 burritos is not a walk-up). They feed **Saturday 6:15** and **Sunday 6:00**, and **2–3 get held back for Monday**
-- **Evening — dinner ✅ locked: the house.** After a dawn-to-dusk day it's a low-key house dinner off the grocery stock (the burrito pickup is already on the way home). The 6/30 booking fence for a 13-top (Local/Gather) passed with no reservation, so the house is the plan — no scramble
+- **Evening — dinner is OUT** 🆕 *(changed 9/9 — Psilos is shopping for two nights out, so there's no house dinner on the list)*. ✅ **Default: Sidewinders**, in the same lot the SUVs have been in all day — walk out of the boathouse and in the door. Mangy Moose (walkable from the house) is the no-drive fallback. **Call ahead that afternoon and say 13 are coming** — no reservations, but it's the difference between two tables and a wait
+- **~5:45 PM — the errand run, on the way home.** One trip, four jobs: **the 13 ribeyes** at the Albertsons butcher (pre-ordered), the **breakfast-burrito batch** (~18–20, called in by 9/16 — 2–3 get held for Monday), **ice**, and anything Thursday's delivery substituted or dropped
 - **Tip the guides:** **two separate outfits**, so that's two tips — bring cash (~$20–40/person across both)
 
 ---
@@ -99,7 +99,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 > A 7:00 AM departure on those numbers gets you home **~4:50** — 40 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. **So: leave at 6:15, and hold a hard turnaround.**
 
 - **Leave at 6:15 AM** — not 7:00. It's ~1 hr 30 to the South Entrance from Teton Village, plus a few minutes at the gate
-  - *Grab-and-go breakfast:* reheat the **breakfast-burrito stash** from the fridge (picked up Friday) — no time to cook, and nothing is open
+  - *Grab-and-go breakfast:* the **house stash** — frozen breakfast sandwiches off Thursday's delivery, or the burrito batch if the order got called in. No time to cook, and nothing is open
   - 🦌 **The first hour is in the dark, through Grand Teton, during the elk rut.** Sunrise is ~7:07. Elk, bison and deer are on US-26/89/191 at that hour and they are the actual hazard on this drive — not the schedule. Whoever's driving stays off the gas
 - ❄️🔥 **Check one road before you roll: Craig Pass.** The West Thumb → Old Faithful segment climbs to **8,262 ft**, and it's the first road in the park to shut when snow arrives — NPS closes it temporarily while Old Faithful stays open. **Our out-and-back crosses it twice**, so a mid-morning closure strands us on the far side with only the long way round the figure-eight, which ends the day. ✅ **Projected open through Oct 31** *(re-checked 9/8)*, and September averages just **1.3 inches** of snow — so this is unlikely, but it's free to check and it's the one thing that can break this day in half.
   - **How:** Yellowstone road status at **nps.gov/yell** or @YellowstoneNPS — check Friday night *and* again at 6 AM before leaving
@@ -118,7 +118,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 
 | Time | Where |
 |---|---|
-| 6:15 AM | Roll out of the house, burritos in hand |
+| 6:15 AM | Roll out of the house, breakfast in hand |
 | ~7:45 | **Yellowstone South Entrance** — pay here ($35/vehicle, and it's a **7-day** pass, see below) |
 | ~9:05 | **Fairy Falls trailhead** (past Old Faithful, ~10 min north) |
 | 9:05–10:15 | **Grand Prismatic Overlook** — 1.6 mi round trip on foot |
@@ -138,7 +138,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 - **5:30 PM MT — LSU vs. Ole Miss** (6:30 CT, **ABC**) — Lane Kiffin's return to Oxford
   - Back at the house; **grill 24 oz bone-in ribeyes**
   - Plan on **two batches** — 13 × 24 oz bone-in doesn't fit one grate; rest batch one in a 200°F oven. **Grill captain defaults to Psilos**, who owns the meat
-  - ⚠️ **Steak night is under discussion** — may move to Sunday (Saints). Default is still Saturday; if it moves, this night is **the house off grocery stock** (Friday's leftovers or pasta) — no reservation needed. See `/dining`
+  - ⚠️ **Steak night is under discussion** — may move to Sunday (Saints). Default is still Saturday, and it got firmer on 9/9: with Friday's house dinner gone there are no leftovers, so if the steaks move, this night is the steak sides plus sandwich makings, or a second walk-in in town. See `/dining`
 
 ---
 
@@ -150,7 +150,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 
 - **6:00–9:30 AM — Sunrise wildlife drive** (best light + animal activity of the trip)
   - **Leave the house at 6:00**, 6:15 at the absolute latest. 6:00 → Schwabacher ~6:45, set up in the dark, and you own the light. 6:15 works. 6:30 does not
-  - *Grab-and-go breakfast:* hit the **breakfast-burrito stash** on the way out — nothing's open at 6 AM
+  - *Grab-and-go breakfast:* hit the **house stash** on the way out — nothing's open at 6 AM
   - **Schwabacher Landing** (~6:45) — the can't-miss sunrise: beaver ponds mirroring the Tetons. Last mile is dirt; take it slow in the dark
   - **Oxbow Bend** (~7:45) — moose, elk, often a bull elk bugling; classic Teton reflection. *This is the one stop past the **Moran entrance station** — Saturday's 7-day pass covers it, so keep the receipt*
   - **Mormon Row / Antelope Flats** (~8:30) — bison against the Tetons, back south on the way home
@@ -170,7 +170,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 ## Monday, Sep 21 — Travel Home
 
 - **Out of the house by ~9:45 AM** — confirm the exact checkout time with the host (same ask as check-in); 13 guys packing out takes longer than you think
-- *Breakfast:* whatever's left + house coffee — **hold back 2–3 breakfast burritos from the stash for this morning**. No sit-down fits, and JAC's terminal food is two small counters. Clear the fridge on the way out
+- *Breakfast:* whatever's left + house coffee — **hold back 2–3 from the breakfast stash for this morning**. No sit-down fits, and JAC's terminal food is two small counters. Clear the fridge on the way out
 - **Fuel both SUVs** the night before or en route (gas in town, not at the tiny airport lot) and **return the rentals at JAC** — build in ~20 min for the return + shuttle to the terminal
 - 🐻 **Return the two bear-spray canisters** to the **Bear Aware kiosk at baggage claim #3** — there's an after-hours drop box, so it works even if nobody's staffing it at 10 AM. Don't try to fly with them; don't leave them at the house
 - Be at JAC by **10:15 AM** — it's a small airport but don't cut it close

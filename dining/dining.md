@@ -8,17 +8,17 @@
 | Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square. Grab it while you're downtown at the brewery, or Sunday afternoon |
 | Friday coffee | **Cowboy Coffee — the drive-thru** 🆕 | Fri AM | **1007 S US-89, opens 6 AM**, ~2 min from the boathouse and on the route in. Two SUVs, two orders, nobody gets out. **Leave the house 6:45** |
 | ~~Friday breakfast~~ | ~~The Bunnery~~ | ~~Fri AM~~ | 🚫 **Cut from Friday** — it's on the square, the wrong direction, and it's a sit-down bakery. Moved to Monday if anyone's running early |
-| Early-start breakfast | Breakfast burritos (house stash) | Sat/Sun AM | Order a batch to keep at the house; reheat for the **6:15 AM** Yellowstone + **6:00 AM** wildlife-drive starts |
+| Early-start breakfast | **Frozen breakfast sandwiches (house stash)** 🆕 | Sat/Sun AM | ✅ **On Psilos's delivery order (9/9)** — the **6:15 AM** Yellowstone and **6:00 AM** wildlife-drive starts now eat with zero further action. A vendor **burrito batch is the upgrade**, not the floor |
 | Thursday bars | Snake River Brewing | Thu night | First stop; craft brewery, great food |
 | Thursday bars | Silver Dollar Bar & Grill | Thu night | Classic western bar; inlaid silver dollar bar top |
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
 | Friday lunch | **Packed sandwiches (default)** ⚠️ | Friday | ~45-min window at 945 W Broadway. **The old "outfitter deli" default doesn't exist** — JHWW feeds scenic floats, not whitewater. Pack it Thursday; **Sidewinders next door** is the upgrade |
 | Saturday lunch | **Cooler lunch, packed Friday night** ⚠️ | Saturday | In-park; eat at West Thumb on the way back — see *Saturday Lunch* below |
-| Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 burritos — see *Monday Breakfast* below |
-| Friday dinner | **House ✅ locked** — menu default: fajita bar | Friday | Venue locked; menu defaults to the fajita/taco bar if nobody picks by 9/10 — see *Friday Dinner Menu* below |
+| Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 off the breakfast stash — see *Monday Breakfast* below |
+| Friday dinner | **Out** 🆕 | Friday | ✅ **Changed 9/9** — Psilos is shopping for two nights out, not a house dinner. **Default: Sidewinders**, same lot as the boathouse — see *Friday Dinner* below |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose. ✅ **Hours confirmed: 11:30 AM–7 PM daily, year-round.** ⚠️ **~35 min each way now** (Moose-Wilson is closed) — leave the Village by 4:30. Backup is the house |
-| Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes; buy at Smith's/Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
+| Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes, **bought in person Friday evening** at Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
 | Sunday game | **House cookout (default)** | Sunday | Saints @ Baltimore, **11 AM MT (noon CT, CBS)**; Snake River Brewing / Roadhouse / Cutty's / Eleanor's are the upgrade if the Thu–Fri recon likes them |
 
@@ -61,16 +61,15 @@
 - They do breakfast sandwiches and burritos too, if anyone wants food in hand for a 4-hour stand-around-in-the-cold safari
 - **The Bunnery is off Friday.** It's on the square (same backtrack) and it's a sit-down bakery. It's a fine **Monday** pre-flight bite if the group is running early — nothing more
 
-## Breakfast Burritos for the Early Starts — house stash
+## Breakfast for the Early Starts — house stash
 
-The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday 6:00 AM** sunrise wildlife drive — both moved earlier once the real drive times got checked) don't leave time to cook or sit down. Plan: **have a batch of breakfast burritos already in the fridge** so guys can grab-heat-and-go in the dark.
+The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday 6:00 AM** sunrise wildlife drive) don't leave time to cook or sit down, and **nothing in Jackson is open before either.** The stash has to be in the fridge before Saturday's alarm.
 
-- **Where:** Cowboy Coffee, Pearl Street Bagels, Picnic, D.O.G. ("miss these burritos" — a friend's rec), or Hand Fire all do solid breakfast burritos in/near Jackson — order a bulk batch (**plan ~1.5 per guy ≈ 18–20** for 13)
-- **When to get them:** ⚠️ **call the order in by 9/16** *(Owner: **Psilos** — he's already calling stores)*. Twenty burritos is a special order, not a walk-up, and the call can't happen from the raft. Then it's a **pickup Friday afternoon/evening** (after rafting) so they're in the fridge before Saturday's alarm
-- **Default if the call never happens:** **bagels, pastries and fruit off the Thursday grocery run** — both early starts still eat, it's just a worse breakfast. Don't let this slot go to "we'll figure it out at 6 AM," because nothing is open at 6 AM
-- **Delivery caveat:** restaurant delivery (DoorDash/Uber Eats) into **Teton Village** is thin — **call ahead and pick up** rather than counting on same-day delivery to the house
-- **Reheat:** wrap in foil → oven, or microwave; stash hot sauce/salsa at the house. Keep a few frozen as backup for Sunday
-- Cheap insurance against 13 hungry guys and a 6 AM departure with nothing open. **The earlier start times make this stash load-bearing, not optional** — there is no coffee shop open at 6:00 on the road to Schwabacher
+- ✅ **The floor is set:** **frozen breakfast sandwiches are on the 9/9 delivery order** — both mornings eat even if nobody does another thing. Foil in the oven or 90 seconds in the microwave; keep hot sauce next to them
+- 🌯 **The upgrade — a vendor burrito batch:** Cowboy Coffee, Pearl Street Bagels, Picnic, D.O.G. ("miss these burritos" — a friend's rec) or Hand Fire all do them; **~1.5 per guy ≈ 18–20** for 13, ~$200
+- **When:** ⚠️ **call the order in by 9/16** *(Owner: **Psilos**)*. Twenty burritos is a special order, not a walk-up, and the call can't happen from the raft. **Pick up Friday evening** on the same run as the steaks
+- **Delivery caveat:** restaurant delivery (DoorDash/Uber Eats) into **Teton Village** is thin — call ahead and pick up
+- **Hold 2–3 back for Monday**, whichever form the stash takes
 
 ## Saturday Lunch — pack it
 
@@ -79,7 +78,7 @@ The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday
 **Why not eat in the park:** the Old Faithful complex is the only real food between the South Entrance and the turnaround. At noon, in a group of 13, that's a line, a scramble for seats, and easily 45 minutes — spent at the exact hour you should be moving toward Grand Prismatic. It also costs park-concession prices for cafeteria food.
 
 **The plan: a cooler lunch, built Friday night.**
-- **Friday's dinner is the source** — a fajita/taco bar rolls straight into wraps; a one-pot doesn't, so if the menu lands on jambalaya/pasta, buy sandwich stuff on the Thursday grocery run instead
+- ⚠️ **It comes off the deli line, not off leftovers.** Friday's dinner moved out of the house on 9/9, so there is nothing to wrap — **both** cooler lunches (Friday at the boathouse, Saturday at West Thumb) are built from the sandwich makings on the delivery order. That line is the whole plan; check it landed
 - **Or grab-and-go:** **Creekside Market** in Jackson does exactly this (sandwiches for the park) — but **nothing in Jackson opens before a 6:15 AM roll-out**, so this is a **Friday-afternoon pickup** alongside the burritos, not a Saturday-morning stop. Don't plan a detour you can't make
 - **Where to eat it:** **West Thumb** — it's the last stop on the way back, it's on Yellowstone Lake, and there are picnic tables. Best lunch view of the trip and it costs nothing. 🕐 **Eat fast: wheels roll south at 2:00 PM sharp** — that's the number the 5:30 kickoff depends on
 - **Cooler goes in the Explorer** — it's already on the packing list; ice is already on the grocery list
@@ -89,7 +88,7 @@ The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday
 
 > Out of the house by ~9:45 AM, at JAC by 10:15, wheels up 11:47. There is no time for a sit-down, and JAC's terminal food is a couple of small counters.
 
-- **Hold back 2–3 breakfast burritos** from the Sat/Sun stash on purpose — freeze them Thursday if needed
+- **Hold back 2–3** off the Sat/Sun breakfast stash on purpose — sandwiches or burritos, whichever the stash turned out to be
 - Coffee at the house (it's on the grocery list); last-morning leftovers clear the fridge, which you want anyway before checkout
 - **The Bunnery** on the square is the only sit-down that fits, and only barely — it's the *wrong* direction from Teton Village to JAC. Skip it unless the group is running early
 - Whoever's on trash/fridge duty: eat it or bin it, don't leave it for RMR
@@ -102,11 +101,11 @@ The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday
 
 | Option | Travel | The call |
 |---|---|---|
-| **Sandwiches from the Thursday grocery run** 🆕 | none | ✅ **The new default.** Built at the house Thursday night or Friday at 6:30, eaten on a tailgate at 945 W Broadway. Zero travel, zero queue, zero chance of missing the boat — and it costs one line on a grocery list Psilos is already shopping |
+| **Sandwiches off Thursday's 4 PM delivery** 🆕 | none | ✅ **The default.** Built at the house Thursday night, eaten on a tailgate at 945 W Broadway. Zero travel, zero queue, zero chance of missing the boat — and it costs one line on an order Psilos is already placing |
 | **Sidewinders** | walk next door | ✅ **The upgrade, and it's a real one.** Same complex as the boathouse, **opens 11:30 AM**, 30+ TVs, 24 taps, big indoor and outdoor seating. **Walk in at noon and tell them you're on the 1:00 boat.** Risk: no reservations, first-come-first-served, and table service for 13 in 45 min is a genuine gamble |
 | ~~**Cutty's** (Wilson)~~ | ~10 min each way | 🚫 **Cut.** ~25 min of a ~60-min window in the car, for a table you could have next door. It only ever made sense when we thought the tour and the boat were in different places |
 
-- ⚠️ **Friday's lunch cannot come from Friday's leftovers** — Friday dinner happens *after* it. This is the one meal the fajita-bar branch can't feed, so it needs its own line on the Thursday list. See [`grocery-list.md`](./grocery-list.md)
+- ⚠️ **Build it Thursday night** — Friday morning leaves the house at 6:45 and there is no time to make thirteen sandwiches in the dark. See [`grocery-list.md`](./grocery-list.md)
 - If the safari runs long (good wildlife does that), **lunch is what compresses** — which is the whole argument for having it already in the cooler
 - 🍺 **Both outfitters ban alcohol**, so this hour is Friday's only drinking window — and it's the hour before a Class 2–3 river. Act accordingly
 - Cutty's stays on the board for **Sunday** (Saints game, Hwy 22)
@@ -150,17 +149,17 @@ Worth knowing, because it changes what you carry and what you wear:
 
 ---
 
-## Friday Dinner — Venue Locked, Menu Open
+## Friday Dinner — Out
 
-> The house won the venue fight back in June. Nobody's picked what's actually cooked. After a dawn-to-dusk van tour + rafting day, nobody wants a project — this needs to be a one-pot or assembly-line meal, not a from-scratch cook.
+> 🆕 **Changed 9/9.** The house dinner is off: Psilos is buying for **two nights out (Thu + Fri)**, so there is no fajita bar, no one-pot, and nothing on the grocery list that becomes Friday's dinner. The menu question that was pointed at the Sep 10 call is closed by not existing.
 
-**Two realistic options:**
-- **Fajita/taco bar** — 10 lb chicken thighs + 5 lb skirt steak, 50+ tortillas, 8 onions/peppers, 2 lb cheese, 3 jars salsa, 12 avocados, rice + beans. Feeds 13 with leftovers (which double as Saturday's Yellowstone sandwich wraps).
-- **One-pot (jambalaya or big pasta)** — cheaper, less prep, one person cooks and walks away for 40 min while everyone else showers off the river.
+**Nobody has picked where, and 13 men off a river at 4:30 PM is not a reservation anyone will make at 5.** The zero-action answer has to be a walk-in:
 
-**Decision:** pick one and fold it into Psilos's Sep 10 grocery/butcher call — right now he's shopping for an undefined meal.
-
-**Default if nobody picks: the fajita/taco bar.** It's the branch that pays for itself twice — the leftovers wrap into Saturday's cooler lunch, which the one-pot can't do without a separate sandwich run. Psilos shops the fajita module unless he's told otherwise by the 10th.
+- ✅ **Default: Sidewinders, 945 W Broadway** — the **same lot the two SUVs have been parked in since 7:45 AM.** Zero repositioning, opens 11:30 and runs to 9:30, 24 taps, big indoor and outdoor seating. Walk out of the boathouse and in the door. It's also Friday's lunch stop, so the room is a known quantity by dinner
+- **In-town alternates, on the way home:** Snake River Brewing, Roadhouse, or **Gun Barrel** if the crew wants the western steakhouse — all walk-in, all *"go early and expect two tables"*
+- **No-drive fallback: Mangy Moose**, Teton Village, walkable from the house — the answer if everyone wants to shower first
+- ⚠️ **This is the trip's only unbooked dinner for 13 on a Friday night.** Whoever's driving should call ahead from the takeout that afternoon and say a party of 13 is coming — it costs nothing and it's the difference between two tables and a 45-minute wait
+- 🚗 **The Friday-evening errand run happens on this trip anyway** — steaks at the Albertsons butcher, the burrito batch, ice and the TP restock. Eat first, shop second, drive home once
 
 ## Grill Check — Before Committing to Ribeyes
 
@@ -169,7 +168,7 @@ Worth knowing, because it changes what you carry and what you wear:
 - [ ] **Drewes asks RMR (307-739-9050)** on the check-in call: what's the grill (gas/charcoal?), and is the propane tank full or does someone need to swap it in Jackson
 - [ ] **Check it yourself Thursday at check-in** — lid up, burner test, heft the tank. This is the one that actually protects the night: Thursday leaves a full day of runway, Saturday at 4 PM leaves none
 - **If the tank's dead:** propane exchange at Smith's or Albertsons in Jackson, ~$25 — a 40-minute round trip Thursday or Friday
-- **If it's charcoal:** 2 bags + a chimney starter on the Thursday grocery run (or the Friday burrito pickup)
+- **If it's charcoal:** 2 bags + a chimney starter on the Friday-evening store run (or Thursday's errand hour if you'd rather know sooner)
 - **If there's no working grill at all:** the ribeyes **reverse-sear in the house oven** — 250°F until they're 10° shy, then a screaming cast-iron sear in batches. Worse steak, but not a lost night, and it needs nothing you can't buy at Smith's
 - Fold the call into the same one as the Ciolino sleeping-surface and check-in questions — one call to RMR covers all three
 
@@ -191,19 +190,20 @@ Worth knowing, because it changes what you carry and what you wear:
 - **Saints kicks at 11 AM MT** — that's a *lunch*, not a dinner. Steak night on Sunday realistically means **grilling at night**, not during the game; grilling during the game means an 11 AM ribeye
 - It **cancels the Dornan's dinner default** (the Teton-view deck, one of the trip's better meals) — or demotes Dornan's to Sunday lunch, which collides with the tram/Corbet's afternoon plan
 - Saturday then needs a replacement dinner after Yellowstone — realistically the house off grocery stock, or a Jackson sit-down (Gun Barrel) that would need a 13-top reservation
-- Steaks bought Thursday sit one extra day — fine refrigerated, but don't freeze bone-in ribeyes for it
+- Steaks bought Friday evening sit one extra day — fine refrigerated, but don't freeze bone-in ribeyes for it
+- ⚠️ **The Saturday fallback got thinner on 9/9.** Friday's house dinner is gone, so there are no leftovers and no one-pot ingredients on the list — "Saturday drops to the house off grocery stock" now means the steak sides plus sandwich makings, or a second walk-in dinner in town. **That makes Saturday the firmer answer, not just the default one**
 
 **Decision:** fold into the **Sep 10 grocery/butcher call** with Psilos. **Default: it stays Saturday** — nobody has to do anything for that to happen.
 
 **If it does move to Sunday, the two knock-on slots already have answers** so the switch can't leave a hole:
-- **Saturday dinner → the house, off grocery stock** (Friday's leftovers, pasta, or the sides that were already bought for the steaks). No reservation, no 13-top, nobody driving back into town after a 6:15 AM–3:50 PM Yellowstone day. Gun Barrel is the upgrade *only* if someone books a 13-top in advance
+- **Saturday dinner → the house, off grocery stock** — the sides bought for the steaks plus the sandwich line, since there are no Friday leftovers any more. No reservation, no 13-top, nobody driving back into town after a 6:15 AM–3:50 PM Yellowstone day. Gun Barrel is the upgrade *only* if someone books a 13-top in advance
 - **Sunday dinner → the Dornan's default is void**, and the ribeyes are that night's dinner instead. Don't try to keep both
 
 ## Ribeye Night — the grocery side (night-agnostic)
 
 - **Steaks: start at Albertsons** — local read (Austin's BIL) is that they're usually the one carrying **Prime**. Fall back to **Smith's** or **Jackson Whole Grocer**. *(Jackson has no Whole Foods.)* **Call the Albertsons butcher first.**
-- **Owner: Chris Psilos** — locks the butcher order and the buy vs. pre-stock method
-- Buy groceries **Thursday on arrival** so you're not scrambling Saturday after Yellowstone
+- **Owner: Chris Psilos** — ✅ **method decided 9/9:** a **delivery landing 4 PM Thursday** for the bulk, and **the steaks bought in person Friday evening** rather than left to a delivery app's shelf stock
+- **Buy them Friday evening, not Saturday** — a ~24-hour refrigerated hold is fine; a post-Yellowstone butcher run at 4 PM Saturday is not
 - **Grill captain — default: Psilos.** He owns the meat and has to be in the kitchen anyway; anybody takes the tongs off him by saying so out loud
 - **Plan on two batches.** 13 × 24 oz bone-in won't fit one home grate — cook in two rounds and rest batch one in a 200°F oven, or everybody eats late and unevenly
 - **Sides:** Grab whatever at the grocery store — keep it simple
@@ -271,7 +271,7 @@ Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Ja
 
 ## Dinner defaults — decided
 
-- **Friday — the house ✅ locked.** After a dawn-to-dusk van tour + rafting day it's a low-key house dinner off the grocery stock. No booking, nothing to scramble for.
+- **Friday — out (changed 9/9).** No house dinner is being shopped for. **Default: Sidewinders**, in the boathouse's own lot; Mangy Moose is the no-drive fallback. See *Friday Dinner* above.
 - ⚠️ **Sunday dinner is contingent on the steak-night call above** — if the ribeyes move to Sunday, this default is void and **Saturday drops to the house off grocery stock** (see *Steak Night*). Both branches have a dinner; neither needs a booking.
 - **Sunday — early Dornan's (default), ~5 PM.** Pizza + the Teton view to close the last full day; **backup: the house.** ✅ **Hours confirmed: 11:30 AM–7 PM daily, year-round** — the old "will they even be open in the fall" question is closed. Monday's 11:47 AM flight wants a reasonable night, and a 5 PM sitting gets everyone home by 7:15.
   - ⚠️ **Budget ~35 min each way** — the Moose-Wilson shortcut is closed until Nov 15, so leave the Village by 4:30.
@@ -279,41 +279,17 @@ Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Ja
 
 > **Cash:** a couple of these (Pica's, Nora's) are cash-only, and Friday's guide tips want cash too — hit an ATM.
 
-## Grocery Run (Thursday arrival)
+## Groceries — method decided (9/9)
 
-> 📋 **The full quantified list lives in [`grocery-list.md`](./grocery-list.md)** — every item with amounts for 13, split by store section, with the two Friday-dinner modules, a cost estimate (~$100/person), and the butcher script. The summary below is the shape of it; that file is what you actually shop from.
+> 📋 **The full quantified list lives in [`grocery-list.md`](./grocery-list.md)** — every item with amounts for 13, split by store section, with what's on Psilos's order and what still has to be added, a cost estimate (~$92/person), and the butcher script. That file is what you actually shop from.
 
-**Owner: Chris Psilos.** Hit **Smith's (Kroger)** or **Albertsons** Thursday when you land. Get:
-- [ ] 13 ribeyes (24 oz bone-in — call ahead if the store is small)
-- [ ] Grill sides (potatoes, corn, salad, whatever)
-- [ ] Breakfast food for Friday pre-rafting (coffee, pastries, easy stuff)
-- [ ] Breakfast burritos to stash for the Sat/Sun early starts (or pick up a batch Friday — see below)
-- [ ] Drinks / cooler supplies for the parks
-- [ ] Snacks for Yellowstone on Saturday
-- [ ] **Saturday cooler lunch** — sandwich makings (or count on Friday's fajita leftovers if that's the menu); the in-park option is a 45-min hole on the tightest day
-- [ ] Ice (4–6 bags, replenish daily), Solo cups, paper plates/napkins/towels, trash bags, heavy foil, dish soap, ziplocs
-- [ ] Coffee + filters/creamer/sugar — 13 guys, 4 mornings, more than you think
-- [ ] Sunday game-day spread for the 11 AM kickoff (wings, sausage, chips/dip) — it's a brunch kickoff, not a dinner, so keep it light
-- [ ] Drinks for the two house nights (Sat + Sun) — ~6 cases beer, 2 handles whiskey, mixers, seltzer (Thu is at bars, Fri you're wiped)
+**Owner: Chris Psilos.** Two runs, and that's the whole plan:
 
----
+1. 🚚 **A delivery landing at the house 4:00 PM Thursday** — beer, water, coffee, ~40 granola/protein bars, fruit, chips and dips, frozen breakfast sandwiches, late-night food, trash bags. ⚠️ **4 PM is check-in**, so somebody has to be at the door, and **a delivery substitutes** — check it against the list
+2. 🚗 **An in-person store run Friday evening**, on the way home from the boathouse: **the 13 ribeyes at the Albertsons butcher counter** (pre-ordered), the **burrito batch**, **ice**, the **TP restock**, and anything the delivery got wrong
 
-## Grocery Delivery Options
+⚠️ **The order as written doesn't feed the house.** Sandwich makings for two cooler lunches, the steak sides and rub, the Sunday game spread, toilet paper, milk, paper plates and cups all need adding before it's submitted — the gap table is in [`grocery-list.md`](./grocery-list.md).
 
-There's no full-size grocery in Teton Village, so the alternative to driving into Jackson is delivery. For **13 guys**, the smart play is a **hybrid**: pre-stock the bulk so the house is loaded on arrival, call the butcher to lock the ribeyes, and keep an app on standby for mid-trip restocks.
-
-**Tier 1 — Pre-arrival stocking (recommended for the group)**
-Shoppers fill the fridge *before you walk in*. With **check-in confirmed at 4:00 PM**, this buys back the 3:00–4:00 errand hour and gets 13 guys to the house early instead of standing in a checkout line. **Still the recommended play** — it just isn't load-bearing any more now that the hour exists.
-- **Jackson Hole Grocery Delivery (Snap Pea)** — built for vacation rentals; works with local property managers to stock before arrival; curated "vacation-ready" packages to speed up the list.
-- **Mountains of Groceries** — full personal-shopper service. Pricing: **$45/delivery + 30% of the food bill + 8% processing fee + sales tax** (the 30% adds up on a 13-person haul — price it first).
-- **RMR concierge** — our property manager (Rendezvous Mountain Rentals). No published grocery service, but they handle pre-arrival coordination and paid add-ons; a manager letting a shopper in early is exactly how pre-stock works. Ask directly: **(307) 739-9050 / lodging@rmrentals.com**.
-
-**Tier 2 — Same-day app delivery (flexibility / restocks)**
-- **Instacart** delivers to Teton Village from **Smith's** and **Albertsons** — as fast as ~1 hr, windows ~9 AM–midnight, fees from $3.99 on $35+. Great for drinks, sides, snacks, and a Saturday/Sunday restock without anyone leaving the house.
-
-**Tier 3 — In-person (still the move for the steaks)**
-- ⚠️ Delivery apps pull from shelf stock, so **13 × 24 oz bone-in ribeyes is risky to order via Instacart** — you can't guarantee a butcher cuts that volume. **Call the Albertsons butcher counter ahead**, pick the steaks up in person (or have them set aside), and let delivery handle the bulky, low-risk stuff.
-
-> **Bottom line — Psilos owns the call:** pre-order a pre-stock (Snap Pea or Mountains of Groceries) for bulk + drinks, call the butcher to lock the ribeyes, keep Instacart as the mid-trip restock button.
->
-> 🆕 **Thursday now has a real grocery block — 3:00–4:00 PM.** The closed gondola freed the hour, and **bear spray moved off this run entirely** (it's a rental at the JAC kiosk now — see [`/logistics`](../logistics/logistics.md#safety--emergency)). So the pre-stock is no longer *required* to make Thursday work; it's just the better play. If you pre-stock, that hour shrinks to ice and drinks and everyone gets to the house early.
+- **Instacart** is the mid-trip restock button — Teton Village delivery from Smith's or Albertsons, ~1 hr, fees from $3.99 on $35+. There's no full-size grocery in the Village
+- ⚠️ **Delivery apps pull from shelf stock**, which is exactly why the steaks are the one line that stays a human at a counter
+- 🆕 **Thursday's 3:00–4:00 errand hour is no longer a grocery run.** It's slack now — and the only thing worth spending it on is ice, since a 4 PM delivery handles that badly
