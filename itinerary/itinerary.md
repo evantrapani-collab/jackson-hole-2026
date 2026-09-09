@@ -79,7 +79,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
   - **No alcohol on the van or boat**
   - ☎️ **JHWW: 307-733-1007** — the day-of number if anything slips
 - **Evening — dinner is OUT** 🆕 *(changed 9/9 — Psilos is shopping for two nights out, so there's no house dinner on the list)*. ✅ **Default: Sidewinders**, in the same lot the SUVs have been in all day — walk out of the boathouse and in the door. Mangy Moose (walkable from the house) is the no-drive fallback. **Call ahead that afternoon and say 13 are coming** — no reservations, but it's the difference between two tables and a wait
-- **~5:45 PM — the errand run, on the way home.** One trip, four jobs: **the 13 ribeyes** at the Albertsons butcher (pre-ordered), the **breakfast-burrito batch** (~18–20, called in by 9/16 — 2–3 get held for Monday), **ice**, and anything Thursday's delivery substituted or dropped
+- **~5:45 PM — the errand run, on the way home.** One trip, three jobs: **the 13 ribeyes** at the Albertsons butcher (pre-ordered), **ice**, and anything Thursday's delivery substituted or dropped. 🆕 **The burritos came off this run on 9/9** — Creekside's deli closes at 5 PM and the boat lands 4:30, so they ride Saturday's 6:35 AM stop with the lunch subs
 - **Tip the guides:** **two separate outfits**, so that's two tips — bring cash (~$20–40/person across both)
 
 ---
@@ -99,7 +99,8 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 > A 7:00 AM departure on those numbers gets you home **~4:50** — 40 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. **So: leave at 6:15, and hold a hard turnaround.**
 
 - **Leave at 6:15 AM** — not 7:00. It's ~1 hr 30 to the South Entrance from Teton Village, plus a few minutes at the gate
-  - *Grab-and-go breakfast:* the **house stash** — frozen breakfast sandwiches off Thursday's delivery, or the burrito batch if the order got called in. No time to cook, and nothing is open
+  - *Grab-and-go breakfast:* the **house stash** — frozen breakfast sandwiches off Thursday's delivery. Eat them in the car; the Creekside stop is for lunch, not breakfast
+  - 🥪 **~6:35 — the one stop: Creekside Market, 545 N Cache.** 🆕 *(added 9/9)* **13 pre-ordered subs for lunch + the burrito batch.** It is **not a detour** — 545 N Cache *is* US-26/89/191, the road north — and the **deli opens 6:00 AM**. ~10 minutes: South Entrance ~7:55, Fairy Falls ~9:15, still inside the parking window. ⏱️ **Leave 6:05 if you want the original clock back.** ⚠️ **Don't wait past ~6:55.** ☎️ (307) 733-7926 — confirm the pickup time when you order
   - 🦌 **The first hour is in the dark, through Grand Teton, during the elk rut.** Sunrise is ~7:07. Elk, bison and deer are on US-26/89/191 at that hour and they are the actual hazard on this drive — not the schedule. Whoever's driving stays off the gas
 - ❄️🔥 **Check one road before you roll: Craig Pass.** The West Thumb → Old Faithful segment climbs to **8,262 ft**, and it's the first road in the park to shut when snow arrives — NPS closes it temporarily while Old Faithful stays open. **Our out-and-back crosses it twice**, so a mid-morning closure strands us on the far side with only the long way round the figure-eight, which ends the day. ✅ **Projected open through Oct 31** *(re-checked 9/8)*, and September averages just **1.3 inches** of snow — so this is unlikely, but it's free to check and it's the one thing that can break this day in half.
   - **How:** Yellowstone road status at **nps.gov/yell** or @YellowstoneNPS — check Friday night *and* again at 6 AM before leaving
@@ -112,19 +113,20 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
      - ⚠️ **That lot is small and fills early** — before 9 AM in peak season. Mid-September is lighter, but this is the reason we leave at 6:15: arriving ~9:15 means parking; arriving at 10:30 means circling
   2. **Skip the boardwalk right at Grand Prismatic** — Jeremy's tip, and it's the one that buys us the day: *if you do the overlook, you don't need to go close to it.* That's a whole stop's worth of time back on the tightest day of the trip
   3. **Backtrack to Old Faithful** and give it ~2 hours — check the predicted eruption time (posted at the visitor center; the NPS app needs a signal and you'll only have one in the developed area) so 13 guys aren't standing around, and walk the Upper Geyser Basin loop while you wait
-  4. **West Thumb Geyser Basin** on the way out — geysers right on the lake, quick, and it's where lunch happens. **Leave here by 2:00 PM, whatever's left unseen**
+  4. **West Thumb Geyser Basin** on the way out — geysers right on the lake, quick, and it's where the Creekside subs get eaten. **Leave here by 2:00 PM, whatever's left unseen**
 
 **The clock, with the real numbers:**
 
 | Time | Where |
 |---|---|
 | 6:15 AM | Roll out of the house, breakfast in hand |
-| ~7:45 | **Yellowstone South Entrance** — pay here ($35/vehicle, and it's a **7-day** pass, see below) |
-| ~9:05 | **Fairy Falls trailhead** (past Old Faithful, ~10 min north) |
-| 9:05–10:15 | **Grand Prismatic Overlook** — 1.6 mi round trip on foot |
+| ~6:35–6:45 | 🥪 **Creekside Market, 545 N Cache** — 13 pre-ordered subs + the burritos. On the route, deli opens 6:00 |
+| ~7:55 | **Yellowstone South Entrance** — pay here ($35/vehicle, and it's a **7-day** pass, see below) |
+| ~9:15 | **Fairy Falls trailhead** (past Old Faithful, ~10 min north) |
+| 9:15–10:25 | **Grand Prismatic Overlook** — 1.6 mi round trip on foot |
 | ~10:30 | **Old Faithful** |
 | 10:30–12:30 | Old Faithful eruption + Upper Geyser Basin loop |
-| ~1:10 PM | **West Thumb Geyser Basin** — cooler lunch at the picnic tables |
+| ~1:10 PM | **West Thumb Geyser Basin** — the Creekside subs, at the picnic tables |
 | **2:00 PM** | 🕐 **Hard departure.** No exceptions |
 | ~3:50 | Back at the house |
 | ~4:15 | Grill lit — 13 ribeyes is **two batches** |
@@ -133,7 +135,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 > 💳 **Keep the entrance receipt on the dash.** The $35 is good for **7 days**, so the Grand Teton fee you pay at the Moran station on the way north Saturday morning also covers **Sunday's wildlife drive**. Don't pay twice.
 - 🎧 **Offline audio tour:** the **Shaka Guide "Yellowstone National Park Tour"** app narrates this exact South-Entrance loop and **works offline once downloaded** — which matters, because there's no cell service past the gate. Download it before Saturday.
 - 🚫 **What Jeremy recommends that we can't fit:** Emerald Spring (Norris Basin) and the **Yellowstone canyon waterfalls** — both are genuinely "can't miss," and both are well past our turnaround. See `/activities` for the drive-time math; they're next-trip stops, not Saturday stops.
-- *Lunch:* **cooler lunch packed Friday night**, eaten at the **West Thumb picnic tables** on the way out. Don't put 13 guys in the Old Faithful food line at noon — it's 45 minutes you don't have. See `/dining`
+- *Lunch:* **the Creekside subs**, eaten at the **West Thumb picnic tables** on the way out. Don't put 13 guys in the Old Faithful food line at noon — it's 45 minutes you don't have. See `/dining`
 - **Home ~3:50 PM** if you hold the 2:00 turnaround — enough runway to shower, light the grill and eat before kickoff, and not much more
 - **5:30 PM MT — LSU vs. Ole Miss** (6:30 CT, **ABC**) — Lane Kiffin's return to Oxford
   - Back at the house; **grill 24 oz bone-in ribeyes**

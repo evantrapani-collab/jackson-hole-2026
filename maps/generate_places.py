@@ -71,7 +71,7 @@ PLACES = [
     ("The Verge", "Food & Drink", "Thu night alt", "The Verge, Jackson, WY", False, "Liquor in front, dive bar in back (AJAX rec). Bar-crawl flavor, not a dinner."),
     ("Jackson Whole Grocer", "Lodging & Logistics", "Fri PM", "Jackson Whole Grocer, Jackson, WY", False, "Third grocery/butcher option if Albertsons and Smith's are out of Prime."),
     ("D.O.G.", "Food & Drink", "Burrito stash", "D.O.G., Jackson, WY", False, "Friend's burrito pick; bulk-order option for the early-start stash."),
-    ("Creekside Market & Deli", "Food & Drink", "Sun / cooler", "Creekside Market and Deli, Jackson, WY", False, "Sandwiches before heading into the parks."),
+    ("Creekside Market & Deli", "Food & Drink", "Sat 6:35 AM", "Creekside Market and Deli, 545 N Cache St, Jackson, WY 83001", False, "SATURDAY LUNCH + the burrito batch, pre-ordered and grabbed on the way north. 545 N Cache IS US-26/89/191, so it is on the route, not a detour. DELI HOURS 6 AM-5 PM (the 8 PM on Google is the liquor store) - which is why pickup is Saturday morning, not the Friday-evening run. Order: 307-733-7926 / deli@creeksidejh.com. ~10-min stop."),
     ("Pearl Street Market (sloshies)", "Food & Drink", "Thu", "Pearl Street Market, Jackson, WY", False, "Friend's sloshie favorite; downtown quick hit."),
     ("Merry Piglets", "Food & Drink", "Backup", "Merry Piglets, Jackson, WY", False, "Tex-Mex near the square; casual backup."),
     ("Hand Fire Pizza", "Food & Drink", "Backup", "Hand Fire Pizza, Jackson, WY", False, "Pizza in the old theater; casual backup + burrito vendor."),
