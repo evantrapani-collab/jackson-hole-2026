@@ -40,7 +40,7 @@
 | Category | Estimate | Notes |
 |---|---|---|
 | Flights | varies | Each person's own booking |
-| Food & Drink | $150–250 total | Bars Thu night, meals, drinks |
+| Food & Drink | $150–250 total | Bars Thu night, **dinner out Friday too** (the house dinner moved out 9/9, ~$45), the ~$92 grocery run, Sunday Dornan's |
 | Ribeyes (Sat grill) | $50–80 | 24 oz bone-in + sides; split the grocery run |
 | Guide tips (Fri) | $20–40 | Van tour **+** rafting guides; bring cash |
 | **Tram ticket (Sun)** | **~$55** | Sightseeing ticket to Corbet's Cabin; ⏰ **tickets were due 9/7, still unbought** — buyable up to Sunday. Tram runs May 16–Oct 4, 8:30–5. Skippable — if all 13 ride, that's ~$715 |
@@ -76,7 +76,7 @@
 | Flights | American Airlines | — | varies | Booked ✅ |
 | Rental SUV #1 (Explorer) | Jason Hardie | — | — | Booked ✅ |
 | Rental SUV #2 (Expedition) | Joe Schick | — | — | Booked ✅ |
-| Groceries / Ribeyes | Smith's or Albertsons, Jackson (Owner: Psilos) | — | ~$100/person | Open — method call pending (in-person vs. pre-stock). **Thursday now has a 3–4 PM block for it** (the gondola closure freed the hour) |
+| Groceries / Ribeyes | Albertsons, Jackson (Owner: Psilos) | — | ~$92/person | ✅ **Method decided 9/9** — delivery lands 4 PM Thursday; the 13 ribeyes are bought in person Friday evening. ⚠️ **Friday dinner moved out of the house: ~$30/person net** (a ~$45 restaurant dinner against ~$15 of groceries) |
 | Park entry | NPS, at the gate | — | ~$140 total | Default — pay at the gates; no pass being bought. Each $35 is good 7 days |
 | **Bear spray (2 canisters)** | **Bear Aware kiosk, JAC baggage claim** | — | **~$56 total** | 🆕 **Rental** — pick up Thursday at carousel #3, drop in the same box Monday. Capped at $28/canister |
 | **Tram tickets (Sun)** | Jacksonhole.com, online | — | ~$55/person | ⏰ **Overdue** — was due 9/7, unbought. Tram confirmed running May 16 – Oct 4, so this is late, not lost |

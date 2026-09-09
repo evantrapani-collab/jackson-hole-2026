@@ -22,7 +22,7 @@
 
 ### If the DFW connection blows up — misconnect playbook
 
-> **Most of the crew — including Hardie and Schick, who hold the two rental reservations — is on the group MSY→DFW→JAC itinerary. A few guys booked separately (names TBD).** For anyone on the group ticket, a missed connection means **AA rebooks free and automatically** — the problem isn't cost, it's finding seats to a small mountain airport on short notice. **Anyone on a separate booking rebooks himself and has no group protection.** The thing to protect is **Friday's 8 AM van tour** (private van + boat, refund window closed by then), not Thursday — nothing on Thursday is booked that the grocery pre-stock fallback can't absorb.
+> **Most of the crew — including Hardie and Schick, who hold the two rental reservations — is on the group MSY→DFW→JAC itinerary. A few guys booked separately (names TBD).** For anyone on the group ticket, a missed connection means **AA rebooks free and automatically** — the problem isn't cost, it's finding seats to a small mountain airport on short notice. **Anyone on a separate booking rebooks himself and has no group protection.** The thing to protect is **Friday's 8 AM van tour** (private van + boat, refund window closed by then), not Thursday — nothing on Thursday is booked that the 4 PM grocery delivery can't absorb.
 
 **Tier 0 — prevention (costs nothing)**
 - Everyone loads the trip in the **AA app** with push alerts on; check the inbound aircraft Wednesday night
@@ -32,7 +32,7 @@
 **Tier 1 — missed it; catch the same-day evening nonstop**
 - ✅ **The backup flight exists.** AA runs **2 nonstops a day DFW→JAC, 14 a week, year-round** — the old worry that post-Labor-Day schedules thin out doesn't apply. The second one is the evening departure (~5:50 PM, lands ~7:45). **Confirm the exact time in the app by 9/14**; the structural risk is closed, but *2 a day* also means the evening flight is the last chance, and 13 seats on it is a lot
 - The race is seats, not rebooking: everyone on the group ticket rebooks **simultaneously in the AA app** while one guy calls AA and another hits the gate desk. Take whatever's there; split across flights if needed
-- **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations and are on the group itinerary, so they misconnect together. An advance party grabs the SUVs, checks into the house, and triggers the grocery **delivery** fallback (see `/dining`)
+- **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations and are on the group itinerary, so they misconnect together. An advance party grabs the SUVs, checks into the house, and **meets the 4 PM grocery delivery** (see `/dining`)
 - Cost of this outcome: the Thursday midday window and most of the bar crawl. Friday untouched. Bear spray moves to Friday evening
 - Side effect: **beds are picked on arrival, and Ciolino has the floor spot by design** — don't let a late-landing guy get bumped onto the couch on top of him; one floor spot is the plan, not two
 
