@@ -14,7 +14,7 @@
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
 | Thursday bars | Mangy Moose | Thu night | Walkable from the house; live music — last stop |
 | Friday lunch | **Cutty's Bar & Grill** 🆕 | Friday | **1140 W WY-22 — ~3 min from the boathouse, and it's in Jackson, not Wilson.** Opens **11:30 AM**; cheesesteaks and pizza, food that moves. ⚠️ **Call ahead — (307) 201-1079, 13 heads.** Sidewinders next door is the fallback if the safari van runs late |
-| Saturday lunch | **Cooler lunch, packed Friday night** ⚠️ | Saturday | In-park; eat at West Thumb on the way back — see *Saturday Lunch* below |
+| Saturday lunch | **Creekside subs, grabbed on the way north** 🆕 | Saturday | **545 N Cache — on the route, deli opens 6 AM.** Pre-order 13; ~10-min stop at ~6:35. Eat at West Thumb — see *Saturday Lunch* below |
 | Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 off the breakfast stash — see *Monday Breakfast* below |
 | Friday dinner | **Out** 🆕 | Friday | ✅ **Changed 9/9** — Psilos is shopping for two nights out, not a house dinner. **Default: Sidewinders**, same lot as the boathouse — see *Friday Dinner* below |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose. ✅ **Hours confirmed: 11:30 AM–7 PM daily, year-round.** ⚠️ **~35 min each way now** (Moose-Wilson is closed) — leave the Village by 4:30. Backup is the house |
@@ -63,23 +63,38 @@
 
 ## Breakfast for the Early Starts — house stash
 
-The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday 6:00 AM** sunrise wildlife drive) don't leave time to cook or sit down, and **nothing in Jackson is open before either.** The stash has to be in the fridge before Saturday's alarm.
+The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday 6:00 AM** sunrise wildlife drive) don't leave time to cook or sit down. 🔧 **Correction (9/9): "nothing in Jackson is open before either" was wrong** — **Creekside's deli opens 6:00 AM**, and the repo already knew the **Cowboy Coffee drive-thru opens 6:00** two sections up. Sunday's 6:00 departure still beats every door in town; **Saturday's 6:15 does not.** That's the whole reason the Creekside stop below exists.
 
-- ✅ **The floor is set:** **frozen breakfast sandwiches are on the 9/9 delivery order** — both mornings eat even if nobody does another thing. Foil in the oven or 90 seconds in the microwave; keep hot sauce next to them
-- 🌯 **The upgrade — a vendor burrito batch:** Cowboy Coffee, Pearl Street Bagels, Picnic, D.O.G. ("miss these burritos" — a friend's rec) or Hand Fire all do them; **~1.5 per guy ≈ 18–20** for 13, ~$200
-- **When:** ⚠️ **call the order in by 9/16** *(Owner: **Psilos**)*. Twenty burritos is a special order, not a walk-up, and the call can't happen from the raft. **Pick up Friday evening** on the same run as the steaks
+- ✅ **The floor is set:** **frozen breakfast sandwiches are on the 9/9 delivery order** — both mornings eat even if nobody does another thing. Foil in the oven or 90 seconds in the microwave; keep hot sauce next to them. **Saturday still eats these at 6:15**, before the stop
+- 🌯 **The upgrade — a vendor burrito batch:** 🆕 **Creekside Market is the vendor.** ~**1.5 per guy ≈ 18–20** for 13, ~$200 — for **Sunday's 6:00 AM** wildlife drive and the Monday hold-back. *(Pearl Street Bagels, Picnic, D.O.G. and Hand Fire stay on the board if Creekside can't take the volume.)*
+- **When:** ⚠️ **call it in by 9/16** *(Owner: **Psilos**)* — **(307) 733-7926 / deli@creeksidejh.com**, phone or online. Twenty burritos is a special order, not a walk-up. 🆕 **Pickup moved to Saturday ~6:35 AM**, on the same stop as the 13 lunch subs — **not** the Friday-evening run: **the deli closes at 5 PM** and the boat doesn't land until 4:30
 - **Delivery caveat:** restaurant delivery (DoorDash/Uber Eats) into **Teton Village** is thin — call ahead and pick up
 - **Hold 2–3 back for Monday**, whichever form the stash takes
 
-## Saturday Lunch — pack it
+## Saturday Lunch — Creekside subs, on the way out
 
 > The one meal slot on this trip that never got an answer. Saturday is the tightest day: out at **6:15 AM**, home ~3:50 PM, with **~5 hours** of driving inside that window (the old docs said 3 — see the corrected clock in [`/itinerary`](../itinerary/itinerary.md)). Lunch has to cost 30 minutes, not 60.
 
 **Why not eat in the park:** the Old Faithful complex is the only real food between the South Entrance and the turnaround. At noon, in a group of 13, that's a line, a scramble for seats, and easily 45 minutes — spent at the exact hour you should be moving toward Grand Prismatic. It also costs park-concession prices for cafeteria food.
 
-**The plan: a cooler lunch, built Friday night.**
-- ⚠️ **It comes off the deli line, not off leftovers.** Friday's dinner moved out of the house on 9/9, so there is nothing to wrap — **both** cooler lunches (Friday at the boathouse, Saturday at West Thumb) are built from the sandwich makings on the delivery order. That line is the whole plan; check it landed
-- **Or grab-and-go:** **Creekside Market** in Jackson does exactly this (sandwiches for the park) — but **nothing in Jackson opens before a 6:15 AM roll-out**, so this is a **Friday-afternoon pickup** alongside the burritos, not a Saturday-morning stop. Don't plan a detour you can't make
+**The plan: 13 subs from Creekside, picked up on the way north.** 🆕 *(decided 9/9 — Austin's tip)*
+
+🔧 **Two things this repo had wrong, both in one line.** It said Creekside was a *"Friday-afternoon pickup, not a Saturday-morning stop — don't plan a detour you can't make."* Neither half holds:
+1. **It isn't a detour.** **545 N Cache St *is* US-26/89/191** — the road we take north out of Jackson toward the South Entrance. We drive past the door.
+2. **It isn't closed.** The **deli opens 6:00 AM**, and we roll at 6:15. *(The **store** shows "closes 8 PM" on Google — that's the liquor side. **The deli closes at 5 PM**, which is what actually kills the Friday-evening pickup: the boat lands 4:30 and the errand run is ~5:45.)*
+
+| | |
+|---|---|
+| **Where** | **Creekside Market & Deli, 545 N Cache St** — on the route, ~20 min from the house |
+| **Deli hours** | **6:00 AM – 5:00 PM daily** *(liquor store to 8 PM — don't read that as the deli)* |
+| **Order** | **(307) 733-7926 / deli@creeksidejh.com** — phone or online, they do group catering |
+| **The stop** | **~6:35 arrive, ~6:45 roll.** Austin's guide did it in 5 minutes; call it 10 for 13 men |
+| **Cost to the day** | **~10 min.** South Entrance ~7:55, Fairy Falls ~9:15 — still inside the *"arriving ~9:15 means parking"* window this plan is built on. ⏱️ **Want it back? Leave 6:05.** The **2:00 PM turnaround does not move either way** |
+
+- 🍽️ **One order, two jobs** — the same call gets the **13 subs** and the **breakfast-burrito batch**. Two open items, one phone call
+- ⚠️ **Confirm the pickup time and get a name on the order.** 13 subs plus 20 burritos ready at 6:35 AM is a real ask, and this is the morning with the least slack. **Don't wait past ~6:55** — rolling late costs park time
+- ✅ **Default if nobody places the order:** the **Friday-evening Albertsons run** buys deli meat, cheese and bread, and Saturday's lunch gets built Friday night, the way it was. Same store run that's already happening — so the zero-action version still eats
+- 💵 **~$15/man for a fresh sub, against ~$50 of deli, cheese and bread that comes off the grocery order** — net ~+$11/man, and nobody builds thirteen sandwiches at 10 PM
 - **Where to eat it:** **West Thumb** — it's the last stop on the way back, it's on Yellowstone Lake, and there are picnic tables. Best lunch view of the trip and it costs nothing. 🕐 **Eat fast: wheels roll south at 2:00 PM sharp** — that's the number the 5:30 kickoff depends on
 - **Cooler goes in the Explorer** — it's already on the packing list; ice is already on the grocery list
 - ⚠️ **Store food properly in Yellowstone** — it's bear country and food storage is regulated. Cooler stays in the vehicle, never on a picnic table unattended
@@ -105,12 +120,12 @@ The two killer wake-ups (**Saturday 6:15 AM** roll-out for Yellowstone, **Sunday
 |---|---|---|
 | **Cutty's Bar & Grill** 🆕 | ~3 min each way | ✅ **The plan.** A real lunch, a bar and 13 seats for ~6 minutes of driving. Opens **11:30**, so it's serving before the van is back |
 | **Sidewinders** | walk next door | ✅ **The fallback, and a good one.** Same complex as the boathouse, opens 11:30, 30+ TVs. **This is where you go if the van isn't back by ~12:10** — zero drive, zero debate |
-| **Cooler sandwiches** | none | The backstop that needs no venue. The deli line is on the grocery order for Saturday anyway, so a few extra ride in the SUV for free |
+| **Cooler sandwiches** | none | ⚠️ **No longer stocked** — the deli line came off the grocery order on 9/9 once Saturday's lunch moved to Creekside. Sidewinders is the fallback now |
 
 - ⏱️ **The constraint is no longer the drive — it's the 12:30 rafting check-in.** Van back ~12:00 → at Cutty's ~12:05 → out by ~12:35 → boathouse ~12:40 → on the water 1:00. It works, with ~10 minutes of slack, not 30
 - ☎️ **So call ahead: (307) 201-1079** — 13 coming off a van at noon, put the order in. They don't take reservations, but they do work with groups by phone. **This is the one action that turns a squeeze into a lunch**
-- ⚠️ **If the safari runs long, Cutty's is off.** Good wildlife runs long. **Not back by ~12:10 → Sidewinders next door**, and nobody relitigates it in the parking lot
-- 🆕 **This deletes a Thursday-night chore** — nobody builds thirteen sandwiches after the bar crawl. Saturday's cooler lunch still gets built Friday night
+- ⚠️ **If the safari runs long, Cutty's is off.** Good wildlife runs long. **Not back by ~12:10 → Sidewinders next door**, and nobody relitigates it in the parking lot. *(There is no cooler backstop any more — the deli line came off the order on 9/9.)*
+- 🆕 **This deletes a Thursday-night chore** — nobody builds thirteen sandwiches after the bar crawl. And since 9/9 Saturday's lunch is a **pre-ordered Creekside sub** too, so no night gets a sandwich shift
 - 🍺 **Both outfitters ban alcohol**, so this hour is Friday's only drinking window — and it's the hour before a Class 2–3 river. Cutty's is a bar; act accordingly
 - 🚻 **Change at the shop, not the restaurant** — JHWW has restrooms and changing rooms at 945 W Broadway. Eat in street clothes, come back, change
 - 💵 **~$20–25/man, ~$260–325 for 13** — and it takes ~$25 of deli and bread back off the grocery order
@@ -164,7 +179,7 @@ Worth knowing, because it changes what you carry and what you wear:
 - **In-town alternates, on the way home:** Snake River Brewing, Roadhouse, or **Gun Barrel** if the crew wants the western steakhouse — all walk-in, all *"go early and expect two tables"*
 - **No-drive fallback: Mangy Moose**, Teton Village, walkable from the house — the answer if everyone wants to shower first
 - ⚠️ **This is the trip's only unbooked dinner for 13 on a Friday night.** Whoever's driving should call ahead from the takeout that afternoon and say a party of 13 is coming — it costs nothing and it's the difference between two tables and a 45-minute wait
-- 🚗 **The Friday-evening errand run happens on this trip anyway** — steaks at the Albertsons butcher, the burrito batch, ice and the TP restock. Eat first, shop second, drive home once
+- 🚗 **The Friday-evening errand run happens on this trip anyway** — steaks at the Albertsons butcher, ice and the TP restock. *(The burritos came off this run on 9/9 — Creekside's deli shuts at 5 PM.)* Eat first, shop second, drive home once
 
 ## Grill Check — Before Committing to Ribeyes
 
@@ -231,10 +246,10 @@ Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Ja
 | **Roadhouse Brewery** | Thursday-crawl alternate; big enough to seat 13. Great happy hour *(Jeremy)* |
 | **The Verge** | Liquor store in front, dive bar in back *(AJAX)*. Crawl flavor, not a dinner |
 | **Pearl Street sloshie** | Quick downtown hit Thursday, alongside the Jackson Drug shake |
-| **D.O.G. / Hand Fire / Pearl Street Bagels / Picnic** | Breakfast-burrito vendors for the early-start stash |
+| **Pearl Street Bagels / Picnic** | Breakfast-burrito backups — 🆕 **Creekside is the vendor now** (Sat 6:35 pickup, with the subs) |
 | **Merry Piglets** | Casual downtown Tex-Mex backup |
 | **The Bunnery** | Monday pre-flight bite only — it's on the square, the wrong way from the Village to JAC. ⚠️ **Not Friday** (see the coffee section) |
-| **Creekside Market** | Sandwiches for the parks — but a **Friday-afternoon pickup**, since nothing opens before a 6:15 AM Saturday roll-out |
+| **D.O.G. / Hand Fire** | Burrito-vendor backups if Creekside can't take the volume |
 | **Healthy Being** | Smoothies if anyone needs a green reset; not a group stop |
 
 **🥩 Western sit-down — walk-in only now**
@@ -291,9 +306,9 @@ Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Ja
 **Owner: Chris Psilos.** Two runs, and that's the whole plan:
 
 1. 🚚 **A delivery landing at the house 4:00 PM Thursday** — beer, water, coffee, ~40 granola/protein bars, fruit, chips and dips, frozen breakfast sandwiches, late-night food, trash bags. ⚠️ **4 PM is check-in**, so somebody has to be at the door, and **a delivery substitutes** — check it against the list
-2. 🚗 **An in-person store run Friday evening**, on the way home from the boathouse: **the 13 ribeyes at the Albertsons butcher counter** (pre-ordered), the **burrito batch**, **ice**, the **TP restock**, and anything the delivery got wrong
+2. 🚗 **An in-person store run Friday evening**, on the way home from the boathouse: **the 13 ribeyes at the Albertsons butcher counter** (pre-ordered), **ice**, the **TP restock**, and anything the delivery got wrong. 🆕 *(The burritos moved to Saturday's Creekside stop — that deli closes at 5 PM.)*
 
-⚠️ **The order as written doesn't feed the house.** Sandwich makings for Saturday's cooler lunch, the steak sides and rub, the Sunday game spread, toilet paper, milk, paper plates and cups all need adding before it's submitted — the gap table is in [`grocery-list.md`](./grocery-list.md).
+⚠️ **The order as written doesn't feed the house.** The steak sides and rub, the Sunday game spread, toilet paper, milk, paper plates and cups all need adding before it's submitted — the gap table is in [`grocery-list.md`](./grocery-list.md).
 
 - **Instacart** is the mid-trip restock button — Teton Village delivery from Smith's or Albertsons, ~1 hr, fees from $3.99 on $35+. There's no full-size grocery in the Village
 - ⚠️ **Delivery apps pull from shelf stock**, which is exactly why the steaks are the one line that stays a human at a counter
