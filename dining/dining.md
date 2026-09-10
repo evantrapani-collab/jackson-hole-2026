@@ -8,7 +8,7 @@
 | Thursday treat | Jackson Drug | Thu | Huckleberry shake on the town square. Grab it while you're downtown at the brewery, or Sunday afternoon |
 | Friday coffee | **Cowboy Coffee — the drive-thru** 🆕 | Fri AM | **1007 S US-89, opens 6 AM**, ~2 min from the boathouse and on the route in. Two SUVs, two orders, nobody gets out. **Leave the house 6:45** |
 | ~~Friday breakfast~~ | ~~The Bunnery~~ | ~~Fri AM~~ | 🚫 **Cut from Friday** — it's on the square, the wrong direction, and it's a sit-down bakery. Moved to Monday if anyone's running early |
-| Early-start breakfast | **Frozen breakfast sandwiches (house stash)** 🆕 | Sat/Sun AM | ✅ **On Psilos's delivery order (9/9)** — the **6:15 AM** Yellowstone and **6:00 AM** wildlife-drive starts now eat with zero further action. A vendor **burrito batch is the upgrade**, not the floor |
+| Early-start breakfast | **Frozen breakfast sandwiches (house stash)** 🆕 | Sat/Sun AM | ✅ **On the Thursday delivery** — the **6:15 AM** Yellowstone and **6:00 AM** wildlife-drive starts eat with zero further action. A vendor **burrito batch is the upgrade**, not the floor |
 | Thursday bars | Snake River Brewing | Thu night | First stop; craft brewery, great food |
 | Thursday bars | Silver Dollar Bar & Grill | Thu night | Classic western bar; inlaid silver dollar bar top |
 | Thursday bars | Million Dollar Cowboy Bar | Thu night | Saddle bar stools, sawdust floors; the move |
@@ -16,7 +16,7 @@
 | Friday lunch | **Cutty's Bar & Grill** 🆕 | Friday | **1140 W WY-22 — ~3 min from the boathouse, and it's in Jackson, not Wilson.** Opens **11:30 AM**; cheesesteaks and pizza, food that moves. ⚠️ **Call ahead — (307) 201-1079, 13 heads.** Sidewinders next door is the fallback if the safari van runs late |
 | Saturday lunch | **Creekside subs, grabbed on the way north** 🆕 | Saturday | **545 N Cache — on the route, deli opens 6 AM.** Pre-order 13; ~10-min stop at ~6:35. Eat at West Thumb — see *Saturday Lunch* below |
 | Monday breakfast | House — leftovers + coffee | Monday | Out by ~9:45 for the 11:47 flight; hold back 2–3 off the breakfast stash — see *Monday Breakfast* below |
-| Friday dinner | **Out** 🆕 | Friday | ✅ **Changed 9/9** — Psilos is shopping for two nights out, not a house dinner. **Default: Sidewinders**, same lot as the boathouse — see *Friday Dinner* below |
+| Friday dinner | **Out** 🆕 | Friday | ✅ **Changed 9/9** — two nights out, no house dinner. **Default: Sidewinders**, same lot as the boathouse — see *Friday Dinner* below |
 | Sunday dinner | **Dornan's, early (default)** | Sunday | ~5 PM in Moose. ✅ **Hours confirmed: 11:30 AM–7 PM daily, year-round.** ⚠️ **~35 min each way now** (Moose-Wilson is closed) — leave the Village by 4:30. Backup is the house |
 | Saturday dinner | House grill — **steak night (current default)** | Saturday | 24 oz bone-in ribeyes, **bought in person Friday evening** at Albertsons. ⚠️ Under discussion — may move to Sunday, see *Steak Night* below |
 | Saturday game | House | Saturday | LSU/Ole Miss, 5:30 PM MT (6:30 CT, ABC) |
@@ -183,14 +183,12 @@ Worth knowing, because it changes what you carry and what you wear:
 
 ## Grill Check — Before Committing to Ribeyes
 
-> Two ribeye nights (Sat default, maybe Sun) both assume a working grill. Nobody's confirmed the house has one, or that the propane tank is full. A dead tank under 13 raw ribeyes is the single easiest way this trip goes sideways.
+> Two ribeye nights (Sat default, maybe Sun) both assume a working grill, and nobody has laid eyes on it. A dead tank under 13 raw ribeyes is the single easiest way this trip goes sideways — **the Thursday check is what protects the night.**
 
-- [ ] **Drewes asks RMR (307-739-9050)** on the check-in call: what's the grill (gas/charcoal?), and is the propane tank full or does someone need to swap it in Jackson
 - [ ] **Check it yourself Thursday at check-in** — lid up, burner test, heft the tank. This is the one that actually protects the night: Thursday leaves a full day of runway, Saturday at 4 PM leaves none
 - **If the tank's dead:** propane exchange at Smith's or Albertsons in Jackson, ~$25 — a 40-minute round trip Thursday or Friday
 - **If it's charcoal:** 2 bags + a chimney starter on the Friday-evening store run (or Thursday's errand hour if you'd rather know sooner)
 - **If there's no working grill at all:** the ribeyes **reverse-sear in the house oven** — 250°F until they're 10° shy, then a screaming cast-iron sear in batches. Worse steak, but not a lost night, and it needs nothing you can't buy at Smith's
-- Fold the call into the same one as the Ciolino sleeping-surface and check-in questions — one call to RMR covers all three
 
 ## Steak Night — Saturday (default) or Sunday?
 
@@ -301,14 +299,12 @@ Corbet's Cabin (Sun, top of the tram) · Dornan's (Thu lunch + Sun dinner) · Ja
 
 ## Groceries — method decided (9/9)
 
-> 📋 **The full quantified list lives in [`grocery-list.md`](./grocery-list.md)** — every item with amounts for 13, split by store section, with what's on Psilos's order and what still has to be added, a cost estimate (~$92/person), and the butcher script. That file is what you actually shop from.
+> 📋 **The full quantified list lives in [`grocery-list.md`](./grocery-list.md)** — every item with amounts for 13, split by store section, a cost estimate (~$92/person), and the butcher script. That file is what you actually shop from.
 
 **Owner: Chris Psilos.** Two runs, and that's the whole plan:
 
 1. 🚚 **A delivery landing at the house 4:00 PM Thursday** — beer, water, coffee, ~40 granola/protein bars, fruit, chips and dips, frozen breakfast sandwiches, late-night food, trash bags. ⚠️ **4 PM is check-in**, so somebody has to be at the door, and **a delivery substitutes** — check it against the list
 2. 🚗 **An in-person store run Friday evening**, on the way home from the boathouse: **the 13 ribeyes at the Albertsons butcher counter** (pre-ordered), **ice**, the **TP restock**, and anything the delivery got wrong. 🆕 *(The burritos moved to Saturday's Creekside stop — that deli closes at 5 PM.)*
-
-⚠️ **The order as written doesn't feed the house.** The steak sides and rub, the Sunday game spread, toilet paper, milk, paper plates and cups all need adding before it's submitted — the gap table is in [`grocery-list.md`](./grocery-list.md).
 
 - **Instacart** is the mid-trip restock button — Teton Village delivery from Smith's or Albertsons, ~1 hr, fees from $3.99 on $35+. There's no full-size grocery in the Village
 - ⚠️ **Delivery apps pull from shelf stock**, which is exactly why the steaks are the one line that stays a human at a counter

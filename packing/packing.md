@@ -82,11 +82,9 @@ September in Jackson Hole and Yellowstone means wide temperature swings — warm
 ## Documents & Admin
 
 - [ ] Driver's license
-- [ ] National Park pass (America the Beautiful) or plan to buy at entrance
 - [ ] Printed hotel/lodging confirmations (cell service is unreliable)
 - [ ] Activity booking confirmations — **two separate ones for Friday**: Teton Expeditions (8 AM safari) and Jackson Hole Whitewater (1 PM raft), both at 945 W Broadway
-- [ ] **Friday rafting waiver — signed online before you fly.** JHWW requires it from every party member; the confirmation email is forwardable
-- [ ] **Sunday tram ticket** (~$55) — bought online in advance; the tram runs May 16–Oct 4, so Sunday is safely in season
+- [ ] **Cash or a card for the Sunday tram** (~$55) — bought at the window on the day; the tram runs May 16–Oct 4, so Sunday is safely in season
 - [ ] Travel insurance info — **each man decides by 9/16**; it can't be bought after you fly. **Default: nobody buys**
 - [ ] Emergency contacts written down — incl. **St. John's Health, Jackson** (nearest ER)
 - [ ] Cash — Friday guide tips + a couple cash-only spots (Pica's, Nora's)

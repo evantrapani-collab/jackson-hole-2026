@@ -2,7 +2,7 @@
 
 A fixed scorecard for judging whether this trip plan is actually ready, not just long. Re-grade whenever plan content changes materially (a booking lands, a constraint moves, an open item closes or rots past its deadline).
 
-**Current grade: 100/100** *(re-graded 2026-09-09 — found at **93**, restored to 100; see the notes at the bottom)*
+**Current grade: 100/100** *(re-graded 2026-09-10 — found at **92**, restored to 100; see the notes at the bottom)*
 
 > **This file is a maintainer's tool, not trip content.** Nothing in the crew-facing site links to it or quotes a score — `index.html` and the README carry the plan, and the grade lives here. A number like "99/100" sitting on a dashboard is one more thing to keep in sync and tells the crew nothing they can act on.
 
@@ -99,23 +99,23 @@ The fixed constraints (CLAUDE.md): Friday booked dawn-to-dusk; Saturday Yellowst
 
 Current standing, and where the four most recent passes found gaps. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history.
 
-| Category | Points | 8/28 found | 8/30 found | 9/8 found | 9/9 found | **Now** |
+| Category | Points | 8/30 found | 9/8 found | 9/9 found | 9/10 found | **Now** |
 |---|---|---|---|---|---|---|
-| 1. Bookings & critical path | 20 | 18 | 20 | 15 | 18 | **20** |
+| 1. Bookings & critical path | 20 | 20 | 15 | 18 | 15 | **20** |
 | 2. Schedule feasibility | 15 | 15 | 15 | 15 | 15 | **15** |
-| 3. Risk, safety & contingency | 15 | 15 | 15 | 13 | 15 | **15** |
-| 4. Meals | 12 | 9 | 12 | 10 | 8 | **12** |
-| 5. Money | 12 | 12 | 12 | 12 | 11 | **12** |
-| 6. Group coordination | 10 | 10 | 10 | 8 | 10 | **10** |
-| 7. Three layers in sync | 10 | 6 | 10 | 10 | 10 | **10** |
-| 8. Dashboard usability | 6 | 3 | 3 | 4 | 6 | **6** |
-| **Total** | **100** | **88** | **97** | **87** | **93** | **100** |
+| 3. Risk, safety & contingency | 15 | 15 | 13 | 15 | 14 | **15** |
+| 4. Meals | 12 | 12 | 10 | 8 | 12 | **12** |
+| 5. Money | 12 | 12 | 12 | 11 | 12 | **12** |
+| 6. Group coordination | 10 | 10 | 8 | 10 | 10 | **10** |
+| 7. Three layers in sync | 10 | 10 | 10 | 10 | 8 | **10** |
+| 8. Dashboard usability | 6 | 3 | 4 | 6 | 6 | **6** |
+| **Total** | **100** | **97** | **87** | **93** | **92** | **100** |
 
 > Read across a row: every category has been the weak one at least once. §2 collapsed to 8 when the drive times were checked against the world; §4 to 8 when a default turned out to be a meal nobody serves; §7 and §8 fell once the cost of *duplication* was scored rather than the completeness of each copy. **8/28 was the first pass to find the same weaknesses twice**; **9/8 is the first to find the same weakness a third time** — §1's rotted deadline, now on its third date (8/22 → 9/7 → overdue), with §8 quietly rendering it as finished. Earlier columns lived here for ten passes; they're summarised in the re-grade log below and written out in git history. **9/9 is the first pass whose findings came from the group chat rather than from a check** — the plan was internally perfect and eight days stale.
 
 ---
 
-## Verified external facts — checked 2026-08-21, re-checked 2026-08-28, 2026-09-04, 2026-09-08, 2026-09-09
+## Verified external facts — checked 2026-08-21, re-checked 2026-08-28, 2026-09-04, 2026-09-08, 2026-09-09, 2026-09-10
 
 Maintainer's ledger. These are the claims the plan *depends on* that live outside this repo, and the 8/21 passes proved that confident prose is no evidence any of them were ever checked. Re-check before the trip; anything with a date fence rots silently.
 
@@ -125,8 +125,11 @@ Maintainer's ledger. These are the claims the plan *depends on* that live outsid
 
 **Re-verified 9/8, with one real addition.** Four load-bearing facts re-checked and unchanged: **LSU–Ole Miss, 6:30 CT on ABC**; **Saints @ Ravens, noon CT on CBS**; the **Aerial Tram, May 16 – Oct 4, last ride down 5 PM** *(one source lists the daily open as 9 AM rather than 8:30 — irrelevant to a 2:30 PM ride, and the 5 PM close, which is the half the Sunday clock leans on, is consistent everywhere)*; and **Craig Pass / South Entrance → West Thumb → Old Faithful, projected open through Oct 31**, weather permitting. **The addition is fire.** Grand Teton's Stage 1 fire restrictions ended **Aug 31** with fire danger still high, and the **Fish Creek fire** closed **US-26/287 east of Moran toward Dubois** in early September with no published reopening date. That road is *not* on our route — every park drive runs north on US-89/191/287 to the South Entrance — but it is the first thing that would reroute us, and smoke is what would flatten Sunday's sunrise. Until 9/8 the repo's only named park-day hazard was **snow**, on a trip that happens in the last week of fire season. It is now in the day-of check beside Craig Pass.
 
+**Pulled 9/10 — the forecast, for the first time.** Every prior pass graded the plan's *weather contingencies* without ever looking at a forecast; the window only just got close enough to be worth pulling. Jackson, WY, 7 days out: **highs 64–78°F, lows 34–54°F**, one wet day (**9/11**, 27% / ~0.11"), clearing to **clear sky, 76°/38° on 9/16**, winds easing from ~20 mph to under 10, **no snow signal**. ⚠️ **It still stops at 9/16** — one day short of arrival — so it is the run-up, not the trip, and it is written down that way in all three layers. The **9/13 re-pull** is the one that reaches Thursday and settles the wetsuit call.
+
 | Fact | Value | Re-check at |
 |---|---|---|
+| Jackson forecast | Run-up 9/10–9/16: dry, 64–78°F / 34–54°F, no snow | **re-pull 9/13** — first window that reaches 9/17 |
 | Aerial Tram season | May 16 – Oct 4, 2026, 8:30–5 · ~$55/pp | jacksonhole.com |
 | Bridger Gondola season | **Ends Sept 13** — closed for our trip | jacksonhole.com |
 | Corbet's Cabin | 8:30–5, with the tram | jacksonhole.com |
@@ -283,5 +286,31 @@ No pass found this one; the **group chat** did. Eight days out, Psilos posted th
 ⚠️ **Partly re-verified.** The bulk of the external-fact ledger still carries its **9/8** date. The **9/9 additions are Cutty's and Creekside** — address, hours and phone checked fresh against outside sources, which is how the "Wilson" error and the "nothing opens before 6:15" error surfaced. The Sidewinders hours the fallback leans on (11:30 AM–9:30 PM, no reservations) are still the 9/8 entry, not a fresh call.
 
 **The rule this pass earns.** Every previous pass tested the plan against *the world* (drive times, operating calendars) or against *itself* (do the copies agree). This one came from neither: **the crew changed the plan in the group chat, and the repo was confidently, internally consistently wrong for as long as nobody read it back.** A trip doc's freshest input isn't a re-check — it's the thread the trip actually lives in. §7 gains a test: **when a decision is made where the crew talks, the repo is stale until the outcome and everything downstream of it is written down** — and the thing to hunt for is not the decision itself, which is easy, but the defaults that quietly depended on it.
+
+**Grade: 100/100.**
+
+---
+
+### 9/10 re-grade — six open items were already closed in the crew's heads (found at 92, restored to 100)
+
+The 9/9 pass earned the rule that *the repo is stale until what the crew decided is written down.* One day later the same channel closed **six** items at once — and this time none of them were decisions the docs got wrong. They were decisions the docs were **still carrying as open work**: waivers everyone had already signed, a waiver that doesn't exist, a park pass nobody owns, tram tickets nobody was ever going to buy online, a late-cancel rule for cancellations that aren't coming, and an air mattress the 13th man doesn't need.
+
+**Found at 92 (−8).**
+
+| # | Cat | Deduction | What was wrong |
+|---|---|---|---|
+| −5 | §1 | **Six items sat in the live bucket that reality had closed** | The RMR call, tram tickets, the park pass, the ⭐ late-cancel rule, the 13 rafting waivers and the Teton Expeditions waiver were all still open work in both layers — three of them flagged **⏰ overdue** and one flagged ⭐ **gates the trip**. A list whose top is fiction is a list people stop reading, which is the same failure as a rotted date wearing different clothes: it doesn't *look* stale, it looks urgent |
+| −2 | §7 | **Closed items are expensive because they're written in nine places** | Each of the six lived in the README's status block, its Decision Defaults table, its Open Items list, the dashboard's milestone strip, its to-do checklist, its Decision Defaults mirror, its countdown-nudge ladder, the topic file (`logistics.md`, `lodging.md`, `activities.md`, `budget.md`, `packing.md`), and — for the tram — the generated `maps` blurb. Closing one is nine edits, and the ninth is the one that gets missed |
+| −1 | §3 | **The weather contingencies had never been checked against a forecast** | The plan reasoned carefully about snow at Craig Pass, layering, and the $5 wetsuit — all from September climate averages. Nobody had pulled an actual forecast, and the trip is now inside the window where one exists |
+
+**Restored to 100:**
+
+- **Six items are closed and collapsed to their outcomes**, per the repo's own rule that a closed decision keeps its result and loses its reasoning: **park entry → pay at the gate, $140**, nobody owns a pass; **tram → ~$55 at the window on the day**, nothing bought in advance; **waivers → all 13 signed**, and Teton Expeditions has none; **cancellations → nobody is dropping**, so there is no rule to write; **Ciolino → the couch**, no air mattress to pack; **the RMR call → check-in 4 PM, plan on a ~10 AM checkout**, with the grill check standing on its own Thursday. A new **✅ Closed 9/10** bucket carries them in both layers.
+- **Nothing gates the trip any more.** The last ⭐ is gone and the "one date with teeth" (9/11) went with it; the live bucket is five items, all with defaults. The milestone strip drops the 9/7 and 9/11 chips and gains a **9/13 forecast** chip; the countdown nudge ladder was rewritten to match, since it was still narrating an overdue batch that no longer exists.
+- **The forecast is in the plan, dated and honestly bounded** — README *Key Dates*, a Logistics-tab card, and the 9/13 to-do — with the fact that the window **stops one day short of arrival** stated rather than glossed. The wetsuit and layering calls now point at a number instead of an average.
+- **The grocery order's tracking scaffolding came out.** The "what Psilos ordered and what it's missing" gap tables in `grocery-list.md`, `dining.md` and the dashboard are gone; the master list already carried every missing line, so the gap table was duplication that had to be maintained twice. What's left is the outcome: **delivery at 4 PM Thursday, an in-person run Friday evening for the rest.**
+- **Layers re-synced and counts corrected:** README ↔ dashboard to-dos and Decision Defaults match item-for-item (**25** open items in both), the static no-JS progress labels were re-counted (they had drifted to 46/47/34 against 43/46/25 real checkboxes), and `/maps` was regenerated — 83 places, `--check` clean.
+
+**The rule this pass earns.** 9/9 said the repo is stale until the crew's decision is written down. This pass adds the mirror image: **an item the crew has stopped thinking about is not an open item, and leaving it open is worse than leaving it undocumented** — it burns the credibility of every ⏰ and ⭐ next to it. §1 gains a test: **when a flagged item survives its deadline, the first question is not "when will it get done" but "is it still real."**
 
 **Grade: 100/100.**
