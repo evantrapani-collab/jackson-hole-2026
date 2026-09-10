@@ -1,33 +1,34 @@
 # CLAUDE.md
 
-Trip-planning repo for a 13-person Jackson Hole / Yellowstone trip, **Sep 17–21, 2026**. No build, no tests — it's markdown plus one static HTML dashboard.
+Trip-planning repo for a 13-person Jackson Hole / Yellowstone trip, **Sep 17–21, 2026**. No build, no tests — markdown plus one static HTML dashboard.
 
-## The one rule: keep the three layers in sync
+## Keep it short
 
-1. **Markdown folders are the source of truth** (`/itinerary`, `/dining`, `/logistics`, `/budget`, `/activities`, `/lodging`, `/packing`, plus the README's *Open Items*).
-2. **`index.html` is a hand-maintained mirror** — a single offline-capable dashboard of the same content (schedule, open items/to-do checklist, dining tables, money). When you change plan content in any markdown file, **make the matching edit in `index.html`** (search it for the same keyword). It's plain static HTML; JS only enhances (countdown + deadline math, localStorage checkmarks, last-tab memory, TODAY badge) and is never required — the page must stay fully usable with zero JS.
-3. **`/maps` is generated.** Never hand-edit `jackson-hole-places.csv` or `add-to-saved-list.md`. If a place is added/removed/renamed anywhere, edit the `PLACES` list in `maps/generate_places.py` and run:
+This is a guys' trip, not a program. The docs exist so somebody can find a phone number at 6 AM — **not** to record how a decision was reached. Write the outcome, drop the reasoning, and let git history be the changelog. If a section would still be correct after deleting it, delete it.
+
+Specifically, don't reintroduce: owner/deadline/default tables for every open item, "what happens if nobody does anything" defaults, dated changelog markers (🆕, "changed 9/9") inside the prose, tiered contingency playbooks, or a scoring rubric.
+
+## The one rule: keep the layers in sync
+
+1. **Markdown folders are the source of truth** (`/itinerary`, `/dining`, `/logistics`, `/budget`, `/activities`, `/lodging`, `/packing`, plus README → *Open Items*).
+2. **`index.html` is a hand-maintained mirror** — one offline-capable dashboard of the same content. When you change plan content in a markdown file, **make the matching edit in `index.html`** (search it for the same keyword). JS only enhances (countdown, localStorage checkmarks, last-tab memory, TODAY badge) — the page must stay fully usable with zero JS, so keep the static progress-label counts (`0 of N`) matching the real checkbox counts.
+3. **`/maps` is generated.** Never hand-edit `jackson-hole-places.csv` or `add-to-saved-list.md`. Edit the `PLACES` list in `maps/generate_places.py` and run:
 
    ```bash
    python3 maps/generate_places.py
    ```
 
-   `--check` verifies the outputs match `PLACES` without rewriting them; CI runs it on every push/PR (`.github/workflows/maps-check.yml`).
+   `--check` verifies the outputs match without rewriting them; CI runs it on every push/PR.
 
-4. **`apple-touch-icon.png` is generated too.** It's the home-screen icon iOS uses when you "Add to Home Screen" (without it Safari draws a plain letter tile). Never hand-edit the PNG — change the art constants in `icons/generate_icon.py` and run `python3 icons/generate_icon.py` (`--check` verifies it's current). Keep it at the repo root: that's where Safari probes for it, and GitHub Pages publishes the root as-is.
-5. **`manifest.json` is Android/Chrome's version of the same icon fix** — it points "Add to Home Screen" at `apple-touch-icon.png` instead of a generic globe tile. It's a static file, not generated; if the app name or theme color in `index.html`'s `<head>` ever changes, update `manifest.json` to match by hand.
+4. **`apple-touch-icon.png` is generated too** — change the art constants in `icons/generate_icon.py` and run it (`--check` verifies). Keep it at the repo root; that's where Safari looks. **`manifest.json`** is the Android equivalent and is hand-maintained — if the app name or theme color in `index.html`'s `<head>` changes, update it to match.
 
 ## Conventions
 
-- Open items live in **README → Open Items**, mirrored into the `index.html` to-do checklist — **those two, and nowhere else.** `logistics.md` used to carry a third copy; it now points at the README instead. Load-bearing items get an owner + deadline (and ⭐ if they gate the trip).
+- Open items live in **README → Open Items**, mirrored into the `index.html` To-Do tab — **those two, and nowhere else.**
 - The trip's fixed constraints — check these before suggesting plan changes:
-  - Friday is **booked dawn-to-dusk** (8 AM Teton Expeditions safari + 1 PM JHWW rafting — **both out of 945 W Broadway**, check in 7:45 AM; leave the house ~6:45).
-  - Saturday: Yellowstone via the **South Entrance only**, leaving **6:15 AM** with a hard **2:00 PM turnaround at West Thumb** (home ~3:50) for the 5:30 PM LSU game. Anything past Old Faithful / West Thumb doesn't fit.
-  - Sunday: **6:00 AM** wildlife drive (sunrise ~7:07; Schwabacher is ~45 min out), Saints game at 11 AM MT.
+  - Friday is **booked dawn-to-dusk** (8 AM Teton Expeditions safari + 1 PM JHWW rafting — **both out of 945 W Broadway**, check in 7:45; leave the house ~6:45).
+  - Saturday: Yellowstone via the **South Entrance only**, leaving **6:15 AM** with a hard **2:00 PM turnaround at West Thumb** (home ~3:50) for the 5:30 PM LSU game.
+  - Sunday: **6:00 AM** wildlife drive (sunrise ~7:07; Schwabacher is ~45 min out), Saints at 11 AM MT.
   - Headcount is **locked at 13**; lodging is booked (Montreux House, Teton Village).
-- Every open decision carries a **default that holds with zero action** (README → *Decision Defaults*, mirrored at the bottom of the dashboard's To-Do tab). When you add an open item, add what happens if nobody does anything.
-- `RUBRIC.md` is a **maintainer's scorecard, not trip content** — re-grade it when plan content changes materially, but never link it or quote a score from `index.html` or the README.
-- Reference content that doesn't fit the schedule stays in the docs but gets triaged honestly (the 🚫 flags in `activities.md`, and `dining.md` → *Everything else, triaged honestly*) rather than deleted. Sort it by **verdict**, not by who suggested it — three lists of the same restaurants is how that section got to 90 lines.
-- **When a decision closes, delete its reasoning and keep its outcome.** Git history is the changelog; the docs are the plan. A closed item is one line, not a paragraph, and the cost of a fact is the number of places it's written — not the number of words.
-- Times are Mountain Time unless marked CT.
-- **Drive times and operating calendars are load-bearing — check them against the outside world, not against this repo.** Reviews have found the Yellowstone legs understated by half, an impossible sunrise, a lift closed for the season, a closed road, and a "default" lunch no outfitter serves — all inside items that were otherwise well-owned and well-defaulted. **`RUBRIC.md` carries a dated table of every external fact the plan leans on; re-check it rather than re-deriving.** Two standing facts that shape everything: **Moose-Wilson Road is closed Sep 8 – Nov 15, 2026** (so every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson), and the **Bridger Gondola's season ends Sep 13** while the **Aerial Tram runs to Oct 4**.
+- Times are Mountain unless marked CT.
+- **Drive times and operating calendars are load-bearing — check them against the outside world, not against this repo.** Past reviews found the Yellowstone legs understated by half, an impossible sunrise, a lift closed for the season, and a closed road. Two standing facts: **Moose-Wilson Road is closed Sep 8 – Nov 15, 2026** (every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson), and the **Bridger Gondola's season ends Sep 13** while the **Aerial Tram runs to Oct 4**.

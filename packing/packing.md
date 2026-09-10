@@ -1,100 +1,48 @@
 # Packing List
 
-September in Jackson Hole and Yellowstone means wide temperature swings — warm afternoons (60s–70s°F), cold mornings and evenings (30s–40s°F), occasional rain, possible light snow at elevation.
+**Warm afternoons (60s–70s), cold mornings (30s–40s), maybe rain.** Layers, not a parka. **Soft duffel, not a hard roller** — two SUVs, 13 guys.
 
-**Core strategy: layer everything.**
+## Clothes
 
----
+- [ ] Puffy jacket — **the one you'll be glad you brought.** Both park mornings start in the 30s, in the dark, standing still
+- [ ] Rain shell
+- [ ] Fleece or mid-layer
+- [ ] Long-sleeve base layer (2)
+- [ ] T-shirts (3–4)
+- [ ] Hiking pants + shorts
+- [ ] Wool or synthetic socks (4–5) — **no cotton**
+- [ ] Hiking boots, broken in — **Saturday is a 1.6-mile walk to the Grand Prismatic overlook**
+- [ ] Sneakers / camp sandals
+- [ ] 1–2 nicer outfits for dinners in town
+- [ ] Beanie, ball cap, sunglasses, gloves
 
-## Clothing
+## Friday specifically
 
-### Base Layers
-- [ ] Merino wool or synthetic long-sleeve base layer tops (2)
-- [ ] Lightweight base layer bottoms (1–2)
-- [ ] Wool or synthetic hiking socks (4–5 pairs) — no cotton
-- [ ] Liner gloves
-
-### Mid Layers
-- [ ] Fleece or mid-weight insulating jacket
-- [ ] Down or synthetic puffy jacket — **essential**; the **Sunday 6:00 AM** wildlife drive and **Saturday 6:15 AM** Yellowstone start will be in the 30s, in the dark, standing still at a riverbank
-
-### Outer Layer
-- [ ] Waterproof rain jacket (hardshell or softshell) — must-have; afternoon thunderstorms are common
-
-### Hiking
-- [ ] Hiking pants (zip-off optional but useful)
-- [ ] Quick-dry shorts (1–2 pairs)
-- [ ] Moisture-wicking t-shirts (3–4)
-- [ ] Hiking boots (broken in — do NOT bring new boots). **You will actually walk:** the Grand Prismatic overlook is a **1.6-mile round trip** on Saturday, plus the Upper Geyser Basin loop
-- [ ] Camp sandals / flip-flops for evenings
-
-### Town / Evening
-- [ ] 1–2 nicer outfits for Jackson dinners (smart casual; nothing formal required)
-- [ ] Comfortable walking shoes
-
-### Accessories
-- [ ] Warm hat / beanie
-- [ ] Sun hat / baseball cap
-- [ ] Sunglasses (UV protection — elevation intensifies sun)
-- [ ] Neck gaiter or light scarf
-- [ ] Waterproof gloves
-
----
+- [ ] **Shoes that attach to your feet** for the boat — no flip-flops
+- [ ] **A dry set of clothes** for after the river
+- [ ] Layers for the 8 AM safari — the van stops and everyone gets out
+- [ ] **Binoculars** — you'll use them all morning
 
 ## Gear
 
-### Day Hiking
-- [ ] Daypack (20–30L)
-- [ ] Trekking poles (optional but helpful on longer hikes)
-- [ ] **Headlamp** + extra batteries — not optional now: Sunday means setting up at Schwabacher **before** the ~7:07 sunrise, on a dirt path, in the dark
-- [ ] Reusable water bottles or hydration reservoir (3L+ capacity for long hikes)
-- [ ] Water filter or purification tabs (for backcountry water)
+- [ ] **Headlamp** — Sunday means setting up at Schwabacher before a 7:07 sunrise, on a dirt path
+- [ ] Daypack
+- [ ] Water bottle
+- [ ] Battery pack + car charger
+- [ ] Camera / telephoto if that's your thing
+- [ ] Sunscreen + SPF lip balm — altitude sun is intense
+- [ ] Personal meds; anything you take for altitude (Jackson is 6,200 ft)
 
-### Wildlife Viewing
-- [ ] Binoculars — **bring them**; you will use them every day (8x42 or 10x42 ideal)
-- [ ] Spotting scope (optional; earns its keep at Oxbow Bend / Willow Flats on the Sunday drive)
-- [ ] Camera + telephoto lens if serious about wildlife photography
-
-### Safety & Health
-- [ ] **Bear spray** — ✅ handled at the group level, and it's now a **rental, not a purchase**: 2 canisters from the **Bear Aware kiosk at JAC baggage claim #3** on arrival (~$28 each capped), returned to the same kiosk Monday. **Don't bring your own — you can't fly with it.** See `/logistics`
-- [ ] First aid kit
-- [ ] Moleskin / blister treatment
-- [ ] Sunscreen (SPF 50+) — altitude sun is intense
-- [ ] Lip balm with SPF
-- [ ] Insect repellent (mosquitoes taper off by September but still present)
-- [ ] Altitude medication if prone to altitude sickness (Jackson is 6,200 ft; some trails above 10,000 ft)
-- [ ] Personal medications + extra supply
-
-### Navigation & Tech
-- [ ] Downloaded offline maps — **cell service is nearly nonexistent in Yellowstone and much of Grand Teton**
-  - Gaia GPS or AllTrails with offline maps downloaded before you go
-  - Download the NPS apps for both parks
-- [ ] Battery pack / portable charger
-- [ ] Car charger
-
-### Camp / Picnic
-- [ ] Cooler (if driving — essential for saving money on park food)
-- [ ] Reusable bags, containers
-- [ ] Utensils, paper plates
-
----
-
-## Documents & Admin
+## Documents & money
 
 - [ ] Driver's license
-- [ ] Printed hotel/lodging confirmations (cell service is unreliable)
-- [ ] Activity booking confirmations — **two separate ones for Friday**: Teton Expeditions (8 AM safari) and Jackson Hole Whitewater (1 PM raft), both at 945 W Broadway
-- [ ] **Cash or a card for the Sunday tram** (~$55) — bought at the window on the day; the tram runs May 16–Oct 4, so Sunday is safely in season
-- [ ] Travel insurance info — **each man decides by 9/16**; it can't be bought after you fly. **Default: nobody buys**
-- [ ] Emergency contacts written down — incl. **St. John's Health, Jackson** (nearest ER)
-- [ ] Cash — Friday guide tips + a couple cash-only spots (Pica's, Nora's)
+- [ ] Friday confirmations — **two**: Teton Expeditions (8 AM) and JHWW (1 PM), both at 945 W Broadway
+- [ ] **Cash** — two guide tips Friday, plus cash-only spots in town
+- [ ] Emergency contacts on paper — **St. John's Health, 625 E Broadway, Jackson**
+- [ ] Offline maps downloaded + the Shaka Guide Yellowstone tour
 
----
+## Don't bring
 
-## Notes
-
-- **Bear spray:** Do not pack in carry-on or checked luggage (FAA prohibited — and that's true going home too, which is exactly why we rent). The group picks up 2 rentals at the **Bear Aware kiosk in JAC baggage claim** on arrival Thursday and drops them back there Monday — don't bring your own, don't buy your own.
-- **Layers > warm clothes:** A puffy + rain jacket beats a single heavy coat for flexibility.
-- **Friday is the day that tests the layers.** Teton Expeditions says it outright: dress in layers, because the van stops and everyone gets out to use the spotting scope at 8 AM. Then you're on the water by 1 PM — so pack a **dry set of clothes for the afternoon** and remember the boat requires **shoes that attach to your feet** (no flip-flops). Binoculars earn their keep on this morning.
-- **Skip the umbrella:** Useless in mountain wind; a hood is always better.
-- **Cotton kills:** Avoid cotton base layers and socks entirely. When wet, cotton loses all insulating ability.
+- 🐻 **Bear spray** — you can't fly with it. We rent 2 canisters at the JAC kiosk on arrival
+- Umbrella — useless in mountain wind
+- Cotton base layers or socks
