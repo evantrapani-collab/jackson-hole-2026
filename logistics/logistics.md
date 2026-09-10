@@ -52,9 +52,9 @@
 
 - **Airbnb (Montreux House)** — booked ✅
 - ✅ **Paid in full — $784.14/man**, lodging + van tour + rafting combined, collected from all 13. Nothing left to send. [`/budget`](../budget/budget.md)
-- **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch/air mattress since 6 beds max 12 shared. See `/lodging`
-- ✅ **Check-in is 4:00 PM.** That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** Drewes has planted the seed with RMR, but it depends on the cleaning crew and a Wednesday checkout, and **they may charge to lock it in early**. Play it by ear; build the day for 4 PM.
-- [ ] ⏰ **Still to confirm on the RMR call** *(Owner: **Drewes** — **overdue**, slipped 8/22 then 9/7)*: **checkout time** (plan on out by **~9:45 AM** Monday for the 11:47 flight regardless), a rollaway/cot for Ciolino, and the grill + propane
+- **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch since 6 beds max 12 shared — no air mattress needed. See `/lodging`
+- ✅ **Check-in is 4:00 PM.** That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** it depends on the cleaning crew and a Wednesday checkout, and **RMR may charge to lock it in early**. Play it by ear; build the day for 4 PM.
+- **Checkout: plan on ~10 AM** — out by **~9:45 AM** Monday for the 11:47 flight either way
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### Day-of Details (Friday)
 
-- ⚠️ **WAIVERS — all 13 sign JHWW's online waiver before arrival.** Stated in the confirmation, and **the email is forwardable** so everyone can sign off the same link. Do it in advance: 13 guys doing paperwork on their phones in a parking lot is how a 12:30 check-in becomes a 1:00 launch. *(Teton Expeditions' email doesn't mention a waiver — ask when confirming, and assume there's one to sign on-site.)*
+- ✅ **WAIVERS — done.** All 13 have signed JHWW's online waiver, so the 12:30 check-in is paperwork-free. **Teton Expeditions has no waiver of its own.**
 - 🚫 **No alcohol, all day, both operators.** Teton Expeditions puts it in red — *"NO ALCOHOL POLICY! Please leave it behind"* — and JHWW's no-alcohol rule covers the van and the boat. **The lunch hour between them is the only window**, and it's the hour before you get on a river
 - **Layers for the morning:** Teton Expeditions says dress in layers because *"we decide to get out and look through the spotting scope"* — cold, and out of the vehicle. Bring binoculars
 - **Shoes (rafting):** Must attach to your feet — no sandals or flip flops
@@ -92,11 +92,10 @@
 
 ### Reminders (don't need to decide now)
 
-- [ ] **Waivers signed by all 13** — forward the JHWW email to the group
 - [ ] **Wetsuit call — yes/no in the chat by 9/16** ($5/person, on Friday's forecast). **Default: nobody rents** — JHWW stocks them at the shop, so a cold morning is still fixable at the 12:30 check-in
 - [ ] 🅿️ **Ask about all-day parking for two SUVs** — JHWW calls the lot at 945 W Broadway "extremely limited"
 - [x] ✅ **Lunch — settled 9/9: Cutty's, 1140 W WY-22** (~3 min out; JHWW feeds scenic floats, not whitewater). ☎️ **Call (307) 201-1079 with 13 heads**; Sidewinders next door is the fallback if the van runs late
-- [ ] ✅ Times confirmed in writing (7:45 check-in / 8:00 safari / 1:00 rafting). Still open: whether **Teton Expeditions has its own waiver**, and whether the safari can hand off directly to JHWW if the van runs long
+- [x] ✅ Times confirmed in writing (7:45 check-in / 8:00 safari / 1:00 rafting). Still open: whether the safari can hand off directly to JHWW if the van runs long
 
 ---
 
@@ -127,7 +126,7 @@
 - **Hardie + Schick hit the rental counter before baggage claim** (already the plan) — that's the moment you learn the seat count, and the moment to add the third car. Don't wait until everyone's standing in the lot with bags.
 - ⚠️ **Don't count on quiet-season inventory.** **Shoulder season now starts in October — September is one of Jackson's busier months.** So treat a third car at JAC as *likely* available, not guaranteed. If nothing's on the lot, the fallback is renting from a Jackson agency in town during the Thursday midday window, and the fallback to *that* is a second run on the airport legs plus splitting the park days across two departures.
 - ✅ **Decided: two SUVs only — no 3rd vehicle.** The crew is fine with the tight fit on the two airport-transfer days (13 guys + bags). Yellowstone day is daypacks only, so two is plenty there. A **cargo carrier** stays on the table only as the fallback if the Explorer's 3rd row doesn't check out.
-- Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze. Same goes for air mattresses — they pack down, but they're cargo.
+- Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze.
 - Gas up in Jackson before heading to the parks; gas inside parks is more expensive. **Saturday is ~230 miles round trip** — start it on a full tank, not a half one
 - **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline). *Nuance worth knowing: there is usually a signal in the **Old Faithful developed area** and at Grant Village, and none at all in between. Plan for none; be glad if the eruption prediction loads*
 - Saturday: **wheels rolling south out of West Thumb by 2:00 PM MT** — that's the number that protects the 5:30 kickoff, and it's ~1 hr 50 from there to the house
@@ -159,19 +158,16 @@
 ## National Park Entry
 
 - ✅ **Confirmed (2026): neither park requires a timed-entry/vehicle reservation** — just drive up and pay at the gate. No advance permit to book.
-- ✅ **Default: pay at the gate.** Run the numbers for *our* trip and the pass loses:
+- ✅ **Settled: pay at the gate.** Nobody in the crew owns an America the Beautiful pass, and for *our* trip the pass loses anyway:
 
 | Option | Math | Cost |
 |---|---|---|
 | **Pay at the gate** | 2 vehicles × 2 parks × $35 | **$140** |
 | America the Beautiful | 2 passes × $80 (a pass covers one vehicle) | $160 |
 
-- So the only thing worth asking is: **does anybody already own an ATB pass?** One question in the group chat — ⏰ **was due 9/7, still unasked**. If yes, that vehicle rides free and the other pays $70 at the gates
-- If someone does want to buy one anyway, grab it on Recreation.gov in advance rather than at the booth — the line at the South Entrance is the cost, not the $80
 - 🧾 **Each $35 is a 7-day pass — keep the receipt on the dash.** Heading north on Saturday you pass the **Moran entrance station** and pay Grand Teton's $35; that same receipt covers **Sunday's wildlife drive** (Oxbow Bend is the only Sunday stop past a station). Two parks, two fees, but **not four**
 - 🌐 **New for 2026 — a $100 non-resident surcharge.** Starting Jan 1, 2026 every visitor aged 16+ who is **not a U.S. resident** pays an extra **$100 per person** on top of the vehicle fee, unless they enter on an annual/America the Beautiful pass. Almost certainly irrelevant for 13 guys out of New Orleans — but if anyone on this trip isn't a U.S. resident, that's a $100 surprise at the South Entrance, so ask once rather than find out at the booth
 - **2026 note:** Yellowstone has bridge-construction delays at the **North and Northeast entrances** — not on our route. We use the **South Entrance**, which is unaffected.
-- [ ] ⏰ **Ask the chat if anyone already has an ATB pass** *(was due 9/7 — overdue)* — that's the whole decision. Default is gate fees, and $140 comes out of the same pocket either way (~$11/man)
 
 ---
 
@@ -180,7 +176,7 @@
 | Who | Why | Contact |
 |---|---|---|
 | **Montreux House** (the Airbnb) | Home base | 3720 Morley Drive, Teton Village, WY 83025 |
-| **RMR** (property manager) | House issues, pre-arrival coordination, **sleeping-surface question for Ciolino** | (307) 739-9050 · lodging@rmrentals.com |
+| **RMR** (property manager) | House issues on the ground | (307) 739-9050 · lodging@rmrentals.com |
 | **Jackson Hole Whitewater** | Friday 1 PM rafting — and the **address for all of Friday** | **307-733-1007** · 945 W Broadway Ave, Jackson, WY 83001 *(Hillside complex, next to Sidewinders)* |
 | **Teton Expeditions** | Friday 8 AM Grand Teton safari — **be there 7:45** | Same address: 945 W Broadway. Booking is under **Chris (Psilos)**; number is on the confirmation — copy it here when printing |
 | **American Airlines** | Flight changes / misconnect | (800) 433-7300 + the AA app |

@@ -26,22 +26,9 @@
 
 ---
 
-## 🆕 The order Psilos placed (9/9) — and what it's missing
+## The two runs
 
-He's putting in a **grocery delivery for 4:00 PM on check-in day**, since the plan is to eat out Thursday and Friday nights and both weekend mornings leave before dawn. His list:
-
-> 5 cases assorted beer · 5 cases water · coffee + filters · ~40 granola/protein bars · fruit · chips, dips, snacks · frozen breakfast sandwiches · late-night food · trash bags
-
-**That covers the drinks, the car snacks and both early breakfasts.** What it does **not** cover is every meal that gets cooked or packed at the house — these are the lines to add before he submits it:
-
-| Missing | Why it's load-bearing |
-|---|---|
-| ~~Deli meat, cheese, bread~~ 🆕 **dropped 9/9** | **Both** lunches now come from a counter: Friday at Cutty's, Saturday from Creekside. ✅ **Fallback if the Creekside order never gets placed:** the Friday-evening Albertsons run buys it in person and Saturday's lunch gets built that night — same trip that's already happening |
-| ⚠️ **Toilet paper** *(Fulham asked; Drewes is assuming the house has "a decent supply")* | 13 men, 4 days, nobody has counted the rolls. It's ~$12 and the Friday-evening run is the restock either way |
-| **Steak-night sides + the rub** | Potatoes, corn, salad, kosher salt, coarse pepper, garlic powder, butter |
-| **Sunday game spread** | Wings, sausage, buns, dip — the 11 AM kickoff *is* Sunday's lunch |
-| **Milk + sugar** *(Mitternight)*, **paper plates + cups** *(Mitternight)*, **peanut butter crackers** *(Hardie)*, **trail mix** | Straight from the chat; already on the master list below |
-| **Ice, foil, ziplocs, dish soap, whiskey + mixers** | The cooler, the steaks and the two house nights |
+🚚 **A delivery lands at the house 4:00 PM Thursday** — drinks, coffee, bars, fruit, snacks, frozen breakfast sandwiches, late-night food, trash bags. 🚗 **An in-person store run Friday evening** covers the rest: **the 13 ribeyes**, ice, the TP restock, and anything the delivery substituted or dropped.
 
 > 🧊 **Ice is the one item a 4 PM delivery handles badly** — grab bags on the Friday-evening run, or it's the one thing worth a Thursday stop.
 >
@@ -79,7 +66,7 @@ He's putting in a **grocery delivery for 4:00 PM on check-in day**, since the pl
 - [ ] Bagged salad kits, **3** — the green thing nobody plans and everybody eats
 - [ ] Yellow onions, **3 lb**
 - [ ] Lemons/limes, **6**
-- [ ] Apples or oranges, **10** — car snacks, both park days *(on the delivery order as "fruit")*
+- [ ] Apples or oranges, **10** — car snacks, both park days
 - [ ] Veggie tray + ranch, **1 large** — Sunday spread
 
 ### 🍞 Bread & Bakery
@@ -91,11 +78,11 @@ He's putting in a **grocery delivery for 4:00 PM on check-in day**, since the pl
 
 > **Coffee is the single most under-bought item on a trip like this.** 13 guys, four mornings, two of them pre-dawn. Buy more than feels right.
 
-- [ ] **Ground coffee, 3 lb** — and check whether the house is drip, Keurig, or both before you commit to a format *(on the delivery order)*
-- [ ] Coffee filters — **buy a pack even if you think the house has them** *(on the order)*
-- [ ] **Frozen breakfast sandwiches, ~30** 🆕 — the Sat 6:15 and Sun 6:00 starts *(on the order)*
+- [ ] **Ground coffee, 3 lb** — and check whether the house is drip, Keurig, or both before you commit to a format
+- [ ] Coffee filters — **buy a pack even if you think the house has them**
+- [ ] **Frozen breakfast sandwiches, ~30** 🆕 — the Sat 6:15 and Sun 6:00 starts
 - [ ] **Milk** *(Mitternight)* + creamer (2 large) + **sugar**
-- [ ] **Granola / protein bars, ~40** — park-day pockets *(on the order)*
+- [ ] **Granola / protein bars, ~40** — park-day pockets
 - [ ] Eggs, **2 dozen** — backup / lazy morning
 - [ ] Bacon, **2 lb** — Monday / lazy morning
 - [ ] Butter, **2 lb** — steak night needs it too
@@ -111,16 +98,16 @@ He's putting in a **grocery delivery for 4:00 PM on check-in day**, since the pl
 - [ ] Hot sauce — **2 bottles**, the breakfast sandwiches want it
 - [ ] BBQ sauce + wing sauce — Sunday
 - [ ] Sour cream, **2 large**
-- [ ] Chips, **4 big bags** + salsa/queso/dip, **4** — Sunday spread *(on the order)*
+- [ ] Chips, **4 big bags** + salsa/queso/dip, **4** — Sunday spread
 - [ ] **Peanut butter crackers** *(Hardie)*, **trail mix**, jerky — park-day car snacks, Sat + Sun
-- [ ] **Late-night food** — frozen pizzas, taquitos, whatever reheats at 1 AM *(on the order)*
+- [ ] **Late-night food** — frozen pizzas, taquitos, whatever reheats at 1 AM
 
 ### 🧊 Drinks
 
-- [ ] **Beer — 5 cases** *(on the order)*. Thursday and Friday are out, so this is really Sat/Sun at the house plus late nights
+- [ ] **Beer — 5 cases**. Thursday and Friday are out, so this is really Sat/Sun at the house plus late nights
 - [ ] **Whiskey — 2 handles** + mixers (Coke, ginger ale, soda water)
 - [ ] Hard seltzer, **2 cases**
-- [ ] Bottled water, **5 cases** *(on the order)* — altitude; you'll drink more than at home
+- [ ] Bottled water, **5 cases** — altitude; you'll drink more than at home
 - [ ] Gatorade/electrolytes, **1 case** — 6,200 ft and a bar night. This is the most useful $12 on the list
 - [ ] Ice, **6 bags** — Friday-evening run; a cooler in a September car eats through it
 
@@ -128,7 +115,7 @@ He's putting in a **grocery delivery for 4:00 PM on check-in day**, since the pl
 
 - [ ] ⚠️ **Toilet paper — 2 big packs** *(Fulham asked; nobody has verified what the house stocks)*. Restock on the Friday-evening run if it's going fast
 - [ ] **Paper plates (150+) and cups (100+)** *(Mitternight)*, napkins, paper towels (6 rolls)
-- [ ] Trash bags, **2 boxes** *(on the order)* — 13 guys generate more than you think, and you're hauling it out Monday
+- [ ] Trash bags, **2 boxes** — 13 guys generate more than you think, and you're hauling it out Monday
 - [ ] **Heavy-duty foil** — reheating breakfast sandwiches, wrapping steaks to rest
 - [ ] Dish soap + dishwasher pods
 - [ ] Gallon ziplocs — the cooler, leftovers

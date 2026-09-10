@@ -92,7 +92,7 @@ PLACES = [
     ("Antelope Flats Road", "Grand Teton NP", "Sun sunrise", "Antelope Flats Road, Grand Teton, WY", False, "Pronghorn, bison, coyotes."),
     ("Moose-Wilson Road", "Grand Teton NP", "🚫 CLOSED Sep 8-Nov 15", "Moose-Wilson Road, Grand Teton, WY", False, "🚫 CLOSED Sep 8 - Nov 15, 2026 (NPS Phase II construction) between the Rockefeller Preserve and Moose. Cut from Sunday's loop — and it's why every park drive now goes the long way through Jackson."),
     ("Jackson Lake Lodge (Willow Flats)", "Grand Teton NP", "Optional", "Jackson Lake Lodge, WY", False, "Moose hotspot at Willow Flats."),
-    ("Jackson Hole Aerial Tram", "Grand Teton NP", "Sun PM", "Jackson Hole Aerial Tram, Teton Village, WY", False, "✅ Running May 16-Oct 4, 2026, 8:30-5. Rendezvous Mtn summit (10,450 ft); Corbet's waffles up top. ~$55/person; tickets were due 9/7 and are still unbought, but stay buyable up to Sunday. Walkable from the house."),
+    ("Jackson Hole Aerial Tram", "Grand Teton NP", "Sun PM", "Jackson Hole Aerial Tram, Teton Village, WY", False, "✅ Running May 16-Oct 4, 2026, 8:30-5. Rendezvous Mtn summit (10,450 ft); Corbet's waffles up top. ~$55/person, bought at the window on the day — nothing in advance. Walkable from the house."),
     ("Bridger Gondola", "Grand Teton NP", "🚫 CLOSED Sep 13", "Bridger Gondola, Teton Village, WY", False, "🚫 Season ends Sep 13, 2026 — four days before we land. Thursday's lift stop is void; that hour is slack now (groceries arrive as a 4 PM delivery). The TRAM is the one that's running."),
     ("Colter Bay Village", "Grand Teton NP", "If up north", "Colter Bay Village, Grand Teton National Park, WY", True, "Jackson Lake; near Leek's Marina."),
 

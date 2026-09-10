@@ -9,11 +9,11 @@
 
 - Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
 - ✅ **Check-in is 4:00 PM** *(confirmed with RMR)* — a **~5-hour gap** with 13 guys and all the bags in two SUVs, which is why the afternoon needs a shape.
-  - ⏳ **Early check-in is asked for, not promised**, and RMR may charge to lock it in. **Build the day for 4 PM.**
+  - ⏳ **Early check-in is asked for, not promised**, and RMR may charge to lock it in. **Build the day for 4 PM.** Checkout: plan on **~10 AM** Monday
 
 ### The afternoon
 
-> 🚡 **No lift on Thursday** — the Bridger Gondola's season ends Sept 13 and we land the 17th. **The tram is Sunday's.** 🆕 **The 3:00–4:00 block is no longer a grocery run** — Psilos's delivery lands at the house at 4 PM (9/9), so the hour is slack. Spend it on **ice** if you spend it on anything.
+> 🚡 **No lift on Thursday** — the Bridger Gondola's season ends Sept 13 and we land the 17th. **The tram is Sunday's.** 🆕 **The 3:00–4:00 block is no longer a grocery run** — the delivery lands at the house at 4 PM, so the hour is slack. Spend it on **ice** if you spend it on anything.
 
 Land → **Dornan's** → **brewery in town** → **the errand hour** → **check in** → out for the night. Rough clock, so you can see the seams:
 
@@ -73,7 +73,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
   - 🚌 Useful: **your bus seat is your locker and the driver stays with the bus**, and there are **changing rooms at the shop** — so wallets, phones and dry clothes all have a home. Eat in street clothes, change when you're back
 - **12:30 PM — rafting check-in** (the contract says be at the put-in 30 min early)
 - **1:00–4:30 PM — Jackson Hole Whitewater, "Classic Raft"** ("8 Miles of Smiles," Class 2–3) — private boat, ends ~4:30 PM ✅ *times confirmed in writing*
-  - ⚠️ **Waivers — every man signs online before arrival.** JHWW's confirmation is explicit about it and the email is forwardable to the whole party. 13 guys filling out forms on their phones in a parking lot is exactly how an on-time group turns into a late one. See *Open Items* in the README
+  - ✅ **Waivers — all 13 signed.** Check-in is paperwork-free; Teton Expeditions has none of its own
   - Shoes that attach to your feet required (no sandals or flip flops)
   - Wetsuit rental on-site: $5/person (3-piece) — **call it by 9/16 on the forecast; default is nobody rents**, and they're stocked at the shop either way
   - **No alcohol on the van or boat**
@@ -161,7 +161,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
   - ⚠️ **Possible steak night** — idea on the table to move the ribeyes here. Note the 11 AM kickoff makes it a *night* grill, not a game grill, and it would void the Dornan's dinner default (Saturday then drops to the house off grocery stock). Undecided — see `/dining`
   - **Default: watch at the house** — owns the TV and the whole slate, no reservation, nobody driving after kickoff. Snake River Brewing / Roadhouse / Cutty's / Eleanor's are the upgrade if the Thu–Fri recon likes their setup
 - **Afternoon: the tram — ✅ confirmed running.** JHMR operates the **Aerial Tram May 16 – Oct 4, 2026, 8:30 AM–5 PM**, with **Corbet's Cabin** open at the top for the Top of the World waffles. Sunday the 20th is comfortably inside that. It's **walkable from the house**, the game ends ~2:15, and the last ride up is well after that — this is the easiest highlight on the whole trip
-  - 💵 **~$55/person** for a sightseeing ticket — buy online — ⏰ **was due 9/7 and still unbought**. That's the only open action left; the "will it even be running" question is answered
+  - 💵 **~$55/person** for a sightseeing ticket, **bought at the window on the day** — nothing to buy in advance
   - ⏱️ **The afternoon is back-to-back, so here's the clock:** game ends ~2:15 → walk over → **tram up ~2:30** → Corbet's + the summit ~40 min → **down by 3:40** → house 3:50 → leave 4:15 → **Dornan's ~4:50**. It works, but there's no slack in it. **Last tram down is 5:00** and Corbet's closes with it — don't dawdle at the top and then expect a 5 PM table in Moose
   - *(This is the **tram**, the summit ride. The Bridger Gondola — the mid-mountain lift — closed for the season Sept 13, so there is no longer any way to ride the wrong one.)*
 - **Dinner — default: early Dornan's (~5 PM)** in Moose — pizza + the Teton view to close the last full day. ✅ **Hours check out: open daily 11:30 AM–7:00 PM, year-round**, so a 5 PM sitting is safe and the old "confirm fall hours" worry is down to a courtesy call. ⚠️ **It's ~35 min each way now**, not 25 — the Moose-Wilson shortcut is closed, so it's a ~70-minute round trip on top of the meal. Leave the Village by 4:30. **Backup: the house**
@@ -184,7 +184,7 @@ Land → **Dornan's** → **brewery in town** → **the errand hour** → **chec
 
 - **Two SUVs, no 3rd vehicle** — decided. 13 guys + bags is tight on the Thursday and Monday airport legs: **soft duffels over hard rollers**
 - **Driver-lead per vehicle: Hardie (Explorer) and Schick (Expedition)** — they hold the rental agreements, so they're the two insured drivers, and the driver-lead owns departure times for his car. Herding 13 guys is the main thing that blows up a schedule
-- **Park entry:** no reservations needed for either park in 2026. **Default: pay at the gate** — 2 vehicles × 2 parks × $35 = $140, cheaper than two $80 America the Beautiful passes. Only worth a pass if somebody already owns one. **Each $35 is good for 7 days**, so Saturday's Grand Teton fee at Moran covers Sunday's Oxbow Bend — keep the receipt on the dash
+- **Park entry:** no reservations needed for either park in 2026. ✅ **Pay at the gate** — 2 vehicles × 2 parks × $35 = $140. Nobody owns an America the Beautiful pass, and two would have run $160 anyway. **Each $35 is good for 7 days**, so Saturday's Grand Teton fee at Moran covers Sunday's Oxbow Bend — keep the receipt on the dash
 - **Bear spray:** ✅ **rented at JAC baggage claim** (Bear Aware kiosk, ~$28/canister capped, returned to the drop box Monday) — one per vehicle. Fallback if the kiosk is out: **Smith's and Albertsons both stock it**, same errand-hour cart
 - 🚧 **Moose-Wilson Road is closed Sept 8 – Nov 15, 2026** between the Rockefeller Preserve and Moose. Every drive from the house into Grand Teton or Yellowstone goes the long way — **WY-390 → WY-22 → US-26/89/191 through Jackson.** Add ~10 min to anything you remember being "the back way"
 - 🔥 **Fire season is live.** Grand Teton's Stage 1 restrictions lifted **Aug 31** with danger still high, and the **Fish Creek fire** closed **US-26/287 east of Moran toward Dubois** in early September, reopening unknown. **Not our route** — we run north on US-89/191/287 — but it's the first thing that would reroute us, and smoke is what would flatten Sunday's sunrise. Same day-of check as Craig Pass *(re-checked 9/8)*
