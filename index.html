@@ -747,169 +747,113 @@
   <!-- ============ GROCERIES ============ -->
   <section class="panel" id="groc">
     <div class="section-h">Grocery List — 13 Guys</div>
-    <div class="note"><b>Owner: Psilos.</b> 🚚 <b>Delivery to the house 4:00 PM Thursday</b> + 🚗 <b>one store run Friday evening</b> for the ribeyes, ice and whatever the delivery got wrong. Check marks save on this device, so it works in the aisle with no signal.</div>
-    <div class="progress-lab"><span id="grocProgLab">0 of 43 got</span><button class="reset-btn" data-reset="groc">Reset</button></div>
+    <div class="note"><b>Owner: Psilos.</b> 🚚 <b>Delivery to the house 4:00 PM Thursday</b> + 🚗 <b>one store run Friday evening</b> for the ribeyes and ice. <b>Only three meals are at the house</b> — Saturday's steaks, Sunday's game spread, two pre-dawn breakfasts — so this is mostly drinks, snacks and one big pile of meat. Check marks save on this device.</div>
+    <div class="progress-lab"><span id="grocProgLab">0 of 21 got</span><button class="reset-btn" data-reset="groc">Reset</button></div>
     <div class="progress"><span id="grocProg"></span></div>
 
     <div class="card">
-      <div class="note">🥩 <b>First: call the Albertsons butcher</b> — cut and hold <b>13 bone-in ribeyes, 24 oz each</b> under a name, <b>Friday-evening</b> pickup. ~19.5 lbs of steak isn't something a resort-town meat case has sitting out, and it's the one line you can't leave to an app. 20 oz × 13 is a fine fallback.</div>
+      <div class="note">🥩 <b>First: call the Albertsons butcher</b> — hold <b>13 bone-in ribeyes, 24 oz each</b> under a name, <b>Friday-evening</b> pickup. No resort-town meat case has 19 lbs of ribeye sitting out, so it's the one line you can't leave to a delivery app. 20 oz × 13 is a fine fallback.</div>
     </div>
 
-    <div class="section-h">🥩 Meat</div>
+    <div class="section-h">🥩 Steak Night</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="gr1"><span class="box"></span><span class="lab"><b>13 bone-in ribeyes, 24 oz</b> — pre-ordered, picked up in person <b>Friday evening</b></span><span class="tag">butcher</span></label>
-      <label class="check"><input type="checkbox" id="gr4"><span class="box"></span><span class="lab">Chicken wings, <b>10 lb</b> — Sunday game spread</span></label>
-      <label class="check"><input type="checkbox" id="gr5"><span class="box"></span><span class="lab">Andouille or smoked sausage, <b>3 lb</b> — Sunday spread</span></label>
+      <label class="check"><input type="checkbox" id="gr1"><span class="box"></span><span class="lab"><b>13 bone-in ribeyes, 24 oz</b> — butcher counter, picked up Friday evening</span><span class="tag">butcher</span></label>
+      <label class="check"><input type="checkbox" id="gr2"><span class="box"></span><span class="lab"><b>Kosher salt, coarse pepper, garlic powder, butter</b> — the house won't have enough for 13 steaks</span></label>
+      <label class="check"><input type="checkbox" id="gr3"><span class="box"></span><span class="lab"><b>Sides</b> — potatoes and a few bagged salads. Don't overthink it</span></label>
     </div>
 
-    <div class="section-h">🥬 Produce</div>
+    <div class="section-h">🏈 Sunday Game Spread</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="gr6"><span class="box"></span><span class="lab">Potatoes, <b>10 lb</b> — steak night</span></label>
-      <label class="check"><input type="checkbox" id="gr7"><span class="box"></span><span class="lab">Corn on the cob, <b>13 ears</b></span></label>
-      <label class="check"><input type="checkbox" id="gr8"><span class="box"></span><span class="lab">Bagged salad kits, <b>3</b></span></label>
-      <label class="check"><input type="checkbox" id="gr9"><span class="box"></span><span class="lab">Yellow onions, <b>3 lb</b></span></label>
-      <label class="check"><input type="checkbox" id="gr10"><span class="box"></span><span class="lab">Lemons/limes, <b>6</b></span></label>
-      <label class="check"><input type="checkbox" id="gr11"><span class="box"></span><span class="lab">Fruit — apples or oranges, <b>10</b> — car snacks, both park days</span></label>
-      <label class="check"><input type="checkbox" id="gr12"><span class="box"></span><span class="lab">Veggie tray + ranch, <b>1 large</b></span></label>
+      <label class="check"><input type="checkbox" id="gr4"><span class="box"></span><span class="lab"><b>Wings, 10 lb</b> + <b>sausage, 3 lb</b> + buns</span></label>
+      <label class="check"><input type="checkbox" id="gr5"><span class="box"></span><span class="lab">Chips, dip, salsa — 4 of each</span></label>
+      <label class="check"><input type="checkbox" id="gr6"><span class="box"></span><span class="lab">Condiments — mayo, mustard, ketchup, hot sauce, BBQ + wing sauce</span></label>
     </div>
 
-    <div class="section-h">🍞 Bread &amp; Bakery</div>
+    <div class="section-h">☕ Breakfast</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="gr14"><span class="box"></span><span class="lab">Bagels or English muffins, <b>2 dozen</b> — Monday breakfast + backup</span></label>
-      <label class="check"><input type="checkbox" id="gr15"><span class="box"></span><span class="lab">Hamburger buns, <b>1 pack</b></span></label>
+      <label class="check"><input type="checkbox" id="gr7"><span class="box"></span><span class="lab"><b>Frozen breakfast sandwiches, ~30</b> — the 6:15 and 6:00 AM starts</span></label>
+      <label class="check"><input type="checkbox" id="gr8"><span class="box"></span><span class="lab"><b>Coffee, 3 lb</b> + filters — buy more than feels right; check if the house is drip or Keurig</span></label>
+      <label class="check"><input type="checkbox" id="gr9"><span class="box"></span><span class="lab">Milk, creamer, sugar</span></label>
     </div>
 
-    <div class="section-h">☕ Breakfast &amp; Coffee</div>
+    <div class="section-h">🍿 Car Snacks + Late Night</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="gr16"><span class="box"></span><span class="lab"><b>Ground coffee, 3 lb</b> — check if the house is drip or Keurig first</span></label>
-      <label class="check"><input type="checkbox" id="gr17"><span class="box"></span><span class="lab">Coffee filters — <b>buy a pack even if you assume the house has them</b></span></label>
-      <label class="check"><input type="checkbox" id="gr18"><span class="box"></span><span class="lab"><b>Frozen breakfast sandwiches, ~30</b> — the Sat 6:15 and Sun 6:00 starts</span></label>
-      <label class="check"><input type="checkbox" id="gr19"><span class="box"></span><span class="lab"><b>Milk</b> + creamer (2 large) + <b>sugar</b></span></label>
-      <label class="check"><input type="checkbox" id="gr20"><span class="box"></span><span class="lab"><b>Granola / protein bars, ~40</b> — park-day pockets</span></label>
-      <label class="check"><input type="checkbox" id="gr21"><span class="box"></span><span class="lab">Eggs, <b>2 dozen</b> — backup / lazy morning</span></label>
-      <label class="check"><input type="checkbox" id="gr22"><span class="box"></span><span class="lab">Bacon, <b>2 lb</b></span></label>
-      <label class="check"><input type="checkbox" id="gr23"><span class="box"></span><span class="lab">Butter, <b>2 lb</b> — steak night wants it too</span></label>
-      <label class="check"><input type="checkbox" id="gr24"><span class="box"></span><span class="lab">Cream cheese, jam, peanut butter</span></label>
+      <label class="check"><input type="checkbox" id="gr10"><span class="box"></span><span class="lab"><b>Granola / protein bars, ~40</b> — park-day pockets</span></label>
+      <label class="check"><input type="checkbox" id="gr11"><span class="box"></span><span class="lab">Fruit — apples or oranges</span></label>
+      <label class="check"><input type="checkbox" id="gr12"><span class="box"></span><span class="lab">Jerky, trail mix, peanut butter crackers</span></label>
+      <label class="check"><input type="checkbox" id="gr13"><span class="box"></span><span class="lab"><b>Late-night food</b> — frozen pizzas, taquitos, whatever reheats at 1 AM</span></label>
     </div>
 
-    <div class="section-h">🧂 Pantry &amp; Seasoning</div>
+    <div class="section-h">🍺 Drinks</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="gr25"><span class="box"></span><span class="lab"><b>Kosher salt, coarse pepper, garlic powder</b> — the ribeye rub. Assume the kitchen has none</span><span class="tag">the rub</span></label>
-      <label class="check"><input type="checkbox" id="gr26"><span class="box"></span><span class="lab">Olive/cooking oil</span></label>
-      <label class="check"><input type="checkbox" id="gr27"><span class="box"></span><span class="lab">Mayo, mustard, ketchup — the Sunday game spread</span></label>
-      <label class="check"><input type="checkbox" id="gr28"><span class="box"></span><span class="lab">Hot sauce, <b>2 bottles</b> — the breakfast sandwiches want it</span></label>
-      <label class="check"><input type="checkbox" id="gr29"><span class="box"></span><span class="lab">BBQ + wing sauce</span></label>
-      <label class="check"><input type="checkbox" id="gr30"><span class="box"></span><span class="lab">Sour cream, <b>2 large</b></span></label>
-      <label class="check"><input type="checkbox" id="gr31"><span class="box"></span><span class="lab">Chips <b>×4 bags</b> + salsa/queso/dip <b>×4</b></span></label>
-      <label class="check"><input type="checkbox" id="gr32"><span class="box"></span><span class="lab"><b>Peanut butter crackers</b>, <b>trail mix</b>, jerky — park-day car snacks</span></label>
-      <label class="check"><input type="checkbox" id="gr33"><span class="box"></span><span class="lab"><b>Late-night food</b> — frozen pizzas, taquitos, whatever reheats at 1 AM</span></label>
+      <label class="check"><input type="checkbox" id="gr14"><span class="box"></span><span class="lab"><b>Beer, 5 cases</b> + hard seltzer, 2 cases</span></label>
+      <label class="check"><input type="checkbox" id="gr15"><span class="box"></span><span class="lab"><b>Whiskey, 2 handles</b> + mixers</span></label>
+      <label class="check"><input type="checkbox" id="gr16"><span class="box"></span><span class="lab"><b>Water, 5 cases</b> — altitude; you'll drink more than at home</span></label>
+      <label class="check"><input type="checkbox" id="gr17"><span class="box"></span><span class="lab">Gatorade, 1 case — 6,200 ft and a bar night. Best $12 on the list</span></label>
+      <label class="check"><input type="checkbox" id="gr18"><span class="box"></span><span class="lab"><b>Ice, 6 bags</b> — on the Friday run; a 4 PM delivery handles ice badly</span></label>
     </div>
 
-    <div class="section-h">🧊 Drinks</div>
+    <div class="section-h">🧻 Supplies</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="gr34"><span class="box"></span><span class="lab"><b>Beer — 5 cases.</b> Thu and Fri are out, so this is Sat/Sun plus late nights</span></label>
-      <label class="check"><input type="checkbox" id="gr35"><span class="box"></span><span class="lab"><b>Whiskey — 2 handles</b> + mixers</span></label>
-      <label class="check"><input type="checkbox" id="gr36"><span class="box"></span><span class="lab">Hard seltzer, <b>2 cases</b></span></label>
-      <label class="check"><input type="checkbox" id="gr37"><span class="box"></span><span class="lab">Bottled water, <b>5 cases</b> — altitude</span></label>
-      <label class="check"><input type="checkbox" id="gr38"><span class="box"></span><span class="lab">Gatorade/electrolytes, <b>1 case</b> — 6,200 ft + a bar night. Best $12 on the list</span><span class="tag">do it</span></label>
-      <label class="check"><input type="checkbox" id="gr39"><span class="box"></span><span class="lab">Ice, <b>6 bags</b> — ⚠️ a 4 PM delivery handles ice badly; buy it on the Friday run</span><span class="tag">Fri run</span></label>
-    </div>
-
-    <div class="section-h">🧻 Paper &amp; Supplies</div>
-    <div class="card">
-      <label class="check"><input type="checkbox" id="gr40"><span class="box"></span><span class="lab">⚠️ <b>Toilet paper — 2 big packs</b> <i>(Fulham asked; nobody has counted what the house stocks)</i></span></label>
-      <label class="check"><input type="checkbox" id="gr41"><span class="box"></span><span class="lab"><b>Paper plates (150+) and cups (100+)</b>, napkins, paper towels (6 rolls)</span></label>
-      <label class="check"><input type="checkbox" id="gr42"><span class="box"></span><span class="lab">Trash bags, <b>2 boxes</b> — you haul it out Monday</span></label>
-      <label class="check"><input type="checkbox" id="gr43"><span class="box"></span><span class="lab"><b>Heavy-duty foil</b> — reheating breakfast, resting steaks</span></label>
-      <label class="check"><input type="checkbox" id="gr44"><span class="box"></span><span class="lab">Dish soap + dishwasher pods</span></label>
-      <label class="check"><input type="checkbox" id="gr45"><span class="box"></span><span class="lab">Gallon ziplocs</span></label>
-      <label class="check"><input type="checkbox" id="gr46"><span class="box"></span><span class="lab">⚠️ Charcoal (2 bags) + chimney starter — <b>only if the grill turns out to be charcoal</b>; if the tank's low, a ~$25 propane exchange is at the same store</span><span class="tag">conditional</span></label>
+      <label class="check"><input type="checkbox" id="gr19"><span class="box"></span><span class="lab">Paper plates, cups, napkins, paper towels</span></label>
+      <label class="check"><input type="checkbox" id="gr20"><span class="box"></span><span class="lab"><b>Trash bags, 2 boxes</b> + <b>toilet paper, 2 packs</b> — nobody has counted what the house stocks</span></label>
+      <label class="check"><input type="checkbox" id="gr21"><span class="box"></span><span class="lab">Foil, ziplocs, dish soap</span></label>
     </div>
 
     <div class="section-h">What It Runs</div>
     <div class="card scroll-x">
       <table class="tbl">
-        <thead><tr><th>Section</th><th class="num">Cost</th></tr></thead>
         <tbody>
           <tr><td>Ribeyes (13 × 24 oz)</td><td class="num">~$330</td></tr>
-          <tr><td>Meat, deli &amp; produce</td><td class="num">~$185</td></tr>
-          <tr><td>Breakfast, coffee &amp; pantry</td><td class="num">~$180</td></tr>
-          <tr><td>Sunday game spread</td><td class="num">~$115</td></tr>
-          <tr><td>Drinks</td><td class="num">~$270</td></tr>
-          <tr><td>Paper, ice &amp; supplies</td><td class="num">~$110</td></tr>
-          <tr><td><b>Total</b></td><td class="num"><b>≈$1,190</b></td></tr>
-          <tr><td><b>Per person (13)</b></td><td class="num"><b>≈$92</b></td></tr>
+          <tr><td>Steak sides, Sunday spread, breakfast</td><td class="num">~$240</td></tr>
+          <tr><td>Snacks + late night</td><td class="num">~$90</td></tr>
+          <tr><td>Drinks</td><td class="num">~$290</td></tr>
+          <tr><td>Ice + supplies</td><td class="num">~$90</td></tr>
+          <tr><td><b>Total</b></td><td class="num"><b>≈$1,040</b></td></tr>
+          <tr><td><b>Per person (13)</b></td><td class="num"><b>≈$80</b></td></tr>
         </tbody>
       </table>
-      <div class="note">Not on this list: the <b>burrito order, ~$200 total</b>, and the restaurant meals — figure another ~$145/person across Thursday's bars, Cutty's, Sidewinders and Dornan's.</div>
+      <div class="note">Not on this list: the <b>burrito order, ~$200 total</b>, and the meals out — figure another ~$145/person across Thursday's bars, Cutty's, Sidewinders and Dornan's.</div>
     </div>
-
   </section>
 
   <!-- ============ PACKING ============ -->
   <section class="panel" id="packing">
     <div class="section-h">Packing — Check It Off</div>
-    <div class="note">Warm afternoons (60s–70s), cold mornings (30s–40s), maybe rain. <b>Layers, not a parka. No cotton.</b> And <b>a soft duffel, not a hard roller</b> — two SUVs, 13 guys. Check marks save on this device.</div>
-    <div class="progress-lab"><span id="packProgLab">0 of 38 packed</span><button class="reset-btn" data-reset="pack">Reset</button></div>
+    <div class="note">Warm afternoons (60s–70s), cold mornings (30s–40s), maybe rain. <b>Layers, not a parka. No cotton.</b> And <b>a soft duffel, not a hard roller</b> — two SUVs, 13 guys and bags. Check marks save on this device.</div>
+    <div class="progress-lab"><span id="packProgLab">0 of 21 packed</span><button class="reset-btn" data-reset="pack">Reset</button></div>
     <div class="progress"><span id="packProg"></span></div>
     <div class="card">
-      <div class="grp-h">Layers — the strategy</div>
-      <label class="check"><input type="checkbox" id="pk0"><span class="box"></span><span class="lab">Puffy / insulated jacket — the <b>6:00 / 6:15 AM</b> starts are in the 30s, in the dark, standing still</span><span class="tag">essential</span></label>
-      <label class="check"><input type="checkbox" id="pk1"><span class="box"></span><span class="lab">Waterproof rain jacket — afternoon storms are common</span><span class="tag">essential</span></label>
-      <label class="check"><input type="checkbox" id="pk2"><span class="box"></span><span class="lab">Merino/synthetic base layer tops (2)</span></label>
-      <label class="check"><input type="checkbox" id="pk4"><span class="box"></span><span class="lab">Fleece or mid-weight insulating layer</span></label>
-      <label class="check"><input type="checkbox" id="pk5"><span class="box"></span><span class="lab">Wool/synthetic hiking socks (4–5)</span><span class="tag">no cotton</span></label>
-      <label class="check"><input type="checkbox" id="pk6"><span class="box"></span><span class="lab">Liner gloves</span></label>
+      <div class="grp-h">Clothes</div>
+      <label class="check"><input type="checkbox" id="pk1"><span class="box"></span><span class="lab"><b>Puffy jacket</b> — both park mornings start in the 30s, in the dark, standing still</span><span class="tag">essential</span></label>
+      <label class="check"><input type="checkbox" id="pk2"><span class="box"></span><span class="lab"><b>Rain shell</b></span><span class="tag">essential</span></label>
+      <label class="check"><input type="checkbox" id="pk3"><span class="box"></span><span class="lab">Fleece or hoodie</span></label>
+      <label class="check"><input type="checkbox" id="pk4"><span class="box"></span><span class="lab">T-shirts + a long-sleeve</span></label>
+      <label class="check"><input type="checkbox" id="pk5"><span class="box"></span><span class="lab">Hiking pants + shorts</span></label>
+      <label class="check"><input type="checkbox" id="pk6"><span class="box"></span><span class="lab">Wool or synthetic socks</span><span class="tag">no cotton</span></label>
+      <label class="check"><input type="checkbox" id="pk7"><span class="box"></span><span class="lab"><b>Boots, broken in</b> — Saturday is a 1.6-mile walk to the Prismatic overlook</span></label>
+      <label class="check"><input type="checkbox" id="pk8"><span class="box"></span><span class="lab">Sneakers</span></label>
+      <label class="check"><input type="checkbox" id="pk9"><span class="box"></span><span class="lab">One decent outfit for dinners in town</span></label>
+      <label class="check"><input type="checkbox" id="pk10"><span class="box"></span><span class="lab">Beanie, ball cap, sunglasses, gloves</span></label>
 
-      <div class="grp-h">Hiking &amp; town</div>
-      <label class="check"><input type="checkbox" id="pk7"><span class="box"></span><span class="lab">Hiking pants (zip-off optional)</span></label>
-      <label class="check"><input type="checkbox" id="pk8"><span class="box"></span><span class="lab">Quick-dry shorts (1–2)</span></label>
-      <label class="check"><input type="checkbox" id="pk9"><span class="box"></span><span class="lab">Moisture-wicking t-shirts (3–4)</span></label>
-      <label class="check"><input type="checkbox" id="pk10"><span class="box"></span><span class="lab">Hiking boots, broken in — Saturday is a <b>1.6-mile walk</b> to the Prismatic overlook</span></label>
-      <label class="check"><input type="checkbox" id="pk11"><span class="box"></span><span class="lab">Camp sandals / flip-flops for evenings</span></label>
-      <label class="check"><input type="checkbox" id="pk12"><span class="box"></span><span class="lab">1–2 nicer outfits for town (smart casual)</span></label>
-
-      <div class="grp-h">Accessories</div>
-      <label class="check"><input type="checkbox" id="pk14"><span class="box"></span><span class="lab">Warm hat / beanie</span></label>
-      <label class="check"><input type="checkbox" id="pk15"><span class="box"></span><span class="lab">Sun hat / baseball cap</span></label>
-      <label class="check"><input type="checkbox" id="pk16"><span class="box"></span><span class="lab">Sunglasses — elevation intensifies sun</span></label>
-      <label class="check"><input type="checkbox" id="pk18"><span class="box"></span><span class="lab">Waterproof gloves</span></label>
-
-      <div class="grp-h">Friday specifically</div>
-      <label class="check"><input type="checkbox" id="pk47"><span class="box"></span><span class="lab"><b>Shoes that attach to your feet</b> for the boat — no flip-flops</span><span class="tag">required</span></label>
-      <label class="check"><input type="checkbox" id="pk48"><span class="box"></span><span class="lab"><b>A dry set of clothes</b> for after the river</span></label>
+      <div class="grp-h">Friday — the raft day</div>
+      <label class="check"><input type="checkbox" id="pk11"><span class="box"></span><span class="lab"><b>Shoes that attach to your feet</b> — no flip-flops, they won't let you on</span><span class="tag">required</span></label>
+      <label class="check"><input type="checkbox" id="pk12"><span class="box"></span><span class="lab"><b>A dry set of clothes</b> for after the river</span></label>
+      <label class="check"><input type="checkbox" id="pk13"><span class="box"></span><span class="lab">Layers for the 8 AM safari — the van stops and everyone gets out</span></label>
 
       <div class="grp-h">Gear</div>
-      <label class="check"><input type="checkbox" id="pk19"><span class="box"></span><span class="lab">Daypack (20–30L)</span></label>
-      <label class="check"><input type="checkbox" id="pk21"><span class="box"></span><span class="lab">Headlamp — Sunday means setting up at Schwabacher before a 7:07 sunrise, on a dirt path</span><span class="tag">bring</span></label>
-      <label class="check"><input type="checkbox" id="pk22"><span class="box"></span><span class="lab">Water bottle</span></label>
-      <label class="check"><input type="checkbox" id="pk24"><span class="box"></span><span class="lab">Binoculars (8x42 / 10x42) — you'll use them every day</span><span class="tag">bring</span></label>
-      <label class="check"><input type="checkbox" id="pk26"><span class="box"></span><span class="lab">Camera + telephoto if serious about wildlife shots</span></label>
-
-      <div class="grp-h">Safety &amp; health</div>
-      <label class="check"><input type="checkbox" id="pk27"><span class="box"></span><span class="lab">First aid kit</span></label>
-      <label class="check"><input type="checkbox" id="pk28"><span class="box"></span><span class="lab">Moleskin / blister kit</span></label>
-      <label class="check"><input type="checkbox" id="pk29"><span class="box"></span><span class="lab">Sunscreen SPF 50+ — altitude sun is intense</span></label>
-      <label class="check"><input type="checkbox" id="pk30"><span class="box"></span><span class="lab">Lip balm with SPF</span></label>
-      <label class="check"><input type="checkbox" id="pk32"><span class="box"></span><span class="lab">Altitude meds if prone (Jackson is 6,200 ft)</span></label>
-      <label class="check"><input type="checkbox" id="pk33"><span class="box"></span><span class="lab">Personal meds + extra supply</span></label>
-
-      <div class="grp-h">Tech &amp; navigation</div>
-      <label class="check"><input type="checkbox" id="pk34"><span class="box"></span><span class="lab">Offline maps downloaded + the Shaka Guide Yellowstone tour</span><span class="tag">do first</span></label>
-      <label class="check"><input type="checkbox" id="pk36"><span class="box"></span><span class="lab">Battery pack / portable charger</span></label>
-      <label class="check"><input type="checkbox" id="pk37"><span class="box"></span><span class="lab">Car charger</span></label>
-
-      <div class="grp-h">House &amp; cooler</div>
-      <label class="check"><input type="checkbox" id="pk38"><span class="box"></span><span class="lab">Cooler — saves money on park food</span></label>
-      <label class="check"><input type="checkbox" id="pk40"><span class="box"></span><span class="lab">Utensils, paper plates</span></label>
+      <label class="check"><input type="checkbox" id="pk14"><span class="box"></span><span class="lab"><b>Headlamp</b> — Sunday means setting up at Schwabacher in the dark, on a dirt path</span><span class="tag">bring</span></label>
+      <label class="check"><input type="checkbox" id="pk15"><span class="box"></span><span class="lab">Daypack + water bottle</span></label>
+      <label class="check"><input type="checkbox" id="pk16"><span class="box"></span><span class="lab">Battery pack + car charger</span></label>
+      <label class="check"><input type="checkbox" id="pk17"><span class="box"></span><span class="lab">Sunscreen + SPF lip balm — altitude sun is intense</span></label>
+      <label class="check"><input type="checkbox" id="pk18"><span class="box"></span><span class="lab">Binoculars, if you've got them — Friday morning and Sunday dawn</span></label>
 
       <div class="grp-h">Documents &amp; money</div>
-      <label class="check"><input type="checkbox" id="pk41"><span class="box"></span><span class="lab">Driver's license</span></label>
-      <label class="check"><input type="checkbox" id="pk43"><span class="box"></span><span class="lab">Printed confirmations — lodging + activities</span></label>
-      <label class="check"><input type="checkbox" id="pk45"><span class="box"></span><span class="lab">Emergency contacts on paper — incl. St. John's Health, Jackson</span></label>
-      <label class="check"><input type="checkbox" id="pk46"><span class="box"></span><span class="lab">Cash — guide tips + cash-only spots (Pica's, Nora's)</span></label>
+      <label class="check"><input type="checkbox" id="pk19"><span class="box"></span><span class="lab">Driver's license + your meds</span></label>
+      <label class="check"><input type="checkbox" id="pk20"><span class="box"></span><span class="lab"><b>Cash</b> — two guide tips Friday, plus the cash-only spots in town</span></label>
+      <label class="check"><input type="checkbox" id="pk21"><span class="box"></span><span class="lab"><b>Offline maps + the Shaka Guide tour, downloaded before you fly</b></span><span class="tag">do first</span></label>
     </div>
-    <div class="note">🐻 <b>Bear spray is handled at the group level, and it's a rental.</b> 2 canisters from the <b>Bear Aware kiosk at JAC baggage claim #3</b> on arrival (~$56 total), back in the same drop box Monday. It's FAA-prohibited in carry-on <i>and</i> checked bags both directions — <b>don't bring your own, don't buy your own.</b></div>
+    <div class="note">🐻 <b>Don't bring bear spray — you can't fly with it.</b> We rent 2 canisters at the <b>Bear Aware kiosk, JAC baggage claim #3</b> on arrival (~$56 total), back in the same box Monday. And skip the umbrella; useless in mountain wind.</div>
   </section>
 
   <!-- ============ LOGISTICS ============ -->
@@ -921,10 +865,10 @@
         <thead><tr><th>Per person</th><th class="num">Est.</th></tr></thead>
         <tbody>
           <tr><td>Lodging + safari + rafting <span class="faint">(paid to Drewes)</span></td><td class="num"><b>$784.14</b> ✅</td></tr>
-          <tr><td>Food, drink &amp; the ribeyes <span class="faint">(~$92 of it is the grocery run)</span></td><td class="num">~$200–330</td></tr>
+          <tr><td>Food, drink &amp; the ribeyes <span class="faint">(~$80 of it is the grocery run)</span></td><td class="num">~$190–320</td></tr>
           <tr><td>Tips, gas, park entry, bear spray, incidentals</td><td class="num">~$115–220</td></tr>
           <tr><td>Tram + Corbet's waffles <span class="faint">(Sunday, optional)</span></td><td class="num">~$0–55</td></tr>
-          <tr><td><b>All in, on the ground</b></td><td class="num"><b>≈$1,100–1,390</b></td></tr>
+          <tr><td><b>All in, on the ground</b></td><td class="num"><b>≈$1,090–1,380</b></td></tr>
           <tr><td>Flights</td><td class="num muted">each man's own booking</td></tr>
         </tbody>
       </table>
@@ -1323,9 +1267,9 @@
       saved = {}; refresh();
     }};
   }
-  var packState = wireChecklist('pk', 'jh26_pack_v2', 'packProg', 'packProgLab', 'packed');
-  var todoState = wireChecklist('td', 'jh26_todo_v4', 'todoProg', 'todoProgLab', 'done');
-  var grocState = wireChecklist('gr', 'jh26_groc_v2', 'grocProg', 'grocProgLab', 'got');
+  var packState = wireChecklist('pk', 'jh26_pack_v3', 'packProg', 'packProgLab', 'packed');
+  var todoState = wireChecklist('td', 'jh26_todo_v5', 'todoProg', 'todoProgLab', 'done');
+  var grocState = wireChecklist('gr', 'jh26_groc_v3', 'grocProg', 'grocProgLab', 'got');
 
   Array.prototype.forEach.call(document.querySelectorAll('.reset-btn'), function(btn){
     btn.addEventListener('click', function(){
