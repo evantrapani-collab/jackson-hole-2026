@@ -1,158 +1,76 @@
 # Grocery List — 13 guys, Sep 17–21
 
-**Owner: Chris Psilos.** ✅ **Method decided (9/9): a delivery order landing at the house 4:00 PM Thursday**, plus one **in-person store run Friday evening** for the steaks and the restock.
+**Owner: Psilos.** 🚚 **Delivery to the house 4:00 PM Thursday** (drinks, coffee, snacks, breakfast sandwiches, late-night food) + 🚗 **one store run Friday evening** for the ribeyes, ice and whatever the delivery got wrong.
+
+Most meals are out. This list feeds **steak night, the Sunday game spread, four breakfasts, two park-day snack runs, and the house drinks.** No packed lunches — Friday is Cutty's, Saturday is Creekside subs.
+
+**≈ $1,140 total · ~$92/person**
 
 ---
 
-## Read this first — the list is smaller than you'd expect
+## First: the butcher call
 
-13 guys × 4 nights sounds like a mountain of food. It isn't, because **most meals on this trip are out.** This list feeds these slots:
+- [ ] **Albertsons butcher — hold 13 bone-in ribeyes, 24 oz each**, under a name, pickup **Friday evening**. They usually carry Prime; Smith's and Jackson Whole Grocer are the backups. 20 oz × 13 is a fine fallback
 
-| Slot | On this list? | Why |
-|---|---|---|
-| Thu dinner | ❌ | Bar crawl — Snake River Brewing has a full menu |
-| Fri breakfast | ❌ | **Cowboy Coffee drive-thru** (1007 S US-89, opens 6 AM), on the way to the 7:45 AM check-in |
-| Fri lunch | ❌ | 🆕 **Cutty's** (1140 W WY-22, ~3 min from the boathouse) — decided 9/9. **Sidewinders next door** is the fallback if the safari van runs late |
-| Fri dinner | ❌ | 🆕 **Out** — Psilos is buying for two nights out, not three house dinners (9/9) |
-| **Sat breakfast** | ✅ | **Frozen breakfast sandwiches** are on the delivery order; the burrito batch is the upgrade, not the floor |
-| Sat lunch | ❌ | 🆕 **Creekside subs**, pre-ordered, grabbed ~6:35 AM on the way north (545 N Cache is on the route). Eaten at West Thumb |
-| **Sat dinner** | ✅ | **Steak night** — the ribeyes |
-| **Sun breakfast** | ✅ | Same stash |
-| **Sun late-morning** | ✅ | Saints game spread, 11 AM kickoff |
-| Sun dinner | ❌ | Dornan's in Moose *(unless steak night moves here)* |
-| **Mon breakfast** | ✅ | Leftovers + coffee, out the door by 9:45 |
-
-**So the real shopping is:** one steak night, one game-day spread, breakfast for four mornings, snacks for two park days, and the drinks for the house. 🆕 **No lunch meat at all as of 9/9** — Friday is Cutty's, Saturday is Creekside subs.
+*~19.5 lbs of steak is not something a resort-town meat case has sitting out, and it's the one line you can't leave to a delivery app.*
 
 ---
 
-## The two runs
+## The list
 
-🚚 **A delivery lands at the house 4:00 PM Thursday** — drinks, coffee, bars, fruit, snacks, frozen breakfast sandwiches, late-night food, trash bags. 🚗 **An in-person store run Friday evening** covers the rest: **the 13 ribeyes**, ice, the TP restock, and anything the delivery substituted or dropped.
+### 🥩 Meat
 
-> 🧊 **Ice is the one item a 4 PM delivery handles badly** — grab bags on the Friday-evening run, or it's the one thing worth a Thursday stop.
->
-> 🔁 **A delivery order substitutes.** Check it against this list at 4 PM Thursday; anything wrong gets fixed on **Friday evening's store run**, which is already happening for the steaks.
-
-**Also on this trip, and ✅ no longer your problem:** bear spray. It came off this run entirely — the crew now **rents 2 canisters at the Bear Aware kiosk in JAC baggage claim** on arrival (~$56 total, returned Monday).
-
----
-
-## 🥩 Step 1: The butcher call — do this before anything else
-
-> This is the one item you cannot leave to shelf stock or a delivery app. **13 × 24 oz bone-in ribeyes is ~19.5 lbs of steak** and no grocery meat case in a resort town has that sitting out. ✅ **Psilos is buying them in person Friday evening** rather than trusting the delivery — call ahead anyway so they're cut and waiting.
-
-- [ ] **Call the Albertsons butcher counter ahead** — cut and hold **13 bone-in ribeyes, 24 oz each (~1.5 lb)**. They're usually the one carrying **Prime**; **Smith's** and **Jackson Whole Grocer** are the backups
-- [ ] Give them the **pickup day (Friday evening)** and a name
-- [ ] Ask what they've got if they can't do 13 — 20 oz × 13 is a fine fallback; splitting across Albertsons *and* Smith's is the backup
-- [ ] **Pair the pickup with the burrito pickup** — rafting is off the water at 4:30 and the store is on the way home. One trip, three jobs: steaks, burritos, restock
-
-**Timing note:** a Friday-evening buy is a **~24-hour hold** for a Saturday steak night — better than the old Thursday plan, not worse. Refrigerate; **do not freeze bone-in ribeyes.** If steak night moves to Sunday it's a two-day hold, still fine refrigerated.
-
----
-
-## Step 2: The master list
-
-### 🥩 Meat & Deli
-
-- [ ] **13 bone-in ribeyes, 24 oz** — butcher counter, picked up Friday evening (see above)
-- [ ] Chicken wings, **10 lb** — Sunday game spread
-- [ ] Andouille or smoked sausage, **3 lb** — Sunday game spread
+- [ ] **13 bone-in ribeyes, 24 oz** — butcher counter, Friday evening
+- [ ] Chicken wings, **10 lb** — Sunday game
+- [ ] Andouille or smoked sausage, **3 lb** — Sunday game
 
 ### 🥬 Produce
 
-- [ ] Russet or red potatoes, **10 lb** — steak night side
-- [ ] Corn on the cob, **13 ears** — steak night side
-- [ ] Bagged salad kits, **3** — the green thing nobody plans and everybody eats
-- [ ] Yellow onions, **3 lb**
-- [ ] Lemons/limes, **6**
-- [ ] Apples or oranges, **10** — car snacks, both park days
-- [ ] Veggie tray + ranch, **1 large** — Sunday spread
+- [ ] Potatoes, **10 lb** · Corn, **13 ears** · Salad kits, **3** — steak night
+- [ ] Yellow onions, **3 lb** · Lemons/limes, **6**
+- [ ] Apples or oranges, **10** — car snacks
+- [ ] Veggie tray + ranch — Sunday
 
-### 🍞 Bread & Bakery
+### 🍞 Bread
 
-- [ ] Bagels or English muffins, **2 dozen** — Monday breakfast + backup
-- [ ] Hamburger buns, **1 pack** — game-day sausage
+- [ ] Bagels or English muffins, **2 dozen**
+- [ ] Hamburger buns, **1 pack**
 
-### ☕ Breakfast & Coffee
+### ☕ Breakfast & coffee
 
-> **Coffee is the single most under-bought item on a trip like this.** 13 guys, four mornings, two of them pre-dawn. Buy more than feels right.
+> Coffee is the most under-bought item on a trip like this. 13 guys, four mornings, two of them pre-dawn. Buy more than feels right.
 
-- [ ] **Ground coffee, 3 lb** — and check whether the house is drip, Keurig, or both before you commit to a format
-- [ ] Coffee filters — **buy a pack even if you think the house has them**
-- [ ] **Frozen breakfast sandwiches, ~30** 🆕 — the Sat 6:15 and Sun 6:00 starts
-- [ ] **Milk** *(Mitternight)* + creamer (2 large) + **sugar**
+- [ ] **Ground coffee, 3 lb** + filters — check whether the house is drip or Keurig
+- [ ] **Frozen breakfast sandwiches, ~30** — the 6:15 and 6:00 starts
+- [ ] Milk + creamer + sugar
 - [ ] **Granola / protein bars, ~40** — park-day pockets
-- [ ] Eggs, **2 dozen** — backup / lazy morning
-- [ ] Bacon, **2 lb** — Monday / lazy morning
-- [ ] Butter, **2 lb** — steak night needs it too
+- [ ] Eggs, **2 dozen** · Bacon, **2 lb** · Butter, **2 lb**
 - [ ] Cream cheese, jam, peanut butter
 
-### 🧂 Pantry & Seasoning
+### 🧂 Pantry
 
-> Airbnbs never stock enough salt for 13 steaks. Assume the kitchen has nothing.
-
-- [ ] **Kosher salt** (big box), **coarse black pepper**, **garlic powder** — the ribeye rub
-- [ ] Olive oil / cooking oil
-- [ ] Mayo, mustard, ketchup — the Sunday game spread (burgers, sausage)
-- [ ] Hot sauce — **2 bottles**, the breakfast sandwiches want it
-- [ ] BBQ sauce + wing sauce — Sunday
-- [ ] Sour cream, **2 large**
-- [ ] Chips, **4 big bags** + salsa/queso/dip, **4** — Sunday spread
-- [ ] **Peanut butter crackers** *(Hardie)*, **trail mix**, jerky — park-day car snacks, Sat + Sun
+- [ ] **Kosher salt, coarse pepper, garlic powder** — the ribeye rub. Assume the kitchen has none
+- [ ] Cooking oil · mayo, mustard, ketchup · hot sauce (2) · BBQ + wing sauce · sour cream
+- [ ] Chips, **4 big bags** + salsa/queso/dip, **4**
+- [ ] Peanut butter crackers, trail mix, jerky — car snacks
 - [ ] **Late-night food** — frozen pizzas, taquitos, whatever reheats at 1 AM
 
 ### 🧊 Drinks
 
-- [ ] **Beer — 5 cases**. Thursday and Friday are out, so this is really Sat/Sun at the house plus late nights
-- [ ] **Whiskey — 2 handles** + mixers (Coke, ginger ale, soda water)
-- [ ] Hard seltzer, **2 cases**
-- [ ] Bottled water, **5 cases** — altitude; you'll drink more than at home
-- [ ] Gatorade/electrolytes, **1 case** — 6,200 ft and a bar night. This is the most useful $12 on the list
-- [ ] Ice, **6 bags** — Friday-evening run; a cooler in a September car eats through it
+- [ ] **Beer — 5 cases** · hard seltzer, **2 cases**
+- [ ] **Whiskey — 2 handles** + mixers
+- [ ] **Water, 5 cases** — altitude; you'll drink more than at home
+- [ ] Gatorade, **1 case** — 6,200 ft and a bar night. Best $12 on the list
+- [ ] **Ice, 6 bags** — Friday run; a 4 PM delivery handles ice badly
 
-### 🧻 Paper & Supplies
+### 🧻 Paper & supplies
 
-- [ ] ⚠️ **Toilet paper — 2 big packs** *(Fulham asked; nobody has verified what the house stocks)*. Restock on the Friday-evening run if it's going fast
-- [ ] **Paper plates (150+) and cups (100+)** *(Mitternight)*, napkins, paper towels (6 rolls)
-- [ ] Trash bags, **2 boxes** — 13 guys generate more than you think, and you're hauling it out Monday
-- [ ] **Heavy-duty foil** — reheating breakfast sandwiches, wrapping steaks to rest
-- [ ] Dish soap + dishwasher pods
-- [ ] Gallon ziplocs — the cooler, leftovers
-- [ ] Sunscreen / lip balm if anyone forgot *(they did)*
-- [ ] ⚠️ **Charcoal (2 bags) + chimney starter** — **only if the grill turns out to be charcoal.** Skip if it's gas and the tank's full; if the tank's low, a **~$25 propane exchange** is at the same Smith's/Albertsons
+- [ ] **Toilet paper, 2 big packs** — nobody has counted what the house stocks
+- [ ] Paper plates (150+), cups (100+), napkins, paper towels
+- [ ] Trash bags, **2 boxes** — you're hauling it out Monday
+- [ ] Heavy-duty foil · dish soap + pods · gallon ziplocs
+- [ ] Charcoal (2 bags) + chimney — **only if the grill turns out to be charcoal**
 
 ---
 
-## What this runs
-
-| Section | Cost |
-|---|---|
-| Ribeyes (13 × 24 oz) | ~$330 |
-| Meat & produce | ~$135 🆕 *(was ~$185 — the deli, cheese and bread came off 9/9)* |
-| Breakfast, coffee & pantry | ~$180 |
-| Sunday game spread | ~$115 |
-| Drinks | ~$270 |
-| Paper, ice & supplies | ~$110 |
-| **Total** | **≈ $1,140** 🆕 *(~$88/person)* |
-| **Per person (13)** | **≈ $92** |
-
-🆕 **Friday dinner moving out costs ~$30/person net** — roughly **$45** for a restaurant dinner with drinks against the **~$15** of groceries the house meal would have been.
-
-**Cross-check against [`/budget`](../budget/budget.md):** the budget carries *Food & Drink $150–250* plus *Ribeyes $50–80* per person — call it **$200–330**. Groceries land at **~$92/person** and the three restaurant meals (Thursday bars, **Friday dinner**, Sunday Dornan's) make up the rest at roughly **$125**. **The budget holds.**
-
-Not on this list, but real money:
-- **Breakfast burritos, ~18–20 from a vendor — ~$200 total (~$15/person).** The upgrade over the frozen sandwiches. Ordered by 9/16 from **Creekside** and picked up **Saturday ~6:35 AM** with the lunch subs 🆕 *(their deli closes at 5 PM, so not the Friday run)*. See [`dining.md`](./dining.md#breakfast-for-the-early-starts--house-stash)
-
----
-
-## Splitting the run: delivery vs. in person
-
-| Friday-evening store run (in person) | The 4 PM Thursday delivery |
-|---|---|
-| **The 13 ribeyes** (butcher counter) | Drinks, water, ice-free bulk, paper goods |
-| Ice | Pantry, seasoning, canned goods |
-| Anything the delivery substituted or dropped | Breakfast, coffee, snacks, late-night food |
-| TP restock | ⚠️ **Deli + bread — only if the Creekside order fell through** |
-
-**The shape of it:** the house is stocked when 13 guys walk in at 4 PM Thursday, 🆕 **nobody builds sandwiches on any night** (Friday lunch is Cutty's, Saturday's is Creekside), and Friday's drive home picks up the steaks, the ice and whatever the delivery got wrong. 🆕 **The burritos moved off that run** — Creekside's deli shuts at 5 PM, so they ride Saturday's 6:35 AM pickup with the subs. 🆕 **Thursday's 3:00–4:00 errand hour is no longer a grocery run** — it's slack, and the only thing worth spending it on is ice.
+**Instacart** is the mid-trip restock button — ~1 hr to Teton Village. There's no full-size grocery in the Village.

@@ -1,210 +1,101 @@
 # Itinerary
 
-**September 17–21, 2026 — 5 days / 4 nights**
-**Group:** 13 guys (see `/logistics/roster.md`)
+**Sep 17–21, 2026 · 13 guys** · times are Mountain unless marked CT
 
 ---
 
-## Thursday, Sep 17 — Arrival + Hit the Town
-
-- Fly into Jackson Hole Airport (JAC) — arrive **10:19 AM**
-- ✅ **Check-in is 4:00 PM** *(confirmed with RMR)* — a **~5-hour gap** with 13 guys and all the bags in two SUVs, which is why the afternoon needs a shape.
-  - ⏳ **Early check-in is asked for, not promised**, and RMR may charge to lock it in. **Build the day for 4 PM.** Checkout: plan on **~10 AM** Monday
-
-### The afternoon
-
-> 🚡 **No lift on Thursday** — the Bridger Gondola's season ends Sept 13 and we land the 17th. **The tram is Sunday's.** 🆕 **The 3:00–4:00 block is no longer a grocery run** — the delivery lands at the house at 4 PM, so the hour is slack. Spend it on **ice** if you spend it on anything.
-
-Land → **Dornan's** → **brewery in town** → **the errand hour** → **check in** → out for the night. Rough clock, so you can see the seams:
-
-| Time | Where | Notes |
-|---|---|---|
-| 10:19–11:15 | JAC | Land. **Hardie + Schick to the rental counter before baggage claim**; everyone else pulls bags — and **rents the bear spray at the Bear Aware kiosk by baggage claim #3** while standing there (see below). Load two SUVs |
-| 11:30–1:00 | **Dornan's** (Moose) | **~12 min from JAC**, opposite direction from town. ⚠️ **They open at 11:30** — don't roll up at 11:15. Pizza, beer, straight-on Tetons. Decompress and let everyone adjust to 6,200 ft before anyone drives into Jackson |
-| ~1:25–3:00 | **Brewery in town** | Austin's rec — **Snake River Brewing** (great outdoor space, seats 13 without a reservation). Note this was stop 1 of the night crawl; this just moves it to daylight, and the crawl starts at the Silver Dollar instead |
-| **3:00–4:00** | **The errand hour** 🛒 | 🆕 **Not a grocery run any more** — the delivery lands at the house at 4. What's left worth doing: **ice**, and a propane exchange if the tank's a question. Otherwise it's slack, and you get to the house early |
-| **4:00–4:20** | **Montreux House** | Check in, drop bags, shower. 🚚 **The grocery delivery lands at 4:00** — somebody meets it and checks it against the list. **Check the grill while you're at it** — burner test, heft the propane tank (`/dining`) |
-| Evening | Downtown → Mangy Moose | The night crawl below. 🆕 **No sandwich duty tonight** — Friday lunch is Cutty's; Saturday's cooler gets built Friday evening |
-
-🐻 **Bear spray is solved at baggage claim — rent it, don't buy it.** **Bear Aware** runs a staffed kiosk at **JAC, next to baggage claim #3**, seven days a week June–October. **$16 for the first two days, $4/day after, capped at $28** per canister — so two canisters, one per vehicle, is **~$56 total (~$4/man)** against ~$100 to buy. You return them in the **after-hours drop box at that same kiosk** on Monday morning, which also deletes the question nobody had answered: what do you do with two canisters when you can't fly home with them? It costs **zero minutes** — you're standing at that carousel anyway. *(Fallback if the kiosk is closed or out: **Smith's and Albertsons both stock bear spray**, so it rides the same errand-hour cart — it was never a separate sporting-goods trip.)*
-
-**Two catches still worth naming:**
-
-1. ⚠️ **The DD job starts at lunch, not at midnight.** Beer at Dornan's ~11:45, more at the brewery ~1:30, then the errand run and the drive to the Village. **Hardie and Schick are the only two insured to drive** — one of them holding off through the afternoon legs is a real ask, so say out loud who's dry when, or add an authorized driver at the JAC counter that morning.
-2. ⚠️ **All the luggage rides along until 4 PM.** Three stops with two fully loaded SUVs — nothing valuable visible, and it's the best argument for taking the early check-in if RMR offers it.
-
-- **Night out (Jackson → Teton Village):**
-  1. **Snake River Brewing** — craft brewery, great food; casual start
-  2. **Silver Dollar Bar and Grill** — classic western bar, inlaid silver dollar bar top
-  3. **Million Dollar Cowboy Bar** — saddle bar stools, sawdust floors, live country music; the move
-  4. **Mangy Moose** — right at Teton Village; natural last stop on the way back to the house
-- **Getting back:** Mangy Moose is in Teton Village — **walkable from the house**, so the night ends on foot. The one leg that needs a sober driver is the **downtown Jackson → Teton Village drive (~20 min)** earlier in the night, after the Cowboy Bar. **DDs default to Hardie and Schick** — they're the only two on the rental agreements, so they're the only two insured to drive the SUVs. Anyone else who wants a shift gets added as an authorized driver at the JAC counter that morning. Say it out loud before you go out; rideshare in Jackson is thin and pricey late
-
----
-
-## Friday, Sep 18 — Guided Tetons Safari + Whitewater Rafting ✅ BOOKED
-
-> **Booked dawn-to-dusk — no free morning.** The 8 AM safari *is* your Tetons morning.
->
-> **It all happens at one address.** The morning tour is **Teton Expeditions**; the rafting is **Jackson Hole Whitewater**. Both stage from **945 W Broadway** (the boathouse in the Hillside complex, next door to Sidewinders). **Nobody repositions midday** — the van brings you back to the boat.
-
-| Time | What | Where |
-|---|---|---|
-| **~6:45 AM** | Leave the house (drive-thru coffee on the way) | Teton Village |
-| **7:45 AM** | **Check in — 15 min early, in writing** | 945 W Broadway |
-| 8:00 AM–~12:00 PM | Teton Expeditions sunrise safari (4 hrs) | Grand Teton NP |
-| ~12:00–12:35 PM | **Lunch — Cutty's Bar & Grill** 🆕 | 1140 W WY-22 (~3 min) |
-| **12:30 PM** | Rafting check-in (30 min early) | 945 W Broadway |
-| 1:00–4:30 PM | Snake River whitewater | Snake River Canyon |
-
-- **~6:45 AM — roll out**, not 7:00. Teton Village → 945 W Broadway is ~20 min and check-in is **7:45**, so a 7:00 departure leaves ~25 minutes of slack for 13 guys, two vehicles and a coffee order. Fifteen minutes earlier costs nothing and is the difference between arriving and arriving late
-  - ☕ **Take the drive-thru, not the square.** Cowboy Coffee has two locations, and the Town Square store (125 N Cache, opens 6 AM) is the **wrong** one on this morning: it's ~5 min *east past* the boathouse, so it's a backtrack, and 13 guys queuing inside at 7:15 is exactly how a 7:45 check-in slips. Their **drive-thru at 1007 S US-89 opens at 6 AM and sits ~2 minutes from 945 W Broadway**, right where WY-22 meets the highway — you pass it on the way in. Two SUVs, two orders, no one gets out of the car
-  - 🅿️ **The lot is the soft spot, not the drive.** JHWW's own trip-info calls parking at 945 W Broadway **"extremely limited"** and tells guests to walk or take a taxi — and it's a lot shared with two other outfitters. We need **two SUVs parked there ~7:45 AM–4:30 PM**. Arriving at 7:45 rather than 7:58 is most of the answer; the ask is in `/logistics`, and the fallback is dropping 12 guys and parking off the block
-  - Getting 13 guys out the door is the actual risk here, not the drive. **The Bunnery doesn't fit this morning** — it's on the square too, and it's a sit-down bakery, not a to-go window. Save it for Monday
-- **8:00 AM–~12:00 PM — Teton Expeditions half-day Grand Teton sunrise safari** ✅ *party of 13 confirmed for 9/18, 8:00 AM*
-  - **Trip length is 4 hours**, so plan on being back at the boathouse right around **noon** — an hour before the boat. Good wildlife runs long, though; if the van is late back, lunch is the thing that gets compressed, not the rafting
-  - This covers the Tetons — there's no separate self-drive time built in
-  - **Dress in layers.** Their words: it may be cold in the morning and *"we decide to get out and look through the spotting scope"* — so this is a stand-around-in-the-wind tour, not a sit-in-the-van one. Bring binoculars
-  - 🚫 **Teton Expeditions has a written NO ALCOHOL policy — "please leave it behind."** Same rule as the boat. Combined with JHWW's, **Friday's only drinking window is the lunch hour between them**, and that's the hour right before you get on a river
-- **~12:00–12:35 PM — Lunch at Cutty's.** 🆕 *(decided 9/9)* ⚠️ **JHWW does not feed this trip** — lunch comes with their *scenic float*, not the whitewater "Classic Raft" we booked. See `/dining`:
-  - ✅ **Cutty's Bar & Grill, 1140 W WY-22** — **~1 mile / ~3 min** from the boathouse, at the Broadway/WY-22 junction you already pass on the way in. **It's in Jackson, not Wilson** — the old "~10 min each way" that got it cut was wrong. Opens **11:30 AM**, cheesesteaks and pizza, and it's a bar
-  - ☎️ **Call ahead — (307) 201-1079, 13 heads, order in.** No reservations, but they work with groups by phone. The binding constraint is the **12:30 check-in**, not the drive: back ~12:00 → seated ~12:05 → out ~12:35 → boathouse ~12:40
-  - ⚠️ **If the van isn't back by ~12:10, Cutty's is off** — **Sidewinders**, next door, opens 11:30, zero drive. Spare sandwiches off Saturday's deli line ride in the SUV as the last-ditch backstop
-  - 🚌 Useful: **your bus seat is your locker and the driver stays with the bus**, and there are **changing rooms at the shop** — so wallets, phones and dry clothes all have a home. Eat in street clothes, change when you're back
-- **12:30 PM — rafting check-in** (the contract says be at the put-in 30 min early)
-- **1:00–4:30 PM — Jackson Hole Whitewater, "Classic Raft"** ("8 Miles of Smiles," Class 2–3) — private boat, ends ~4:30 PM ✅ *times confirmed in writing*
-  - ✅ **Waivers — all 13 signed.** Check-in is paperwork-free; Teton Expeditions has none of its own
-  - Shoes that attach to your feet required (no sandals or flip flops)
-  - Wetsuit rental on-site: $5/person (3-piece) — **call it by 9/16 on the forecast; default is nobody rents**, and they're stocked at the shop either way
-  - **No alcohol on the van or boat**
-  - ☎️ **JHWW: 307-733-1007** — the day-of number if anything slips
-- **Evening — dinner is OUT** 🆕 *(changed 9/9 — Psilos is shopping for two nights out, so there's no house dinner on the list)*. ✅ **Default: Sidewinders**, in the same lot the SUVs have been in all day — walk out of the boathouse and in the door. Mangy Moose (walkable from the house) is the no-drive fallback. **Call ahead that afternoon and say 13 are coming** — no reservations, but it's the difference between two tables and a wait
-- **~5:45 PM — the errand run, on the way home.** One trip, three jobs: **the 13 ribeyes** at the Albertsons butcher (pre-ordered), **ice**, and anything Thursday's delivery substituted or dropped. 🆕 **The burritos came off this run on 9/9** — Creekside's deli closes at 5 PM and the boat lands 4:30, so they ride Saturday's 6:35 AM stop with the lunch subs
-- **Tip the guides:** **two separate outfits**, so that's two tips — bring cash (~$20–40/person across both)
-
----
-
-## Saturday, Sep 19 — Yellowstone + LSU/Ole Miss 🏈
-
-> **Don't try to "do" Yellowstone.** It is **~2 hrs 45 min each way** from the house to Old Faithful. Pick a few stops and enjoy them rather than racing a loop.
-
-> ### ⏱️ The clock this day actually runs on
->
-> | Leg | Time |
-> |---|---|
-> | Teton Village → Yellowstone South Entrance | **~1 hr 30** (65 mi; the Moose-Wilson shortcut is closed) |
-> | South Entrance → Old Faithful | **~1 hr 15** (39 miles at 45 mph) |
-> | Old Faithful → the house | **~2 hrs 30** |
->
-> A 7:00 AM departure on those numbers gets you home **~4:50** — 40 minutes before kickoff, with 13 raw ribeyes and a grill that needs two batches. **So: leave at 6:15, and hold a hard turnaround.**
-
-- **Leave at 6:15 AM** — not 7:00. It's ~1 hr 30 to the South Entrance from Teton Village, plus a few minutes at the gate
-  - *Grab-and-go breakfast:* the **house stash** — frozen breakfast sandwiches off Thursday's delivery. Eat them in the car; the Creekside stop is for lunch, not breakfast
-  - 🥪 **~6:35 — the one stop: Creekside Market, 545 N Cache.** 🆕 *(added 9/9)* **13 pre-ordered subs for lunch + the burrito batch.** It is **not a detour** — 545 N Cache *is* US-26/89/191, the road north — and the **deli opens 6:00 AM**. ~10 minutes: South Entrance ~7:55, Fairy Falls ~9:15, still inside the parking window. ⏱️ **Leave 6:05 if you want the original clock back.** ⚠️ **Don't wait past ~6:55.** ☎️ (307) 733-7926 — confirm the pickup time when you order
-  - 🦌 **The first hour is in the dark, through Grand Teton, during the elk rut.** Sunrise is ~7:07. Elk, bison and deer are on US-26/89/191 at that hour and they are the actual hazard on this drive — not the schedule. Whoever's driving stays off the gas
-- ❄️🔥 **Check one road before you roll: Craig Pass.** The West Thumb → Old Faithful segment climbs to **8,262 ft**, and it's the first road in the park to shut when snow arrives — NPS closes it temporarily while Old Faithful stays open. **Our out-and-back crosses it twice**, so a mid-morning closure strands us on the far side with only the long way round the figure-eight, which ends the day. ✅ **Projected open through Oct 31** *(re-checked 9/8)*, and September averages just **1.3 inches** of snow — so this is unlikely, but it's free to check and it's the one thing that can break this day in half.
-  - **How:** Yellowstone road status at **nps.gov/yell** or @YellowstoneNPS — check Friday night *and* again at 6 AM before leaving
-  - 🔥 **Check fire and smoke on the same page, not just snow.** In September that's the likelier closure and the likelier disappointment — a smoked-in basin is a bad day even with every road open. Fire danger in the region is high this year
-  - **If it's closed: don't drive north.** Swap to a **Grand Teton morning** — Jenny Lake, Signal Mountain, Mormon Row — which is an hour closer, needs no new plan, and gets everyone back for the LSU game with room to spare. Yellowstone becomes next trip
-- 🕐 **The rule that protects the kickoff: wheels rolling south out of West Thumb by 2:00 PM.** Everything else on this day is negotiable; that number isn't. 2:00 from West Thumb = home ~3:50 = grill lit by 4:15 = eating before kickoff. Anything you haven't seen by 2:00 is a next-trip stop, and there is no version of this day where "one more quick stop" is free
-- **The route — in this order** *(from Jeremy Galiano, who's driven it; it's a real improvement on doing Old Faithful first)*:
-  1. **Drive past Old Faithful to the Grand Prismatic overlook first** (Fairy Falls trail). Coming in the South Entrance you go left toward Old Faithful and keep going ~10 min. Hitting the overlook early beats the midday crowd and the parking crunch
-     - ⚠️ **This is a hike, not a pull-off.** Park at the **Fairy Falls trailhead** and walk **0.8 mi each way (1.6 mi round trip)** — flat service road, then switchbacks up to the platform. Budget **~1 hour** for 13 guys with phones out. Boots on
-     - ⚠️ **That lot is small and fills early** — before 9 AM in peak season. Mid-September is lighter, but this is the reason we leave at 6:15: arriving ~9:15 means parking; arriving at 10:30 means circling
-  2. **Skip the boardwalk right at Grand Prismatic** — Jeremy's tip, and it's the one that buys us the day: *if you do the overlook, you don't need to go close to it.* That's a whole stop's worth of time back on the tightest day of the trip
-  3. **Backtrack to Old Faithful** and give it ~2 hours — check the predicted eruption time (posted at the visitor center; the NPS app needs a signal and you'll only have one in the developed area) so 13 guys aren't standing around, and walk the Upper Geyser Basin loop while you wait
-  4. **West Thumb Geyser Basin** on the way out — geysers right on the lake, quick, and it's where the Creekside subs get eaten. **Leave here by 2:00 PM, whatever's left unseen**
-
-**The clock, with the real numbers:**
+## Thursday, Sep 17 — Arrival + Town
 
 | Time | Where |
 |---|---|
-| 6:15 AM | Roll out of the house, breakfast in hand |
-| ~6:35–6:45 | 🥪 **Creekside Market, 545 N Cache** — 13 pre-ordered subs + the burritos. On the route, deli opens 6:00 |
-| ~7:55 | **Yellowstone South Entrance** — pay here ($35/vehicle, and it's a **7-day** pass, see below) |
-| ~9:15 | **Fairy Falls trailhead** (past Old Faithful, ~10 min north) |
-| 9:15–10:25 | **Grand Prismatic Overlook** — 1.6 mi round trip on foot |
-| ~10:30 | **Old Faithful** |
-| 10:30–12:30 | Old Faithful eruption + Upper Geyser Basin loop |
-| ~1:10 PM | **West Thumb Geyser Basin** — the Creekside subs, at the picnic tables |
-| **2:00 PM** | 🕐 **Hard departure.** No exceptions |
-| ~3:50 | Back at the house |
-| ~4:15 | Grill lit — 13 ribeyes is **two batches** |
-| **5:30 PM** | Kickoff |
+| 10:19 AM | **Land at JAC.** Hardie + Schick to the rental counter before baggage claim; everyone else pulls bags and **rents 2 bear sprays at the Bear Aware kiosk by carousel #3** (~$56 total, returned Monday — you can't fly with it) |
+| 11:30–1:00 | **Dornan's, Moose** — ~12 min from the airport. Pizza, beer, straight-on Tetons. **Opens 11:30**, don't roll up early |
+| 1:25–3:00 | **Snake River Brewing**, in town — seats 13 without a reservation |
+| 3:00–4:00 | Slack. Worth doing: **ice**, and a propane exchange if the tank's a question |
+| 4:00 | **Check in at Montreux House.** 🚚 The grocery delivery lands the same hour — somebody meets it. **Check the grill** while you're at it: lid up, burner test, heft the tank |
+| Evening | **Silver Dollar → Million Dollar Cowboy Bar → Mangy Moose** (walkable from the house) |
 
-> 💳 **Keep the entrance receipt on the dash.** The $35 is good for **7 days**, so the Grand Teton fee you pay at the Moran station on the way north Saturday morning also covers **Sunday's wildlife drive**. Don't pay twice.
-- 🎧 **Offline audio tour:** the **Shaka Guide "Yellowstone National Park Tour"** app narrates this exact South-Entrance loop and **works offline once downloaded** — which matters, because there's no cell service past the gate. Download it before Saturday.
-- 🚫 **What Jeremy recommends that we can't fit:** Emerald Spring (Norris Basin) and the **Yellowstone canyon waterfalls** — both are genuinely "can't miss," and both are well past our turnaround. See `/activities` for the drive-time math; they're next-trip stops, not Saturday stops.
-- *Lunch:* **the Creekside subs**, eaten at the **West Thumb picnic tables** on the way out. Don't put 13 guys in the Old Faithful food line at noon — it's 45 minutes you don't have. See `/dining`
-- **Home ~3:50 PM** if you hold the 2:00 turnaround — enough runway to shower, light the grill and eat before kickoff, and not much more
-- **5:30 PM MT — LSU vs. Ole Miss** (6:30 CT, **ABC**) — Lane Kiffin's return to Oxford
-  - Back at the house; **grill 24 oz bone-in ribeyes**
-  - Plan on **two batches** — 13 × 24 oz bone-in doesn't fit one grate; rest batch one in a 200°F oven. **Grill captain defaults to Psilos**, who owns the meat
-  - ⚠️ **Steak night is under discussion** — may move to Sunday (Saints). Default is still Saturday, and it got firmer on 9/9: with Friday's house dinner gone there are no leftovers, so if the steaks move, this night is the steak sides plus sandwich makings, or a second walk-in in town. See `/dining`
+⚠️ **The DD job starts at lunch, not midnight.** Hardie and Schick are the only two insured to drive the SUVs, and there's beer at Dornan's, more at the brewery, then the drive to the Village. Say out loud who's dry when — or add a driver at the JAC counter that morning.
+
+⚠️ **All the luggage rides along until 4 PM.** Nothing valuable visible at three stops.
 
 ---
 
-## Sunday, Sep 20 — Sunrise Wildlife Drive + Saints Game 🏈
+## Friday, Sep 18 — Safari + Rafting ✅ BOOKED
 
-> **The 11 AM kickoff frees the dawn window — use it.** September is peak elk rut; this is the can't-miss Wyoming morning.
+**Booked dawn to dusk, and it all happens at one address: 945 W Broadway** (the boathouse next to Sidewinders). The morning is **Teton Expeditions**; the afternoon is **Jackson Hole Whitewater**. Nobody repositions midday.
 
-> 🌅 **Leave at 6:00 — the arithmetic is tighter than it looks.** **Sunrise is ~7:07 AM**, first usable light is **~6:40**, and the peaks catch alpenglow before the valley does. **Schwabacher is ~45 minutes out**, not 25: the **Moose-Wilson Road is closed Sept 8 – Nov 15, 2026** (NPS Phase II construction), so everything goes **WY-390 → WY-22 → the Y → US-26/89/191 north through Jackson**. Leaving at 6:30 puts you in the parking lot at 7:15 — after the shot.
+| Time | What |
+|---|---|
+| **6:45 AM** | Leave the house. ☕ **Cowboy Coffee drive-thru, 1007 S US-89** — opens 6 AM, ~2 min out, on the way in. *Not* the Town Square store, which is a backtrack |
+| **7:45 AM** | **Safari check-in** (15 min early, in writing) |
+| 8:00–~12:00 | **Teton Expeditions sunrise safari**, 4 hrs, Grand Teton |
+| ~12:00–12:35 | **Lunch — Cutty's, 1140 W WY-22** (~3 min). Opens 11:30. ☎️ (307) 201-1079 |
+| **12:30 PM** | **Rafting check-in** (30 min early) |
+| 1:00–4:30 | **JHWW "Classic Raft"** — Class 2–3, private boat. ☎️ 307-733-1007 |
+| ~4:35 | **Sidewinders** — same lot, walk out of the boathouse and in the door. Call ahead that afternoon: 13 walk-ins on a Friday |
+| ~5:45 | **Albertsons** on the way home — the 13 ribeyes, ice, whatever the delivery got wrong |
 
-- **6:00–9:30 AM — Sunrise wildlife drive** (best light + animal activity of the trip)
-  - **Leave the house at 6:00**, 6:15 at the absolute latest. 6:00 → Schwabacher ~6:45, set up in the dark, and you own the light. 6:15 works. 6:30 does not
-  - *Grab-and-go breakfast:* hit the **house stash** on the way out — nothing's open at 6 AM
-  - **Schwabacher Landing** (~6:45) — the can't-miss sunrise: beaver ponds mirroring the Tetons. Last mile is dirt; take it slow in the dark
-  - **Oxbow Bend** (~7:45) — moose, elk, often a bull elk bugling; classic Teton reflection. *This is the one stop past the **Moran entrance station** — Saturday's 7-day pass covers it, so keep the receipt*
-  - **Mormon Row / Antelope Flats** (~8:30) — bison against the Tetons, back south on the way home
-  - 🚫 **Moose-Wilson Road — cut it.** It was on this list for the moose and the bears, and it's **closed for construction until Nov 15**. The Teton Village end is still drivable as far as the Rockefeller Preserve via the Granite Canyon entrance, but you can't through-drive to Moose and it's not worth a dead-end detour on a morning with a kickoff at the end of it
-- **11:00 AM MT — Saints @ Baltimore Ravens** (noon CT, **CBS**) — road game, late-morning watch
-  - ⚠️ **Possible steak night** — idea on the table to move the ribeyes here. Note the 11 AM kickoff makes it a *night* grill, not a game grill, and it would void the Dornan's dinner default (Saturday then drops to the house off grocery stock). Undecided — see `/dining`
-  - **Default: watch at the house** — owns the TV and the whole slate, no reservation, nobody driving after kickoff. Snake River Brewing / Roadhouse / Cutty's / Eleanor's are the upgrade if the Thu–Fri recon likes their setup
-- **Afternoon: the tram — ✅ confirmed running.** JHMR operates the **Aerial Tram May 16 – Oct 4, 2026, 8:30 AM–5 PM**, with **Corbet's Cabin** open at the top for the Top of the World waffles. Sunday the 20th is comfortably inside that. It's **walkable from the house**, the game ends ~2:15, and the last ride up is well after that — this is the easiest highlight on the whole trip
-  - 💵 **~$55/person** for a sightseeing ticket, **bought at the window on the day** — nothing to buy in advance
-  - ⏱️ **The afternoon is back-to-back, so here's the clock:** game ends ~2:15 → walk over → **tram up ~2:30** → Corbet's + the summit ~40 min → **down by 3:40** → house 3:50 → leave 4:15 → **Dornan's ~4:50**. It works, but there's no slack in it. **Last tram down is 5:00** and Corbet's closes with it — don't dawdle at the top and then expect a 5 PM table in Moose
-  - *(This is the **tram**, the summit ride. The Bridger Gondola — the mid-mountain lift — closed for the season Sept 13, so there is no longer any way to ride the wrong one.)*
-- **Dinner — default: early Dornan's (~5 PM)** in Moose — pizza + the Teton view to close the last full day. ✅ **Hours check out: open daily 11:30 AM–7:00 PM, year-round**, so a 5 PM sitting is safe and the old "confirm fall hours" worry is down to a courtesy call. ⚠️ **It's ~35 min each way now**, not 25 — the Moose-Wilson shortcut is closed, so it's a ~70-minute round trip on top of the meal. Leave the Village by 4:30. **Backup: the house**
-- Who Dat — Monday 11:47 AM departure means a reasonable Sunday night
-
----
-
-## Monday, Sep 21 — Travel Home
-
-- **Out of the house by ~9:45 AM** — confirm the exact checkout time with the host (same ask as check-in); 13 guys packing out takes longer than you think
-- *Breakfast:* whatever's left + house coffee — **hold back 2–3 from the breakfast stash for this morning**. No sit-down fits, and JAC's terminal food is two small counters. Clear the fridge on the way out
-- **Fuel both SUVs** the night before or en route (gas in town, not at the tiny airport lot) and **return the rentals at JAC** — build in ~20 min for the return + shuttle to the terminal
-- 🐻 **Return the two bear-spray canisters** to the **Bear Aware kiosk at baggage claim #3** — there's an after-hours drop box, so it works even if nobody's staffing it at 10 AM. Don't try to fly with them; don't leave them at the house
-- Be at JAC by **10:15 AM** — it's a small airport but don't cut it close
-- **Depart JAC 11:47 AM** → DFW 3:38 PM → MSY 6:41 PM
+- **Dress in layers** — the van stops and everyone gets out at the spotting scope. Bring binoculars
+- **Shoes must attach to your feet** on the boat. Wetsuits are $5 at the shop if the morning's cold
+- 🚫 **No alcohol at either outfitter.** The lunch hour is the only window, and it's right before a river
+- ✅ Waivers all signed. **Two outfits = two tips** — cash
+- ⚠️ **If the van isn't back by ~12:10, skip Cutty's** — Sidewinders is next door, zero drive
+- 🅿️ The lot is shared with two other outfitters and JHWW calls it "extremely limited." Being early is the parking plan; if it's full, drop 12 at the door and one man parks off the block
 
 ---
 
-## Logistics Notes
+## Saturday, Sep 19 — Yellowstone + LSU 🏈
 
-- **Two SUVs, no 3rd vehicle** — decided. 13 guys + bags is tight on the Thursday and Monday airport legs: **soft duffels over hard rollers**
-- **Driver-lead per vehicle: Hardie (Explorer) and Schick (Expedition)** — they hold the rental agreements, so they're the two insured drivers, and the driver-lead owns departure times for his car. Herding 13 guys is the main thing that blows up a schedule
-- **Park entry:** no reservations needed for either park in 2026. ✅ **Pay at the gate** — 2 vehicles × 2 parks × $35 = $140. Nobody owns an America the Beautiful pass, and two would have run $160 anyway. **Each $35 is good for 7 days**, so Saturday's Grand Teton fee at Moran covers Sunday's Oxbow Bend — keep the receipt on the dash
-- **Bear spray:** ✅ **rented at JAC baggage claim** (Bear Aware kiosk, ~$28/canister capped, returned to the drop box Monday) — one per vehicle. Fallback if the kiosk is out: **Smith's and Albertsons both stock it**, same errand-hour cart
-- 🚧 **Moose-Wilson Road is closed Sept 8 – Nov 15, 2026** between the Rockefeller Preserve and Moose. Every drive from the house into Grand Teton or Yellowstone goes the long way — **WY-390 → WY-22 → US-26/89/191 through Jackson.** Add ~10 min to anything you remember being "the back way"
-- 🔥 **Fire season is live.** Grand Teton's Stage 1 restrictions lifted **Aug 31** with danger still high, and the **Fish Creek fire** closed **US-26/287 east of Moran toward Dubois** in early September, reopening unknown. **Not our route** — we run north on US-89/191/287 — but it's the first thing that would reroute us, and smoke is what would flatten Sunday's sunrise. Same day-of check as Craig Pass *(re-checked 9/8)*
-- **Weather backup:** mid-September can bring early snow + road closures at Yellowstone elevation. Town fallback (brewery / Cowboy Bar) keeps a scrubbed park day from being a scramble — and the **National Museum of Wildlife Art** (world-class, overlooks the elk refuge) is the named indoor daytime move
-- **No cell service in Yellowstone** — download offline maps before you go
-- **If something goes wrong:** nearest hospital is **St. John's Health, 625 E Broadway, Jackson** (~25 min from the house, 24-hr ER). Write it down — no cell service in the parks. It's a rafting + hiking trip
+> **Don't try to "do" Yellowstone** — it's ~2 hrs 45 each way to Old Faithful. Three stops, then out.
+
+| Time | Where |
+|---|---|
+| **6:15 AM** | Roll out, breakfast sandwiches in hand |
+| ~6:35 | 🥪 **Creekside Market, 545 N Cache** — the pre-ordered subs + burritos. On the route, deli opens 6:00. ~10 min. **Don't wait past 6:55** |
+| ~7:55 | **South Entrance** — pay $35/vehicle (good 7 days, keep the receipt) |
+| ~9:15–10:25 | **Grand Prismatic overlook** via the **Fairy Falls trailhead** — 1.6 mi round trip on foot, boots on. Do this *first*; skip the boardwalk at Grand Prismatic itself |
+| ~10:30–12:30 | **Old Faithful** — check the posted eruption time, walk the Upper Geyser Basin loop |
+| ~1:10 PM | **West Thumb** — geysers on the lake, and where the subs get eaten at the picnic tables |
+| **2:00 PM** | 🕐 **Wheels rolling south. No exceptions** |
+| ~3:50 | Home. Shower, light the grill — **13 × 24 oz is two batches**, rest batch one in a 200°F oven |
+| **5:30 PM** | **LSU vs. Ole Miss** (6:30 CT, ABC). Steak night; Psilos has the tongs |
+
+- 🦌 **The first hour is dark, through the elk rut.** Animals are on US-26/89/191 at that hour — that's the real hazard, not the schedule
+- ❄️🔥 **Check Craig Pass before you roll** (nps.gov/yell), Friday night and again at 6 AM. It's the first road to close for snow, we cross it twice, and smoke is the likelier September problem. **If it's closed, don't drive north** — swap to a Grand Teton morning (Jenny Lake, Signal Mountain, Mormon Row), an hour closer
+- 🎧 **Shaka Guide's Yellowstone tour** narrates this exact loop and works offline. Download it first — no cell service past the gate
 
 ---
 
-## Key Times to Keep in Mind
+## Sunday, Sep 20 — Sunrise Drive + Saints 🏈
 
-| Event | Time | Notes |
-|---|---|---|
-| Fri — leave the house | **~6:45 AM** | Cowboy Coffee **drive-thru** (1007 S US-89, opens 6 AM) on the way; ~20 min to 945 W Broadway |
-| Fri — safari check-in | **7:45 AM** | 15 min prior, per Teton Expeditions |
-| Friday safari (Teton Expeditions) | 8:00 AM | 4 hrs → back ~noon. Layers; no alcohol |
-| Rafting (JHWW) | 1:00 PM | **Same address** — 945 W Broadway. Check in 12:30; ends ~4:30; waiver signed in advance |
-| Sat — leave for Yellowstone | **6:15 AM** | ~1 hr 30 to the South Entrance; 2–3 stops |
-| Sat — **turnaround at West Thumb** | **2:00 PM** | 🕐 Hard rule. Home ~3:50; grill lit ~4:15 |
-| LSU/Ole Miss kickoff | 5:30 PM MT | 6:30 CT on ABC |
-| Sun — sunrise wildlife drive | **6:00 AM** | Sunrise ~7:07; Schwabacher is ~45 min out. Oxbow Bend, Mormon Row *(Moose-Wilson is closed)* |
-| Saints @ Baltimore | 11:00 AM MT | Noon CT on CBS |
-| JAC flight check-in | 90 min before departure | Small airport, don't cut it close |
+| Time | Where |
+|---|---|
+| **6:00 AM** | Leave. Sunrise is **7:07** and **Schwabacher is ~45 min out** — 6:30 puts you in the lot after the shot |
+| ~6:45 | **Schwabacher Landing** — beaver ponds mirroring the Tetons. Last mile is dirt, take it slow in the dark |
+| ~7:45 | **Oxbow Bend** — moose, elk, bugling bulls. Past the Moran station; Saturday's receipt covers it |
+| ~8:30 | **Mormon Row / Antelope Flats** — bison against the Tetons, on the way home |
+| **11:00 AM** | **Saints @ Ravens** (noon CT, CBS) — at the house |
+| ~2:30–3:40 | 🚡 **Aerial Tram + Corbet's Cabin waffles** — walkable from the house, ~$55 at the window. **Last ride down is 5:00** |
+| ~4:30 | Leave for **Dornan's, ~5 PM** — ~35 min each way now that Moose-Wilson is closed |
+
+🚫 **Moose-Wilson Road is cut** — closed for construction through Nov 15. No through-drive to Moose.
+
+---
+
+## Monday, Sep 21 — Home
+
+- **Out of the house ~9:45** — 13 guys pack out slower than you think. Clear the fridge; hold back a couple of breakfast sandwiches for this morning
+- **Fuel the SUVs in town**, not at the airport lot. Build ~20 min into the return
+- 🐻 **Drop the bear spray** at the Bear Aware kiosk (after-hours box works)
+- At JAC by **10:15**. **Depart 11:47 AM** → DFW 3:38 → MSY 6:41
+
+---
+
+## Standing Facts
+
+- 🚧 **Moose-Wilson closed Sep 8 – Nov 15.** Every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson
+- **Park entry:** $35/vehicle at the gate, no reservation needed, good for 7 days. ~$140 all in
+- **Drive times from the house:** Yellowstone South Entrance ~1 hr 30 · Old Faithful ~2 hr 45 · Schwabacher ~45 min · Dornan's ~35 min · JAC ~30–35 min
+- **Weather scrub?** Town (brewery / Cowboy Bar) or the **National Museum of Wildlife Art**
+- **Nearest ER:** St. John's Health, 625 E Broadway, Jackson (~25 min, 24 hr)

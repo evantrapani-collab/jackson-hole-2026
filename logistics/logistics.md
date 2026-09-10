@@ -1,210 +1,85 @@
 # Logistics
 
-## Flights ✅ BOOKED
+## Key Contacts — print this
 
-**American Airlines**
-
-### Outbound — Thursday, Sep 17
-| Leg | Flight | Departs | Arrives |
-|---|---|---|---|
-| MSY → DFW | AA 468 | 5:49 AM | 7:40 AM |
-| DFW → JAC | AA 1923 | 8:23 AM | **10:19 AM** |
-
-> ⚠️ **Short connection at DFW — only 43 minutes.** If AA 468 is delayed, you may miss AA 1923. Keep an eye on it day-of.
-
-### Return — Monday, Sep 21
-| Leg | Flight | Departs | Arrives |
-|---|---|---|---|
-| JAC → DFW | — | 11:47 AM | 3:38 PM |
-| DFW → MSY | — | 5:05 PM | 6:41 PM |
-
-> **Monday morning:** Be at JAC by **10:15 AM**. Small airport but don't sleep in.
-
-### If the DFW connection blows up — misconnect playbook
-
-> **Most of the crew — including Hardie and Schick, who hold the two rental reservations — is on the group MSY→DFW→JAC itinerary. A few guys booked separately (names TBD).** For anyone on the group ticket, a missed connection means **AA rebooks free and automatically** — the problem isn't cost, it's finding seats to a small mountain airport on short notice. **Anyone on a separate booking rebooks himself and has no group protection.** The thing to protect is **Friday's 8 AM van tour** (private van + boat, refund window closed by then), not Thursday — nothing on Thursday is booked that the 4 PM grocery delivery can't absorb.
-
-**Tier 0 — prevention (costs nothing)**
-- Everyone loads the trip in the **AA app** with push alerts on; check the inbound aircraft Wednesday night
-- **Carry-on only** for anyone who can manage it — checked bags chain you to AA's rebooking; carry-ons can take any reroute, including the SLC drive
-- Sit toward the front of AA 468 — the 43 minutes is a Skylink sprint, not a coffee stop
-
-**Tier 1 — missed it; catch the same-day evening nonstop**
-- ✅ **The backup flight exists.** AA runs **2 nonstops a day DFW→JAC, 14 a week, year-round** — the old worry that post-Labor-Day schedules thin out doesn't apply. The second one is the evening departure (~5:50 PM, lands ~7:45). **Confirm the exact time in the app by 9/14**; the structural risk is closed, but *2 a day* also means the evening flight is the last chance, and 13 seats on it is a lot
-- The race is seats, not rebooking: everyone on the group ticket rebooks **simultaneously in the AA app** while one guy calls AA and another hits the gate desk. Take whatever's there; split across flights if needed
-- **Seat priority: Jason Hardie + Joe Schick first** — they hold the two JAC rental reservations and are on the group itinerary, so they misconnect together. An advance party grabs the SUVs, checks into the house, and **meets the 4 PM grocery delivery** (see `/dining`)
-- Cost of this outcome: the Thursday midday window and most of the bar crawl. Friday untouched. Bear spray moves to Friday evening
-- Side effect: **beds are picked on arrival, and Ciolino has the floor spot by design** — don't let a late-landing guy get bumped onto the couch on top of him; one floor spot is the plan, not two
-
-**Tier 2 — no JAC seats left same day: fly to SLC and drive**
-- AA runs many daily DFW→SLC flights; Jackson is **~280 mi / ~5 hrs** from SLC (see drive-time table below)
-- One-way rentals SLC→Jackson are routine (Hertz, Enterprise, Avis, etc.; drop fees ~$12–140 — noise split 13 ways)
-- Whole group reroutes → rent **two one-way SUVs at SLC** and cancel the JAC reservations. Group splits → keep at least one rental driver on whatever still lands at JAC
-- Even a 3 PM SLC landing puts everyone at the house by dinner with Friday fully intact
-
-**Tier 3 — the outcome to refuse: overnighting at DFW**
-- The first Friday flight lands 10:19 AM — **two hours after the van tour leaves**, with the refund window closed
-- Rule of thumb: **if it's before ~6 PM and there's no confirmed JAC seat, take the SLC routing. Drive before you sleep.**
-
----
-
-## Lodging
-
-- **Airbnb (Montreux House)** — booked ✅
-- ✅ **Paid in full — $784.14/man**, lodging + van tour + rafting combined, collected from all 13. Nothing left to send. [`/budget`](../budget/budget.md)
-- **Beds: picked on arrival ✅** — no pre-assigned roster. **Brad Ciolino is the 13th man**, on a couch since 6 beds max 12 shared — no air mattress needed. See `/lodging`
-- ✅ **Check-in is 4:00 PM.** That's a **~5-hour gap** from the 10:19 AM landing — see the Thursday plan in [`/itinerary`](../itinerary/itinerary.md). ⏳ **Early check-in is asked for, not promised:** it depends on the cleaning crew and a Wednesday checkout, and **RMR may charge to lock it in early**. Play it by ear; build the day for 4 PM.
-- **Checkout: plan on ~10 AM** — out by **~9:45 AM** Monday for the 11:47 flight either way
-
----
-
-## Friday Safari + Rafting — BOOKED ✅
-
-> **Friday is two outfitters at one address.** The morning safari is **Teton Expeditions**; the afternoon rafting is **Jackson Hole Whitewater**. Both operate out of the same building — one address, all day, no repositioning at lunch.
-
-| Detail | Info |
-|---|---|
-| **Where — both trips** | **945 W Broadway Ave, Jackson, WY 83001** — the JHWW boathouse in the **Hillside complex, next to Sidewinders**. ~20 min from the house |
-| **Morning** | **Teton Expeditions** — half-day Grand Teton sunrise safari, **party of 13 confirmed, 9/18 8:00 AM**, **4 hours** (back ~noon). **Be there 15 min prior — 7:45 AM** |
-| **Afternoon** | **Jackson Hole Whitewater** — "Classic Raft" (8 Miles of Smiles, Class 2–3), **1:00–4:30 PM**, private boat. Check in 12:30 (30 min early) |
-| **JHWW phone** | **307-733-1007** |
-| Payment | ✅ **Paid** — never a separate collect; both sit inside the **$784.14/man** figure |
-| Cancellation | Full refund if cancelled 7+ days out |
-
-> 📇 **Name on the bookings:** the Teton Expeditions confirmation is addressed to **Chris** — i.e. **Psilos**, not Drewes, is the contact of record for the morning safari. Worth knowing before somebody calls the wrong outfitter about the wrong trip on Friday morning.
-
-### Day-of Details (Friday)
-
-- ✅ **WAIVERS — done.** All 13 have signed JHWW's online waiver, so the 12:30 check-in is paperwork-free. **Teton Expeditions has no waiver of its own.**
-- 🚫 **No alcohol, all day, both operators.** Teton Expeditions puts it in red — *"NO ALCOHOL POLICY! Please leave it behind"* — and JHWW's no-alcohol rule covers the van and the boat. **The lunch hour between them is the only window**, and it's the hour before you get on a river
-- **Layers for the morning:** Teton Expeditions says dress in layers because *"we decide to get out and look through the spotting scope"* — cold, and out of the vehicle. Bring binoculars
-- **Shoes (rafting):** Must attach to your feet — no sandals or flip flops
-- **Wetsuits:** Available to rent on-site — $5/person (3-piece suit). **Call it by 9/16 on Friday's forecast; default is nobody rents** — they're stocked at the shop, so it stays fixable at the 12:30 check-in
-- **Arrival:** **7:45 AM** for the safari (confirmed); **30 min early** for rafting (contract)
-- 🅿️ **Parking is the one thing JHWW warns about — and we're their worst case.** Their trip-info page says parking at 945 W Broadway is **"extremely limited"**: walk over if you're staying close, and they suggest Uber or a taxi. Two problems for us — we're **20 min out in Teton Village** (walking isn't an option), and we need **two SUVs sitting in that lot from 7:45 AM to ~4:30 PM**, nine hours, not the two a normal party takes. It's also a **shared lot** — Barker-Ewing and Rendezvous River Sports check in at the same address. **Ask when you confirm Friday:** can two vehicles stay all day, and where's the overflow? *(Fallback if the answer is no: one driver drops 12 guys at check-in and parks off-site — everything Friday needs is on that block, so it costs one man 15 minutes, not the group.)*
-- **Before you go:** ☕ **Cowboy Coffee's drive-thru at 1007 S US-89** — opens **6 AM**, sits ~2 min from the boathouse right where WY-22 meets the highway, and you pass it on the way in. **Not the Town Square store** (125 N Cache): that one is ~5 min *east past* 945 W Broadway, so it's a backtrack, and 13 guys queuing indoors at 7:15 is how a 7:45 check-in slips. **Leave the house ~6:45**, not 7:00
-- **Lunch — Cutty's, in the ~35-minute window between the van and the boat** 🆕 *(decided 9/9 — see [`/dining`](../dining/dining.md#friday-lunch--the-window-between-the-safari-and-the-boat))*:
-  - ⚠️ **JHWW does not feed this trip.** Lunch comes with their **scenic float**; we booked the **whitewater "Classic Raft"** — guide, paddles, splash gear, shuttle, no food
-  - ✅ **Cutty's Bar & Grill, 1140 W WY-22 · (307) 201-1079 · opens 11:30 AM.** **~1 mi / ~3 min** from the boathouse — it's at the Broadway/WY-22 junction **in Jackson, not Wilson**, which is the error that got it cut. Cheesesteaks and pizza; food that moves
-  - ☎️ **Call ahead with 13 heads and the order.** No reservations, but they take group calls. The clock: back ~12:00 → out ~12:35 → **12:30–12:40 check-in** → water at 1:00
-  - ⚠️ **Van not back by ~12:10 → Sidewinders next door**, zero drive. Spare sandwiches off Saturday's deli line are the backstop
-- **Two outfitters = two tips.** Cash, ~$20–40/person across both
-
-### Reminders (don't need to decide now)
-
-- [ ] **Wetsuit call — yes/no in the chat by 9/16** ($5/person, on Friday's forecast). **Default: nobody rents** — JHWW stocks them at the shop, so a cold morning is still fixable at the 12:30 check-in
-- [ ] 🅿️ **Ask about all-day parking for two SUVs** — JHWW calls the lot at 945 W Broadway "extremely limited"
-- [x] ✅ **Lunch — settled 9/9: Cutty's, 1140 W WY-22** (~3 min out; JHWW feeds scenic floats, not whitewater). ☎️ **Call (307) 201-1079 with 13 heads**; Sidewinders next door is the fallback if the van runs late
-- [x] ✅ Times confirmed in writing (7:45 check-in / 8:00 safari / 1:00 rafting). Still open: whether the safari can hand off directly to JHWW if the van runs long
-
----
-
-## Getting Around
-
-- **2 SUVs rented ✅** (Jason Hardie + Joe Schick). Headcount locked at **13**.
-- Both rentals pickup at **JAC** — no SLC vehicle needed ✅
-- **Get to the rental counter first, then grab bags** — at a small airport like JAC the counter line builds fast off a full flight; one driver can claim the SUVs while the rest pull luggage, instead of all 13 waiting twice
-
-| Driver | Vehicle | Pickup | Arrives |
-|---|---|---|---|
-| Jason Hardie | Ford Explorer | JAC | ~10:19 AM, Sep 17 (same inbound flight) |
-| Joe Schick | Expedition (or similar full-size) | JAC | ~10:19 AM, Sep 17 (same inbound flight) |
-
-- **Explorer — planning estimate: 7 seats.** With the Expedition as a 7-seater that's **14 seats for 13** — the math works. Explorers range 5–7 by trim, so this is an estimate, not a confirmed number.
-- ✅ **Decided: we don't verify it in advance.** We find out at the counter Thursday and make it work. That's fine — but the fallback is written down here so nobody's improvising in a terminal with 13 tired guys.
-
-### If the Explorer is a 5-seater — the counter plan
-
-5 + 7 = **12 seats for 13 guys**. One short. Two different problems, only one of which is easy:
-
-| Leg | Short a seat? | Fix |
-|---|---|---|
-| Thu JAC → house, Mon house → JAC | Yes | **Second run** — but it is *not* free. ⚠️ **JAC → the house is ~30–35 min, not ~10**, because the Moose-Wilson shortcut is closed until Nov 15. A second run is a **~65-minute round trip**, and on Monday it happens against an 11:47 flight |
-| **Sat Yellowstone, Sun wildlife drive** | Yes | **No fix by shuttling** — all 13 need to move at once, 1.5 hrs out |
-
-- **So: if you're at 12 seats, add a third small car at the JAC counter on Thursday.** The corrected drive time makes this *more* clearly right, not less — the "we'll just do a second run" escape hatch costs an hour each time, and Monday morning doesn't have an hour. Avis, Hertz, Enterprise and National all have in-terminal counters at JAC. Ballpark **$400–500 for the 4 days ÷ 13 ≈ $35/person** — noise against a ~$1,200 trip, and it un-pinches the luggage squeeze on both airport legs as a bonus.
-- **Hardie + Schick hit the rental counter before baggage claim** (already the plan) — that's the moment you learn the seat count, and the moment to add the third car. Don't wait until everyone's standing in the lot with bags.
-- ⚠️ **Don't count on quiet-season inventory.** **Shoulder season now starts in October — September is one of Jackson's busier months.** So treat a third car at JAC as *likely* available, not guaranteed. If nothing's on the lot, the fallback is renting from a Jackson agency in town during the Thursday midday window, and the fallback to *that* is a second run on the airport legs plus splitting the park days across two departures.
-- ✅ **Decided: two SUVs only — no 3rd vehicle.** The crew is fine with the tight fit on the two airport-transfer days (13 guys + bags). Yellowstone day is daypacks only, so two is plenty there. A **cargo carrier** stays on the table only as the fallback if the Explorer's 3rd row doesn't check out.
-- Practical consequence of two cars: **pack light and pack soft.** Duffels compress into a full SUV cargo area; hard rollers don't. Anyone bringing a big hard case should know Thursday and Monday will be a squeeze.
-- Gas up in Jackson before heading to the parks; gas inside parks is more expensive. **Saturday is ~230 miles round trip** — start it on a full tank, not a half one
-- **Cell service is essentially zero in Yellowstone** — download offline maps before you go (Gaia GPS or Google Maps offline). *Nuance worth knowing: there is usually a signal in the **Old Faithful developed area** and at Grant Village, and none at all in between. Plan for none; be glad if the eruption prediction loads*
-- Saturday: **wheels rolling south out of West Thumb by 2:00 PM MT** — that's the number that protects the 5:30 kickoff, and it's ~1 hr 50 from there to the house
-
-### Key Drive Times — rebuilt from the house, not from town
-
-> ⚠️ **This table used to be wrong in the direction that costs you the day.** It measured from *Jackson*, but we sleep in *Teton Village*, and it had Yellowstone's South Entrance an hour from town and Old Faithful thirty minutes past it. Real numbers below; the Saturday clock in [`/itinerary`](../itinerary/itinerary.md) is rebuilt on them.
->
-> 🚧 **And the back way is closed.** The **Moose-Wilson Road is shut between the Laurance S. Rockefeller Preserve and Moose from Sept 8 to Nov 15, 2026** (NPS Phase II construction — new Teton Park roundabout). That's the short hop from Teton Village to Moose. **Everything to the parks now goes WY-390 → WY-22 → the Y → US-26/89/191 north through Jackson**, which adds ~10 min each way to every park leg.
-
-| Route | Time | Note |
-|---|---|---|
-| **JAC → House (Teton Village)** | **~30–35 min** | ⚠️ **Not "~10 min."** The 13-mile short way is Moose-Wilson — **closed**. The open route is 22 mi south through Jackson, out WY-22, north on WY-390 |
-| House → downtown Jackson | ~20 min | WY-390 → WY-22 → the Y |
-| House → **945 W Broadway** (Fri boathouse) | ~20 min | Right at the Y end of Broadway — you don't drive through town |
-| House → Moose / Dornan's | **~35 min** | Was ~25 via Moose-Wilson. **That road is closed** |
-| House → Schwabacher Landing | **~45 min** | Sunday's sunrise stop. Sunrise ~7:07 → **leave 6:00** |
-| House → **Yellowstone South Entrance** | **~1 hr 30** | 65 mi |
-| **South Entrance → Old Faithful** | **~1 hr 15** | **39 miles** at 45 mph |
-| Old Faithful → West Thumb | ~40 min | 17 mi over Craig Pass |
-| **Old Faithful → the house** | **~2 hrs 30** | 40 min to West Thumb + 1 hr 50 home |
-| JAC → Dornan's (Moose) | ~12 min | Thursday's arrival stop |
-| SLC → Jackson (if routing through Salt Lake) | ~5 hrs | Misconnect Tier 2 |
-
-> 🕐 **The one number that matters on Saturday: wheels rolling south out of West Thumb by 2:00 PM.** That lands you home ~3:50, grill lit ~4:15, eating before the 5:30 kickoff. Leaving at 3:00 instead puts you home at 4:45 with 13 raw ribeyes and 45 minutes.
-
----
-
-## National Park Entry
-
-- ✅ **Confirmed (2026): neither park requires a timed-entry/vehicle reservation** — just drive up and pay at the gate. No advance permit to book.
-- ✅ **Settled: pay at the gate.** Nobody in the crew owns an America the Beautiful pass, and for *our* trip the pass loses anyway:
-
-| Option | Math | Cost |
-|---|---|---|
-| **Pay at the gate** | 2 vehicles × 2 parks × $35 | **$140** |
-| America the Beautiful | 2 passes × $80 (a pass covers one vehicle) | $160 |
-
-- 🧾 **Each $35 is a 7-day pass — keep the receipt on the dash.** Heading north on Saturday you pass the **Moran entrance station** and pay Grand Teton's $35; that same receipt covers **Sunday's wildlife drive** (Oxbow Bend is the only Sunday stop past a station). Two parks, two fees, but **not four**
-- 🌐 **New for 2026 — a $100 non-resident surcharge.** Starting Jan 1, 2026 every visitor aged 16+ who is **not a U.S. resident** pays an extra **$100 per person** on top of the vehicle fee, unless they enter on an annual/America the Beautiful pass. Almost certainly irrelevant for 13 guys out of New Orleans — but if anyone on this trip isn't a U.S. resident, that's a $100 surprise at the South Entrance, so ask once rather than find out at the booth
-- **2026 note:** Yellowstone has bridge-construction delays at the **North and Northeast entrances** — not on our route. We use the **South Entrance**, which is unaffected.
-
----
-
-## Key Contacts — print this (no cell service in the parks)
+No cell service in the parks. One guy prints it; everyone else takes a photo.
 
 | Who | Why | Contact |
 |---|---|---|
-| **Montreux House** (the Airbnb) | Home base | 3720 Morley Drive, Teton Village, WY 83025 |
-| **RMR** (property manager) | House issues on the ground | (307) 739-9050 · lodging@rmrentals.com |
-| **Jackson Hole Whitewater** | Friday 1 PM rafting — and the **address for all of Friday** | **307-733-1007** · 945 W Broadway Ave, Jackson, WY 83001 *(Hillside complex, next to Sidewinders)* |
-| **Teton Expeditions** | Friday 8 AM Grand Teton safari — **be there 7:45** | Same address: 945 W Broadway. Booking is under **Chris (Psilos)**; number is on the confirmation — copy it here when printing |
-| **American Airlines** | Flight changes / misconnect | (800) 433-7300 + the AA app |
+| **Montreux House** | Home base | 3720 Morley Drive, Teton Village, WY 83025 |
+| **RMR** (property manager) | House issues | (307) 739-9050 · lodging@rmrentals.com |
+| **Jackson Hole Whitewater** | Friday 1 PM raft — and the address for all of Friday | **307-733-1007** · 945 W Broadway Ave, Jackson *(next to Sidewinders)* |
+| **Teton Expeditions** | Friday 8 AM safari — be there 7:45 | Same address. Booked under **Psilos**; number is on the confirmation |
+| **Cutty's** | Friday lunch, 13 heads | (307) 201-1079 · 1140 W WY-22 |
+| **Creekside Market** | Sat subs + burritos, 6:35 AM pickup | (307) 733-7926 · 545 N Cache |
 | **St. John's Health** | Nearest 24-hr ER | 625 E Broadway, Jackson — ~25 min from the house |
-| **Drewes** | Money hub | @DrewesPT on Venmo |
-| **Hardie / Schick** | The two rental SUVs | Confirmations on their bookings |
-
-> One guy prints this table with the confirmations; a photo of it on every phone is the offline backup.
+| **American Airlines** | Flight problems | (800) 433-7300 + the app |
+| **Drewes** | Money | @DrewesPT on Venmo |
 
 ---
 
-## Safety & Emergency
+## Flights ✅ BOOKED
 
-- **Nearest hospital:** **St. John's Health**, 625 E Broadway, Jackson — 24-hr ER, ~25 min from the house. Write it down; there's no cell service in the parks. Relevant with rafting + hiking on the slate.
-- 🐻 **Bear spray — ✅ solved, and it moved off the grocery run.** **Bear Aware** staffs a kiosk at **JAC next to baggage claim #3**, seven days a week **June–October**. Rent **2 canisters** (one per vehicle) while you're waiting on bags Thursday morning: **$16 for the first two days, $4/day after, capped at $28 each — ~$56 total, ~$4/man.** Return them to the **after-hours drop box at the same kiosk** Monday morning.
-  - **Why this beats buying:** it costs zero minutes (you're at that carousel anyway), it's ~$44 cheaper than two canisters at ~$50, it takes the single most-flagged ⚠️ off Thursday's schedule entirely, and it answers the thing nobody had answered — **you can't fly home with bear spray**, so bought canisters get abandoned at the house.
-  - **Fallback:** **Smith's and Albertsons both stock bear spray**, so if the kiosk is out it's one line on the errand-hour cart, not a separate sporting-goods trip. Both parks' visitor centers sell it too.
-- **Travel insurance:** each man decides **by 9/16** — it has to be bought before you fly. CFAR is long gone; trip-delay / interruption / medical still is. **Default: nobody buys.**
-- 🔥 **Fire and smoke — the September risk this file didn't carry.** Grand Teton's Stage 1 fire restrictions ended **Aug 31** with fire danger still high, and the **Fish Creek fire** shut **US-26/287 east of Moran toward Dubois** in early September with no published reopening. **It is not on our route** — every park drive goes north on US-89/191/287 to the South Entrance — but it's the first thing that would reroute us, and smoke is what would flatten Sunday's sunrise. Check it with Craig Pass, Friday night and again at 6 AM. *(Re-checked 9/8.)*
-- **Thursday night ride plan — DDs: Hardie and Schick (default).** Mangy Moose, the last stop, is in Teton Village and walkable from the house, so exactly **one leg needs a sober driver**: the **downtown Jackson → Teton Village drive (~20 min)** after the Cowboy Bar. The two of them are the only names on the rental agreements, which means they're the only two insured to drive those SUVs — that decides it by default. Anyone else who wants to take a shift has to be **added as an authorized driver at the JAC counter Thursday** (typically a small per-day fee), which is a 60-second ask while you're already standing there. Say the plan out loud at the house before you leave; late-night rideshare in Jackson is thin and expensive.
-- **Wyoming non-emergency / dispatch:** 911 for emergencies; rangers reachable at park visitor centers.
+**Out — Thu 9/17:** MSY → DFW (AA 468, 5:49–7:40 AM) → JAC (AA 1923, 8:23–**10:19 AM**)
+**Back — Mon 9/21:** JAC 11:47 AM → DFW 3:38 → MSY 6:41. **Be at JAC by 10:15.**
+
+⚠️ **The DFW connection is 43 minutes.** Load the trip in the AA app with alerts on, sit near the front of AA 468, and carry on if you can. Most of the crew is on one group ticket, so AA rebooks automatically if it blows up — the scramble is seats, not money. **The thing to protect is Friday's 8 AM safari**, not Thursday night. If there's no same-day JAC seat by late afternoon, **fly to SLC and drive** (~5 hrs) rather than sleeping at DFW.
 
 ---
 
-## Pre-Trip Checklist
+## Vehicles
 
-> 📋 **The checklist lives in one place: [README → Open Items](../README.md#open-items)**, mirrored into the dashboard's **To-Do** tab.
->
-> It used to be duplicated here in full — 43 items against the README's 40 — which meant two hand-maintained lists that could disagree about the same trip. They now don't, because there's only one.
->
-> This file keeps the **reference** material the checklist points at: flights and the misconnect playbook, the Friday booking details, vehicles and drive times, park entry, key contacts, and safety.
+**2 SUVs at JAC** — Hardie (Explorer) and Schick (Expedition), both on the 10:19 flight. They're the only two insured to drive, so **they're the default DDs**; anyone else has to be added at the counter (small daily fee).
+
+- **Hit the rental counter before baggage claim** — the line builds fast off a full flight
+- **Pack soft.** Duffels compress into a loaded cargo area; hard rollers don't. Thursday and Monday are the tight legs
+- **Gas up in Jackson**, not in the parks. Saturday is ~230 miles round trip — start full
+
+### Drive times from the house
+
+| Route | Time |
+|---|---|
+| JAC → house | ~30–35 min *(not 10 — Moose-Wilson is closed)* |
+| House → downtown Jackson | ~20 min |
+| House → **945 W Broadway** (Friday) | ~20 min |
+| House → Dornan's (Moose) | ~35 min |
+| House → Schwabacher Landing | ~45 min |
+| House → **Yellowstone South Entrance** | **~1 hr 30** |
+| South Entrance → Old Faithful | ~1 hr 15 |
+| Old Faithful → the house | ~2 hrs 30 |
+| SLC → Jackson | ~5 hrs |
+
+🚧 **Moose-Wilson Road is closed Sep 8 – Nov 15, 2026.** Everything to the parks goes **WY-390 → WY-22 → US-26/89/191 through Jackson** — add ~10 min to anything you remember as the back way.
+
+---
+
+## Friday — the day everything is booked
+
+**One address all day: 945 W Broadway.** Safari check-in **7:45**, on the water **1:00**, off at **4:30**.
+
+- ✅ Both paid. Waivers all signed
+- 🚫 **No alcohol at either outfitter** — lunch is the only window
+- **Shoes must attach to your feet** on the boat. Wetsuits $5 at the shop
+- **Layers + binoculars** for the morning — the van stops and everyone gets out
+- 🅿️ JHWW calls the lot "extremely limited" and shares it with two other outfitters. Being early is the parking plan; if it's full, drop 12 at the door and one man parks off the block
+- **Two outfits = two tips.** Cash, ~$20–40/person across both
+
+---
+
+## Park Entry
+
+- **No reservation needed** for either park in 2026 — drive up and pay
+- **$35/vehicle, 2 vehicles, 2 parks = ~$140.** Nobody owns an America the Beautiful pass
+- 🧾 **Each $35 is good 7 days — keep the receipt on the dash.** Saturday's Grand Teton fee at the Moran station covers Sunday's drive
+- Yellowstone's 2026 construction is at the **North and Northeast** entrances, not our South Entrance
+
+---
+
+## Safety
+
+- **St. John's Health, 625 E Broadway, Jackson** — 24-hr ER, ~25 min. Write it down
+- 🐻 **Bear spray:** 2 canisters rented at the **Bear Aware kiosk, JAC baggage claim #3** on arrival (~$56 total), returned to the after-hours box Monday. **You can't fly with it**, which is why we rent. Smith's and Albertsons stock it if the kiosk is out
+- ❄️🔥 **Check Yellowstone road status Friday night and 6 AM Saturday** (nps.gov/yell) — **Craig Pass** especially, and check **fire and smoke**, not just snow. Fire danger is high this year. If Craig Pass is shut, swap Saturday to Grand Teton (Jenny Lake, Signal Mountain, Mormon Row)
+- **No cell service in Yellowstone** — download offline maps first. There's usually a signal in the Old Faithful developed area and nowhere in between
+- 🦌 **Elk are on the road at dawn** both park mornings. That's the real hazard, not the clock
+- **911** for emergencies; rangers at any visitor center
