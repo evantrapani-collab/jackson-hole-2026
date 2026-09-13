@@ -25,16 +25,16 @@
 
 ## Arrival — Keys First, Then the House
 
-**The house has physical keys. The office stop is mandatory.**
+**The house has real keys and the office stop is not optional.**
 
 | Stop | Address |
 |---|---|
-| 1. RMR Office (keys) | 3610 N. Moose Wilson Road, Wilson, WY 83014 |
+| 1. RMR office (keys) | 3610 N. Moose Wilson Road, Wilson, WY 83014 |
 | 2. Montreux House | 3720 Morley Drive, Teton Village, WY 83025 |
 
-**At the office:** front door is always open. Lockbox is on the **left wall** — **code 1111**. Grab the envelope under Drewes' name, re-lock the box. Parking pass (if included) goes on the dash. A check-in reminder link texts to Drewes' cell 2 days out.
+**At the office:** front door is always open. Lockbox is on the **left wall** — **code 1111**. Grab the envelope under Drewes' name, re-lock the box. Parking pass, if there is one, goes on the dash. RMR texts a check-in reminder link to Drewes two days out.
 
-**Getting to the office:** north onto Hwy 390 from Hwy 22, 2.4 miles. On the right, just past The Aspens.
+**Getting there:** north onto Hwy 390 from Hwy 22, 2.4 miles. Office is on the right, just past The Aspens.
 
 **Office → house:** exit right onto Hwy 390, 4.2 miles. Left into Teton Village from the center lane (first entrance). 2nd left toward Upper Village (McCollister Drive). Left onto Rachel Way at the 4-way. Next right onto Morley Drive. **Fifth driveway on the left.**
 
@@ -48,14 +48,11 @@
 - Property guide link (TV, utilities, trash) texts the day of arrival
 - Stocked: linens, towels, paper towels, TP, trash bags, dish + dishwasher soap, laundry detergent, toiletries, full kitchen
 - Housekeeping on request, 2 days' notice, 9 AM–Noon, extra fee
+- Report maintenance the moment it happens — unreported issues get no compensation
 
-## Parking ⚠️
+## Parking
 
-One garage space. **No on-street parking anywhere in the rental neighborhoods.** Teton Village units are generally capped at one vehicle — we have two rental SUVs (Hardie + Schick). **Needs a call to RMR to sort the second vehicle.**
-
-## Occupancy ⚠️
-
-Limits are strictly enforced — violation means eviction with forfeiture of everything paid. 13 guys in a 5BR. **Confirm the stated limit with RMR.**
+One garage space plus the driveway. The one-vehicle cap RMR quotes is for the **Village condos and townhomes, not houses like this one** — both SUVs fit. The hard rule: **no on-street parking anywhere in the rental neighborhoods**, so everything goes in the drive.
 
 ## Contacts
 
