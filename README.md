@@ -31,13 +31,9 @@ Full detail: [`/itinerary`](./itinerary/itinerary.md)
 
 ## Open Items
 
-- [ ] 🥪 **Creekside order — 13 subs + ~18–20 burritos, by 9/16** *(Psilos)* — **(307) 733-7926**. Pickup **Saturday ~6:35 AM** on the way north; their deli closes at 5 PM so it can't ride Friday's run
 - [ ] 🥩 **Call the Albertsons butcher** *(Psilos)* — hold **13 bone-in ribeyes, 24 oz**, picked up Friday evening. Too much meat to leave to shelf stock
-- [ ] ☎️ **Call Cutty's with 13 heads — (307) 201-1079**, by 9/16. Friday's lunch window is ~35 minutes
-- [ ] 📦 **Tell the group: soft duffels, not hard rollers** *(Hardie + Schick)* — two SUVs, 13 guys. Useless once people have packed
 - [ ] 🗺️ **Download offline maps** for Yellowstone + the Shaka Guide audio tour — no cell service past the gate
 - [ ] 🌤️ **Check the forecast before you pack**, and **Yellowstone road conditions Friday night and again at 6 AM Saturday** (nps.gov/yell — Craig Pass, plus fire/smoke)
-- [ ] 🖨️ **Print the confirmations and the [contacts](./logistics/logistics.md#key-contacts)** — no signal in the parks. Nearest ER: **St. John's Health, 625 E Broadway, Jackson**
 - [ ] 💵 **Bring cash** — two guide tips Friday (~$20–40/person total), plus a few cash-only spots in town
 
 ## Worth Knowing

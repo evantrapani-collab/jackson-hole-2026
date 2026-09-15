@@ -494,7 +494,7 @@
     <div class="cd-msg" id="cdMsg"></div>
     <!-- Deadline milestones. JS crosses off the past ones and highlights the next. -->
     <div class="miles" id="miles">
-      <span class="mile" data-when="2026-09-16" data-open="1"><span class="md">Sep 16</span> Last call: Creekside order · Cutty's · check the forecast</span>
+      <span class="mile" data-when="2026-09-16" data-open="1"><span class="md">Sep 16</span> Last call: butcher · check the forecast</span>
       <span class="mile" data-when="2026-09-17"><span class="md">Sep 17</span> Wheels up</span>
     </div>
   </div>
@@ -1090,18 +1090,14 @@
   <section class="panel" id="todo">
     <div class="section-h">Open Items — Check It Off</div>
     <div class="note"><b>Everything that's booked is paid for.</b> What's left is eight things, most of them one phone call. Check marks save on this device.</div>
-    <div class="progress-lab"><span id="todoProgLab">0 of 16 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
+    <div class="progress-lab"><span id="todoProgLab">0 of 12 done</span><button class="reset-btn" data-reset="todo">Reset</button></div>
     <div class="progress"><span id="todoProg"></span></div>
 
     <div class="section-h">Before anyone flies</div>
     <div class="card">
-      <label class="check"><input type="checkbox" id="td8"><span class="box"></span><span class="lab">🥪 <b>Creekside order — 13 subs + ~18–20 burritos.</b> ☎️ <b>307-733-7926</b>, phone or online. <b>Pickup Saturday ~6:35</b> on the way north — their deli closes at 5 PM, so it can't ride Friday's run. Get a name on the order</span><span class="tag" data-due="2026-09-16">Psilos · 9/16</span></label>
       <label class="check"><input type="checkbox" id="td1"><span class="box"></span><span class="lab">🥩 <b>Call the Albertsons butcher</b> — hold <b>13 bone-in ribeyes, 24 oz</b>, picked up Friday evening. Too much meat to leave to shelf stock</span><span class="tag">Psilos</span></label>
-      <label class="check"><input type="checkbox" id="td15"><span class="box"></span><span class="lab">☎️ <b>Call Cutty's — (307) 201-1079, 13 heads.</b> Friday's lunch window is ~35 minutes against a 12:30 check-in; putting the order in on the phone is what buys it</span><span class="tag" data-due="2026-09-16">by 9/16</span></label>
-      <label class="check"><input type="checkbox" id="td17b"><span class="box"></span><span class="lab">📦 <b>Tell the group: soft duffels, not hard rollers.</b> Two SUVs, 13 guys and bags. Useless once people have packed</span><span class="tag">Hardie + Schick</span></label>
       <label class="check"><input type="checkbox" id="td18"><span class="box"></span><span class="lab">🗺️ <b>Download offline maps</b> for Yellowstone and the <b>Shaka Guide</b> tour — no cell service past the gate</span><span class="tag">everyone</span></label>
       <label class="check"><input type="checkbox" id="td19b"><span class="box"></span><span class="lab">🌤️ <b>Check the forecast before you pack.</b> Pulled 9/10: dry and mild, highs 64–78°F, lows 34–54°F, no snow signal — but the window doesn't reach the trip yet</span><span class="tag">everyone</span></label>
-      <label class="check"><input type="checkbox" id="td20"><span class="box"></span><span class="lab">🖨️ <b>Print the confirmations + the Key Contacts table</b> (Logistics tab), and write down <b>St. John's Health, 625 E Broadway</b>. No signal in the parks</span><span class="tag">print</span></label>
       <label class="check"><input type="checkbox" id="td22"><span class="box"></span><span class="lab">💵 <b>Bring cash</b> — two guide tips Friday (~$20–40/person), plus the cash-only spots in town</span><span class="tag">everyone</span></label>
     </div>
 
@@ -1143,7 +1139,7 @@
   var cd = document.getElementById('countdown');
   var msg = document.getElementById('cdMsg');
   function nextNudge(now){
-    if(now < new Date('2026-09-17T00:00:00-06:00')) return "\ud83d\udce6 Before you fly: the Creekside order, the butcher, a call to Cutty's \u2014 then check the forecast and pack soft.";
+    if(now < new Date('2026-09-17T00:00:00-06:00')) return "\ud83d\udce6 Before you fly: the butcher \u2014 then check the forecast and pack soft.";
     return "Final stretch — knock out the last open items. 🛫";
   }
   function tick(){
