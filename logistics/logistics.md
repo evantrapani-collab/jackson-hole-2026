@@ -78,7 +78,7 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 ## Safety
 
 - **St. John's Health, 625 E Broadway, Jackson** — 24-hr ER, ~25 min. Write it down
-- 🐻 **Bear spray:** 2 canisters rented at the **Bear Aware kiosk, JAC baggage claim #3** on arrival (~$56 total), returned to the after-hours box Monday. **You can't fly with it**, which is why we rent. Smith's and Albertsons stock it if the kiosk is out
+- 🐻 **Bear spray:** 2 canisters rented at the **Bear Aware kiosk, JAC baggage claim #3** on arrival (~$56 total), returned to the after-hours box Monday. **You can't fly with it**, which is why we rent. Smith's and Albertsons stock it if the kiosk is out. RMR also mentioned having some at the office (pickup ~3:40 PM Thu) — unconfirmed count/cost, treat as backup, not a replacement
 - ❄️🔥 **Check Yellowstone road status Friday night and 6 AM Saturday** (nps.gov/yell) — **Craig Pass** especially, and check **fire and smoke**, not just snow. Fire danger is high this year. If Craig Pass is shut, swap Saturday to Grand Teton (Jenny Lake, Signal Mountain, Mormon Row)
 - **No cell service in Yellowstone** — download offline maps first. There's usually a signal in the Old Faithful developed area and nowhere in between
 - 🦌 **Elk are on the road at dawn** both park mornings. That's the real hazard, not the clock
