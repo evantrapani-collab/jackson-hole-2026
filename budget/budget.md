@@ -32,6 +32,6 @@ Lodging + safari + rafting, all in, to **@DrewesPT** on Venmo. **Nothing left to
 | Fri rafting, 1 PM | Jackson Hole Whitewater | ✅ Paid, inside the $784.14 |
 | Flights | American Airlines | ✅ Booked |
 | 2 rental SUVs | Hardie + Schick | ✅ Booked |
-| Groceries / ribeyes *(~$80/person)* | Albertsons *(Psilos)* | Delivery Thu 4 PM + store run Fri evening |
+| Groceries / ribeyes *(~$80/person)* | Albertsons *(Psilos)* | Delivery Thu 5–7 PM + store run Fri evening |
 | Park entry, ~$140 | NPS, at the gate | Pay on the day |
 | Bear spray, ~$56 | Bear Aware kiosk, JAC | Rent Thursday, return Monday |

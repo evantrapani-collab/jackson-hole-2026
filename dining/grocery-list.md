@@ -1,6 +1,6 @@
 # Grocery List — 13 guys, Sep 17–21
 
-**Owner: Psilos.** 🚚 **Delivery to the house 4:00 PM Thursday** + 🚗 **one store run Friday evening** for the ribeyes and ice.
+**Owner: Psilos.** 🚚 **Delivery to the house 5:00–7:00 PM Thursday** + 🚗 **one store run Friday evening** for the ribeyes and ice.
 
 **Only three meals are at the house:** Saturday's steaks, Sunday's game spread, and two pre-dawn breakfasts. Everything else is out. So this is mostly drinks, snacks and one big pile of meat.
 
@@ -49,7 +49,7 @@
 - [ ] **Whiskey, 2 handles** + mixers
 - [ ] **Water, 5 cases** — altitude; you'll drink more than at home
 - [ ] Gatorade, 1 case — 6,200 ft and a bar night. Best $12 on the list
-- [ ] **Ice, 6 bags** — on the Friday run; a 4 PM delivery handles ice badly
+- [ ] **Ice, 6 bags** — on the Friday run; a Thursday delivery handles ice badly
 
 ### 🧻 Supplies
 
