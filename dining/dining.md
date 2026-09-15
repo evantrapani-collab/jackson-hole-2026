@@ -29,7 +29,7 @@ Grocery list: [`grocery-list.md`](./grocery-list.md)
 - **Two batches** — 13 won't fit one grate. Rest batch one in a 200°F oven
 - **Psilos has the tongs** unless somebody takes them
 - **Salt, coarse pepper, garlic powder, butter** — the house won't have enough for 13 steaks
-- **Check the grill Thursday at check-in.** Dead tank → ~$25 propane exchange at Smith's/Albertsons. Charcoal → 2 bags + a chimney on the Friday run. No grill → reverse-sear in the oven at 250°F, then a cast-iron sear
+- **Check the grill Thursday at check-in.** Dead tank → call RMR, they'll send more, or a ~$25 exchange at Smith's/Albertsons. Charcoal → 2 bags + a chimney on the Friday run. No grill → reverse-sear in the oven at 250°F, then a cast-iron sear
 
 ## Breakfast for the Early Starts
 
@@ -42,7 +42,7 @@ Saturday rolls out at **6:15**, Sunday at **6:00** — no time to cook or sit do
 
 Two runs, and that's the whole plan:
 
-1. 🚚 **Delivery to the house, 4:00 PM Thursday** — drinks, coffee, bars, fruit, snacks, breakfast sandwiches, late-night food, trash bags. Somebody meets it and checks it against the list; deliveries substitute
+1. 🚚 **Delivery to the house, 5:00–7:00 PM Thursday** — drinks, coffee, bars, fruit, snacks, breakfast sandwiches, late-night food, trash bags. Somebody stays back to meet it and check it against the list; deliveries substitute. Instacart leaves bags on the porch otherwise — the VRBO says that draws bears
 2. 🚗 **In person Friday evening** on the way home — the **13 ribeyes**, **ice**, the TP restock, and anything the delivery got wrong
 
 **Instacart** is the mid-trip restock button (~1 hr to Teton Village) — there's no full-size grocery in the Village.

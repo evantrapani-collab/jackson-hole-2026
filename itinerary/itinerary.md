@@ -12,7 +12,8 @@
 | 11:30–1:00 | **Dornan's, Moose** — ~12 min from the airport. Pizza, beer, straight-on Tetons. **Opens 11:30**, don't roll up early |
 | 1:25–3:00 | **Snake River Brewing**, in town — seats 13 without a reservation |
 | 3:00–4:00 | Slack. Worth doing: **ice**, and a propane exchange if the tank's a question |
-| 4:00 | **Check in at Montreux House.** 🚚 The grocery delivery lands the same hour — somebody meets it. **Check the grill** while you're at it: lid up, burner test, heft the tank |
+| 4:00 | **Check in at Montreux House.** **Check the grill** while you're at it: lid up, burner test, heft the tank — RMR said they'll send more propane if it's short |
+| 5:00–7:00 | 🚚 **Grocery delivery window** — somebody stays at the house to meet it. Instacart leaves bags on the porch otherwise, and the VRBO warned that draws bears |
 | Evening | **Silver Dollar → Million Dollar Cowboy Bar → Mangy Moose** (walkable from the house) |
 
 ⚠️ **The DD job starts at lunch, not midnight.** Hardie and Schick are the only two insured to drive the SUVs, and there's beer at Dornan's, more at the brewery, then the drive to the Village. Say out loud who's dry when — or add a driver at the JAC counter that morning.
