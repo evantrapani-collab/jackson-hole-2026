@@ -33,13 +33,13 @@ Full detail: [`/itinerary`](./itinerary/itinerary.md)
 
 - [ ] 🥩 **Call the Albertsons butcher** *(Psilos)* — hold **13 bone-in ribeyes, 24 oz**, picked up Friday evening. Too much meat to leave to shelf stock
 - [ ] 🗺️ **Download offline maps** for Yellowstone + the Shaka Guide audio tour — no cell service past the gate
-- [ ] 🌤️ **Check the forecast before you pack**, and **Yellowstone road conditions Friday night and again at 6 AM Saturday** (nps.gov/yell — Craig Pass, plus fire/smoke)
+- [ ] 🌤️ **Yellowstone road conditions, Friday night and again at 6 AM Saturday** (nps.gov/yell — Craig Pass, plus fire/smoke)
 - [ ] 💵 **Bring cash** — two guide tips Friday (~$20–40/person total), plus a few cash-only spots in town
 
 ## Worth Knowing
 
 - 🚧 **Moose-Wilson Road is closed** (Sep 8–Nov 15). Every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson — add ~10 min to anything you remember as "the back way"
-- 🌤️ **Forecast, pulled 9/10:** dry and mild — highs 64–78°F, lows 34–54°F, no snow signal. The window doesn't reach the trip yet; re-check before you pack. **Pack layers** — 30-degree daily swings
+- 🌧️ **Forecast, pulled 9/16 (day before landing):** wetter than the 9/10 pull — **Fri (safari/raft) 84% chance, 0.6"; Sat (Yellowstone) 80% chance, high only 60°F.** Sun/Mon clear back up, highs low-70s. **Pack the rain shell, not just the puffy**
 - 🚡 The **Aerial Tram** runs to Oct 4 (~$55 at the window). The Bridger Gondola closes Sep 13, before we land
 - 🔥 Fire season is live — check smoke as well as snow on the road-status page
 - 🦌 Elk rut peaks mid-September, and they're on the road at dawn. Whoever's driving Saturday and Sunday stays off the gas
