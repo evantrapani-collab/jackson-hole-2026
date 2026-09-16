@@ -15,7 +15,7 @@ Grocery list: [`grocery-list.md`](./grocery-list.md)
 | **Sat lunch** | **Creekside subs**, pre-ordered, grabbed at 6:35 on the way north. Eaten at the West Thumb picnic tables |
 | **Sat dinner** | **Steak night** — 13 × 24 oz bone-in ribeyes on the grill, during LSU–Ole Miss |
 | **Sun late morning** | **House cookout** for the 11 AM Saints kickoff — wings, sausage, chips and dip. Owns the TV and the full slate |
-| **Sun dinner** | **Dornan's, ~5 PM** — 11:30–7 daily. ⚠️ ~35 min each way **plus up to 20 min of construction at the Moose junction** — leave the Village by 4:30 |
+| **Sun dinner** | **Mangy Moose** — walkable, restaurant 5:00–9:30. Last night, no drive, no DD. *Teton Thai is closed Sundays; the Handle Bar (11–9) is the other Village option* |
 | **Mon breakfast** | Whatever's left + house coffee. Out by 9:45 |
 
 **Cash:** guide tips Friday, and a couple of town spots (Pica's, Nora's) are cash-only.
