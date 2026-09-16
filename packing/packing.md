@@ -1,6 +1,6 @@
 # Packing List
 
-**Warm afternoons (60s–70s), cold mornings (30s–40s), maybe rain.** Layers, not a parka. **Soft duffel, not a hard roller** — two SUVs, 13 guys and bags.
+**Warm afternoons (60s–70s), cold mornings (30s–40s), and rain Friday and Saturday.** Layers, not a parka. **Soft duffel, not a hard roller** — two SUVs, 13 guys and bags.
 
 ## Clothes
 
@@ -19,6 +19,8 @@
 
 - [ ] **Shoes that attach to your feet** — no flip-flops, they won't let you on
 - [ ] **A dry set of clothes** for after the river
+- [ ] **Something synthetic to wear *on* the water** — fleece or a sun hoody, **not cotton**. It's 3.5 hrs out there with rain in the forecast
+- [ ] **Phone and wallet in a ziploc**, or a dry bag if you have one
 - [ ] Layers for the 8 AM safari — the van stops and everyone gets out
 
 ## Gear
@@ -28,6 +30,8 @@
 - [ ] Battery pack + car charger
 - [ ] Sunscreen and SPF lip balm — altitude sun is intense
 - [ ] Binoculars, if you've got them — Friday morning and Sunday dawn
+- [ ] **Earplugs** — 13 guys, and you're not getting your own room
+- [ ] **Ibuprofen** — 6,200 ft at the house, 10,450 ft at the top of the tram, and a Thursday bar crawl
 - [ ] Your meds
 
 ## Documents & money

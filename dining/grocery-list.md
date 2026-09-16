@@ -57,6 +57,7 @@
 - [ ] **Trash bags, 2 boxes** — you're hauling it out Monday
 - [ ] **Toilet paper, 2 packs** — nobody has counted what the house stocks
 - [ ] Foil, ziplocs, dish soap
+- [ ] **Instant-read meat thermometer** (~$12, Friday run) — 13 ribeyes in two batches is not the night to guess
 
 ---
 
