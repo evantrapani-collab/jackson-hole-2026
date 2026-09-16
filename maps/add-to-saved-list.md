@@ -33,7 +33,7 @@ current 19 pins — skip those.
 - [ ] [Pearl Street Bagels](https://www.google.com/maps/search/?api=1&query=Pearl+Street+Bagels%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
 - [ ] [Picnic](https://www.google.com/maps/search/?api=1&query=Picnic%2C+Jackson%2C+WY) — Breakfast-burrito vendor option for the early-start stash.
 - [ ] [Cutty's Bar & Grill](https://www.google.com/maps/search/?api=1&query=Cutty%27s+Bar+%26+Grill%2C+1140+WY-22%2C+Jackson%2C+WY+83001) _(already in your list)_ — FRIDAY LUNCH between the safari and the raft. 1140 W WY-22 at the Broadway/WY-22 junction — it is in JACKSON, not Wilson: ~1 mi / ~3 min from 945 W Broadway. Opens 11:30 AM-9 PM daily. Call ahead with 13 heads: 307-201-1079. Also a Sunday Saints-game option (~18 min from the Village).
-- [ ] [Dornan's Pizza Pasta Co.](https://www.google.com/maps/search/?api=1&query=Dornan%27s+Pizza+Pasta+Co%2C+Moose%2C+WY) — Deck pizza with full Teton views. Open daily 11:30 AM-7 PM year-round. ~12 min from JAC (Thu arrival lunch); ~35 min from the house (Sun 5 PM dinner).
+- [ ] [Dornan's Pizza Pasta Co.](https://www.google.com/maps/search/?api=1&query=Dornan%27s+Pizza+Pasta+Co%2C+Moose%2C+WY) — Deck pizza with full Teton views. Open daily 11:30 AM-7 PM year-round. ~12 min from JAC — Thursday's arrival lunch. Roundabout work at the Moose junction can add up to 20 min.
 - [ ] [Corbet's Cabin (tram summit)](https://www.google.com/maps/search/?api=1&query=Corbet%27s+Cabin%2C+Teton+Village%2C+WY) — Waffles at 10,450 ft, top of the tram.
 - [ ] [Gun Barrel Steak & Game House](https://www.google.com/maps/search/?api=1&query=Gun+Barrel+Steak+and+Game+House%2C+Jackson%2C+WY) — Wild-game steakhouse; Thursday dinner alt.
 - [ ] [Leek's Pizzeria](https://www.google.com/maps/search/?api=1&query=Leek%27s+Pizzeria%2C+Grand+Teton+National+Park%2C+WY) — Jackson Lake / Colter Bay; only if that far north.
@@ -74,7 +74,7 @@ current 19 pins — skip those.
 - [ ] [Lupine Meadows Trailhead](https://www.google.com/maps/search/?api=1&query=Lupine+Meadows+Trailhead%2C+Grand+Teton%2C+WY) — Access for Amphitheater Lake.
 - [ ] [String Lake](https://www.google.com/maps/search/?api=1&query=String+Lake%2C+Grand+Teton+National+Park%2C+WY) — Calm paddling; no motors.
 - [ ] [Oxbow Bend](https://www.google.com/maps/search/?api=1&query=Oxbow+Bend%2C+Grand+Teton+National+Park%2C+WY) — Moose/elk + classic Teton reflection.
-- [ ] [Schwabacher Landing](https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing%2C+Grand+Teton+National+Park%2C+WY) — The signature sunrise. ~45 min from the house (Moose-Wilson is closed); sunrise ~7:07, so LEAVE AT 6:00. Last mile is dirt.
+- [ ] [Schwabacher Landing](https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing%2C+Grand+Teton+National+Park%2C+WY) — Sunday's first stop, ~7:30. ~45 min from the house (Moose-Wilson is closed). Last mile is dirt.
 - [ ] [Mormon Row Historic District](https://www.google.com/maps/search/?api=1&query=Mormon+Row+Historic+District%2C+WY) — Barns + bison against the Tetons.
 - [ ] [Antelope Flats Road](https://www.google.com/maps/search/?api=1&query=Antelope+Flats+Road%2C+Grand+Teton%2C+WY) — Pronghorn, bison, coyotes.
 - [ ] [Moose-Wilson Road](https://www.google.com/maps/search/?api=1&query=Moose-Wilson+Road%2C+Grand+Teton%2C+WY) — 🚫 CLOSED Sep 8 - Nov 15, 2026 (NPS Phase II construction) between the Rockefeller Preserve and Moose. Cut from Sunday's loop — and it's why every park drive now goes the long way through Jackson.

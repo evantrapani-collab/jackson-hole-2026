@@ -23,7 +23,7 @@
 
 ## Gear
 
-- [ ] **Headlamp** — Sunday means setting up at Schwabacher in the dark, on a dirt path
+- [ ] **Headlamp** — Saturday's 6:15 roll-out is in the dark
 - [ ] Daypack + water bottle
 - [ ] Battery pack + car charger
 - [ ] Sunscreen and SPF lip balm — altitude sun is intense

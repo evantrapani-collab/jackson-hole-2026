@@ -17,7 +17,7 @@
 | **Thu 9/17** | Land 10:19 → Dornan's → Snake River Brewing → 4 PM check-in → downtown crawl → Mangy Moose | Grocery delivery lands **5–7 PM** — somebody stays back to meet it |
 | **Fri 9/18** | 8 AM Teton Expeditions safari → Cutty's lunch → 1 PM JHWW rafting → Sidewinders → store run | Leave the house **6:45 AM**; check in **7:45** |
 | **Sat 9/19** | Yellowstone: Grand Prismatic overlook → Old Faithful → West Thumb. Home for LSU–Ole Miss (5:30 MT, ABC) + steaks | Leave **6:15 AM**; **turn around at West Thumb 2:00 PM sharp** |
-| **Sun 9/20** | Sunrise wildlife drive → Saints @ Ravens (11 AM MT, CBS) at the house → tram + Corbet's waffles → dinner in the Village | Leave **6:00 AM** — sunrise is 7:07 and Schwabacher is 45 min out |
+| **Sun 9/20** | Wildlife drive *(optional, one SUV)* → Saints @ Ravens (11 AM MT, CBS) at the house → tram + Corbet's waffles → dinner in the Village | One SUV leaves **6:45**; everyone else sleeps in. Home ~9:45 |
 | **Mon 9/21** | Out of the house ~9:45 → return bear spray at JAC → depart **11:47 AM** | |
 
 Full detail: [`/itinerary`](./itinerary/itinerary.md)
