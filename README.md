@@ -33,12 +33,14 @@ Full detail: [`/itinerary`](./itinerary/itinerary.md)
 
 - [ ] 🥩 **Call the Albertsons butcher** *(Psilos)* — hold **13 bone-in ribeyes, 24 oz**, picked up Friday evening. Too much meat to leave to shelf stock
 - [ ] 🗺️ **Download offline maps** for Yellowstone + the Shaka Guide audio tour — no cell service past the gate
-- [ ] 🌤️ **Yellowstone road conditions, Friday night and again at 6 AM Saturday** (nps.gov/yell — Craig Pass, plus fire/smoke)
+- [ ] 🌤️ **Yellowstone road conditions, Friday night and again at 6 AM Saturday** — Craig Pass, plus fire/smoke. **Text `82190` to `888-777` for road alerts**, or call **(307) 344-2117** — both work without data
 - [ ] 💵 **Bring cash** — two guide tips Friday (~$20–40/person total), plus a few cash-only spots in town
 
 ## Worth Knowing
 
 - 🚧 **Moose-Wilson Road is closed** (Sep 8–Nov 15). Every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson — add ~10 min to anything you remember as "the back way"
+- 🚧 **Moose entrance construction — up to 20-min delays both directions**, through Nov 15. That's the Dornan's runs, Thursday and Sunday. Leave a cushion
+- 🎨 **Fall Arts Festival runs through Sep 20** — town is full all weekend. **QuickDraw takes Town Square Saturday 8 AM–1 PM** (we're in Yellowstone). Park farther out downtown and don't count on a walk-in table at 7 PM
 - 🌧️ **Forecast, pulled 9/16 (day before landing):** wetter than the 9/10 pull — **Fri (safari/raft) 84% chance, 0.6"; Sat (Yellowstone) 80% chance, high only 60°F.** Sun/Mon clear back up, highs low-70s. **Pack the rain shell, not just the puffy**
 - 🚡 The **Aerial Tram** runs to Oct 4 (~$55 at the window). The Bridger Gondola closes Sep 13, before we land
 - 🔥 Fire season is live — check smoke as well as snow on the road-status page

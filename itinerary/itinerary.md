@@ -9,7 +9,7 @@
 | Time | Where |
 |---|---|
 | 10:19 AM | **Land at JAC.** Hardie + Schick to the rental counter before baggage claim; everyone else pulls bags and **rents 2 bear sprays at the Bear Aware kiosk by carousel #3** (~$56 total, returned Monday — you can't fly with it) |
-| 11:30–1:00 | **Dornan's, Moose** — ~12 min from the airport. Pizza, beer, straight-on Tetons. **Opens 11:30**, don't roll up early |
+| 11:30–1:00 | **Dornan's, Moose** — ~12 min from the airport. Pizza, beer, straight-on Tetons. **Opens 11:30**, don't roll up early. 🚧 Roundabout work at the Moose junction — **up to 20 min of delay** |
 | 1:25–3:00 | **Snake River Brewing**, in town — seats 13 without a reservation |
 | 3:00–4:00 | Slack. Worth doing: **ice**, and a propane exchange if the tank's a question |
 | 4:00 | **Check in at Montreux House.** **Check the grill** while you're at it: lid up, burner test, heft the tank — RMR said they'll send more propane if it's short |
@@ -34,7 +34,7 @@
 | ~12:00–12:35 | **Lunch — Cutty's, 1140 W WY-22** (~3 min). Opens 11:30. ☎️ (307) 201-1079 |
 | **12:30 PM** | **Rafting check-in** (30 min early) |
 | 1:00–4:30 | **JHWW "Classic Raft"** — Class 2–3, private boat. ☎️ 307-733-1007 |
-| ~4:35 | **Sidewinders** — same lot, walk out of the boathouse and in the door. Call ahead that afternoon: 13 walk-ins on a Friday |
+| ~4:35 | **Sidewinders** — same lot, walk out of the boathouse and in the door. ⚠️ **No reservations, first come first served** ☎️ (307) 734-5766. Off the river at 4:30 beats the rush — send two guys in ahead to hold tables |
 | ~5:45 | **Albertsons** on the way home — the 13 ribeyes, ice, whatever the delivery got wrong |
 
 - **Dress in layers** — the van stops and everyone gets out at the spotting scope. Bring binoculars
@@ -63,7 +63,7 @@
 | **5:30 PM** | **LSU vs. Ole Miss** (6:30 CT, ABC). Steak night; Psilos has the tongs |
 
 - 🦌 **The first hour is dark, through the elk rut.** Animals are on US-26/89/191 at that hour — that's the real hazard, not the schedule
-- ❄️🔥 **Check Craig Pass before you roll** (nps.gov/yell), Friday night and again at 6 AM. It's the first road to close for snow, we cross it twice, and smoke is the likelier September problem. **If it's closed, don't drive north** — swap to a Grand Teton morning (Jenny Lake, Signal Mountain, Mormon Row), an hour closer
+- ❄️🔥 **Check Craig Pass before you roll** — text **`82190` to `888-777`** for park road alerts, or call **(307) 344-2117** (both work without data). Friday night and again at 6 AM. It's the first road to close for snow, we cross it twice, and smoke is the likelier September problem. **If it's closed, don't drive north** — swap to a Grand Teton morning (Jenny Lake, Signal Mountain, Mormon Row), an hour closer
 - 🎧 **Shaka Guide's Yellowstone tour** narrates this exact loop and works offline. Download it first — no cell service past the gate
 
 ---
@@ -78,7 +78,7 @@
 | ~8:30 | **Mormon Row / Antelope Flats** — bison against the Tetons, on the way home |
 | **11:00 AM** | **Saints @ Ravens** (noon CT, CBS) — at the house |
 | ~2:30–3:40 | 🚡 **Aerial Tram + Corbet's Cabin waffles** — walkable from the house, ~$55 at the window. **Last ride down is 5:00** |
-| ~4:30 | Leave for **Dornan's, ~5 PM** — ~35 min each way now that Moose-Wilson is closed |
+| ~4:30 | Leave for **Dornan's, ~5 PM** — ~35 min each way now that Moose-Wilson is closed, 🚧 **plus up to 20 min at the Moose junction**. Kitchen closes at 7 |
 
 🚫 **Moose-Wilson Road is cut** — closed for construction through Nov 15. No through-drive to Moose.
 
@@ -95,7 +95,8 @@
 
 ## Standing Facts
 
-- 🚧 **Moose-Wilson closed Sep 8 – Nov 15.** Every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson
+- 🚧 **Moose-Wilson closed Sep 8 – Nov 15.** Every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson. **Moose junction construction adds up to 20 min** to the Dornan's runs
+- 🎨 **Fall Arts Festival runs through Sep 20** — town is full. QuickDraw owns Town Square Saturday 8 AM–1 PM; we're gone by 6:15
 - **Park entry:** $35/vehicle at the gate, no reservation needed, good for 7 days. ~$140 all in
 - **Drive times from the house:** Yellowstone South Entrance ~1 hr 30 · Old Faithful ~2 hr 45 · Schwabacher ~45 min · Dornan's ~35 min · JAC ~30–35 min
 - **Weather scrub?** Town (brewery / Cowboy Bar) or the **National Museum of Wildlife Art**
