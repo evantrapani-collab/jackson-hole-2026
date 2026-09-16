@@ -11,6 +11,8 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 | **Jackson Hole Whitewater** | Friday 1 PM raft — and the address for all of Friday | **307-733-1007** · 945 W Broadway Ave, Jackson *(next to Sidewinders)* |
 | **Teton Expeditions** | Friday 8 AM safari — be there 7:45 | Same address. Booked under **Psilos**; number is on the confirmation |
 | **Cutty's** | Friday lunch, 13 heads | (307) 201-1079 · 1140 W WY-22 |
+| **Sidewinders** | Friday dinner — **no reservations** | (307) 734-5766 · 945 W Broadway |
+| **Yellowstone roads** | Recorded status, no data needed | **(307) 344-2117** · or text **82190** to **888-777** |
 | **Creekside Market** | Sat subs + burritos, 6:35 AM pickup | (307) 733-7926 · 545 N Cache |
 | **St. John's Health** | Nearest 24-hr ER | 625 E Broadway, Jackson — ~25 min from the house |
 | **American Airlines** | Flight problems | (800) 433-7300 + the app |
@@ -42,7 +44,7 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 | JAC → house | ~30–35 min *(not 10 — Moose-Wilson is closed)* |
 | House → downtown Jackson | ~20 min |
 | House → **945 W Broadway** (Friday) | ~20 min |
-| House → Dornan's (Moose) | ~35 min |
+| House → Dornan's (Moose) | ~35 min *(+ up to 20 min of construction at the Moose junction)* |
 | House → Schwabacher Landing | ~45 min |
 | House → **Yellowstone South Entrance** | **~1 hr 30** |
 | South Entrance → Old Faithful | ~1 hr 15 |
@@ -79,7 +81,7 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 
 - **St. John's Health, 625 E Broadway, Jackson** — 24-hr ER, ~25 min. Write it down
 - 🐻 **Bear spray:** 2 canisters rented at the **Bear Aware kiosk, JAC baggage claim #3** on arrival (~$56 total), returned to the after-hours box Monday. **You can't fly with it**, which is why we rent. Smith's and Albertsons stock it if the kiosk is out. RMR also mentioned having some at the office (pickup ~3:40 PM Thu) — unconfirmed count/cost, treat as backup, not a replacement
-- ❄️🔥 **Check Yellowstone road status Friday night and 6 AM Saturday** (nps.gov/yell) — **Craig Pass** especially, and check **fire and smoke**, not just snow. Fire danger is high this year. If Craig Pass is shut, swap Saturday to Grand Teton (Jenny Lake, Signal Mountain, Mormon Row)
+- ❄️🔥 **Check Yellowstone road status Friday night and 6 AM Saturday** — text **82190** to **888-777**, or call **(307) 344-2117**. **Craig Pass** especially, and check **fire and smoke**, not just snow. Fire danger is high this year. If Craig Pass is shut, swap Saturday to Grand Teton (Jenny Lake, Signal Mountain, Mormon Row)
 - **No cell service in Yellowstone** — download offline maps first. There's usually a signal in the Old Faithful developed area and nowhere in between
 - 🦌 **Elk are on the road at dawn** both park mornings. That's the real hazard, not the clock
 - **911** for emergencies; rangers at any visitor center
