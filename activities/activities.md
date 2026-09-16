@@ -1,13 +1,13 @@
 # Activities
 
-The schedule is full — Friday is booked dawn to dusk, Saturday is Yellowstone plus the LSU game, Sunday is the sunrise drive plus the Saints. This is what's on the plan, and what's here for a future trip.
+The schedule is full — Friday is booked dawn to dusk, Saturday is Yellowstone plus the LSU game, Sunday is an optional wildlife drive plus the Saints. This is what's on the plan, and what's here for a future trip.
 
 ## On the plan
 
 - **Grand Teton sunrise safari** — Friday 8 AM, Teton Expeditions, 4 hrs ✅ booked
 - **Snake River whitewater** — Friday 1 PM, JHWW, Class 2–3 ✅ booked
 - **Yellowstone** — Saturday: Grand Prismatic overlook (a **1.6-mile round-trip walk** from the Fairy Falls trailhead — boots), Old Faithful + the Upper Geyser Basin loop, West Thumb on the way out
-- **Sunrise wildlife drive** — Sunday: Schwabacher Landing, Oxbow Bend, Mormon Row. Peak elk rut
+- **Wildlife drive** — Sunday, optional, one SUV out at 6:45: Schwabacher Landing, Oxbow Bend, Mormon Row. Peak elk rut
 - **Aerial Tram + Corbet's Cabin** — Sunday afternoon, walkable from the house. Runs to Oct 4, 8:30–5, ~$55 at the window
 - **Downtown Jackson** — antler arches, western shops, Spirits & Spice, a Pearl Street sloshie
 

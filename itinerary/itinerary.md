@@ -68,14 +68,17 @@
 
 ---
 
-## Sunday, Sep 20 — Sunrise Drive + Saints 🏈
+## Sunday, Sep 20 — Wildlife Drive + Saints 🏈
+
+**Optional, and one SUV takes it.** Whoever's up goes; everyone else sleeps in and meets at the house for kickoff. Hardie or Schick drives — take a bear spray, leave the other canister at the house.
 
 | Time | Where |
 |---|---|
-| **6:00 AM** | Leave. Sunrise is **7:07** and **Schwabacher is ~45 min out** — 6:30 puts you in the lot after the shot |
-| ~6:45 | **Schwabacher Landing** — beaver ponds mirroring the Tetons. Last mile is dirt, take it slow in the dark |
-| ~7:45 | **Oxbow Bend** — moose, elk, bugling bulls. Past the Moran station; Saturday's receipt covers it |
-| ~8:30 | **Mormon Row / Antelope Flats** — bison against the Tetons, on the way home |
+| **6:45 AM** | Leave. Sunrise is 7:08, and it's a drizzly overcast morning — **no alpenglow to chase**, so the animals are the point, not the light |
+| ~7:30 | **Schwabacher Landing** — beaver ponds mirroring the Tetons. Last mile is dirt, take it slow |
+| ~8:15 | **Oxbow Bend** — moose, elk, bugling bulls. Past the Moran station; Saturday's receipt covers it |
+| ~9:00 | **Mormon Row / Antelope Flats** — bison against the Tetons, on the way home |
+| ~9:45 | Home, with an hour to spare before kickoff |
 | **11:00 AM** | **Saints @ Ravens** (noon CT, CBS) — at the house |
 | ~2:30 | 🚡 **Aerial Tram + Corbet's Cabin waffles** — walkable from the house, ~$55 at the window. **Last ride down is 5:00**, so there's no rush |
 | ~6:00 | **Dinner at the Mangy Moose** — walkable, restaurant runs 5:00–9:30. No drive, no DD on the last night. *Teton Thai is closed Sundays; the Handle Bar (11–9) is the other Village option* |

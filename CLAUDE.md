@@ -28,7 +28,7 @@ Specifically, don't reintroduce: owner/deadline/default tables for every open it
 - The trip's fixed constraints — check these before suggesting plan changes:
   - Friday is **booked dawn-to-dusk** (8 AM Teton Expeditions safari + 1 PM JHWW rafting — **both out of 945 W Broadway**, check in 7:45; leave the house ~6:45).
   - Saturday: Yellowstone via the **South Entrance only**, leaving **6:15 AM** with a hard **2:00 PM turnaround at West Thumb** (home ~3:50) for the 5:30 PM LSU game.
-  - Sunday: **6:00 AM** wildlife drive (sunrise ~7:07; Schwabacher is ~45 min out), Saints at 11 AM MT.
+  - Sunday: **optional** wildlife drive, **one SUV out at 6:45** (Schwabacher is ~45 min out), home ~9:45. Saints at 11 AM MT.
   - Headcount is **locked at 13**; lodging is booked (Montreux House, Teton Village).
 - Times are Mountain unless marked CT.
 - **Drive times and operating calendars are load-bearing — check them against the outside world, not against this repo.** Past reviews found the Yellowstone legs understated by half, an impossible sunrise, a lift closed for the season, and a closed road. Two standing facts: **Moose-Wilson Road is closed Sep 8 – Nov 15, 2026** (every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson), and the **Bridger Gondola's season ends Sep 13** while the **Aerial Tram runs to Oct 4**.
