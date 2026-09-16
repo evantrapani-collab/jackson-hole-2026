@@ -44,7 +44,7 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 | JAC → house | ~30–35 min *(not 10 — Moose-Wilson is closed)* |
 | House → downtown Jackson | ~20 min |
 | House → **945 W Broadway** (Friday) | ~20 min |
-| House → Dornan's (Moose) | ~35 min *(+ up to 20 min of construction at the Moose junction)* |
+| House → Dornan's (Moose) | ~35 min *(+ up to 20 min of construction at the Moose junction)* — not on the plan; Thursday's stop is JAC → Dornan's, ~12 min |
 | House → Schwabacher Landing | ~45 min |
 | House → **Yellowstone South Entrance** | **~1 hr 30** |
 | South Entrance → Old Faithful | ~1 hr 15 |

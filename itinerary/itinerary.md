@@ -77,10 +77,8 @@
 | ~7:45 | **Oxbow Bend** — moose, elk, bugling bulls. Past the Moran station; Saturday's receipt covers it |
 | ~8:30 | **Mormon Row / Antelope Flats** — bison against the Tetons, on the way home |
 | **11:00 AM** | **Saints @ Ravens** (noon CT, CBS) — at the house |
-| ~2:30–3:40 | 🚡 **Aerial Tram + Corbet's Cabin waffles** — walkable from the house, ~$55 at the window. **Last ride down is 5:00** |
-| ~4:30 | Leave for **Dornan's, ~5 PM** — ~35 min each way now that Moose-Wilson is closed, 🚧 **plus up to 20 min at the Moose junction**. Kitchen closes at 7 |
-
-🚫 **Moose-Wilson Road is cut** — closed for construction through Nov 15. No through-drive to Moose.
+| ~2:30 | 🚡 **Aerial Tram + Corbet's Cabin waffles** — walkable from the house, ~$55 at the window. **Last ride down is 5:00**, so there's no rush |
+| ~6:00 | **Dinner at the Mangy Moose** — walkable, restaurant runs 5:00–9:30. No drive, no DD on the last night. *Teton Thai is closed Sundays; the Handle Bar (11–9) is the other Village option* |
 
 ---
 
@@ -95,7 +93,7 @@
 
 ## Standing Facts
 
-- 🚧 **Moose-Wilson closed Sep 8 – Nov 15.** Every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson. **Moose junction construction adds up to 20 min** to the Dornan's runs
+- 🚧 **Moose-Wilson closed Sep 8 – Nov 15.** Every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson. **Moose junction construction adds up to 20 min** to Thursday's Dornan's run
 - 🎨 **Fall Arts Festival runs through Sep 20** — town is full. QuickDraw owns Town Square Saturday 8 AM–1 PM; we're gone by 6:15
 - **Park entry:** $35/vehicle at the gate, no reservation needed, good for 7 days. ~$140 all in
 - **Drive times from the house:** Yellowstone South Entrance ~1 hr 30 · Old Faithful ~2 hr 45 · Schwabacher ~45 min · Dornan's ~35 min · JAC ~30–35 min

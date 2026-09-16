@@ -17,7 +17,7 @@
 | **Thu 9/17** | Land 10:19 → Dornan's → Snake River Brewing → 4 PM check-in → downtown crawl → Mangy Moose | Grocery delivery lands **5–7 PM** — somebody stays back to meet it |
 | **Fri 9/18** | 8 AM Teton Expeditions safari → Cutty's lunch → 1 PM JHWW rafting → Sidewinders → store run | Leave the house **6:45 AM**; check in **7:45** |
 | **Sat 9/19** | Yellowstone: Grand Prismatic overlook → Old Faithful → West Thumb. Home for LSU–Ole Miss (5:30 MT, ABC) + steaks | Leave **6:15 AM**; **turn around at West Thumb 2:00 PM sharp** |
-| **Sun 9/20** | Sunrise wildlife drive → Saints @ Ravens (11 AM MT, CBS) at the house → tram + Corbet's waffles → early Dornan's | Leave **6:00 AM** — sunrise is 7:07 and Schwabacher is 45 min out |
+| **Sun 9/20** | Sunrise wildlife drive → Saints @ Ravens (11 AM MT, CBS) at the house → tram + Corbet's waffles → dinner in the Village | Leave **6:00 AM** — sunrise is 7:07 and Schwabacher is 45 min out |
 | **Mon 9/21** | Out of the house ~9:45 → return bear spray at JAC → depart **11:47 AM** | |
 
 Full detail: [`/itinerary`](./itinerary/itinerary.md)
@@ -39,7 +39,7 @@ Full detail: [`/itinerary`](./itinerary/itinerary.md)
 ## Worth Knowing
 
 - 🚧 **Moose-Wilson Road is closed** (Sep 8–Nov 15). Every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson — add ~10 min to anything you remember as "the back way"
-- 🚧 **Moose entrance construction — up to 20-min delays both directions**, through Nov 15. That's the Dornan's runs, Thursday and Sunday. Leave a cushion
+- 🚧 **Moose entrance construction — up to 20-min delays both directions**, through Nov 15. That's Thursday's Dornan's run. Leave a cushion
 - 🎨 **Fall Arts Festival runs through Sep 20** — town is full all weekend. **QuickDraw takes Town Square Saturday 8 AM–1 PM** (we're in Yellowstone). Park farther out downtown and don't count on a walk-in table at 7 PM
 - 🌧️ **Forecast, pulled 9/16 (day before landing):** wetter than the 9/10 pull — **Fri (safari/raft) 84% chance, 0.6"; Sat (Yellowstone) 80% chance, high only 60°F.** Sun/Mon clear back up, highs low-70s. **Pack the rain shell, not just the puffy**
 - 🚡 The **Aerial Tram** runs to Oct 4 (~$55 at the window). The Bridger Gondola closes Sep 13, before we land
