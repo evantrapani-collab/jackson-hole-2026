@@ -11,10 +11,12 @@ Grocery list: [`grocery-list.md`](./grocery-list.md)
 | **Fri coffee** | **Cowboy Coffee drive-thru, 1007 S US-89** — opens 6 AM, ~2 min from the boathouse, on the route in. *Not* the Town Square store |
 | **Fri lunch** | **Cutty's, 1140 W WY-22** — ~3 min out, opens 11:30, cheesesteaks and pizza. ☎️ **(307) 201-1079** — call ahead with 13. Van not back by 12:10 → **Sidewinders** next door |
 | **Fri dinner** | **Sidewinders, 945 W Broadway** — the lot we've been parked in all day. 30+ TVs, 24 taps, 11:30–9:30. ⚠️ **No reservations, first come first served** — off the river at 4:30 beats the rush, send two guys in ahead. ☎️ (307) 734-5766 |
-| **Sat + Sun breakfast** | Frozen breakfast sandwiches from the house stash — both starts are before dawn |
-| **Sat lunch** | **Creekside subs**, pre-ordered, grabbed at 6:35 on the way north. Eaten at the West Thumb picnic tables |
+| **Sat breakfast** | Whatever's easiest — 8 AM roll-out, no pre-dawn rush |
+| **Sat lunch** | Trail snacks (granola bars, fruit, jerky) — real food when you're back ~2 PM |
 | **Sat dinner** | **Steak night** — 13 × 24 oz bone-in ribeyes on the grill, during LSU–Ole Miss |
-| **Sun late morning** | **House cookout** for the 11 AM Saints kickoff — wings, sausage, chips and dip. Owns the TV and the full slate |
+| **Sun breakfast** | Frozen breakfast sandwiches from the house stash — 6:15 AM start, no time to cook |
+| **Sun lunch** | **Creekside subs**, pre-ordered, grabbed at 6:35 on the way north. Eaten at the West Thumb picnic tables |
+| **Sun ~4 PM** | **House snack** — wings, sausage, chips, waiting for you when you're back from Yellowstone |
 | **Sun dinner** | **Mangy Moose** — walkable, restaurant 5:00–9:30. Last night, no drive, no DD. *Teton Thai is closed Sundays; the Handle Bar (11–9) is the other Village option* |
 | **Mon breakfast** | Whatever's left + house coffee. Out by 9:45 |
 
@@ -33,10 +35,10 @@ Grocery list: [`grocery-list.md`](./grocery-list.md)
 
 ## Breakfast for the Early Starts
 
-Saturday rolls out at **6:15**, Sunday at **6:00** — no time to cook or sit down.
+Sunday rolls out at **6:15** — no time to cook or sit down. Saturday's 8 AM start doesn't need the stash, but it's there.
 
 - **The floor:** frozen breakfast sandwiches from the Thursday delivery. Foil in the oven or 90 seconds in the microwave
-- **The upgrade:** ~18–20 breakfast burritos from **Creekside Market** *(Psilos, order by 9/16 — (307) 733-7926)*, picked up **Saturday 6:35 AM** with the lunch subs. Their deli closes at 5 PM, so it can't ride Friday's run. Hold 2–3 for Monday
+- **The upgrade:** ~18–20 breakfast burritos from **Creekside Market** *(Psilos, order by 9/16 — (307) 733-7926)*, picked up **Sunday 6:35 AM** with the lunch subs. Their deli closes at 5 PM, so it can't ride Friday's run. Hold 2–3 for Monday
 
 ## Groceries
 
@@ -55,4 +57,4 @@ Two runs, and that's the whole plan:
 - **Downtown quick hits:** Pearl Street sloshie, Jackson Drug shake, The Verge (liquor store in front, dive bar in back)
 - **Cheap and good:** Pica's Taqueria (cash only), Thai Me Up, Merry Piglets
 - **Breakfast, if anyone's up early:** Persephone Bakery, Nora's Fish Creek Inn (cash only), The Bunnery — the Bunnery is a **Monday** option, not a Friday one
-- 🚫 **Not running while we're there:** Jackson Hole Rodeo (ends Sep 7), Saturday farmers market (we're in Yellowstone), Snow King concerts (summer only)
+- 🚫 **Not running while we're there:** Jackson Hole Rodeo (ends Sep 7), Saturday farmers market, Snow King concerts (summer only)

@@ -13,7 +13,7 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 | **Cutty's** | Friday lunch, 13 heads | (307) 201-1079 · 1140 W WY-22 |
 | **Sidewinders** | Friday dinner — **no reservations** | (307) 734-5766 · 945 W Broadway |
 | **Yellowstone roads** | Recorded status, no data needed | **(307) 344-2117** · or text **82190** to **888-777** |
-| **Creekside Market** | Sat subs + burritos, 6:35 AM pickup | (307) 733-7926 · 545 N Cache |
+| **Creekside Market** | Sun subs + burritos, 6:35 AM pickup | (307) 733-7926 · 545 N Cache |
 | **St. John's Health** | Nearest 24-hr ER | 625 E Broadway, Jackson — ~25 min from the house |
 | **American Airlines** | Flight problems | (800) 433-7300 + the app |
 | **Drewes** | Money | @DrewesPT on Venmo |
@@ -35,7 +35,7 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 
 - **Hit the rental counter before baggage claim** — the line builds fast off a full flight
 - **Pack soft.** Duffels compress into a loaded cargo area; hard rollers don't. Thursday and Monday are the tight legs
-- **Gas up in Jackson**, not in the parks. Saturday is ~230 miles round trip — start full
+- **Gas up in Jackson**, not in the parks. Sunday is ~230 miles round trip — start full
 
 ### Drive times from the house
 
@@ -45,7 +45,7 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 | House → downtown Jackson | ~20 min |
 | House → **945 W Broadway** (Friday) | ~20 min |
 | House → Dornan's (Moose) | ~35 min *(+ up to 20 min of construction at the Moose junction)* — not on the plan; Thursday's stop is JAC → Dornan's, ~12 min |
-| House → Schwabacher Landing | ~45 min |
+| House → **Jenny Lake** | **~50 min** *(Saturday's hike)* |
 | House → **Yellowstone South Entrance** | **~1 hr 30** |
 | South Entrance → Old Faithful | ~1 hr 15 |
 | Old Faithful → the house | ~2 hrs 30 |
@@ -72,7 +72,7 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 
 - **No reservation needed** for either park in 2026 — drive up and pay
 - **$35/vehicle, 2 vehicles, 2 parks = ~$140.** Nobody owns an America the Beautiful pass
-- 🧾 **Each $35 is good 7 days — keep the receipt on the dash.** Saturday's Grand Teton fee at the Moran station covers Sunday's drive
+- 🧾 **Each $35 is good 7 days — keep the receipt on the dash.** Saturday's Grand Teton fee (Jenny Lake) covers Sunday's drive back through the park to Yellowstone's South Entrance — Yellowstone's own $35 is a separate fee
 - Yellowstone's 2026 construction is at the **North and Northeast** entrances, not our South Entrance
 
 ---
@@ -81,7 +81,7 @@ No cell service in the parks. One guy prints it; everyone else takes a photo.
 
 - **St. John's Health, 625 E Broadway, Jackson** — 24-hr ER, ~25 min. Write it down
 - 🐻 **Bear spray:** 2 canisters rented at the **Bear Aware kiosk, JAC baggage claim #3** on arrival (~$56 total), returned to the after-hours box Monday. **You can't fly with it**, which is why we rent. Smith's and Albertsons stock it if the kiosk is out. RMR also mentioned having some at the office (pickup ~3:40 PM Thu) — unconfirmed count/cost, treat as backup, not a replacement
-- ❄️🔥 **Check Yellowstone road status Friday night and 6 AM Saturday** — text **82190** to **888-777**, or call **(307) 344-2117**. **Craig Pass** especially, and check **fire and smoke**, not just snow. Fire danger is high this year. If Craig Pass is shut, swap Saturday to Grand Teton (Jenny Lake, Signal Mountain, Mormon Row)
+- ❄️🔥 **Check Yellowstone road status Saturday night and 6 AM Sunday** — text **82190** to **888-777**, or call **(307) 344-2117**. **Craig Pass** especially, and check **fire and smoke**, not just snow. Fire danger is high this year. If Craig Pass is shut, swap Sunday to Grand Teton (Signal Mountain, String Lake)
 - **No cell service in Yellowstone** — download offline maps first. There's usually a signal in the Old Faithful developed area and nowhere in between
-- 🦌 **Elk are on the road at dawn** both park mornings. That's the real hazard, not the clock
+- 🦌 **Elk are on the road at dawn Sunday morning.** That's the real hazard, not the clock
 - **911** for emergencies; rangers at any visitor center

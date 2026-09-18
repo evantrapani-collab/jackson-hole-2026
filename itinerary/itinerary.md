@@ -46,7 +46,24 @@
 
 ---
 
-## Saturday, Sep 19 — Yellowstone + LSU 🏈
+## Saturday, Sep 19 — Teton Hike + LSU 🏈
+
+| Time | Where |
+|---|---|
+| **8:00 AM** | Leave the house — WY-390 → WY-22 → US-26/89/191 through Jackson (Moose-Wilson's closed), ~50 min |
+| ~8:50 | **Jenny Lake, East Boat Dock** — buy round-trip shuttle tickets ($18/adult), no reservation. Boats run every 10–15 min, **9 AM–5 PM** |
+| **9:00** | Boat to the **West Dock** |
+| 9:15–1:00 | **Hike: Hidden Falls → Inspiration Point → Cascade Canyon to the forks and back** — ~9 mi round trip, ~1,100 ft gain. Boots, bear spray, layers |
+| ~1:15 | Boat back to the East Dock |
+| ~2:05 | Home. Shower, light the grill — **13 × 24 oz is two batches**, rest batch one in a 200°F oven |
+| **5:30 PM** | **LSU vs. Ole Miss** (6:30 CT, ABC). Steak night; Psilos has the tongs |
+
+- 🚧 Moose-Wilson is closed — same detour as every other park drive this trip
+- 🎫 Grand Teton's entrance fee gets paid here (7-day pass) — covers Sunday's drive back through the park to Yellowstone
+
+---
+
+## Sunday, Sep 20 — Yellowstone + Saints 🏈
 
 > **Don't try to "do" Yellowstone** — it's ~2 hrs 45 each way to Old Faithful. Three stops, then out.
 
@@ -54,34 +71,19 @@
 |---|---|
 | **6:15 AM** | Roll out, breakfast sandwiches in hand |
 | ~6:35 | 🥪 **Creekside Market, 545 N Cache** — the pre-ordered subs + burritos. On the route, deli opens 6:00. ~10 min. **Don't wait past 6:55** |
-| ~7:55 | **South Entrance** — pay $35/vehicle (good 7 days, keep the receipt) |
+| ~7:55 | **South Entrance** — pay $35/vehicle (separate from Saturday's Grand Teton fee; good 7 days, keep the receipt) |
 | ~9:15–10:25 | **Grand Prismatic overlook** via the **Fairy Falls trailhead** — 1.6 mi round trip on foot, boots on. Do this *first*; skip the boardwalk at Grand Prismatic itself |
 | ~10:30–12:30 | **Old Faithful** — check the posted eruption time, walk the Upper Geyser Basin loop |
 | ~1:10 PM | **West Thumb** — geysers on the lake, and where the subs get eaten at the picnic tables |
 | **2:00 PM** | 🕐 **Wheels rolling south. No exceptions** |
-| ~3:50 | Home. Shower, light the grill — **13 × 24 oz is two batches**, rest batch one in a 200°F oven |
-| **5:30 PM** | **LSU vs. Ole Miss** (6:30 CT, ABC). Steak night; Psilos has the tongs |
+| ~3:50 | Home |
+| ~4:00–4:45 | 🚡 **Aerial Tram + Corbet's Cabin waffles**, optional — walkable from the house, ~$55 at the window. **Last ride down is 5:00** — go straight up, no lingering |
+| ~6:00 | **Dinner at the Mangy Moose** — walkable, restaurant runs 5:00–9:30. Last night, no drive, no DD. *Teton Thai is closed Sundays; the Handle Bar (11–9) is the other Village option* |
 
+- **Saints @ Ravens kicks off at 11:00 AM (noon CT, CBS) while you're at Old Faithful.** No cell service past the gate — no live coverage, catch it after
 - 🦌 **The first hour is dark, through the elk rut.** Animals are on US-26/89/191 at that hour — that's the real hazard, not the schedule
-- ❄️🔥 **Check Craig Pass before you roll** — text **`82190` to `888-777`** for park road alerts, or call **(307) 344-2117** (both work without data). Friday night and again at 6 AM. It's the first road to close for snow, we cross it twice, and smoke is the likelier September problem. **If it's closed, don't drive north** — swap to a Grand Teton morning (Jenny Lake, Signal Mountain, Mormon Row), an hour closer
+- ❄️🔥 **Check Craig Pass before you roll** — text **`82190` to `888-777`** for park road alerts, or call **(307) 344-2117** (both work without data). Saturday night and again at 6 AM. It's the first road to close for snow, we cross it twice, and smoke is the likelier September problem. **If it's closed, don't drive north** — swap to a Grand Teton morning (Signal Mountain, String Lake), an hour closer
 - 🎧 **Shaka Guide's Yellowstone tour** narrates this exact loop and works offline. Download it first — no cell service past the gate
-
----
-
-## Sunday, Sep 20 — Wildlife Drive + Saints 🏈
-
-**Optional, and one SUV takes it.** Whoever's up goes; everyone else sleeps in and meets at the house for kickoff. Hardie or Schick drives — take a bear spray, leave the other canister at the house.
-
-| Time | Where |
-|---|---|
-| **6:45 AM** | Leave. Sunrise is 7:08, and it's a drizzly overcast morning — **no alpenglow to chase**, so the animals are the point, not the light |
-| ~7:30 | **Schwabacher Landing** — beaver ponds mirroring the Tetons. Last mile is dirt, take it slow |
-| ~8:15 | **Oxbow Bend** — moose, elk, bugling bulls. Past the Moran station; Saturday's receipt covers it |
-| ~9:00 | **Mormon Row / Antelope Flats** — bison against the Tetons, on the way home |
-| ~9:45 | Home, with an hour to spare before kickoff |
-| **11:00 AM** | **Saints @ Ravens** (noon CT, CBS) — at the house |
-| ~2:30 | 🚡 **Aerial Tram + Corbet's Cabin waffles** — walkable from the house, ~$55 at the window. **Last ride down is 5:00**, so there's no rush |
-| ~6:00 | **Dinner at the Mangy Moose** — walkable, restaurant runs 5:00–9:30. No drive, no DD on the last night. *Teton Thai is closed Sundays; the Handle Bar (11–9) is the other Village option* |
 
 ---
 
@@ -99,6 +101,6 @@
 - 🚧 **Moose-Wilson closed Sep 8 – Nov 15.** Every park drive goes WY-390 → WY-22 → US-26/89/191 through Jackson. **Moose junction construction adds up to 20 min** to Thursday's Dornan's run
 - 🎨 **Fall Arts Festival runs through Sep 20** — town is full. QuickDraw owns Town Square Saturday 8 AM–1 PM; we're gone by 6:15
 - **Park entry:** $35/vehicle at the gate, no reservation needed, good for 7 days. ~$140 all in
-- **Drive times from the house:** Yellowstone South Entrance ~1 hr 30 · Old Faithful ~2 hr 45 · Schwabacher ~45 min · Dornan's ~35 min · JAC ~30–35 min
+- **Drive times from the house:** Yellowstone South Entrance ~1 hr 30 · Old Faithful ~2 hr 45 · Jenny Lake ~50 min · Dornan's ~35 min · JAC ~30–35 min
 - **Weather scrub?** Town (brewery / Cowboy Bar) or the **National Museum of Wildlife Art**
 - **Nearest ER:** St. John's Health, 625 E Broadway, Jackson (~25 min, 24 hr)
