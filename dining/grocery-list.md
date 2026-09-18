@@ -2,7 +2,7 @@
 
 **Owner: Psilos.** 🚚 **Delivery to the house 5:00–7:00 PM Thursday** + 🚗 **one store run Friday evening** for the ribeyes and ice.
 
-**Only three meals are at the house:** Saturday's steaks, Sunday's game spread, and two pre-dawn breakfasts. Everything else is out. So this is mostly drinks, snacks and one big pile of meat.
+**Only three meals are at the house:** Saturday's steaks, Sunday's spread, and a pre-dawn breakfast. Everything else is out. So this is mostly drinks, snacks and one big pile of meat.
 
 **≈ $1,040 · ~$80/person**
 
@@ -24,13 +24,13 @@
 - [ ] **Kosher salt, coarse pepper, garlic powder, butter** — the house won't have enough for 13 steaks
 - [ ] **Sides — potatoes and a few bagged salads.** Don't overthink it
 
-### 🏈 Sunday game spread
+### 🏈 Sunday spread (back from Yellowstone, before Mangy Moose)
 
 - [ ] **Wings, 10 lb** + **sausage, 3 lb** + buns
 - [ ] **Chips, dip, salsa** — 4 of each
 - [ ] Condiments — mayo, mustard, ketchup, hot sauce, BBQ + wing sauce
 
-### ☕ Breakfast (both starts are before dawn)
+### ☕ Breakfast (Sunday's 6:15 start)
 
 - [ ] **Frozen breakfast sandwiches, ~30**
 - [ ] **Coffee, 3 lb** + filters — buy more than feels right, and check if the house is drip or Keurig

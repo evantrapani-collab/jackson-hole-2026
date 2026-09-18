@@ -65,18 +65,18 @@ current 19 pins — skip those.
 
 ## Grand Teton NP
 
-- [ ] [Grand Teton — Moose / Visitor Center](https://www.google.com/maps/search/?api=1&query=Craig+Thomas+Discovery+and+Visitor+Center%2C+Moose%2C+WY) — South park gateway; near Dornan's & Schwabacher.
-- [ ] [Jenny Lake](https://www.google.com/maps/search/?api=1&query=Jenny+Lake%2C+Grand+Teton+National+Park%2C+WY) _(already in your list)_ — Loop trail; get there before 8 AM.
-- [ ] [Hidden Falls & Inspiration Point](https://www.google.com/maps/search/?api=1&query=Inspiration+Point%2C+Grand+Teton+National+Park%2C+WY) — Waterfall + panorama off Jenny Lake.
-- [ ] [Cascade Canyon Trailhead](https://www.google.com/maps/search/?api=1&query=Cascade+Canyon+Trailhead%2C+Grand+Teton%2C+WY) — To Lake Solitude; best fall colors.
+- [ ] [Grand Teton — Moose / Visitor Center](https://www.google.com/maps/search/?api=1&query=Craig+Thomas+Discovery+and+Visitor+Center%2C+Moose%2C+WY) — South park gateway; near Dornan's.
+- [ ] [Jenny Lake](https://www.google.com/maps/search/?api=1&query=Jenny+Lake%2C+Grand+Teton+National+Park%2C+WY) _(already in your list)_ — East Boat Dock — shuttle runs 9 AM-5 PM through Sep 30, every 10-15 min, no reservation, $18/adult round trip.
+- [ ] [Hidden Falls & Inspiration Point](https://www.google.com/maps/search/?api=1&query=Inspiration+Point%2C+Grand+Teton+National+Park%2C+WY) — Waterfall + panorama off the West Dock — first stretch of Saturday's hike.
+- [ ] [Cascade Canyon Trailhead](https://www.google.com/maps/search/?api=1&query=Cascade+Canyon+Trailhead%2C+Grand+Teton%2C+WY) — Hike in to the forks and back (~9 mi RT from the West Dock) — turn around there, Lake Solitude is a full day on its own.
 - [ ] [Taggart Lake Trailhead](https://www.google.com/maps/search/?api=1&query=Taggart+Lake+Trailhead%2C+Grand+Teton%2C+WY) — Taggart & Bradley Lakes loop.
 - [ ] [Death Canyon Trailhead](https://www.google.com/maps/search/?api=1&query=Death+Canyon+Trailhead%2C+Grand+Teton%2C+WY) — Dramatic canyon walls.
 - [ ] [Lupine Meadows Trailhead](https://www.google.com/maps/search/?api=1&query=Lupine+Meadows+Trailhead%2C+Grand+Teton%2C+WY) — Access for Amphitheater Lake.
 - [ ] [String Lake](https://www.google.com/maps/search/?api=1&query=String+Lake%2C+Grand+Teton+National+Park%2C+WY) — Calm paddling; no motors.
-- [ ] [Oxbow Bend](https://www.google.com/maps/search/?api=1&query=Oxbow+Bend%2C+Grand+Teton+National+Park%2C+WY) — Moose/elk + classic Teton reflection.
-- [ ] [Schwabacher Landing](https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing%2C+Grand+Teton+National+Park%2C+WY) — Sunday's first stop, ~7:30. ~45 min from the house (Moose-Wilson is closed). Last mile is dirt.
-- [ ] [Mormon Row Historic District](https://www.google.com/maps/search/?api=1&query=Mormon+Row+Historic+District%2C+WY) — Barns + bison against the Tetons.
-- [ ] [Antelope Flats Road](https://www.google.com/maps/search/?api=1&query=Antelope+Flats+Road%2C+Grand+Teton%2C+WY) — Pronghorn, bison, coyotes.
+- [ ] [Oxbow Bend](https://www.google.com/maps/search/?api=1&query=Oxbow+Bend%2C+Grand+Teton+National+Park%2C+WY) — Moose/elk + classic Teton reflection. Cut — Sunday became the Yellowstone day.
+- [ ] [Schwabacher Landing](https://www.google.com/maps/search/?api=1&query=Schwabacher+Landing%2C+Grand+Teton+National+Park%2C+WY) — Beaver ponds mirroring the Tetons. Cut — Sunday became the Yellowstone day.
+- [ ] [Mormon Row Historic District](https://www.google.com/maps/search/?api=1&query=Mormon+Row+Historic+District%2C+WY) — Barns + bison against the Tetons. Cut — Sunday became the Yellowstone day.
+- [ ] [Antelope Flats Road](https://www.google.com/maps/search/?api=1&query=Antelope+Flats+Road%2C+Grand+Teton%2C+WY) — Pronghorn, bison, coyotes. Cut — Sunday became the Yellowstone day.
 - [ ] [Moose-Wilson Road](https://www.google.com/maps/search/?api=1&query=Moose-Wilson+Road%2C+Grand+Teton%2C+WY) — 🚫 CLOSED Sep 8 - Nov 15, 2026 (NPS Phase II construction) between the Rockefeller Preserve and Moose. Cut from Sunday's loop — and it's why every park drive now goes the long way through Jackson.
 - [ ] [Jackson Lake Lodge (Willow Flats)](https://www.google.com/maps/search/?api=1&query=Jackson+Lake+Lodge%2C+WY) — Moose hotspot at Willow Flats.
 - [ ] [Jackson Hole Aerial Tram](https://www.google.com/maps/search/?api=1&query=Jackson+Hole+Aerial+Tram%2C+Teton+Village%2C+WY) — ✅ Running May 16-Oct 4, 2026, 8:30-5. Rendezvous Mtn summit (10,450 ft); Corbet's waffles up top. ~$55/person, bought at the window on the day — nothing in advance. Walkable from the house.
@@ -89,7 +89,7 @@ current 19 pins — skip those.
 - [ ] [Old Faithful](https://www.google.com/maps/search/?api=1&query=Old+Faithful%2C+Yellowstone+National+Park%2C+WY) _(already in your list)_ — Check predicted eruption (~90-min cycle).
 - [ ] [Grand Prismatic Spring](https://www.google.com/maps/search/?api=1&query=Grand+Prismatic+Spring%2C+Yellowstone%2C+WY) _(already in your list)_ — The boardwalk. If you do the overlook, you can skip going close to it.
 - [ ] [Fairy Falls Trailhead (overlook)](https://www.google.com/maps/search/?api=1&query=Fairy+Falls+Trailhead%2C+Yellowstone%2C+WY) — Grand Prismatic overlook — do this FIRST, then skip the boardwalk below. It's a HIKE: 0.8 mi each way, ~1 hr for 13 guys. Small lot, fills early.
-- [ ] [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Last stop + cooler lunch at the picnic tables. HARD RULE: wheels rolling south by 2:00 PM — it's ~1 hr 50 back to the house and kickoff is 5:30.
+- [ ] [West Thumb Geyser Basin](https://www.google.com/maps/search/?api=1&query=West+Thumb+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Last stop + cooler lunch at the picnic tables. HARD RULE: wheels rolling south by 2:00 PM. Saints game (11 AM MT) happens while you're in the park — no cell service, no live coverage.
 - [ ] [Emerald Spring (Norris)](https://www.google.com/maps/search/?api=1&query=Emerald+Spring%2C+Norris+Geyser+Basin%2C+Yellowstone%2C+WY) — Jeremy's favorite pool — but it's Norris, well past our 2:00 PM West Thumb turnaround.
 - [ ] [Norris Geyser Basin](https://www.google.com/maps/search/?api=1&query=Norris+Geyser+Basin%2C+Yellowstone%2C+WY) _(already in your list)_ — Hottest, most active; Steamboat Geyser. Too far for our Sat window.
 - [ ] [Mammoth Hot Springs](https://www.google.com/maps/search/?api=1&query=Mammoth+Hot+Springs%2C+Yellowstone%2C+WY) _(already in your list)_ — Travertine terraces (far north). Too far for our Sat window.

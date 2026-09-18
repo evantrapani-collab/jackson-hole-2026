@@ -4,13 +4,13 @@
 
 ## Clothes
 
-- [ ] **Puffy jacket** — both park mornings start in the 30s, in the dark, standing still. The one you'll be glad you brought
+- [ ] **Puffy jacket** — park mornings start in the 30s, standing still (Sunday's is also in the dark). The one you'll be glad you brought
 - [ ] **Rain shell**
 - [ ] Fleece or hoodie
 - [ ] T-shirts + a long-sleeve
 - [ ] Hiking pants + shorts
 - [ ] Wool or synthetic socks — **no cotton**
-- [ ] **Boots, broken in** — Saturday is a 1.6-mile walk to the Prismatic overlook
+- [ ] **Boots, broken in** — Saturday's Teton hike is ~9 miles, Sunday's Prismatic walk is 1.6
 - [ ] Sneakers
 - [ ] One decent outfit for dinners in town
 - [ ] Beanie, ball cap, sunglasses, gloves
@@ -25,7 +25,7 @@
 
 ## Gear
 
-- [ ] **Headlamp** — Saturday's 6:15 roll-out is in the dark
+- [ ] **Headlamp** — Sunday's 6:15 roll-out is in the dark
 - [ ] Daypack + water bottle
 - [ ] Battery pack + car charger
 - [ ] Sunscreen and SPF lip balm — altitude sun is intense
